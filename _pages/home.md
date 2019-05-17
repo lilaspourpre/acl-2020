@@ -1,5 +1,5 @@
 ---
-title: "2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics"
+title: "2020 Annual Conference of the Association for Computational Linguistics"
 layout: splash
 permalink: /
 header:
@@ -34,7 +34,7 @@ excerpt: "<br/><br/>"
 
 <h2>Welcome!</h2>
 
-The Association for Computational Linguistics (ACL) invites you to participate in the 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT) in Minneapolis, USA. NAACL-HLT 2019 will be held at the [Hyatt Regency](https://www.hyatt.com/en-US/hotel/minnesota/hyatt-regency-minneapolis/msprm) in Minneapolis from June 2nd through 7th, 2019. The social event will be held on Tuesday, June 4th at the [Minneapolis Institute of Art](https://new.artsmia.org/). We will update this website with more information as it becomes available.
+The Association for Computational Linguistics (ACL) invites you to participate in the 2020 Annual Conference of the Association for Computational Linguistics: Human Language Technologies in Seattle, USA. ACL 2020 will be held at the [Hyatt Regency](https://www.hyatt.com/en-US/hotel/minnesota/hyatt-regency-minneapolis/msprm) in Minneapolis from June 2nd through 7th, 2019. The social event will be held on Tuesday, June 4th at the [Minneapolis Institute of Art](https://new.artsmia.org/). We will update this website with more information as it becomes available.
 
 <h2 id="dates">Important Dates</h2>
 
@@ -118,5 +118,5 @@ The SoftConf submission links for the each of the conference tracks are listed b
 - <a target="_blank" href="https://www.softconf.com/naacl2019/demos">System Demonstrations</a>
 - <a target="_blank" href="https://www.softconf.com/naacl2019/srw">Student Research Workshop</a>
 
-<h2>NAACL-HLT 2019 Anti-Harassment Policy</h2>
+<h2>ACL 2020 Anti-Harassment Policy</h2>
 NAACL-HLT 2019 adheres to the <a href="https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy">ACL Anti-Harassment Policy</a>. Any participant who experiences harassment or hostile behavior may contact any current member of the <a href="https://www.aclweb.org/portal/about">ACL Executive Committee</a> or contact <a href="mailto:acl@aclweb.org">Priscilla Rasmussen</a>, who is usually available at the registration desk of the conference. Please be assured that if you approach us, your concerns will be kept in strict confidence, and we will consult with you on any actions taken.

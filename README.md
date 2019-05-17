@@ -1,8 +1,8 @@
-# NAACL-HLT 2019 official website
+# ACL 2020 official website
 
-This is the code for the official website for the 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT).
+This is the code for the official website for the 2020 Annual Conference of the Association for Computational Linguistics. It was forked from the [official NAACL 2019 website repository](https://github.com/naacl-org/naacl-hlt-2019).
 
-It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
+Just like NAACL 2019, this repo is currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
 
 You can test this website locally on macOS as follows:
 
@@ -17,7 +17,7 @@ You can test this website locally on macOS as follows:
 
 The MIT License (MIT)
 
-Copyright (c) 2018 Association for Computational Linguistics.
+Copyright (c) 2019 Association for Computational Linguistics.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -14,20 +14,20 @@ minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "NAACL-HLT 2019"
+title                    : "ACL 2020"
 title_separator          : "-"
-name                     : "NAACL"
-description              : "Official website for the 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
-url                      : "https://naacl2019.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "ACL"
+description              : "Official website for the 2020 Annual Conference of the Association for Computational Linguistics"
+url                      : "https://acl2020.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "naacl-org/naacl-hlt-2019" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "acl-org/acl-2020" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus"
+  provider               : ""
   disqus:
-    shortname            : "naacl2019"
+    shortname            : ""
 reCaptcha:
   siteKey                :
   secret                 :
@@ -52,9 +52,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : naaclhlt
+  username               : aclmeeting
 facebook:
-  username               : naaclhlt
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -67,9 +67,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-universal" # false (default), "google", "custom"
+  provider               : "" # false (default), "google", "custom"
   google:
-    tracking_id          : UA-123579360-1
+    tracking_id          : 
     anonymize_ip         : # true, false (default)
 
 
