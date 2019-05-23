@@ -1,7 +1,7 @@
 ---
 title: Registration
 layout: single
-excerpt: "NAACL 2019 Conference Registration."
+excerpt: "ACL 2020 Conference Registration."
 permalink: /registration/
 sidebar: false
 
@@ -10,7 +10,7 @@ sidebar: false
 
 <!-- {% include toc icon="gears" %} -->
 
-Registration is now open! We are pleased to announce that we are able to maintain the same registration fees as in 2016 and 2018! 
+<!--Registration is now open! We are pleased to announce that we are able to maintain the same registration fees as in 2016 and 2018! 
 
 <div class="text-center">
     <a href="https://aclweb.org/conference/naacl-hlt-2019-conference-registration/" target="_blank" class="btn btn--primary">Register Now</a>
@@ -129,3 +129,4 @@ Note that:
 - Anyone cancelling within three weeks prior to the conference and all no-shows will not be refunded any amount. They will be able to retain the current full year ACL membership (if paid as part of the registration).
 
 - Anyone cancelling due to governmental travel restrictions, failure to obtain a visa, or serious illness that prevents travel to the conference will be refunded the full amount paid regardless of when the notification is received by the ACL Office.
+-->

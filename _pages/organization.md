@@ -1,7 +1,7 @@
 ---
 title: Organizing Committee
 layout: single
-excerpt: "NAACL 2019 organizing committee."
+excerpt: "ACL 2020 organizing committee."
 permalink: /organization
 sidebar: false
 ---

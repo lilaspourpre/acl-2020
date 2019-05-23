@@ -20,9 +20,11 @@ socialmaps:
     title: "Minneapolis Museum of Art : Map of 3rd Floor"
 ---
 
-## About Minneapolis
+## About Seattle
 
-Minneapolis is considered to be one of the safest big cities in the country. Ease of transportation, pedestrian and bike friendly access is abundant, and with over 40,000 people living downtown, that is a natural vibrancy within the city throughout regardless of time of year. 
+(to be updated)
+
+<!--Minneapolis is considered to be one of the safest big cities in the country. Ease of transportation, pedestrian and bike friendly access is abundant, and with over 40,000 people living downtown, that is a natural vibrancy within the city throughout regardless of time of year. 
  
 That said, as with anywhere you travel, being aware of your surroundings and not being careless with your belongings is suggested. In June, there is typically a baseball game or Minnesota Lynx (WNBA) game taking place in the evening in the warehouse district and most shopping/restaurants are open and active well into the evening. It stays light out until about 9:00pm at that time of year with dusk lasting until near 9:30/10:00pm. 
 
@@ -33,14 +35,14 @@ You can find various local attractions [here](https://www.hyatt.com/en-US/hotel/
 Here are [some](https://www.minneapolis.org/food-drink/restaurants/cheap-eats/) [places](https://www.minneapolis.org/food-drink/restaurants/) for Lunch and Dinner.
  
 And, check out the very popular food trucks parked around downtown Minneapolis!  They usually set up on Marquette Avenue about 6-7 blocks from the Hyatt Regency, heading towards Nicollet Mall.
-
-## Welcome Reception
+-->
+<!--## Welcome Reception
 
 A Welcome Reception will be held on Sunday, June 2nd from 6:00pm to 8:00pm.
 
 Join us in the Nicollet Ballroom of the Hyatt Regency Hotel (the conference venue) where you can meet and make new friends and catch up with your colleagues.  Light food and refreshments will be served.
-
-## Social Event
+-->
+<!--## Social Event
 
 The NAACL 2019 Social Event will be held on Tuesday, June 4th, from 7:00 pm to 10:00 pm at [The Minneapolis Institute of Art](https://new.artsmia.org/about/).
 
@@ -199,4 +201,4 @@ You may also bring other documentation that will help you answer the interviewer
 **Is it safe to go ahead and register for the conference before I have a visa?**
 
 Yes. If your visa application is denied, you are entitled to [request](mailto:office@aclweb.org) a full refund of your conference registration fees.  
-
+-->
