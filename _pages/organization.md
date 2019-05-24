@@ -23,7 +23,7 @@ Agata Savary, University of Tours, France<br/>
 Yue Zhang, Westlake University
 
 <h3>Workshop Chairs</h3>
-Milica Gašić, University of Cambridge <br/>
+Milica Gašić,  Heinrich Heine University Düsseldorf<br/>
 Saif M. Mohammad, National Research Council Canada
 
 <h3>Student Research Workshop Organizers</h3>
@@ -44,7 +44,7 @@ Shawn Wen, PolyAI
 
 <h3>Diversity &amp; Inclusion Co-Chairs</h3>
 Barbara Plank, IT University of Copenhagen<br/>
-Vinod Prabhakaran, Google
+Vinodkumar Prabhakaran, Google
 
 <h3>Local Sponsorshop Chairs</h3>
 Hoifung Poon, Microsoft <br/>
