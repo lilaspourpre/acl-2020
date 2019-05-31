@@ -26,8 +26,11 @@ Yue Zhang, Westlake University
 Milica Gašić,  Heinrich Heine University Düsseldorf<br/>
 Saif M. Mohammad, National Research Council Canada
 
-<h3>Student Research Workshop Organizers</h3>
-<i>(to be decided)</i>
+<h3>Student Research Workshop Chairs</h3>
+Shruti Rijhwani, Carnegie Mellon University<br/>
+Rotem Dror, Technion - Israel Institute
+of Technology<br/>
+Jiangming Liu, The University of Edinburgh
 
 <h3>Faculty Advisors to the Student Research Workshop</h3>
 Omri Abend, Hebrew University of Jerusalem<br/>
