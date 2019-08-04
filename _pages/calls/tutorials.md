@@ -16,7 +16,7 @@ the Conference on Empirical Methods in Natural Language Processing (EMNLP) and t
  
 Similar to the call for  2019, we invite proposals for two types of tutorials:
 
-1. **Cutting-edge**: tutorials that cover advances in newly emerging areas not previously covered in any ACL/EMNLP/NAACL/EACL/COLING related tutorial (see the list of tutorials in the past 4 years).
+1. **Cutting-edge**: tutorials that cover advances in newly emerging areas not previously covered in any ACL/EMNLP/NAACL/EACL/COLING related tutorial (see the [list of tutorials](https://www.aclweb.org/adminwiki/index.php?title=Past_tutorials) in the past 4 years).
 
 2. **Introductory**: tutorials that provide introductions to related fields that are potentially relevant for the computational linguistics community (e.g., linguistics, bioinformatics, social media, machine learning techniques).
 
