@@ -61,10 +61,12 @@ Proposals should follow the ACL 2019 paper submission [format](http://www.acl201
 - A note specifying which venue(s) (ACL/AACL-IJCNLP/EMNLP/COLING) would be acceptable and/or preferable. Include a description of any constraints that might make the tutorial compatible with only one of these events, logistically, thematically, or otherwise.
 - Open access. Do you agree to allow the publication of your slides and video recording of your tutorial in the ACL Anthology? Will other teaching material (data, software, etc., if any) be openly available?
 
-Tutorial proposals for ACL/AACL-IJCNLP/EMNLP/COLING should be submitted online using the START system: 
+Tutorial proposals for ACL/AACL-IJCNLP/EMNLP/COLING should be submitted online using the START system: [https://www.softconf.com/j/acl-tutorials2020](https://www.softconf.com/j/acl-tutorials2020) 
+
+<!--
 <div class="text-center">
-<a href="https://www.softconf.com/j/acl-tutorials2020" target="_blank" class="btn btn--primary">Submit a Proposal</a>
-</div>
+<a href="https://www.softconf.com/j/acl-tutorials2020" target="_blank" class="btn btn-primary">Submit a Proposal</a></div>
+-->
 
 Proposals will be reviewed jointly by the Tutorial Co-Chairs of the four conferences and by a group of external experts.
 

@@ -22,8 +22,8 @@ main:
   # - title: "Sponsors"
   #   url: /sponsors/list/
     
-  # - title: "Calls"
-  #   url: /calls/papers
+  - title: "Calls"
+    url: /calls/tutorials
 
 
 calls:
