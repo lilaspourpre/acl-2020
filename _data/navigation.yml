@@ -22,8 +22,11 @@ main:
   # - title: "Sponsors"
   #   url: /sponsors/list/
     
-  - title: "Calls"
+  - title: "Tutorial Proposals"
     url: /calls/tutorials
+  
+  - title: "Workshop Proposals"
+    url: /calls/workshops
 
 
 calls:
@@ -35,8 +38,8 @@ calls:
 #         url: /calls/industry/
 #       - title: "System Demonstrations"
 #         url: /calls/demos/
-#       - title: "Workshop Proposals"
-#         url: /calls/workshops/
+       - title: "Workshop Proposals"
+         url: /calls/workshops/
        - title: "Tutorial Proposals"
          url: /calls/tutorials/
       # - title: "Student Research Workshop Papers"
