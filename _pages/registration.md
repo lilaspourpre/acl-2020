@@ -6,19 +6,22 @@ permalink: /registration/
 sidebar: false
 
 ---
-{% include base_path %}
 
 <!-- {% include toc icon="gears" %} -->
 
+<<<<<<< HEAD
 <!--Registration is now open! We are pleased to announce that we are able to maintain the same registration fees as in 2016 and 2018! 
+=======
+Registration is now open! The NAACL 2019 registration fees is shown below and are the same as in 2016 and 2018. Note that both early and late registration ended on April 28, 2019 and May 19, 2019 respectively. You can now only register on site.
+>>>>>>> 400a99b86aa0bf66d0df78d6d04057baccb4a3eb
 
 <div class="text-center">
-    <a href="https://aclweb.org/conference/naacl-hlt-2019-conference-registration/" target="_blank" class="btn btn--primary">Register Now</a>
+    <a href="https://aclweb.org/conference/naacl-hlt-2019-conference-registration/" target="_blank" class="btn btn--primary">Register Onsite Now</a>
 </div>
-
+ 
 Note that: 
-- Early registration is currently open and ends April 28, 2019, 11:59 PM (EDT).<br/>
-- Late registration starts April 29, 2019 and ends May 19, 2019, 11:59 PM (EDT).<br/>
+- Early registration ended April 28, 2019, 11:59 PM (EDT).<br/>
+- Late registration started April 29, 2019 and ended May 19, 2019, 11:59 PM (EDT).<br/>
 - On-site registration begins June 2, 2019.
 - If you have any other questions about registration, please contact [acl@aclweb.org](mailto:acl@aclweb.org).
 

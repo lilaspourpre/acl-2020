@@ -4,6 +4,7 @@ layout: single
 permalink: /participants/
 sidebar: false
 toc: true
+toc_sticky: true
 toc_icon: "cog"
 socialmaps:
   - url: "/assets/images/minneapolis/mia-map-1st-floor.png"
@@ -68,7 +69,6 @@ To get to the event, catch one of the luxury motor coaches outside of the Hyatt 
 
 One entrance ticket will be included with each main conference registration. We may have a few extra tickets for sale for accompanying persons so, if you are interested, stop by the registration desk when there are no lines.
 
-
 ## Registration Hours
 
 The on-site registration counters will only be open during the following hours:
@@ -76,7 +76,6 @@ The on-site registration counters will only be open during the following hours:
 - Sunday, June 2 &ndash; Tuesday, June 4 : 7:30am - 6:00pm
 - Wednesday, June 5 : 8:00am - 5:30pm
 - Thursday, June 6 &ndash; Friday, June 7 : 7:30am - 5:30pm 
-
 
 ## Poster Information
 
@@ -90,6 +89,18 @@ To join the conference wifi:
 - Enter `NAACL2019` and hit go.
  
 If you experience any problems, please call Encore at 612-596-4673 for technical support.
+
+## Live Captioning
+
+For the main conference talks, you can view automatically generated captions on your personal device, in English and/or the language of your choice.  This may help you to follow a talk better. Click [here](/captions) for more details.
+
+## Conference App
+
+This year, the conference is using the Whova platform for the official NAACL-HLT 2019 app! The Whova apps can be downloaded from <a href="https://whova.com/portal/naacl_201906/?source=download_page" target="blank_">this page</a>. To learn how to use the apps effectively, refer to the <a href="https://whova.com/resources/how-to-guide/user-tutorial/" target="blank_">Whova tutorials page</a>.
+
+Once you have downloaded the app, search for the "NAACL HLT 2019" event. If you have registered for the conference and/or you are an author of a paper, you should already be able to access the event. If you are unable to access the event but believe you should be able to, please send an access request along with a reason through the Whova app itself.
+
+Although the current version of the app is fairly stable, it will continue to be updated up until and even during the conference with some minor new features and to address any issues that are discovered. If you notice any issue yourself, please send a message to the App Chair ("Nitin Madnani") from within the app. That's likely to be the fastest way to get it fixed. 
 
 ## Remote Presentation
 

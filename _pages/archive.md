@@ -6,7 +6,24 @@ sidebar: false
 toc: false
 toc_icon: "cog"
 ---
-{% include base_path %}
+
+**June 1, 2019**. Thanks to Microsoft Translator, participants can view automatically generated captions for talks! More details [here](/captions/).
+{: .notice}
+
+**May 31, 2019**. Read about this year's industry track in a [new blog post](/blog/industry-track-vol2/).
+{: .notice}
+
+**May 30, 2019**. NAACL 2019 will be [officially livetweeted](/blog/livetweet-sign-up/) this year! Expand the parallel tracks in the conference [schedule](/schedule/) to see who's live-tweeting your favorite sessions! (<i class="fa fa-user"></i> : Session Chair, <i class="fab fa-twitter"></i> : LiveTweeter).
+{: .notice}
+
+**May 16, 2019**. The official conference [schedule](/schedule/) is now out!
+{: .notice}
+
+**May 13, 2019**. Hyatt Regency has extended the deadline to book [ACL-discounted](/participants/#accommodation) rooms to May 19! If you haven't booked yet, [do so now](https://www.hyatt.com/en-US/group-booking/MSPRM/G-CMPL)! 
+{: .notice}
+
+**May 10, 2019**. Panelists for the Careers in NLP panel discussion have been [announced](/program/careerspanel/).
+{: .notice}
 
 (to be updated)
 

@@ -17,6 +17,7 @@ Date: May, 2019
 import argparse
 import csv
 import itertools
+import json
 import logging
 import sys
 
@@ -28,6 +29,20 @@ sys.path.append(str(AGENDA_SUBMODULE_DIR))
 
 from orderfile import Agenda, SessionGroup, Session, Item
 from metadata import ScheduleMetadata
+
+
+def authorlist_to_string(authorlist):
+    """
+    Function to convert a list of author names
+    into a readable string, for example,
+    ['X', 'Y', 'Z'] -> 'X, Y and Z'.
+    """
+    if len(authorlist) > 1:
+        authors = '{} and {}'.format(', '.join(authorlist[:-1]), authorlist[-1])
+    else:
+        authors = authorlist[0]
+
+    return authors
 
 
 class WebAgenda(Agenda):
@@ -73,12 +88,12 @@ class WebAgenda(Agenda):
     session_group_counter = itertools.count(start=1)
     break_session_counter = itertools.count(start=1)
 
-    def __init__(self):
-        super(WebAgenda, self).__init__()
+    def __init__(self, *args):
+        super(WebAgenda, self).__init__(*args)
 
     def to_html(self,
                 metadata,
-                paper_icons=False,
+                pdf_icons=False,
                 video_icons=False,
                 plenary_info={}):
         """
@@ -92,10 +107,9 @@ class WebAgenda(Agenda):
             containing the title, authors,
             abstracts, and anthology URLs for
             each item, if applicable.
-        paper_icons : bool, optional
-            Whether to generate the icons for
-            each of the presentation items linked
-            to the PDF on the anthology.
+        pdf_icons : bool, optional
+            Whether to generate the links to the
+            anthology and other PDFs where appropriate.
             Defaults to `False`.
         video_icons : bool, optional
             Whether to generate the icons for
@@ -110,8 +124,8 @@ class WebAgenda(Agenda):
 
         Returns
         -------
-        agenda_html : str
-            A string containing the schedule HTML.
+        agenda_html : list of str
+            A list of strings for the schedule HTML.
         """
 
         # initialize the agenda HTML with the pre-schedule HTML
@@ -139,7 +153,7 @@ class WebAgenda(Agenda):
                     session_group_html = content.to_html(day,
                                                          metadata,
                                                          session_group_index,
-                                                         paper_icons=paper_icons,
+                                                         pdf_icons=pdf_icons,
                                                          video_icons=video_icons,
                                                          plenary_info=plenary_info)
                     agenda_html.extend(session_group_html)
@@ -153,7 +167,7 @@ class WebAgenda(Agenda):
                     session_html = content.to_html(day,
                                                    metadata,
                                                    index=index,
-                                                   paper_icons=paper_icons,
+                                                   pdf_icons=pdf_icons,
                                                    video_icons=video_icons,
                                                    plenary_info=plenary_info)
                     agenda_html.extend(session_html)
@@ -185,7 +199,7 @@ class WebSessionGroup(SessionGroup):
                 day,
                 metadata,
                 index,
-                paper_icons=False,
+                pdf_icons=False,
                 video_icons=False,
                 plenary_info={}):
         """
@@ -205,10 +219,9 @@ class WebSessionGroup(SessionGroup):
         index : int
             An index to be used in the HTML tags
             for the box representing this session group.
-        paper_icons : bool, optional
-            Whether to generate the icons for
-            each of the presentation items linked
-            to the PDF on the anthology.
+        pdf_icons : bool, optional
+            Whether to generate the links to the
+            anthology and other PDFs where appropriate.
             Defaults to `False`.
         video_icons : bool, optional
             Whether to generate the icons for
@@ -223,8 +236,8 @@ class WebSessionGroup(SessionGroup):
 
         Returns
         -------
-        session_group_html : str
-            A string containing the session group HTML.
+        generated_html : list of str
+            A list of strings for the session group HTML.
         """
 
         # initialize the HTML with a box and header that goes in the HTML
@@ -256,7 +269,7 @@ class WebSessionGroup(SessionGroup):
             session_html = session.to_html(day,
                                            metadata,
                                            index=index,
-                                           paper_icons=paper_icons,
+                                           pdf_icons=pdf_icons,
                                            video_icons=video_icons,
                                            plenary_info=plenary_info)
             generated_html.extend(session_html)
@@ -281,7 +294,7 @@ class WebSession(Session):
                 day,
                 metadata,
                 index=None,
-                paper_icons=False,
+                pdf_icons=False,
                 video_icons=False,
                 plenary_info={}):
         """
@@ -300,10 +313,9 @@ class WebSession(Session):
             each item, if applicable.
         index : int, optional
             An index to be used in some of the HTML tags.
-        paper_icons : bool, optional
-            Whether to generate the icons for
-            each of the presentation items linked
-            to the PDF on the anthology.
+        pdf_icons : bool, optional
+            Whether to generate the links to the
+            anthology and other PDFs where appropriate.
             Defaults to `False`.
         video_icons : bool, optional
             Whether to generate the icons for
@@ -318,15 +330,23 @@ class WebSession(Session):
 
         Returns
         -------
-        session_html : str
-            A string containing the session HTML.
+        generated_html : list of str
+            A list of strings for the session HTML.
         """
         # initialize the result variable
         generated_html = []
 
         # generate the appropriate HTML for each type of session
         if self.type == 'break':
-            generated_html.append('<div class="session session-break session-plenary" id="session-break-{}"><span class="session-title">{}</span><br/><span class="session-time" title="{}">{} &ndash; {}</span></div>'.format(index, self.title, str(day), self.start, self.end))
+            break_html = '<div class="session session-break session-plenary" id="session-break-{}"><span class="session-title">{}</span><br/><span class="session-time" title="{}">{} &ndash; {}</span>'.format(index, self.title, str(day), self.start, self.end)
+
+            # add the loation if we have any
+            if self.location:
+                break_html += '<br/><span class="btn btn--location session-location">{}</span>'.format(self.location)
+
+            # close the div and append to result
+            break_html += '</div>'
+            generated_html.append(break_html)
 
         elif self.type == 'plenary':
 
@@ -348,6 +368,7 @@ class WebSession(Session):
                 if self.title.startswith(session_prefix):
                     (self.abstract,
                      self.person,
+                     self.person_affiliation,
                      self.person_url,
                      self.pdf_url,
                      self.video_url) = plenary_info[session_prefix]
@@ -363,17 +384,27 @@ class WebSession(Session):
             # next to the title
             if self.abstract:
                 session_html += '<div id="expander"></div><a href="#" class="session-title">{}</a><br/>'.format(self.title)
-            # otherwise, no expander, just the title
+            # otherwise, no expander, just the title; if we have a PDF
+            # url (like the slides for plenary sessions) but no abstract
+            # we just make an icon in the title, if we are asked to
             else:
-                session_html += '<span class="session-title">{}</span><br/>'.format(self.title)
-
-            # if we have a person, we need to show it along with the optional URL
-            # as the person's link
-            if self.person:
-                if self.person_url:
-                    session_html += '<span class="session-person"><a href="{}" target="_blank">{}</a></span><br/>'.format(self.person_url, self.person)
+                if pdf_icons and self.pdf_url:
+                    session_html += '<span class="session-title">{}&nbsp;<i class="far fa-file-pdf paper-icon" data="{}" title="PDF"></i></span><br/>'.format(self.title, self.pdf_url)
                 else:
-                    session_html += '<span class="session-person">{}</span><br/>'.format(self.person)
+                    session_html += '<span class="session-title">{}</span><br/>'.format(self.title)
+
+            # if we have a person, we need to show it along with the
+            # optional affiliation and the optional URL as the person's link
+            if self.person:
+                person_name = self.person
+
+                if self.person_affiliation:
+                    person_name += ' ({})'.format(self.person_affiliation)
+
+                if self.person_url:
+                    session_html += '<span class="session-person"><a href="{}" target="_blank">{}</a></span><br/>'.format(self.person_url, person_name)
+                else:
+                    session_html += '<span class="session-person">{}</span><br/>'.format(person_name)
 
             # add the start and end time and location no matter what
             session_html += '<span class="session-time" title="{}">{} &ndash; {}</span><br/><span class="{} btn btn--location">{}</span>'.format(str(day), self.start, self.end, location_type, self.location)
@@ -381,12 +412,12 @@ class WebSession(Session):
             # now add the actual abstract and the PDF and Video links
             # as icons if we have those URLs
             if self.abstract:
-                session_html += '<div class="paper-session-details"><br/><div class="session-abstract"><p>'
-                if self.pdf_url:
-                    session_html += '&nbsp;<i class="fa fa-file-pdf-o paper-icon" data="{}" aria-hidden="true" title="PDF"></i>'.format(self.pdf_url)
-                if self.video_url:
-                    session_html += '&nbsp;<i class="fa fa-file-video-o video-icon" data="{}" title="Video"></i>'.format(self.video_url)
-                session_html += '{}</p></div></div>'.format(self.abstract)
+                session_html += '<div class="paper-session-details"><br/><div class="session-abstract"><p>{}'.format(self.abstract)
+                if pdf_icons and self.pdf_url:
+                    session_html += '&nbsp;<i class="far fa-file-pdf paper-icon" data="{}" title="PDF"></i>'.format(self.pdf_url)
+                if video_icons and self.video_url:
+                    session_html += '&nbsp;<i class="far fa-file-video video-icon" data="{}" title="Video"></i>'.format(self.video_url)
+                session_html += '</p></div></div>'.format(self.abstract)
 
             # close off the session HTML and save it
             session_html += '</div>'
@@ -394,12 +425,13 @@ class WebSession(Session):
 
         elif self.type == 'tutorial':
 
-            # for tutorials, the session does not have start
+            # for tutorials, we may not have the start
             # and end times defined in the order file but we
-            # need them for the website; so just get them from
+            # need them for the website; if so just get them from
             # the first session item
-            self.start = self.items[0].start
-            self.end = self.items[0].end
+            if not self.start and not self.end:
+                self.start = self.items[0].start
+                self.end = self.items[0].end
 
             generated_html.append('<div class="session session-expandable session-tutorials"><div id="expander"></div><a href="#" class="session-title">{}</a><br/><span class="session-time" title="{}">{} &ndash; {}</span><br/><div class="tutorial-session-details"><br/><table class="tutorial-table">'.format(self.title, str(day), self.start, self.end, self.location))
 
@@ -416,14 +448,15 @@ class WebSession(Session):
 
         elif self.type == 'best_paper':
 
-            # the best paper session does not have start
+            # the best paper session may not have start
             # and end times defined in the order file but we
-            # need them for the website; so just get them from
+            # need them for the website; if so just get them from
             # the first and the last item
-            self.start = self.items[0].start
-            self.end = self.items[-1].end
+            if not self.start and not self.end:
+                self.start = self.items[0].start
+                self.end = self.items[-1].end
 
-            generated_html.append('<div class="session session-expandable session-papers-best"><div id="expander"></div><a href="#" class="session-title">{}</a><br/><span class="session-time" title="{}">{} &ndash; {}</span><br/><span class="session-location btn btn--location">{}</span><br/><div class="paper-session-details"><br/><table class="paper-table">'.format(self.title, str(day), self.start, self.end, self.location))
+            generated_html.append('<div class="session session-plenary session-expandable session-papers-best"><div id="expander"></div><a href="#" class="session-title">{}</a><br/><span class="session-time" title="{}">{} &ndash; {}</span><br/><span class="session-location btn btn--location">{}</span><br/><div class="paper-session-details"><br/><table class="paper-table">'.format(self.title, str(day), self.start, self.end, self.location))
 
             # we know the best paper session has child items, so
             # cast those `Item` objects as `WebItem`s, call
@@ -431,7 +464,7 @@ class WebSession(Session):
             for item in self.items:
                 item.__class__ = WebItem
                 item_html = item.to_html(metadata,
-                                         paper_icons=paper_icons,
+                                         pdf_icons=pdf_icons,
                                          video_icons=video_icons)
                 generated_html.extend(item_html)
             # add any required closing tags for valid HTML
@@ -446,14 +479,24 @@ class WebSession(Session):
             for item in self.items:
                 item.__class__ = WebItem
                 item_html = item.to_html(metadata,
-                                         paper_icons=paper_icons)
+                                         pdf_icons=pdf_icons)
                 generated_html.extend(item_html)
 
             # add any required closing tags for valid HTML and return
             generated_html.extend(['</table>', '</div>', '</div>'])
 
         elif self.type == 'paper':
-            generated_html.append('<div class="session session-expandable session-papers{}" id="session-{}"><div id="expander"></div><a href="#" class="session-title">{}: {}</a><br/><span class="session-time" title="{}">{} &ndash; {}</span><br/><span class="session-location btn btn--location">{}</span><br/><div class="paper-session-details"><br/><a href="#" class="session-selector" id="session-{}-selector"> Choose All</a><a href="#" class="session-deselector" id="session-{}-deselector">Remove All</a><table class="paper-table"><tr><td class="session-chair" colspan="2">Chair: {}</td></tr>'.format(index, self.id_.lower(), self.id_, self.title, str(day), self.start, self.end, self.location, self.id_.lower(), self.id_.lower(), self.chair))
+            session_html = '<div class="session session-expandable session-papers{}" id="session-{}"><div id="expander"></div><a href="#" class="session-title">{}: {}</a><br/><span class="session-time" title="{}">{} &ndash; {}</span><br/><span class="session-location btn btn--location">{}</span><br/><div class="paper-session-details"><br/><a href="#" class="session-selector" id="session-{}-selector"> Choose All</a><a href="#" class="session-deselector" id="session-{}-deselector">Remove All</a><table class="paper-table"><tr><td class="session-chair" colspan="2"><i title="Session Chair" class="fa fa-user"></i>: <span title="Session Chair">{}</span>'.format(index, self.id_.lower(), self.id_, self.title, str(day), self.start, self.end, self.location, self.id_.lower(), self.id_.lower(), self.chair)
+
+            # if the session has a livetweeter assigned, display that too
+            if 'tweeter' in self.extended_metadata:
+                session_html += '; <i title="LiveTweeter" class="fab fa-twitter"></i>: <a href="https://twitter.com/{}" target="_blank" title="LiveTweeter">{}</a>'.format(self.extended_metadata['tweeterid'], self.extended_metadata['tweeter'])
+
+            # close the session HTML properly
+            session_html += '</td></tr>'
+
+            # append the session HTML to the result variable
+            generated_html.append(session_html)
 
             # we know paper sessions have child items, so
             # cast those `Item` objects as `WebItem`s, call
@@ -461,7 +504,7 @@ class WebSession(Session):
             for item in self.items:
                 item.__class__ = WebItem
                 item_html = item.to_html(metadata,
-                                         paper_icons=paper_icons,
+                                         pdf_icons=pdf_icons,
                                          video_icons=video_icons)
                 generated_html.extend(item_html)
 
@@ -484,7 +527,7 @@ class WebItem(Item):
 
     def to_html(self,
                 metadata,
-                paper_icons=False,
+                pdf_icons=False,
                 video_icons=False):
         """
         Convert item to HTML format compatible
@@ -497,10 +540,9 @@ class WebItem(Item):
             containing the title, authors,
             abstracts, and anthology URLs for
             each item, if applicable.
-        paper_icons : bool, optional
-            Whether to generate the icons for
-            each of the presentation items linked
-            to the PDF on the anthology.
+        pdf_icons : bool, optional
+            Whether to generate the links to the
+            anthology and other PDFs where appropriate.
             Defaults to `False`.
         video_icons : bool, optional
             Whether to generate the icons for
@@ -510,8 +552,8 @@ class WebItem(Item):
 
         Returns
         -------
-        item_html : str
-            A string containing the item HTML.
+        generated_html : list of str
+            A list of strings containing the item HTML.
 
         """
 
@@ -520,9 +562,11 @@ class WebItem(Item):
 
         # generate the appropriate type of HTML depending on item type
         if self.type == 'paper':
-            self.title = metadata[self.id_].title
-            self.authors = metadata[self.id_].authors
-            self.paper_url = metadata[self.id_].anthology_url
+            item_metadata = metadata.lookup(self.id_)
+            self.title = item_metadata.title
+            self.authors = authorlist_to_string(item_metadata.authors)
+            self.pdf_url = item_metadata.pdf_url
+            self.video_url = item_metadata.video_url
 
             # add [SRW] or [TACL] marker to title for appropriate papers
             if self.id_.endswith('-srw'):
@@ -530,25 +574,31 @@ class WebItem(Item):
             elif self.id_.endswith('-tacl'):
                 self.title = '[TACL] {}'.format(self.title)
 
-            # generate the restt of the HTML along with optional icons
+            # generate the rest of the HTML along with optional icons
             item_html = '<tr id="paper" paper-id="{}"><td id="paper-time">{}&ndash;{}</td><td><span class="paper-title">{}. </span><em>{}</em>'.format(self.id_, self.start, self.end, self.title, self.authors)
-            if paper_icons:
-                item_html += '&nbsp;&nbsp;<i class="fa fa-file-pdf-o paper-icon" data="{}" aria-hidden="true" title="PDF"></i>'.format(self.paper_url)
-            if video_icons:
-                item_html += '&nbsp;<i class="fa fa-file-video-o video-icon" data="{}" aria-hidden="true" title="Video"></i>'.format(self.video_url)
+            if pdf_icons and self.pdf_url:
+                item_html += '&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="{}" title="PDF"></i>'.format(self.pdf_url)
+            if video_icons and self.video_url:
+                item_html += '&nbsp;<i class="far fa-file-video video-icon" data="{}" title="Video"></i>'.format(self.video_url)
             item_html += '</td></tr>'
             generated_html.append(item_html)
 
         elif self.type == 'poster':
-            self.title = metadata[self.id_].title
-            self.authors = metadata[self.id_].authors
-            self.paper_url = metadata[self.id_].anthology_url
+            item_metadata = metadata.lookup(self.id_)
+            self.title = item_metadata.title
+            self.authors = authorlist_to_string(item_metadata.authors)
+            self.pdf_url = item_metadata.pdf_url
 
             # add [SRW] or [TACL] marker to title for appropriate papers
             if self.id_.endswith('-srw'):
                 self.title = '[SRW] {}'.format(self.title)
             elif self.id_.endswith('-tacl'):
                 self.title = '[TACL] {}'.format(self.title)
+
+            # show the poster number if available
+            if 'poster_number' in self.extended_metadata:
+                self.title = '#{}: {}'.format(self.extended_metadata['poster_number'],
+                                              self.title)
 
             # display the poster topic if encounter one
             if self.topic:
@@ -556,14 +606,15 @@ class WebItem(Item):
             item_html = '<tr id="poster" poster-id="{}"><td><span class="poster-title">{}. </span><em>{}</em>'.format(self.id_, self.title, self.authors)
 
             # display an optional icon
-            if paper_icons:
-                item_html += '&nbsp;&nbsp;<i class="fa fa-file-pdf-o paper-icon" data="{}" aria-hidden="true" title="PDF"></i>'.format(self.paper_url)
+            if pdf_icons and self.pdf_url:
+                item_html += '&nbsp;&nbsp;<i class="far fa-file-pdf paper-icon" data="{}" title="PDF"></i>'.format(self.pdf_url)
             item_html += '</td></tr>'
             generated_html.append(item_html)
 
         elif self.type == 'tutorial':
-            self.title = metadata[self.id_].title
-            self.authors = metadata[self.id_].authors
+            item_metadata = metadata.lookup(self.id_)
+            self.title = item_metadata.title
+            self.authors = authorlist_to_string(item_metadata.authors)
             generated_html.append('<tr id="tutorial"><td><span class="tutorial-title"><strong>{}. </strong>{}. </span><br/><span class="btn btn--location inline-location">{}</span></td></tr>'.format(self.title, self.authors, self.location))
 
         # return the generated item HTML
@@ -574,56 +625,11 @@ def main():
 
     # set up an argument parser
     parser = argparse.ArgumentParser(prog='generate.py')
-    parser.add_argument("--order",
-                        dest="orderfile",
-                        required=True,
-                        help="Manually combined order file")
-    parser.add_argument("--xmls",
-                        dest="xml_files",
-                        required=True,
-                        nargs='+',
-                        type=Path,
-                        help="Anthology XML files containing author "
-                             "and title metadata")
-    parser.add_argument("--mappings",
-                        dest="mapping_files",
-                        required=True,
-                        nargs='+',
-                        type=Path,
-                        help="Files mapping order Anthology IDs "
-                             "to order file IDs.")
-    parser.add_argument("--extra-metadata",
-                        dest="extra_metadata_file",
-                        required=False,
-                        default=None,
-                        type=Path,
-                        help="TSV file containing authors and "
-                             "titles not in anthology XMLs")
-    parser.add_argument("--plenary-info",
-                        dest="plenary_info_file",
-                        required=False,
-                        default=None,
-                        type=Path,
-                        help="TSV file containing info "
-                             "for plenary sessions")
-    parser.add_argument("--output",
-                        dest="output_file",
-                        required=True,
+    parser.add_argument("config_file",
+                        help="Input JSON file containing "
+                             "the web schedule configuration")
+    parser.add_argument("output_file",
                         help="Output markdown file")
-    parser.add_argument("--paper-icons",
-                        action="store_true",
-                        default=False,
-                        dest="paper_icons",
-                        required=False,
-                        help="Generate icons linking "
-                             "to anthology PDFs")
-    parser.add_argument("--video-icons",
-                        action="store_true",
-                        default=False,
-                        dest="video_icons",
-                        required=False,
-                        help="Generate icons linking "
-                             "to talk videos")
 
     # parse given command line arguments
     args = parser.parse_args()
@@ -631,28 +637,35 @@ def main():
     # set up the logging
     logging.basicConfig(format='%(levelname)s - %(message)s', level=logging.INFO)
 
+    # parse the configuration file
+    with open(args.config_file, 'r') as configfh:
+        config = json.loads(configfh.read())
+
     # parse the orderfile into a `WebAgenda` object
+    # for the main conference
     logging.info('Parsing order file ...')
-    wa = WebAgenda()
-    wa.fromfile(args.orderfile)
+    wa = WebAgenda('main')
+    wa.fromfile(config['order_file'])
 
     # parse the metadata files
     logging.info('Parsing metadata files ...')
-    metadata = ScheduleMetadata.fromfiles(xmls=args.xml_files,
-                                          mappings=args.mapping_files,
-                                          non_anthology_tsv=args.extra_metadata_file)
+    extra_metadata_file = config.get('extra_metadata_file', None)
+    metadata = ScheduleMetadata.fromfiles(xmls=[config['xml_file']],
+                                          mappings={'main': config['mapping_file']},
+                                          extra_metadata_files={'main': extra_metadata_file} if extra_metadata_file else {})
 
     # parse and store any additional plenary session
     # info if provided
     plenary_info_dict = {}
-    if args.plenary_info_file:
+    if 'plenary_info_file' in config:
         logging.info("Parsing plenary info file ...")
-        with open(args.plenary_info_file, 'r') as plenaryfh:
+        with open(config['plenary_info_file'], 'r') as plenaryfh:
             reader = csv.DictReader(plenaryfh, dialect=csv.excel_tab)
             for row in reader:
                 key = row['session'].strip()
                 value = (row['abstract'].strip(),
                          row['person'].strip(),
+                         row['person_affiliation'].strip(),
                          row['person_url'].strip(),
                          row['pdf_url'].strip(),
                          row['video_url'].strip())
@@ -661,8 +674,8 @@ def main():
     # convert WebAgenda to HTML
     logging.info("Converting parsed agenda to HTML ...")
     html = wa.to_html(metadata,
-                      paper_icons=args.paper_icons,
-                      video_icons=args.video_icons,
+                      pdf_icons=config.get('pdf_icons', False),
+                      video_icons=config.get('video_icons', False),
                       plenary_info=plenary_info_dict)
 
     # add the Jekyll frontmatter
