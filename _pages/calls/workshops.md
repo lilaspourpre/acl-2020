@@ -14,14 +14,10 @@ toc_icon: "cog"
 Event Notification Type: Call for Proposals<br/>
 Contact Email: [workshops-all-2020@googlegroups.com](workshops-all-2020@googlegroups.com)<br/>
 Contact: Workshop Co-Chairs<br/>
-Submission Deadline: September 23, 2019 <br/>
-
-FIRST JOINT CALL for Workshop Proposals: ACL / COLING / EMNLP / AACL-IJCNLP 2020 <br/>
 
 Proposal Submission Deadline: September 23, 2019<br/>
 
 Notification of Acceptance: October 20, 2019<br/>
-
 
 The Association for Computational Linguistics (ACL), the Asia-Pacific Chapter of the ACL, the Conference on Empirical Methods in Natural Language Processing (EMNLP), and the International Committee on Computational Linguistics (ICCL) invite proposals for workshops to be held in conjunction with ACL 2020, AACL-IJCNLP 2020, EMNLP 2020, or COLING 2020. We solicit proposals in all areas of computational linguistics, broadly conceived to include related disciplines such as linguistics, speech, information retrieval and multimodal processing. Workshops will be held at one of the following conference venues:
  
@@ -238,7 +234,7 @@ Xiaodan Zhu, Queen's University
 TBA
 
 **AACL-IJCNLP**<br>
-Wei Gao, Victoria University of Wellington, New Zealand
+Wei Gao, Victoria University of Wellington, New Zealand<br/>
 Lu Wang, Northeastern University, United States
 
 
