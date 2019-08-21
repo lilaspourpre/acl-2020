@@ -12,7 +12,7 @@ Dan Jurafsky, Stanford University
 <h3>Program Co-Chairs</h3>
 Joyce Chai, Michigan State University<br/>
 Natalie Schluter, IT University of Copenhagen, Denmark<br/>
-Joel Tetreault
+Joel Tetreault, Dataminr, USA
 
 <h3>Local Chairs</h3>
 Priscilla Rasmussen, ACL<br/>
