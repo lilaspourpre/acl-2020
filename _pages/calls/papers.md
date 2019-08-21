@@ -69,7 +69,7 @@ Potential submissions of interest include (but not limited to) position papers, 
 
 - Reflect on the progress of the field or a sub-topic area from a larger spectrum and make connections and/or comparisons between the past and the present to provide a holistic view on where we stand today with respect to the past;
 - Examine, analyze, and interpret SOTA models and results to shed light on limitations as well as key advances that may have lasting impact;  
-- Bring novel ideas for advancing the field, e.g., to enable and measure the machine’s ability in language processing beyond laboratory benchmarks; 
+- Bring novel ideas for advancing the field, e.g., to enable and measure a machine’s ability in language processing beyond laboratory benchmarks; 
 
 We anticipate to have a special session for this theme at the conference and a best Thematic Paper Award in addition to the traditional Best Paper Awards. 
 
