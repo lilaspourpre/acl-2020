@@ -107,13 +107,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/naaclhlt
+      url: https://twitter.com/aclmeeting
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: https://www.facebook.com/naaclhlt
+      # url: 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/naacl-org/naacl-hlt-2019
+      url: https://github.com/acl-org/acl-2020
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
