@@ -1,5 +1,5 @@
 ---
-title: "The First Call for Papers in Out!"
+title: "The First Call for Papers is Out!"
 author: program-chairs
 author_profile: true
 excerpt: "Initiatives to look out for in the First Call for Papers."
