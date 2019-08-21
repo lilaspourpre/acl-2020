@@ -25,7 +25,7 @@ The ACL 2020 paper submission deadline is earlier than previous years.  The door
 * Review rebuttals are back due to overwhelming demand.  You get 5 days to have your say.
 * All work and no break makes for an exhausted PC.  We have prepared our timeline around holiday and weekend periods for reviewers, ACs and SACs to the extent possible.
 * Having an earlier submission and notification deadline will avoid review period overlap with all other major NLP conferences. It also provides an opportunity for the ACL rejected papers to be resubmitted to future venues in substantially improved condition. No more reading the same thing twice!
-* Participants for US conferences this year experienced major visa issues, some entire groups having visas granted too late.  To counter this and increase the inclusivity of the conference, the notification deadline is now set to three months prior to the start of the conference and have adjusted the submission date accordingly.  
+* Participants for US conferences this year experienced major visa issues, some entire groups having visas granted too late.  To counter this and increase the inclusivity of the conference, the notification deadline is now set to three months prior to the start of the conference and we have adjusted the submission date accordingly.  
 * On the other hand, we are also in talks for setting the paper publication date back some weeks, so people can read your papers faster--well before the start of the conference.
 
 We hope we are setting a precedent that will be adopted for future ACL conferences to accommodate scaling and inclusivity.
