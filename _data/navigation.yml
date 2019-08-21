@@ -31,12 +31,14 @@ main:
   - title: "Workshop Proposals"
     url: /calls/workshops
 
+  - title: "Call for Papers"
+    url: /calls/papers
 
 calls:
    - title: Call for
      children:
-#       - title: "Main Conference Papers"
-#         url: /calls/papers/
+       - title: "Main Conference Papers"
+         url: /calls/papers/
 #       - title: "Industry Track Papers"
 #         url: /calls/industry/
 #       - title: "System Demonstrations"
