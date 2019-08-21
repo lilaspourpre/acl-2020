@@ -22,6 +22,7 @@ The 58th Annual Meeting of the Association for Computational Linguistics (ACL 20
 
 <h2 id="dates">Important Dates</h2>
 
+<center>
 <table style="width: 97%">
     <tbody>
         <tr>
@@ -56,6 +57,7 @@ The 58th Annual Meeting of the Association for Computational Linguistics (ACL 20
         </tr>        
 </tbody>
 </table>
+</center>
 <h5>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> ("anywhere on Earth").</h5>
 
 
