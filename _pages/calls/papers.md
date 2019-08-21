@@ -9,12 +9,57 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
+<sub>**ACL 2020**  
+Seattle, Washington, USA  
+July 5-10, 2020  
+[http://acl2020.org](http://acl2020.org)
+
+<br>
 <span style="font-weight: bolder;font-size: larger;">Call For Papers - Main Conference</span>
 
 The 58th Annual Meeting of the Association for Computational Linguistics (ACL 2020) invites the submission of long and short papers on substantial, original, and unpublished research in all aspects of Computational Linguistics and Natural Language Processing. As in recent years, some of the presentations at the conference will be of papers accepted by the Transactions of the ACL (TACL) journal.  This year’s conference will for the first time also feature presentations of papers accepted by the Computational Linguistics (CL) journal.
 
 
-## ACL 2020 Theme: Taking Stock of Where We’ve Been and Where We’re Going
+<h2 id="dates">Important Dates</h2>
+
+<table style="width: 97%">
+    <tbody>
+        <tr>
+            <td style="width: 40%;">Submission deadline<br/>(<i>long &amp; short papers</i>)</td>
+            <td style="width: 30%;">Monday</td>
+            <td>December 9, 2019</td>
+        </tr>
+        <tr>
+            <td>Notification of acceptance<br/>(<i>long &amp; short papers</i>)</td>
+            <td>Friday</td>
+            <td>April 3, 2020</td>
+        </tr>
+        <tr>
+          <td>Camera-ready papers due<br/>(<i>long &amp; short papers</i>)</td>
+          <td>Friday</td>
+          <td>April 24, 2020</td>
+        </tr>
+        <tr>
+            <td>Tutorials</td>
+            <td>Sunday</td>
+            <td>July 5, 2020</td>
+        </tr>        
+        <tr>
+            <td>Main conference</td>
+            <td>Monday &ndash; Wednesday</td>
+            <td>July 6 &ndash; 8, 2020</td>
+        </tr>        
+        <tr>
+            <td>Workshops and Co-located conferences</td>
+            <td>Thursday &ndash; Friday</td>
+            <td>July 9 &ndash; 10, 2020</td>
+        </tr>        
+</tbody>
+</table>
+<h5>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> ("anywhere on Earth").</h5>
+
+
+## ACL 2020 Theme: *Taking Stock of Where We’ve Been and Where We’re Going*
 
 The last few years have witnessed an unprecedented growth in NLP since the field began over sixty years ago.  The availability of large amounts of data and computing resources have led to new models and representations and exciting results on many NLP benchmark tasks. SOTA systems have approached human performance on several benchmark tasks.  As we embrace these new exciting results and advances, ACL 2020 is particularly interested in papers that can provide insights for the community to assess how much we have accomplished in developing a machine’s ability in understanding and generating human language and how far we are pushing the boundaries as a field given the long history of NLP research.  
 
@@ -73,7 +118,6 @@ Long papers will be presented orally or as posters as determined by the program 
 Short paper submissions must describe original and unpublished work. Please note that a short paper is not a shortened long paper. Instead short papers should have a point that can be made in a few pages. Some kinds of short papers are:
 
 - A small, focused contribution
-- Work in progress
 - A negative result
 - An opinion piece
 - An interesting application nugget
@@ -143,18 +187,15 @@ The conference website will be continually updated with information on workshops
 
 ## Organizers
 
-<b>General Chair</b>
-
+<b>General Chair</b>  
 Dan Jurafsky (Stanford University, USA)
 
-<b>Program Co-Chairs</b>
-
+<b>Program Co-Chairs</b>  
 Joyce Chai (University of Michigan, USA)<br/>
 Natalie Schluter (IT University, Copenhagen, Denmark)<br/>
 Joel Tetreault (Dataminr, USA)
 
 
 ## Contact Information
-
-- Email: [ACL2020ProgramChairs@gmail.com](mailto:ACL2020ProgramChairs@gmail.com)
+- e-mail: [ACL2020ProgramChairs@gmail.com](mailto:ACL2020ProgramChairs@gmail.com)
 
