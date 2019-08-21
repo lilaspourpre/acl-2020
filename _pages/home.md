@@ -16,8 +16,8 @@ ACL is the premier conference of the field of computational linguistics, coverin
 
 
 <h2 id="dates">Important Dates</h2>
-
-<table style="width: 60%">
+<center>
+<table style="width: 90%">
     <tbody>
         <tr>
             <td style="width: 40%;">Submission deadline<br/>(<i>long &amp; short papers</i>)</td>
@@ -51,6 +51,7 @@ ACL is the premier conference of the field of computational linguistics, coverin
         </tr>        
 </tbody>
 </table>
+</center>
 <h5>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> ("anywhere on Earth").</h5>
 
 <h2>ACL 2020 Anti-Harassment Policy</h2>
