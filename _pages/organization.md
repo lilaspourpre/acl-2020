@@ -10,7 +10,7 @@ sidebar: false
 Dan Jurafsky, Stanford University
 
 <h3>Program Co-Chairs</h3>
-Joyce Chai, Michigan State University<br/>
+Joyce Chai, University of Michigan<br/>
 Natalie Schluter, IT University of Copenhagen, Denmark<br/>
 Joel Tetreault, Dataminr, USA
 
