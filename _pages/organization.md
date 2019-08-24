@@ -46,6 +46,10 @@ Nanyun Peng, University of Southern California
 Asli Celikyilmaz, Microsoft Research, Redmond<br/>
 Shawn Wen, PolyAI
 
+<h3>Audio-Video Co-chairs</h3>
+Hamid Palangi, Microsoft Research, Redmond <br/>
+Lianhui Qin, University of Washington 
+
 <h3>Diversity &amp; Inclusion Co-Chairs</h3>
 Barbara Plank, IT University of Copenhagen<br/>
 Vinodkumar Prabhakaran, Google
