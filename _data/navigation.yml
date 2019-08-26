@@ -19,9 +19,6 @@ main:
   # - title: "Participants"
   #   url: "/participants"
 
-  - title: "Organization"
-    url: /organization
-
   # - title: "Sponsors"
   #   url: /sponsors/list/
     
@@ -34,6 +31,12 @@ main:
   - title: "Call for Papers"
     url: /calls/papers
 
+  - title: "Call for System Demonstrations"
+    url: /calls/demos
+
+  - title: "Organization"
+    url: /organization
+
 calls:
    - title: Call for
      children:
@@ -41,8 +44,8 @@ calls:
          url: /calls/papers/
 #       - title: "Industry Track Papers"
 #         url: /calls/industry/
-#       - title: "System Demonstrations"
-#         url: /calls/demos/
+       - title: "System Demonstrations"
+         url: /calls/demos/
        - title: "Workshop Proposals"
          url: /calls/workshops/
        - title: "Tutorial Proposals"
