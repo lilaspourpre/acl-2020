@@ -9,7 +9,7 @@ sidebar: false
 <h3>General Chair</h3>
 Dan Jurafsky, Stanford University
 
-<h3>Program Co-Chairs</h3>
+<h3>Program Chairs</h3>
 Joyce Chai, University of Michigan<br/>
 Natalie Schluter, IT University of Copenhagen, Denmark<br/>
 Joel Tetreault, Dataminr, USA
@@ -47,12 +47,13 @@ Nanyun Peng, University of Southern California
 Asli Celikyilmaz, Microsoft Research, Redmond<br/>
 Shawn Wen, PolyAI
 
-<h3>Audio-Video Co-chairs</h3>
+<h3>Audio-Video Chairs</h3>
 Hamid Palangi, Microsoft Research, Redmond <br/>
 Lianhui Qin, University of Washington 
 
-<h3>Diversity &amp; Inclusion Co-Chairs</h3>
-Barbara Plank, IT University of Copenhagen<br/>
+<h3>Diversity &amp; Inclusion Chairs</h3>
+Cecilia Ovesdotter Alm, Rochester Institute of Technology<br/>
+<!--Barbara Plank, IT University of Copenhagen<br/>-->
 Vinodkumar Prabhakaran, Google
 
 <h3>Local Sponsorshop Chairs</h3>
