@@ -25,7 +25,8 @@ Yue Zhang, Westlake University
 
 <h3>Workshop Chairs</h3>
 Milica Gašić,  Heinrich Heine University Düsseldorf<br/>
-Saif M. Mohammad, National Research Council Canada
+Saif M. Mohammad, National Research Council Canada<br/>
+Dilek Hakkani-Tur, Amazon Alexa AI
 
 <h3>Student Research Workshop Chairs</h3>
 Shruti Rijhwani, Carnegie Mellon University<br/>
@@ -60,7 +61,8 @@ Kristina Toutanova, Google
 
 <h3>Publication Chairs</h3>
 Ryan Cotterrell, University of Cambridge<br/>
-Rui Yan, Peking University
+Rui Yan, Peking University<br/>
+Steven Bethard, University of Arizona
 
 <h3>Publicity Chair</h3>
 Emily M. Bender, University of Washington
