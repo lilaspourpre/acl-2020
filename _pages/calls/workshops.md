@@ -43,7 +43,7 @@ The workshop co-chairs will work together to assign workshops to the four confer
 
 Proposals should be submitted as PDF documents. Note that submissions should essentially be ready to be turned into a Call for Workshop Papers within one week of notification (see Timelines below).
 
-**The proposals should be at most two pages for the main proposal + at most two additional pages for information about organizers, program committee, and references. Thus the whole proposal should not be more than FOUR pages long. **
+**The proposals should be at most two pages for the main proposal + at most two additional pages for information about organizers, program committee, and references. Thus the whole proposal should not be more than FOUR pages long.**
 
 The two pages for the main proposal must include:
 
@@ -129,16 +129,21 @@ The tentative individual dates for 2019 workshops is as follows:
             <td>Jan 20, 2020</td>
         </tr>
         <tr>
-            <td>Workshop papers due</td>
+            <td>Third (Final) Call for Workshop Papers</td>
             <td>Mar 20, 2020</td>
         </tr>
         <tr>
+            <td>Workshop Paper Due Date
+</td>
+            <td>April 6, 2020</td>
+        </tr>
+        <tr>
             <td>Notification of acceptance</td>
-            <td>April 24, 2020</td>
+            <td>May 4, 2020</td>
         </tr>
         <tr>
           <td>Camera-ready papers due</td>
-          <td>May 3, 2020</td>
+          <td>May 18, 2020</td>
         </tr>
         <tr>
           <td>Workshop dates</td>
@@ -182,27 +187,27 @@ The tentative individual dates for 2019 workshops is as follows:
     <tbody>
         <tr>
             <td style="width: 40%;">First call for workshop papers</td>
-            <td>TBA</td>
+            <td>Feb 15, 2020</td>
         </tr>
         <tr>
             <td style="width: 40%;">Second call for workshop papers</td>
-            <td>TBA</td>
+            <td>May 15, 2020</td>
         </tr>
         <tr>
             <td>Workshop papers due</td>
-            <td>TBA</td>
+            <td>July 15, 2020</td>
         </tr>
         <tr>
             <td>Notification of acceptance</td>
-            <td>TBA</td>
+            <td>Aug 17, 2020</td>
         </tr>
         <tr>
           <td>Camera-ready papers due</td>
-          <td>TBA</td>
+          <td>Aug 31, 2020</td>
         </tr>
         <tr>
           <td>Workshop dates</td>
-          <td>TBA</td>
+          <td>Nov 11&ndash;12, 2020</td>
         </tr>
     </tbody>
 </table>
@@ -251,7 +256,9 @@ Xiaodan Zhu, Queen's University
 
 
 **EMNLP**<br/>
-TBA
+Jackie Chi Kit Cheung, Mila / McGill University, Canada<br/>
+Lonneke van der Plas, University of Malta
+
 
 **AACL-IJCNLP**<br>
 Wei Gao, Victoria University of Wellington, New Zealand<br/>
