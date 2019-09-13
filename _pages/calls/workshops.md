@@ -9,15 +9,21 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-<span style="font-weight: bolder;font-size: larger;">FIRST JOINT CALL for Workshop Proposals: ACL / COLING / EMNLP / AACL-IJCNLP 2020</span>
+<span style="font-weight: bolder;font-size: larger;">SECOND JOINT CALL for Workshop Proposals: ACL / COLING / EMNLP / AACL-IJCNLP 2020</span>
 
 Event Notification Type: Call for Proposals<br/>
 Contact Email: [workshops-all-2020@googlegroups.com](workshops-all-2020@googlegroups.com)<br/>
 Contact: Workshop Co-Chairs<br/>
+Submission Deadline: September 23, 2019<br/>
+
+SECOND JOINT CALL for Workshop Proposals: ACL / COLING / EMNLP / AACL-IJCNLP 2020
 
 Proposal Submission Deadline: September 23, 2019<br/>
 
 Notification of Acceptance: October 20, 2019<br/>
+
+**Changes** (from first call): Please note the updated details about proposal length in the SUBMISSION INFORMATION section below.
+
 
 The Association for Computational Linguistics (ACL), the Asia-Pacific Chapter of the ACL, the Conference on Empirical Methods in Natural Language Processing (EMNLP), and the International Committee on Computational Linguistics (ICCL) invite proposals for workshops to be held in conjunction with ACL 2020, AACL-IJCNLP 2020, EMNLP 2020, or COLING 2020. We solicit proposals in all areas of computational linguistics, broadly conceived to include related disciplines such as linguistics, speech, information retrieval and multimodal processing. Workshops will be held at one of the following conference venues:
  
@@ -26,7 +32,7 @@ The Association for Computational Linguistics (ACL), the Asia-Pacific Chapter of
 
 - [COLING 2020](https://coling2020.org/): The 28th International Conference on Computational Linguistics will be held in Barcelona, Spain from September 13 through 18, 2020, with workshops to be held on September 13 and 14, 2020.
 
-- EMNLP 2020: The Conference on Empirical Methods in Natural Language Processing 2020 will be held in Barceló Bávaro Convention Centre, Dominican Republic from November  8 through 12, 2020.
+- EMNLP 2020: The Conference on Empirical Methods in Natural Language Processing 2020 will be held in Barceló Bávaro Convention Centre, Dominican Republic from November  8 through 12, 2020, with workshops to be held on November 11 and 12.
 
 - [AACL/IJCNLP 2020](http://aaclweb.org/about/index.html): The 1st Annual Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 9th International Joint Conference on Natural Language Processing will be held in Suzhou, China from December 4 through 7, 2020.
 
@@ -37,14 +43,11 @@ The workshop co-chairs will work together to assign workshops to the four confer
 
 Proposals should be submitted as PDF documents. Note that submissions should essentially be ready to be turned into a Call for Workshop Papers within one week of notification (see Timelines below).
 
-The proposals should be a maximum of two pages long, and should contain:
+**The proposals should be at most two pages for the main proposal + at most two additional pages for information about organizers, program committee, and references. Thus the whole proposal should not be more than FOUR pages long.**
 
+The two pages for the main proposal must include:
 
 - A title and brief description of the workshop topic and content.
-
-- The names, affiliations, and email addresses of the organizers, with one-paragraph statements of their research interests, areas of expertise, and experience in organising workshops and related events.
-
-- A list of Programme Committee members, with an indication of which members have already agreed. It is highly desirable for proposals to have at least 75% of the Programme Committee reviewers confirmed at the time of the submission. Organizers should do their best to estimate the number of submissions (especially for recurring workshops) in order to (a) ensure a sufficient number of reviewers so that each paper receives 3 reviews, and (b) anticipate that no one is committed to reviewing more than 3 papers. This practice is likely to ensure on-time, and more thorough and thoughtful reviews.
 
 - A list of invited speakers, if applicable, with an indication of which ones have already agreed and which are indicative, and sources of funding for the speakers.
 
@@ -57,10 +60,26 @@ The proposals should be a maximum of two pages long, and should contain:
 - A description of special requirements and technical needs.
 
 - The preferred venue(s) (ACL/COLING/EMNLP/AACL-IJCNLP), if any, and description of any constraints (e.g., if the workshop is compatible with only one of these events, logistically, thematically or otherwise)
-
 - If the workshop has been held before, a note specifying where previous workshops were held, how many submissions the workshop received, how many papers were accepted (also specify if they were not regular papers, e.g. shared task system description papers), and how many attendees the workshop attracted.
+Note that the only financial support available to workshops is a single free workshop registration for an invited speaker; all other costs must be borne independently by the workshop organizers.
+
 
 **Note** that the only financial support available to workshops is a single free workshop registration for an invited speaker; all other costs must be borne independently by the workshop organizers.
+
+The two pages for information about organizers, program committee, and references must include: 
+
+- The names, affiliations, and email addresses of the organizers, with one-paragraph statements of their research interests, areas of expertise, and experience in organising workshops and related events.
+
+
+- A list of Programme Committee members, with an indication of which members have already agreed. It is highly desirable for proposals to have at least 75% of the Programme Committee reviewers confirmed at the time of the submission. Organizers should do their best to estimate the number of submissions (especially for recurring workshops) in order to (a) ensure a sufficient number of reviewers so that each paper receives 3 reviews, and (b) anticipate that no one is committed to reviewing more than 3 papers. This practice is likely to ensure on-time, and more thorough and thoughtful reviews.
+
+- References
+
+
+
+
+
+
 
 In addition, you will need to specify the following information when you submit via the START System (**not** in the PDF proposal):
 
@@ -110,16 +129,21 @@ The tentative individual dates for 2019 workshops is as follows:
             <td>Jan 20, 2020</td>
         </tr>
         <tr>
-            <td>Workshop papers due</td>
+            <td>Third (Final) Call for Workshop Papers</td>
             <td>Mar 20, 2020</td>
         </tr>
         <tr>
+            <td>Workshop Paper Due Date
+</td>
+            <td>April 6, 2020</td>
+        </tr>
+        <tr>
             <td>Notification of acceptance</td>
-            <td>April 24, 2020</td>
+            <td>May 4, 2020</td>
         </tr>
         <tr>
           <td>Camera-ready papers due</td>
-          <td>May 3, 2020</td>
+          <td>May 18, 2020</td>
         </tr>
         <tr>
           <td>Workshop dates</td>
@@ -163,27 +187,27 @@ The tentative individual dates for 2019 workshops is as follows:
     <tbody>
         <tr>
             <td style="width: 40%;">First call for workshop papers</td>
-            <td>TBA</td>
+            <td>Feb 15, 2020</td>
         </tr>
         <tr>
             <td style="width: 40%;">Second call for workshop papers</td>
-            <td>TBA</td>
+            <td>May 15, 2020</td>
         </tr>
         <tr>
             <td>Workshop papers due</td>
-            <td>TBA</td>
+            <td>July 15, 2020</td>
         </tr>
         <tr>
             <td>Notification of acceptance</td>
-            <td>TBA</td>
+            <td>Aug 17, 2020</td>
         </tr>
         <tr>
           <td>Camera-ready papers due</td>
-          <td>TBA</td>
+          <td>Aug 31, 2020</td>
         </tr>
         <tr>
           <td>Workshop dates</td>
-          <td>TBA</td>
+          <td>Nov 11&ndash;12, 2020</td>
         </tr>
     </tbody>
 </table>
@@ -232,7 +256,9 @@ Xiaodan Zhu, Queen's University
 
 
 **EMNLP**<br/>
-TBA
+Jackie Chi Kit Cheung, Mila / McGill University, Canada<br/>
+Lonneke van der Plas, University of Malta
+
 
 **AACL-IJCNLP**<br>
 Wei Gao, Victoria University of Wellington, New Zealand<br/>
