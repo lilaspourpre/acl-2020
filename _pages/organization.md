@@ -15,9 +15,9 @@ Natalie Schluter, IT University of Copenhagen, Denmark<br/>
 Joel Tetreault, Dataminr, USA
 
 <h3>Local Chairs</h3>
+Jianfeng Gao, Microsoft Research<br/>
 Priscilla Rasmussen, ACL<br/>
-Luke Zettlemoyer, University of Washington <br/>
-Jianfeng Gao, Microsoft Research
+Luke Zettlemoyer, University of Washington
 
 <h3>Tutorial Chairs</h3>
 Agata Savary, University of Tours, France<br/>
@@ -25,20 +25,18 @@ Yue Zhang, Westlake University
 
 <h3>Workshop Chairs</h3>
 Milica Gašić,  Heinrich Heine University Düsseldorf<br/>
-Saif M. Mohammad, National Research Council Canada<br/>
-Dilek Hakkani-Tur, Amazon Alexa AI
+Dilek Hakkani-Tur, Amazon Alexa AI<br/>
+Saif M. Mohammad, National Research Council Canada
 
 <h3>Student Research Workshop Chairs</h3>
-Shruti Rijhwani, Carnegie Mellon University<br/>
-Rotem Dror, Technion - Israel Institute
-of Technology<br/>
+Rotem Dror, Technion - Israel Institute of Technology<br/>
 Jiangming Liu, The University of Edinburgh
+Shruti Rijhwani, Carnegie Mellon University<br/>
 
 <h3>Faculty Advisors to the Student Research Workshop</h3>
 Omri Abend, Hebrew University of Jerusalem<br/>
 Sujian Li, Peking University <br/>
 Zhou Yu, University of California, Davis
-
 
 <h3>Conference Handbook Chair</h3>
 Nanyun Peng, University of Southern California
@@ -61,13 +59,12 @@ Hoifung Poon, Microsoft <br/>
 Kristina Toutanova, Google
 
 <h3>Publication Chairs</h3>
+Steven Bethard, University of Arizona<br/>
 Ryan Cotterrell, University of Cambridge<br/>
-Rui Yan, Peking University<br/>
-Steven Bethard, University of Arizona
+Rui Yan, Peking University
 
 <h3>Publicity Chair</h3>
 Emily M. Bender, University of Washington
-
 
 <h3>Website &amp; Conference App Chairs</h3>
 Sudha Rao, Microsoft Research, Redmond <br/>
