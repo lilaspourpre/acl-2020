@@ -90,7 +90,7 @@ In addition, you will need to specify the following information when you submit 
 - A list of organizers’ names which will be shown in the web-based survey.
 
 
-The proposals should be submitted no later than September 23, 2019, 11:59 PM Samoa Standard Time (SST) (UTC/GMT-11). Submission is electronic, using the Softconf START conference management system at [https://www.softconf.com/i/acl-workshops2020](https://www.softconf.com/i/acl-workshops2020)
+The proposals should be submitted no later than September 23, 2019, 11:59 PM Samoa Standard Time (SST) (UTC/GMT-11). Submission is electronic, using the Softconf START conference management system at [https://www.softconf.com/j/acl-workshops2020](https://www.softconf.com/j/acl-workshops2020)
 
 The workshop proposals will be evaluated according to their originality and impact, as well as the quality of the organizing team and Programme Committee. In addition, to estimate the attendance of the different workshops, a survey mechanism will be implemented, where attendees of ACL- and ICCL-affiliated events from the past 3-5 years will be able to indicate which workshops they would like to attend in 2020.
  
