@@ -9,7 +9,16 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-<span style="font-weight: bolder;font-size: larger;">Joint Call for Tutorial Proposals: ACL/AACL-IJCNLP/EMNLP/COLING 2020</span>
+<span style="font-weight: bolder;font-size: larger;">Second Call for Tutorial Proposals: ACL/AACL-IJCNLP/EMNLP/COLING 2020</span>
+
+
+Event Notification Type: Call for Proposals
+Contact Email: acl-aacl-emnlp-coling-2020-tutorials@googlegroups.com
+Contact: tutorial organizers
+Submission Deadline: Monday, 23 September 2019
+
+**Changes (wrt. the 1st call)**: the EMNLP 2020 tutorial chairs are now known; some details about the dates of the tutorials, the expected contents, the maximum length of the proposal, and the length of the reading list are given. 
+
 
 The Association for Computational Linguistics (ACL), the Asia-Pacific Chapter of the ACL, 
 the Conference on Empirical Methods in Natural Language Processing (EMNLP) and the International Committee on Computational Linguistics (ICCL) invite proposals for tutorials to be held in conjunction with ACL 2020, AACL-IJCNLP 2020, EMNLP 2020 or COLING 2020. We seek proposals in all areas of computational linguistics, broadly conceived to include related disciplines such as linguistics, speech, information retrieval and multimodal processing. 
@@ -20,6 +29,8 @@ Similar to the call for  2019, we invite proposals for two types of tutorials:
 
 2. **Introductory**: tutorials that provide introductions to related fields that are potentially relevant for the computational linguistics community (e.g., linguistics, bioinformatics, social media, machine learning techniques).
 
+In both cases, the aim of a tutorial is primarily to help understand a scientific problem, its tractability, and its theoretical and practical implications. Presentations of particular technological solutions or systems are welcome, provided that they serve as illustration of broader scientific considerations.
+
 
 Tutorials will be held at one of the following conference venues:
 
@@ -27,9 +38,10 @@ Tutorials will be held at one of the following conference venues:
 
 - AACL 2020 is the 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics ([AACL](http://aaclweb.org/about/index.html)). It will be held in Suzhou, China on December 4-7, 2020, jointly with the 9th International Joint Conference on Natural Language Processing (IJCNLP). 
 
-- EMNLP 2020 is the [SIGDAT](https://sigdat.org/) conference on Empirical Methods in Natural Language Processing (EMNLP). It will be held in Punta Cana, Dominican Republic on November 8-12, 2020.
+- EMNLP 2020 is the [SIGDAT](https://sigdat.org/) conference on Empirical Methods in Natural Language Processing (EMNLP). It will be held in Punta Cana, Dominican Republic on November 8-12, 2020. The tutorials will be held on November 11, 2020.
 
-- [COLING 2020](https://coling2020.org/) is the 28th International Conference on Computational Linguistics. It will be held in Barcelona, Spain on September 13-18, 2020. 
+- [COLING 2020](https://coling2020.org/) is the 28th International Conference on Computational Linguistics. It will be held in Barcelona, Spain on September 13-18, 2020. The tutorials will be held on September 13-14, 2020.
+
 
 ## FEE WAIVING
 
@@ -41,7 +53,7 @@ Following the [WiNLP](http://www.winlp.org/winlp-2019-workshop/2nd-call-for-pape
 
 ## SUBMISSION DETAILS
 
-Proposals should follow the ACL 2019 paper submission [format](http://www.acl2019.org/EN/call-for-papers.xhtml) (for final submissions), should be submitted as PDF documents and should contain the following:
+Proposals should follow the ACL 2019 paper submission [format](http://www.acl2019.org/EN/call-for-papers.xhtml) (for final submissions), **should not exceed 6 pages**, should be submitted as PDF documents and should contain the following:
 
 - A title, authors and a brief description of the tutorial content and its relevance to the computational linguistics community (no more than 2 pages).
 - Type of the tutorial: introductory vs. cutting-edge
@@ -54,7 +66,7 @@ Proposals should follow the ACL 2019 paper submission [format](http://www.acl201
     + Machine Learning: e.g., “Understand ‘classical’ supervised methods such as decision trees and Naive Bayes”
     + Other areas: e.g., “Familiarity with WordNet”
     + Programming or other tools: e.g., “Knowledge of Python and Unix command line tools”
-- Small reading list. Preferably, at least 50% of the recommended papers should not be co-authored by the tutorial presenters.
+- Small reading list. **It's size should be such that it is reasonable to expect a trainee to read most of the recommended references before the tutorial (depending on their length, 4-10 seems a reasonable number)**. Preferably, at least 50% of the recommended papers should not be co-authored by the tutorial presenters.
 - The names, affiliations, email addresses and websites of the tutorial presenters, including a one-paragraph statement of their research interests, areas of expertise and experience in teaching for an international audience.
 - An estimate of the audience size for the tutorial. If the same or a similar tutorial has been given before, include a note specifying where previous versions of the tutorial were given, how many attendees were at the main venue, and how many attendees the tutorial attracted.
 - A description of special requirements for technical equipment (e.g., Internet access).
@@ -96,7 +108,9 @@ ACL/AACL-IJCNLP/EMNLP/COLING shared dates for tutorial proposals:
 To be determined
 
 **EMNLP**<br/>
-To be determined
+- Benjamin Van Durme, Johns Hopkins University, US <br/>
+- Aline Villavicencio, University of Sheffield, UK and Federal University of Rio Grande do Sul, Brazil
+
   
 **COLING**<br/>
 - Daniel Beck, University of Melbourne, Australia <br/>
