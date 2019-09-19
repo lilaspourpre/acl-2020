@@ -12,14 +12,12 @@ toc_icon: "cog"
 <span style="font-weight: bolder;font-size: larger;">Second Call for Tutorial Proposals: ACL/AACL-IJCNLP/EMNLP/COLING 2020</span>
 
 
-Event Notification Type: Call for Proposals
-Contact Email: acl-aacl-emnlp-coling-2020-tutorials@googlegroups.com
-Contact: tutorial organizers
-Submission Deadline: Monday, 23 September 2019
+Event Notification Type: Call for Proposals <br/>
+Contact Email: acl-aacl-emnlp-coling-2020-tutorials@googlegroups.com <br/>
+Contact: tutorial organizers <br/>
+Submission Deadline: Monday, 23 September 2019 <br/>
 
 **Changes (wrt. the 1st call)**: the EMNLP 2020 tutorial chairs are now known; some details about the dates of the tutorials, the expected contents, the maximum length of the proposal, and the length of the reading list are given. 
-
-
 The Association for Computational Linguistics (ACL), the Asia-Pacific Chapter of the ACL, 
 the Conference on Empirical Methods in Natural Language Processing (EMNLP) and the International Committee on Computational Linguistics (ICCL) invite proposals for tutorials to be held in conjunction with ACL 2020, AACL-IJCNLP 2020, EMNLP 2020 or COLING 2020. We seek proposals in all areas of computational linguistics, broadly conceived to include related disciplines such as linguistics, speech, information retrieval and multimodal processing. 
  
@@ -66,7 +64,7 @@ Proposals should follow the ACL 2019 paper submission [format](http://www.acl201
     + Machine Learning: e.g., “Understand ‘classical’ supervised methods such as decision trees and Naive Bayes”
     + Other areas: e.g., “Familiarity with WordNet”
     + Programming or other tools: e.g., “Knowledge of Python and Unix command line tools”
-- Small reading list. **It's size should be such that it is reasonable to expect a trainee to read most of the recommended references before the tutorial (depending on their length, 4-10 seems a reasonable number)**. Preferably, at least 50% of the recommended papers should not be co-authored by the tutorial presenters.
+- Small reading list. It's size should be such that it is reasonable to expect a trainee to read most of the recommended references before the tutorial (depending on their length, 4-10 seems a reasonable number). Preferably, at least 50% of the recommended papers should not be co-authored by the tutorial presenters.
 - The names, affiliations, email addresses and websites of the tutorial presenters, including a one-paragraph statement of their research interests, areas of expertise and experience in teaching for an international audience.
 - An estimate of the audience size for the tutorial. If the same or a similar tutorial has been given before, include a note specifying where previous versions of the tutorial were given, how many attendees were at the main venue, and how many attendees the tutorial attracted.
 - A description of special requirements for technical equipment (e.g., Internet access).
