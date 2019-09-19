@@ -13,8 +13,8 @@ toc_icon: "cog"
 
 
 Event Notification Type: Call for Proposals <br/>
-Contact Email: acl-aacl-emnlp-coling-2020-tutorials@googlegroups.com <br/>
-Contact: tutorial organizers <br/>
+Contact Email: [acl-aacl-emnlp-coling-2020-tutorials@googlegroups.com](mailto:acl-aacl-emnlp-coling-2020-tutorials@googlegroups.com)<br/>
+Contact: Tutorial Organizers <br/>
 Submission Deadline: Monday, 23 September 2019 <br/>
 
 **Changes (wrt. the 1st call)**: the EMNLP 2020 tutorial chairs are now known; some details about the dates of the tutorials, the expected contents, the maximum length of the proposal, and the length of the reading list are given. 
@@ -116,5 +116,5 @@ To be determined
 
 ## Contact 
 
-Please send enquiries concerning ACL/AACL-IJCNLP/EMNLP/COLING 2020 tutorials to the workshop organizers at [acl-aacl-emnlp-coling-2020-tutorials@googlegroups.com](mailto:acl-aacl-emnlp-coling-2020-tutorials@googlegroups.com).
+Please send enquiries concerning ACL/AACL-IJCNLP/EMNLP/COLING 2020 tutorials to the organizers at [acl-aacl-emnlp-coling-2020-tutorials@googlegroups.com](mailto:acl-aacl-emnlp-coling-2020-tutorials@googlegroups.com).
 
