@@ -17,7 +17,9 @@ Contact Email: [acl-aacl-emnlp-coling-2020-tutorials@googlegroups.com](mailto:ac
 Contact: Tutorial Organizers <br/>
 Submission Deadline: Monday, 23 September 2019 <br/>
 
-**Changes (wrt. the 1st call)**: the EMNLP 2020 tutorial chairs are now known; some details about the dates of the tutorials, the expected contents, the maximum length of the proposal, and the length of the reading list are given. 
+**Changes (wrt. the 1st call)**: the EMNLP 2020 tutorial chairs are now known; some details about the dates of the tutorials, the expected contents, the maximum length of the proposal, and the length of the reading list are given. <br/> 
+
+
 The Association for Computational Linguistics (ACL), the Asia-Pacific Chapter of the ACL, 
 the Conference on Empirical Methods in Natural Language Processing (EMNLP) and the International Committee on Computational Linguistics (ICCL) invite proposals for tutorials to be held in conjunction with ACL 2020, AACL-IJCNLP 2020, EMNLP 2020 or COLING 2020. We seek proposals in all areas of computational linguistics, broadly conceived to include related disciplines such as linguistics, speech, information retrieval and multimodal processing. 
  
