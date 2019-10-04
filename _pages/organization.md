@@ -26,12 +26,13 @@ Yue Zhang, Westlake University
 <h3>Workshop Chairs</h3>
 Milica Gašić,  Heinrich Heine University Düsseldorf<br/>
 Dilek Hakkani-Tur, Amazon Alexa AI<br/>
-Saif M. Mohammad, National Research Council Canada
+Saif M. Mohammad, National Research Council Canada<br/>
+Ves Stoyanov, Facebook Research 
 
 <h3>Student Research Workshop Chairs</h3>
 Rotem Dror, Technion - Israel Institute of Technology<br/>
-Jiangming Liu, The University of Edinburgh
-Shruti Rijhwani, Carnegie Mellon University<br/>
+Jiangming Liu, The University of Edinburgh<br/>
+Shruti Rijhwani, Carnegie Mellon University
 
 <h3>Faculty Advisors to the Student Research Workshop</h3>
 Omri Abend, Hebrew University of Jerusalem<br/>
@@ -65,6 +66,9 @@ Rui Yan, Peking University
 
 <h3>Publicity Chair</h3>
 Emily M. Bender, University of Washington
+
+<h3>Remote Presentation Chair</h3>
+Yi Luan, Google AI Language 
 
 <h3>Website &amp; Conference App Chairs</h3>
 Sudha Rao, Microsoft Research, Redmond <br/>
