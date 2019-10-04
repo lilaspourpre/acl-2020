@@ -22,11 +22,11 @@ main:
   # - title: "Sponsors"
   #   url: /sponsors/list/
     
-  - title: "Tutorial Proposals"
-    url: /calls/tutorials
+  # - title: "Tutorial Proposals"
+  #  url: /calls/tutorials
   
-  - title: "Workshop Proposals"
-    url: /calls/workshops
+  # - title: "Workshop Proposals"
+  #  url: /calls/workshops
 
   - title: "Call for Papers"
     url: /calls/papers
