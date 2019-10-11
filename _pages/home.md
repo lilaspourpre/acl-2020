@@ -25,6 +25,11 @@ ACL is the premier conference of the field of computational linguistics, coverin
             <td>December 9, 2019</td>
         </tr>
         <tr>
+            <td style="width: 40%;">Student Research Workshop Submission deadline<br/></td>
+            <td style="width: 30%;">Friday</td>
+            <td>March 6, 2020</td>
+        </tr>       
+        <tr>
             <td>Notification of acceptance<br/>(<i>long &amp; short papers</i>)</td>
             <td>Friday</td>
             <td>April 3, 2020</td>
