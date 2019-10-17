@@ -68,7 +68,7 @@ Rui Yan, Peking University
 Emily M. Bender, University of Washington
 
 <h3>Remote Presentation Chairs</h3>
-Yi Luan, Google AI Language 
+Yi Luan, Google AI Language <br/>
 Hao Fang, Microsoft Semantic Machines
 
 <h3>Website &amp; Conference App Chairs</h3>
