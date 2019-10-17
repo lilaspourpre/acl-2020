@@ -247,7 +247,8 @@ The tentative individual dates for 2019 workshops is as follows:
 **ACL**<br/>
 Milica Gašić, Heinrich Heine University Düsseldorf<br/>
 Saif M. Mohammad, National Research Council Canada<br/>
-Dilek Hakkani-Tur, Amazon Alexa AI
+Dilek Hakkani-Tur, Amazon Alexa AI <br/>
+Ves Stoyanov, Facebook AI 
 
 **COLING**<br/>
 Preslav Nakov, Qatar Computing Research Institute, HBKU<br/>

@@ -27,7 +27,7 @@ Yue Zhang, Westlake University
 Milica Gašić,  Heinrich Heine University Düsseldorf<br/>
 Dilek Hakkani-Tur, Amazon Alexa AI<br/>
 Saif M. Mohammad, National Research Council Canada<br/>
-Ves Stoyanov, Facebook Research 
+Ves Stoyanov, Facebook AI 
 
 <h3>Student Research Workshop Chairs</h3>
 Rotem Dror, Technion - Israel Institute of Technology<br/>
@@ -67,8 +67,9 @@ Rui Yan, Peking University
 <h3>Publicity Chair</h3>
 Emily M. Bender, University of Washington
 
-<h3>Remote Presentation Chair</h3>
+<h3>Remote Presentation Chairs</h3>
 Yi Luan, Google AI Language 
+Hao Fang, Microsoft Semantic Machines
 
 <h3>Website &amp; Conference App Chairs</h3>
 Sudha Rao, Microsoft Research, Redmond <br/>
