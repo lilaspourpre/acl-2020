@@ -1,5 +1,5 @@
 ---
-title: "PC Blog Post about Double Sumissions"
+title: "Archive Papers and Double Sumissions"
 author: program-chairs
 author_profile: true
 excerpt: ""
