@@ -24,11 +24,11 @@ A2: Yes, as long as any non-anonymized versions of  the paper are posted before 
 
 A3: It depends. 
 
-If the venue ABC you submitted the paper to does not allow a double submission (e.g., ICLR), you should not submit the paper to ACL2020.  ACL double submission policy is mainly intended for papers which are or will be submitted to workshops and other smaller venues. 
+If the venue ABC you submitted the paper to does not allow a double submission, you should not submit the paper to ACL2020.  ACL double submission policy is mainly intended for papers which are or will be submitted to workshops and other smaller venues. 
 
 If ABC allows a double submission then it depends on whether there are any non-anonymized versions posted online.  If there is no non-anonymized version or if any non-anonymized versions are  posted online before November 9 (the start of the anonymity period), you can submit the paper to ACL.  You will need to specify the venue where the paper is under review on the submission form.
 
-### Q4: Can I resubmit my ICLR 2020 submission  to ACL 2020? 
+### Q4: Can I resubmit my ICLR 2020 submission to ACL 2020? 
 
 A4: See Q3/A3 regarding double submission. 
 
