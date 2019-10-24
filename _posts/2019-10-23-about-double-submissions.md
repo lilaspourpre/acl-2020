@@ -5,8 +5,7 @@ author_profile: true
 excerpt: ""
 tags:
   papers
-  tracks
-  theme
+  FAQ
 categories:
     blog
 ---
