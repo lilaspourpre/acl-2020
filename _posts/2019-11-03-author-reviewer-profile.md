@@ -63,7 +63,7 @@ Here are some key dates of the conference for your reference:
 - <b>April 03, 2020:</b> Accept / Reject Notifications
 - <b>July 5, 2020:</b> Conference starts
 
-Your cooperation is critical to the success of ACL 20 and future ACL conferences. We appreciate your time and effort! 
+Your cooperation is critical to the success of ACL2020 and future ACL conferences. We appreciate your time and effort! 
 
 <h2> Commonly Asked Questions </h2>
 
