@@ -146,6 +146,7 @@ ACL 2020 has the goal of a broad technical program. Relevant topics for the conf
 - Machine Translation
 - NLP Applications
 - Phonology, Morphology and Word Segmentation
+- Question Answering
 - Resources and Evaluation
 - Semantics: Lexical
 - Semantics: Sentence Level
@@ -154,8 +155,7 @@ ACL 2020 has the goal of a broad technical program. Relevant topics for the conf
 - Speech and Multimodality
 - Summarization
 - Syntax: Tagging, Chunking and Parsing
-- Question Answering
- 
+- Theme 
 
 ## Paper Submission Information 
 
