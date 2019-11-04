@@ -77,7 +77,7 @@ We do understand that extenuating circumstances may arise. In this case, please 
 
 ### 3. I understand as an author, it’s only fair if I contribute to the review process. However, I do have a situation during the reviewing time window that will prevent me from participating.  Is there an option for me to indicate this? 
 
-Yes. On the ACL2020 reviewer/author information form, Question 11, please select “Due to special circumstances I am unable to review this year”. 
+Yes. On the ACL2020 reviewer/author information form, Question 12, please select “Due to special circumstances I am unable to review this year”. 
 
 ### 4. I have a START account, I do not plan to submit a paper, can I still review for ACL2020? 
 
