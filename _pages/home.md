@@ -8,6 +8,21 @@ header:
 excerpt: "<br/><br/>"
 ---
 
+<h2>News</h2>
+
+**Nov 5, 2020**. The [blog post on arXiv and double submissions](/blog/arxiv-papers-double-submissions/) by PC chairs has been updated with answers to some more FAQs.
+{: .notice--info}
+
+**Nov 3, 2020**. A new sign-up process for authors and reviewers has been introduced at ACL2020. The latest [blog post](/blog/author-reviewer-profile/) by PC chairs provides detailed instructions on how to sign up.
+{: .notice--info}
+
+**Nov 3, 2020**. The [second call for papers](/calls/papers/) is out!
+{: .notice--info}
+
+**Oct 23, 2020**. Checkout the new [blog post](/blog/arxiv-papers-double-submissions/) on arXiv and double submissions by the PC chairs.
+{: .notice--info}
+
+
 <h2>Welcome!</h2>
 
 The 58th annual meeting of the Association for Computational Linguistics (ACL) will take place in Seattle, Washington at the [Hyatt Regency Seattle](https://www.hyatt.com/en-US/hotel/washington/hyatt-regency-seattle/sears) in downtown Seattle from July 5th through July 10th, 2020.
