@@ -37,7 +37,7 @@ We have several exciting and important developments in the ACL2020 conference th
 
 [https://forms.office.com/Pages/ResponsePage.aspx?id=9028kaqAQ0OMdrEjlJf7WV1_1tZ1K-JCmL49YyhKe89UQTczV0xMNVhZSzhaWjVaNzJIS0U2MzNXUy4u](https://forms.office.com/Pages/ResponsePage.aspx?id=9028kaqAQ0OMdrEjlJf7WV1_1tZ1K-JCmL49YyhKe89UQTczV0xMNVhZSzhaWjVaNzJIS0U2MzNXUy4u)
 
-A blog post including more detailed instructions and commonly asked questions will be found here: [https://acl2020.org/blog/](https://acl2020.org/blog/)
+A blog post including more detailed instructions and commonly asked questions will be found here: [https://acl2020.org/blog/author-reviewer-profile/](https://acl2020.org/blog/author-reviewer-profile/)
 
 <b>2. Paper Submission and Templates: </b>Submission is electronic, using the Softconf START conference management system.  The submission site is now available at: [https://www.softconf.com/acl2020/papers/](https://www.softconf.com/acl2020/papers/)
 

@@ -63,7 +63,7 @@ Here are some key dates of the conference for your reference:
 - <b>April 03, 2020:</b> Accept / Reject Notifications
 - <b>July 5, 2020:</b> Conference starts
 
-Your cooperation is critical to the success of ACL 20 and future ACL conferences. We appreciate your time and effort! 
+Your cooperation is critical to the success of ACL2020 and future ACL conferences. We appreciate your time and effort! 
 
 <h2> Commonly Asked Questions </h2>
 
@@ -77,7 +77,7 @@ We do understand that extenuating circumstances may arise. In this case, please 
 
 ### 3. I understand as an author, it’s only fair if I contribute to the review process. However, I do have a situation during the reviewing time window that will prevent me from participating.  Is there an option for me to indicate this? 
 
-Yes. On the ACL2020 reviewer/author information form, Question 11, please select “Due to special circumstances I am unable to review this year”. 
+Yes. On the ACL2020 reviewer/author information form, Question 12, please select “Due to special circumstances I am unable to review this year”. 
 
 ### 4. I have a START account, I do not plan to submit a paper, can I still review for ACL2020? 
 
