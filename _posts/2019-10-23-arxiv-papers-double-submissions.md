@@ -20,7 +20,7 @@ A6: For arXiv submissions, November 9 11:59pm UTC-12h (anywhere on earth) is the
 
 A7. No. The non-anonymized version may not be updated, nor made publically available at additional sites during the anonymity period. 
 
-### Q8 <font color="red">(new)</font> : Do we have to withdraw ICLR submissions by November 9 in order to submit to ACL? 
+### <font color="red">(new)</font> Q8: Do we have to withdraw ICLR submissions by November 9 in order to submit to ACL? 
 
 A8: Yes.  
 
