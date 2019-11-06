@@ -35,6 +35,16 @@ ACL is the premier conference of the field of computational linguistics, coverin
 <table style="width: 90%">
     <tbody>
         <tr>
+            <td style="width: 40%;">Completion of START Global Profile</td>
+            <td style="width: 30%;">Monday</td>
+            <td>December 9, 2019</td>
+        </tr>
+        <tr>
+            <td style="width: 40%;">Completion of ACL2020 Reviewer and Chair/Author Information Form</td>
+            <td style="width: 30%;">Monday</td>
+            <td>December 9, 2019</td>
+        </tr>
+        <tr>
             <td style="width: 40%;">Submission deadline<br/>(<i>long &amp; short papers</i>)</td>
             <td style="width: 30%;">Monday</td>
             <td>December 9, 2019</td>
@@ -54,6 +64,11 @@ ACL is the premier conference of the field of computational linguistics, coverin
           <td>Friday</td>
           <td>April 24, 2020</td>
         </tr>
+        <tr>
+            <td>Proceedings publication</td>
+            <td>Friday</td>
+            <td>June 19, 2020</td>
+        </tr>        
         <tr>
             <td>Tutorials</td>
             <td>Sunday</td>
