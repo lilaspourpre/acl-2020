@@ -31,6 +31,7 @@ According to the ICLR policy, the withdrawn papers will be de-anonymized right a
 
 Recommendation: if you want to submit to ACL, the paper must be withdrawn by November 9.  And probably before then depending on how “right away” ICLR posts withdrawn papers.
 
+---
 ### Q1: I have an anonymized version of my paper online, can I submit it to ACL2020? 
 
 A1: Yes, by all means. 
