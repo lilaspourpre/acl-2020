@@ -12,15 +12,15 @@ categories:
 
 ## FAQ for archive papers and double submissions: 
 
-### <font color="green">(new)</font> Q6: Is the November 9 deadline a submission deadline or a publication deadline? 
+### <font color="red">(new)</font> Q6: Is the November 9 deadline a submission deadline or a publication deadline? 
 
 A6: For arXiv submissions, November 9 11:59pm UTC-12h (anywhere on earth) is the submission deadline. The actual publication on the archive may take a day or two after that. For other non-anonymized versions, it is the deadline when such a version becomes public. 
 
-### <font color="green">(new)</font>  Q7: I have made my non-anonymized version public before the Nov. 9 deadline. Is it ok to update the non-anonymized version or to have the same non-anonymized version posted somewhere else during the anonymity period? 
+### <font color="red">(new)</font>  Q7: I have made my non-anonymized version public before the Nov. 9 deadline. Is it ok to update the non-anonymized version or to have the same non-anonymized version posted somewhere else during the anonymity period? 
 
 A7. No. The non-anonymized version may not be updated, nor made publically available at additional sites during the anonymity period. 
 
-### Q8 <font color="green">(new)</font> : Do we have to withdraw ICLR submissions by November 9 in order to submit to ACL? 
+### Q8 <font color="red">(new)</font> : Do we have to withdraw ICLR submissions by November 9 in order to submit to ACL? 
 
 A8: Yes.  
 
