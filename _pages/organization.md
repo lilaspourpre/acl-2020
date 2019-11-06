@@ -55,7 +55,7 @@ Cecilia Ovesdotter Alm, Rochester Institute of Technology<br/>
 <!--Barbara Plank, IT University of Copenhagen<br/>-->
 Vinodkumar Prabhakaran, Google
 
-<h3>Local Sponsorshop Chairs</h3>
+<h3>Local Sponsorship Chairs</h3>
 Hoifung Poon, Microsoft <br/>
 Kristina Toutanova, Google
 
