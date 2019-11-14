@@ -1,6 +1,6 @@
 ---
 title: "Improving ACL Conflict-of-interest Detection and Reviewer Matching"
-author: "Amanda Stent and Graham Neubig" 
+author: amanda-graham 
 author_profile: true
 excerpt: ""
 tags:
@@ -50,13 +50,13 @@ Based on our experience with ACL 2020, we are considering running a shared task 
 
 1. Please complete your START Global User Profile as soon as possible. To do this, log in to [START](https://www.softconf.com/acl2020/). Then, click on “Update Profile”. Here is a picture of the profile screen:
 
-<img width="100%" src="/assets/images/profile_update_example.png"/><br/>
+<img width="100%" src="/assets/images/profile_update_example.png"/>
 
 Here is some information from Semantic Scholar about how to find a Semantic Scholar profile ID: <i> One way to do this is to type "Semantic Scholar" and your name into a search engine of your choice, and find the returned profile that corresponds to you.  Another option is to find one of your papers on [www.semanticscholar.org](www.semanticscholar.org), and click on your name, or you can search for your name on Semantic Scholar and pick the page with most of your work from the author panel on the right-hand side of the search results. </i>
 
 Semantic Scholar is working closely with us. Here is information from them about what to do if your profile contains errors:
 
-<i>You can add or remove papers by claiming your profile (click on "CLAIM AUTHOR PAGE") and fix paper details using the "Contact" button on the top right of the page. Feel free to contact [Semantic Scholar Support](mailto:feedback@semanticscholar.org?subject=ACL%20Author%20Inquiry) with questions or concerns.</i><br/>
+<i>You can add or remove papers by claiming your profile (click on "CLAIM AUTHOR PAGE") and fix paper details using the "Contact" button on the top right of the page. Feel free to contact [Semantic Scholar Support](mailto:feedback@semanticscholar.org?subject=ACL%20Author%20Inquiry) with questions or concerns.</i>
 
 2. If you are interested in reviewing for ACL 2020, or are intending to submit a paper to ACL 2020, please fill out the ACL 2020 author/reviewer survey as soon as possible. <br/>
 3. If the program chairs or area chairs contact you with a question about your profile, please respond promptly. <br/>

@@ -38,12 +38,9 @@ remote-presentation-chairs:
   bio         : "Meg Mitchell &amp; Abhinav Misra"
   avatar      : "assets/images/avatars/rp-chairs.png"
 
-ted:
-  name        : "Ted Pedersen"
-  uri         : "https://www.d.umn.edu/~tpederse"
-  email       : "tpederse AT d umn edu"
-  bio         : "Program Co-chair | Professor, Computer Science, University of Minnesota in Duluth."
-  twitter     : "seetedtalk"
+amanda-graham:
+  name        : "Amanda Stent & Graham Neubig"
+
 
 thamar:
   name        : "Thamar Solorio"
