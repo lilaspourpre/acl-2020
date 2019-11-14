@@ -10,6 +10,8 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**Nov 13, 2019**. A new blog post on [conflict of interest and reviewer matching](/blog/conflict-of-interest/) by Amanda Stent and Graham Neubig. 
+
 **Nov 5, 2019**. The [blog post on arXiv and double submissions](/blog/arxiv-papers-double-submissions/) by PC chairs has been updated with answers to some more FAQs.
 {: .notice--info}
 
