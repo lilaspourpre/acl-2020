@@ -50,7 +50,7 @@ Based on our experience with ACL 2020, we are considering running a shared task 
 
 1. Please complete your START Global User Profile as soon as possible. To do this, log in to [START](https://www.softconf.com/acl2020/). Then, click on “Update Profile”. Here is a picture of the profile screen:
 
-<img width="100%" src="assets/images/profile_update_example.png"/><br/>
+<img width="100%" src="/assets/images/profile_update_example.png"/><br/>
 
 Here is some information from Semantic Scholar about how to find a Semantic Scholar profile ID: <i> One way to do this is to type "Semantic Scholar" and your name into a search engine of your choice, and find the returned profile that corresponds to you.  Another option is to find one of your papers on [www.semanticscholar.org](www.semanticscholar.org), and click on your name, or you can search for your name on Semantic Scholar and pick the page with most of your work from the author panel on the right-hand side of the search results. </i>
 
