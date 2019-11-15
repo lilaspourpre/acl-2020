@@ -40,7 +40,7 @@ In recent years, for *ACL conferences papers were generally matched to reviewers
 This year, we are developing an in-house paper matching system for ACL that aims to create a first-pass reviewer allocation, that area chairs can then go in and modify to create the final assignments. Briefly, the system works by:
 
 1. Gathering papers written in the past by ACL reviewers from Semantic Scholar <br/>
-2. Based on the content of the abstracts of (a) papers submitted to ACL, and (b) papers previously written by reviewers, calculate between-paper similarity scores </br>
+2. Based on the content of the abstracts of (a) papers submitted to ACL, and (b) papers previously written by reviewers, calculate between-paper similarity scores <br/>
 3. Create a score for the match between a reviewer and a paper based on the similarity scores for the top few most similar papers that the reviewer has written <br/>
 4. Create a reviewer assignment, trying to match reviewers with papers that they are the best fit for, while making sure that no reviewer gets too many (or too few) assignments. <br/>
 
