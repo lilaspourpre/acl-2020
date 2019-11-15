@@ -12,7 +12,7 @@ categories:
 
 We all know that ACL conferences are getting bigger, and this is great: reflecting a burgeoning and vigorous community. At the same time, it also means that the amount of work that goes into managing various aspects of the conference is growing greatly as well. In particular, ensuring an effective and fair review process with multiple thousands of papers is a significant challenge that requires a huge amount of work by everyone in the process: from program chairs and area chairs, to reviewers.
 
-To help improve our reviewing process, the ACL organization formed a committee during ACL 2019 to make the review process more effective. One of the first actions of the committee is to move towards <b> improved automation of conflict-of-interest (COI) management and improved (semi-)automation of reviewer-paper matching </b>. The committee has extensively discussed the best way to perform this automation, and produced a report on [design decisions that went into this process](https://docs.google.com/document/d/1q8Hr6JQgSnIxDbExiwGSu_3F3sdA875eSg_HykwILOY/edit).
+To help improve our reviewing process, the ACL organization formed a committee during ACL 2019 to make the review process more effective. One of the first actions of the committee is to move towards <b>improved automation of conflict-of-interest (COI) management and improved (semi-)automation of reviewer-paper matching </b>. The committee has extensively discussed the best way to perform this automation, and produced a report on [design decisions that went into this process](https://docs.google.com/document/d/11lDNobZnGczM1qzzRhOBEj8wLHOUydDmrYoHLmJ0bhg/edit?usp=sharing).
 
 In this blog post, we briefly explain the path we are currently pursuing. This also serves the purpose of explaining why there have been [extra steps to set up your profile](/blog/author-reviewer-profile/) as potential ACL 2020 reviewers and authors. We welcome any feedback on the process!
 
@@ -31,7 +31,7 @@ In order to determine whether COIs exist, we are collecting information from sou
 1. User profiles in the START system where ACL papers will be submitted. Here conflicts of interest falling under areas #2, #4, or #5 can be manually listed and will be processed by our system. This information will be available only to chairs involved in the organization of the conference, and only when an author or reviewer is added to the conference through submission or indication of willingness to review. <br/>
 2. The reviewers’ and authors’ submissions via the START system, and their publications on [Semantic Scholar](https://www.semanticscholar.org/), a large database of academic publications (this allows us to find co-authored papers that were not submitted via START).<br/>
 
-The reasons for choosing START (instead of other alternatives such as OpenReview or CMT), and Semantic Scholar (instead of other alternatives such as Google Scholar, the ACL Anthology, or orcid) are discussed thoroughly in the [design document](https://docs.google.com/document/d/1q8Hr6JQgSnIxDbExiwGSu_3F3sdA875eSg_HykwILOY/edit)
+The reasons for choosing START (instead of other alternatives such as OpenReview or CMT), and Semantic Scholar (instead of other alternatives such as Google Scholar, the ACL Anthology, or orcid) are discussed thoroughly in the [design document](https://docs.google.com/document/d/11lDNobZnGczM1qzzRhOBEj8wLHOUydDmrYoHLmJ0bhg/edit?usp=sharing)
 
 <h2>Reviewer-Paper Matching</h2>
 
