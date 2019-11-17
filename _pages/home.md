@@ -10,7 +10,7 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
-**Nov 16, 2019**. List of [Senior Area Chairs](/organization/) is now available!
+**Nov 16, 2019**. List of [Senior Area Chairs](/organization) is now available!
 {: .notice--info} 
 
 **Nov 13, 2019**. A new blog post on [conflict of interest and reviewer matching](/blog/conflict-of-interest/) by Amanda Stent and Graham Neubig.
