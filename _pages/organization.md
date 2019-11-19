@@ -21,7 +21,7 @@ Joel Tetreault, Dataminr, USA
 [Tim Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/), University of Melbourne
 
 <h3>Senior Area Chairs: Dialogue and Interactive Systems</h3>
-[Jason Williams](https://sites.google.com/view/jasondwilliams), Amazon
+[Jason Williams](https://sites.google.com/view/jasondwilliams), Apple
 
 <h3>Senior Area Chairs: Discourse and Pragmatics</h3>
 [Diane Litman](https://people.cs.pitt.edu/~litman/), University of Pittsburgh
@@ -37,7 +37,7 @@ Joel Tetreault, Dataminr, USA
 [Doug Downey](https://users.cs.northwestern.edu/~ddowney/), Northwestern University
 
 <h3>Senior Area Chairs: Information Retrieval and Text Mining</h3>
-[Chin-Yew Lin](https://www.microsoft.com/en-us/research/people/cyl/), Microsoft
+[Chin-Yew Lin](https://www.microsoft.com/en-us/research/people/cyl/), Microsoft <br/>
 [Nazli Goharian](http://people.cs.georgetown.edu/~nazli/), Georgetown University
 
 <h3>Senior Area Chairs: Interpretability and Analysis of Models for NLP</h3>
