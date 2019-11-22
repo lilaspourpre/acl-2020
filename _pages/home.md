@@ -10,6 +10,9 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**Nov 21, 2019**. List of [accepted workshops](/program/workshops) is now available! 
+{: .notice--info} 
+
 **Nov 16, 2019**. List of [Senior Area Chairs](/organization) is now available!
 {: .notice--info} 
 
@@ -17,9 +20,6 @@ excerpt: "<br/><br/>"
 {: .notice--info} 
 
 **Nov 5, 2019**. The [blog post on arXiv and double submissions](/blog/arxiv-papers-double-submissions/) by PC chairs has been updated with answers to some more FAQs.
-{: .notice--info}
-
-**Nov 3, 2019**. A new sign-up process for authors and reviewers has been introduced at ACL2020. The latest [blog post](/blog/author-reviewer-profile/) by PC chairs provides detailed instructions on how to sign up.
 {: .notice--info}
 
 <div class="text-center">
