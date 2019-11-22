@@ -14,7 +14,7 @@ sidebar:
 
 ### IWSLT 
 17th International Workshop on Spoken Language Translation is an annual scientific workshop, associated with an open evaluation campaign on varying dimensions of spoken language translation. <br/>
-*Organizers: Marcello Federico, Alexander Waibel, Jiatao Gu, Kevin Knight, Will Lewis, Satoshi Nakamura, Hermann Ney, Jan Niehues, Sebastian StÃ¼ker and Marco Turchi*
+*Organizers: Marcello Federico, Alexander Waibel, Jiatao Gu, Kevin Knight, Will Lewis, Satoshi Nakamura, Hermann Ney, Jan Niehues, Sebastian Stüker and Marco Turchi*
 
 ## One Day Workshops
 
@@ -48,7 +48,7 @@ The 2nd Workshop on Figurative Language Processing aims to discuss computational
 
 ### IWPT
 The 16th International Conference on Parsing Technologies. All things related to the analysis of language structure, with a shared task on Multilingual Parsing to Enhanced Universal Dependencies. <br/>
-*Organizers: Yuji Matsumoto, Stephan Oepen, Kenji Sagae, Anders SÃ¸gaard, Weiwei Sun and Reut Tsarfaty*
+*Organizers: Yuji Matsumoto, Stephan Oepen, Kenji Sagae, Anders Søgaard, Weiwei Sun and Reut Tsarfaty*
 
 ### NLI
 Natural Language Interfaces: Challenges and Promises. This multidisciplinary workshop retrospectively and prospectively discusses the challenges and promises of natural language interfaces. <br/>
@@ -56,7 +56,7 @@ Natural Language Interfaces: Challenges and Promises. This multidisciplinary wor
 
 ### NLP4ConvAI
 NLP for Conversational AI workshop aims at building a ConvAI community where ideas and latest progresses can be shared freely and openly. <br/> 
-*Organizers: Tsung-Hsien Wen, Asli Celikyilmaz, IÃ±igo Casanueva, Mihail Eric, Anuj Kumar, Alexandros Papangelis, Rushin Shah and Zhou Yu*
+*Organizers: Tsung-Hsien Wen, Asli Celikyilmaz, Iñigo Casanueva, Mihail Eric, Anuj Kumar, Alexandros Papangelis, Rushin Shah and Zhou Yu*
 
 ### NLPMC
 NLP for Medical Conversations. Building the clinical decision support systems as cognitive assistants by bridging the gap between NLP research and medical practice. <br/>
