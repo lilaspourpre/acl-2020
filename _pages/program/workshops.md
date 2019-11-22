@@ -14,7 +14,7 @@ sidebar:
 
 ### IWSLT 
 17th International Workshop on Spoken Language Translation is an annual scientific workshop, associated with an open evaluation campaign on varying dimensions of spoken language translation. <br/>
-*Organizers: Tsung-Hsien Wen, Asli Celikyilmaz, IÃ±igo Casanueva, Mihail Eric, Anuj Kumar, Alexandros Papangelis, Rushin Shah and Zhou Yu*
+*Organizers: Marcello Federico, Alexander Waibel, Jiatao Gu, Kevin Knight, Will Lewis, Satoshi Nakamura, Hermann Ney, Jan Niehues, Sebastian StÃ¼ker and Marco Turchi*
 
 ## One Day Workshops
 
@@ -60,7 +60,7 @@ NLP for Conversational AI workshop aims at building a ConvAI community where ide
 
 ### NLPMC
 NLP for Medical Conversations. Building the clinical decision support systems as cognitive assistants by bridging the gap between NLP research and medical practice. <br/>
-*Organizers: Parminder Bhatia, Chaitanya Shivade, Mona Diab, byron wallace, Rashmi Gangadharaiah, nan du, Izhak Shafran and Steven Lin*
+*Organizers: Parminder Bhatia, Chaitanya Shivade, Mona Diab, Byron Wallace, Rashmi Gangadharaiah, Nan Du, Izhak Shafran and Steven Lin*
 
 ### NUSE
 The 1st Joint Workshop on Narrative Understanding, Storylines, and Events invites researchers in AI/NLP/Vision/DH &amp; beyond to discuss methods/fiction/news/social media<br/>
@@ -68,7 +68,7 @@ The 1st Joint Workshop on Narrative Understanding, Storylines, and Events invite
 
 ### RepL4NLP 
 The 5th Workshop on Representation Learning for NLP is a large workshop on vector space models of meaning, neural networks, spectral methods, with interdisciplinary keynotes, posters, panel. <br/>
-*Organizers: Emma Strubell, Spandana Gella, Marek Rei, Johannes Welbl, Fabio Petroni, Patrick Lewis, NOTUSED NOTUSED, Hannaneh Hajishirzi, Kyunghyun Cho, Edward Grefenstette, Karl Moritz Hermann, Laura Rimell, Chris Dyer and Isabelle Augenstein*
+*Organizers: Emma Strubell, Spandana Gella, Marek Rei, Johannes Welbl, Fabio Petroni, Patrick Lewis, Hannaneh Hajishirzi, Kyunghyun Cho, Edward Grefenstette, Karl Moritz Hermann, Laura Rimell, Chris Dyer and Isabelle Augenstein*
 
 ### SIGMORPHON 
 SIGMORPHON brings together researchers interested in applying computational techniques to problems in morphology, phonology, and phonetics. <br/>
