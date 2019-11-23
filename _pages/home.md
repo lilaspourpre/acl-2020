@@ -10,17 +10,17 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**Nov 23, 2019**. Just a reminder that if you plan to submit to ACL2020, all authors must sign up to be in the reviewing pool by completing both the Global Profile and ACL2020 Information Form. Details [here](/blog/author-reviewer-profile/).
+{: .notice--info} 
+
+**Nov 23, 2019**. ACL2020 is expected to have a massive number of submissions this year and we need your help reviewing!  Please sign up to be a part of the reviewing pool by filling out the  Global Profile and ACL2020 Information Form. Details [here](/blog/author-reviewer-profile/). 
+{: .notice--info} 
+
 **Nov 21, 2019**. List of [accepted workshops](/program/workshops) is now available! 
 {: .notice--info} 
 
 **Nov 16, 2019**. List of [Senior Area Chairs](/organization) is now available!
 {: .notice--info} 
-
-**Nov 13, 2019**. A new blog post on [conflict of interest and reviewer matching](/blog/conflict-of-interest/) by Amanda Stent and Graham Neubig.
-{: .notice--info} 
-
-**Nov 5, 2019**. The [blog post on arXiv and double submissions](/blog/arxiv-papers-double-submissions/) by PC chairs has been updated with answers to some more FAQs.
-{: .notice--info}
 
 <div class="text-center">
     <a href="/archive/" style="font-size: smaller; font-decoration: italic;">Older News</a>
