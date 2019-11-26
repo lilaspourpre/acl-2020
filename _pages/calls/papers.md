@@ -80,6 +80,11 @@ The 58th Annual Meeting of the Association for Computational Linguistics (ACL 20
             <td>December 9, 2019</td>
         </tr>
         <tr>
+            <td style="width: 40%;">Paper review rebuttal period<br/></td>
+            <td style="width: 30%;">Wednesday &ndash; Monday</td>
+            <td>February 12 &ndash; 17, 2020</td>
+        </tr>
+        <tr>
             <td>Notification of acceptance<br/>(<i>long &amp; short papers</i>)</td>
             <td>Friday</td>
             <td>April 3, 2020</td>
