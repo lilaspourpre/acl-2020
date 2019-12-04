@@ -12,7 +12,7 @@ categories:
 
 We are only six days away from the submission deadline!!  ACL 2020 is experimenting with several new implementations to keep up with the growing number of submissions. First of all,  we would like to thank you for your patience and cooperation!
 
-Before we hit the home run, here are a couple reminders/clarifications regarding the Global Profile and the Author/Reviewer information form. 
+Here are a couple reminders/clarifications regarding the Global Profile and the Author/Reviewer information form. 
 
 ### Do I need to fill both Global Profile and Author/Reviewer information form?
 
@@ -23,7 +23,7 @@ Yes. [Global Profile](https://www.softconf.com/acl2020/papers/user/) is within t
 Yes. It is mandatory to provide your Semantic Scholar ID which allows the automatic detection of COI and reviewer assignment (please check [this blog](https://acl2020.org/blog/conflict-of-interest/) from Amanda Stent and Graham Neubig for details). In addition, these two boxes in the Global Profile are crucial:
 - Affiliations - Past and Present
 - Please enter the Semantic Scholar IDs of everyone who may be biased in reviewing your submission.
-In the Global Profile, if a field does not apply to you, please leave it blank. 
+- In the Global Profile, if a field does not apply to you, please leave it blank. 
 
 Here is some information from Semantic Scholar about how to find a Semantic Scholar profile ID: One way to do this is to type “Semantic Scholar” and your name into a search engine of your choice, and find the returned profile that corresponds to you. Another option is to find one of your papers on [www.semanticscholar.org](https://acl2020.org/blog/conflict-of-interest/www.semanticscholar.org), and click on your name, or you can search for your name on Semantic Scholar and pick the page with most of your work from the author panel on the right-hand side of the search results.
 
