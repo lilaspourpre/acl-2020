@@ -28,6 +28,8 @@ In the Global Profile, if a field does not apply to you, please leave it blank.
 
 Here is some information from Semantic Scholar about how to find a Semantic Scholar profile ID: One way to do this is to type “Semantic Scholar” and your name into a search engine of your choice, and find the returned profile that corresponds to you. Another option is to find one of your papers on [www.semanticscholar.org](https://acl2020.org/blog/conflict-of-interest/www.semanticscholar.org), and click on your name, or you can search for your name on Semantic Scholar and pick the page with most of your work from the author panel on the right-hand side of the search results.
 
+Your Semantic Scholar ID is an url.  For example, Noam Chomsky's is https://www.semanticscholar.org/author/Noam-Chomsky/2329142.
+
 You can add or remove papers by claiming your profile (click on “CLAIM AUTHOR PAGE”) and fix paper details using the “Contact” button on the top right of the page. Feel free to contact [Semantic Scholar Support](mailto:feedback@semanticscholar.org) with questions or concerns.
 
 ### I filled the Author/Reviewer information form, will I get a confirmation? Can I update the form after I submit it? 
