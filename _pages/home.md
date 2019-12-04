@@ -10,16 +10,13 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**Dec 3, 2019**. It is only six days to the paper deadline! Checkout the new [PC blog post](/blog/six-days-before-deadline) addressing some last minute questions about the Global Profile and Author/Reviewer form! 
+{: .notice--info} 
+
 **Nov 23, 2019**. Just a reminder that if you plan to submit to ACL2020, all authors must sign up to be in the reviewing pool by completing both the Global Profile and ACL2020 Information Form. Details [here](/blog/author-reviewer-profile/).
 {: .notice--info} 
 
 **Nov 23, 2019**. ACL2020 is expected to have a massive number of submissions this year and we need your help reviewing!  Please sign up to be a part of the reviewing pool by filling out the  Global Profile and ACL2020 Information Form. Details [here](/blog/author-reviewer-profile/). 
-{: .notice--info} 
-
-**Nov 21, 2019**. List of [accepted workshops](/program/workshops) is now available! 
-{: .notice--info} 
-
-**Nov 16, 2019**. List of [Senior Area Chairs](/organization) is now available!
 {: .notice--info} 
 
 <div class="text-center">
