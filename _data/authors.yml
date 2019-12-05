@@ -6,37 +6,11 @@ program-chairs:
   bio         : "Joyce Chai, Natalie Schluter, and Joel Tetreault"
   avatar      : "assets/images/logos/acl-logo.png"
 
-student-workshop-chairs:
-  name        : "Student Research Workshop Co-Chairs"
-  uri         : "https://naacl2019-srw.github.io"
-  email       : "naacl-2019-student-research-workshop@googlegroups.com"
-  bio         : "Sudipta Kar, Farah Nadeem, Laura Wendlandt, Greg Durrett, and Na-Rae Han"
-  avatar      : "assets/images/avatars/srw-chairs.png"
-
-diversity-inclusion-chairs:
-  name        : "Diversity & Inclusion Co-Chairs"
-  email       : "naacl2019-diversity-inclusion-chairs@googlegroups.com"
-  bio         : "Natalie Schluter and Jason Eisner"
-  avatar      : "assets/images/avatars/di-chairs.png"
-
-diversity-inclusion-disability:
-  name        : "Diversity & Inclusion Committee – Disability Access"
-  email       : "naacl2019-diversity-inclusion-chairs@googlegroups.com"
-  bio         : "Cassidy Henry and Adam Goodkind"
-  avatar      : "assets/images/avatars/di-chairs.png"
-
-diversity-inclusion-childcare:
-  name        : "Diversity & Inclusion Committee – Childcare & Parental Inclusion"
-  email       : "naacl2019-diversity-inclusion-chairs@googlegroups.com"
-  bio         : "Cecilia Ovesdotter Alm and Emily Prud'hommeaux"
-  avatar      : "assets/images/avatars/di-chairs.png"
-
-
 remote-presentation-chairs:
-  name        : "Remote Presentation Co-Chairs"
-  email       : "naacl-2019-remote-presentation@googlegroups.com"
-  bio         : "Meg Mitchell &amp; Abhinav Misra"
-  avatar      : "assets/images/avatars/rp-chairs.png"
+  name        : "Remote Presentation Chairs"
+  email       : "hao.fang@microsoft.com &amp; luanyi@google.com"
+  bio         : "Hao Fang &amp; Yi Luan"
+  avatar      : "assets/images/logos/acl-logo.png"
 
 amanda-graham:
   name        : "Amanda Stent & Graham Neubig"
