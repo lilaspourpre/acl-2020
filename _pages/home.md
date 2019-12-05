@@ -10,6 +10,9 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**Dec 4, 2019**. Checkout the new [blog post](/blog/remote-presentations) on remote presentation policy at ACL this year! 
+{: .notice--info} 
+
 **Dec 3, 2019**. It is only six days to the paper deadline! Checkout the new [PC blog post](/blog/six-days-before-deadline) addressing some last minute questions about the Global Profile and Author/Reviewer form! 
 {: .notice--info} 
 
