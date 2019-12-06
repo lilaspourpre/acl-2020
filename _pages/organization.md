@@ -134,10 +134,35 @@ Shawn Wen, PolyAI
 Hamid Palangi, Microsoft Research, Redmond <br/>
 Lianhui Qin, University of Washington 
 
-<h3>Diversity &amp; Inclusion Chairs</h3>
+<h3>Diversity &amp; Inclusion (D&amp;I) Chairs</h3>
 Cecilia Ovesdotter Alm, Rochester Institute of Technology<br/>
 <!--Barbara Plank, IT University of Copenhagen<br/>-->
 Vinodkumar Prabhakaran, Google
+
+<h3>D&amp;I: Academic Inclusion Chairs</h3>
+ 
+Aakanksha Naik, Carnegie Mellon University<br/>
+Emily Prud'hommeaux, Boston College<br/>
+Alla Rozovskaya, Queens College (City University of New York)
+
+<h3>D&amp;I: Accessibility Chairs</h3>
+Sushant Kafle, Rochester Institute of Technology<br/>
+Masoud Rouhizadeh, Johns Hopkins University<br/>
+Naomi Saphra, University of Edinburgh
+
+<h3>D&amp;I: Childcare Chairs</h3>
+Khyathi Chandu, Carnegie Mellon University<br/>
+Stephen Mayhew, Duolingo
+
+<h3>D&amp;I: Financial Access Chairs</h3>
+Allyson Ettinger, University of Chicago<br/>
+Ryan Georgi, KPMG<br/>
+Tirthankar Ghosal, Indian Institute of Technology (IIT) Patna
+
+<h3>D&amp;I: Socio-cultural Inclusion Chairs</h3>
+Shruti Palaskar, Carnegie Mellon University<br/>
+Maarten Sap, University of Washington
+
 
 <h3>Local Sponsorship Chairs</h3>
 Hoifung Poon, Microsoft <br/>
