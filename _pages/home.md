@@ -10,7 +10,7 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
-**Dec 10, 2019**. In the next two days we will be in touch with authors if there is any problem with their forms. There will be time to make any needed modifications.  We appreciate your understanding and patience.
+**Dec 10, 2019**. In the next two days we will be in touch with authors if there is any problem with their forms or profiles. There will be time to make any needed modifications.  We appreciate your understanding and patience.
 {: .notice--info} 
 
 **Dec 4, 2019**. Checkout the new [blog post](/blog/remote-presentations) on remote presentation policy at ACL this year! 
