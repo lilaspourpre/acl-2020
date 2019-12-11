@@ -3,9 +3,6 @@ title: Tutorials
 layout: single
 excerpt: "ACL 2020 Tutorials."
 permalink: /program/tutorials/
-toc: true
-toc_sticky: true
-toc_icon: "cog"
 sidebar: 
     nav: program
 ---
