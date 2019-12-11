@@ -19,7 +19,7 @@ The following tutorials have been accepted for ACL 2020 and will be held on Sund
 *Organizers: Emily M. Bender, Dirk Hovy and Alexandra Schofield* 
 
 ## T4: Interpretability and Analysis in Neural NLP (Cutting-edge) <br/>
-*Organizers: Neural NLP, Yonatan Belinkov, Sebastian Gehrmann and Ellie Pavlick* 
+*Organizers: Yonatan Belinkov, Sebastian Gehrmann and Ellie Pavlick* 
 
 ## T5: Multi-modal Information Extraction from Text, Semi-structured, and Tabular Data on the Web (Cutting-edge) <br/>
 *Organizers: Xin Luna Dong, Hannaneh Hajishirzi, Colin Lockard and Prashant Shiralkar* 
