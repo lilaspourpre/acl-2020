@@ -22,6 +22,10 @@ sidebar:
 Workshop on Advances in Language and Vision Research. Promoting the frontier of language and vision research and bringing researchers together to discuss real-world solutions in this area. <br/>
 *Organizers: Xin Wang, Jesse Thomason, Ronghang Hu, Xinlei Chen, Peter Anderson, Qi Wu, Asli Celikyilmaz, Jason Baldridge and William Yang Wang*
 
+### AutoSimTrans 
+The 1st Workshop on Automatic Simultaneous translation: challenges, recent advances,and future directions <br/>
+*Organizers: Hua Wu, Colin Cherry, Jiatao Gu, Liang Huang, Zhongjun He, Mark Liberman and Yang Liu*
+
 ### BEA
 The 15th Workshop on Innovative Use of NLP for Building Educational Applications. The BEA Workshop is a leading venue for NLP innovation in educational applications and one of the largest one-day workshops in ACL. <br/>
 *Organizers: Ekaterina Kochmar, Jill Burstein, Claudia Leacock, Nitin Madnani, Ildiko Pilan, Helen Yannakoudakis and Torsten Zesch*
@@ -85,9 +89,5 @@ The Fourth Widening NLP Workshop focuses on efforts to promote and support ideas
 ### WNGT
 The 4th Workshop on Neural Generation and Translation provides a forum for research in applications of neural models to language generation and translation tasks. <br/>
 *Organizers: Alexandra Birch, Graham Neubig, Andrew Finch, Hiroaki Hayashi, Kenneth Heafield, Ioannis Konstas, Yusuke Oda and Xian Li*
-
-### WST
-The 1st Workshop on Simultaneous translation: challenges, recent advances,and future directions <br/>
-*Organizers: Hua Wu, Colin Cherry, Jiatao Gu, Liang Huang, Zhongjun He, Mark Liberman and Yang Liu*
 
 
