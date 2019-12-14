@@ -10,16 +10,16 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**Dec 12, 2019**. List of accepted tutorials can be found [here](/program/tutorials).
+{: .notice--info} 
+
+**Dec 10, 2019**. In the next two days we will be in touch with authors if there is any problem with their forms or profiles. There will be time to make any needed modifications.  We appreciate your understanding and patience.
+{: .notice--info} 
+
 **Dec 4, 2019**. Checkout the new [blog post](/blog/remote-presentations) on remote presentation policy at ACL this year! 
 {: .notice--info} 
 
 **Dec 3, 2019**. It is only six days to the paper deadline! Checkout the new [PC blog post](/blog/six-days-before-deadline) addressing some last minute questions about the Global Profile and Author/Reviewer form! 
-{: .notice--info} 
-
-**Nov 23, 2019**. Just a reminder that if you plan to submit to ACL2020, all authors must sign up to be in the reviewing pool by completing both the Global Profile and ACL2020 Information Form. Details [here](/blog/author-reviewer-profile/).
-{: .notice--info} 
-
-**Nov 23, 2019**. ACL2020 is expected to have a massive number of submissions this year and we need your help reviewing!  Please sign up to be a part of the reviewing pool by filling out the  Global Profile and ACL2020 Information Form. Details [here](/blog/author-reviewer-profile/). 
 {: .notice--info} 
 
 <div class="text-center">
