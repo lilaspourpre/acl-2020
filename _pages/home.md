@@ -10,6 +10,9 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**Dec 15, 2019**. New blog post by PC chairs answering some [FAQs on Global Profile](/blog/global-profile-faqs).
+{: .notice--info} 
+
 **Dec 12, 2019**. List of accepted tutorials can be found [here](/program/tutorials).
 {: .notice--info} 
 
@@ -17,9 +20,6 @@ excerpt: "<br/><br/>"
 {: .notice--info} 
 
 **Dec 4, 2019**. Checkout the new [blog post](/blog/remote-presentations) on remote presentation policy at ACL this year! 
-{: .notice--info} 
-
-**Dec 3, 2019**. It is only six days to the paper deadline! Checkout the new [PC blog post](/blog/six-days-before-deadline) addressing some last minute questions about the Global Profile and Author/Reviewer form! 
 {: .notice--info} 
 
 <div class="text-center">
