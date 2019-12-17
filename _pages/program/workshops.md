@@ -13,7 +13,7 @@ sidebar:
 ## Two Day Workshops
 
 ### IWSLT 
-17th International Workshop on Spoken Language Translation is an annual scientific workshop, associated with an open evaluation campaign on varying dimensions of spoken language translation. <br/>
+The 17th International Conference on Spoken Language Translation (IWSLT) is an annual scientific conference for the study, development and evaluation of spoken language translation technology: speech-to-text, speech-to-speech translation, simultaneous and consecutive translation, speech dubbing, cross-lingual communication including all multimodal, emotional, para-linguistic, and stylistic aspects and their applications in the field. The conference organizes evaluations and workshop sessions around challenge areas, and presents scientific work and system descriptions. <br/>
 *Organizers: Marcello Federico, Alexander Waibel, Jiatao Gu, Kevin Knight, Will Lewis, Satoshi Nakamura, Hermann Ney, Jan Niehues, Sebastian Stüker and Marco Turchi*
 
 ## One Day Workshops
