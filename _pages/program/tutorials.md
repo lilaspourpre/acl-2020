@@ -11,7 +11,7 @@ The following tutorials have been accepted for ACL 2020 and will be held on Sund
 
 
 
-##Morning (9 a.m. to 12:30 p.m., with a break at 10:30-11:00)		
+## Morning (9 a.m. to 12:30 p.m., with a break at 10:30-11:00)		
 		
 ### T4: "Interpretability and Analysis in Neural NLP" (cutting-edge) <br/>
 *Organizers: Yonatan Belinkov, Sebastian Gehrmann and Ellie Pavlick* 
@@ -23,10 +23,9 @@ The following tutorials have been accepted for ACL 2020 and will be held on Sund
 *Organizers: Kevin Cohen, Karën Fort, Margot Mieskes and Aurélie Névéol* 
 
 ### T8: Stylized Text Generation: Approaches and Applications (Cutting-edge) <br/>
-*Organizers: Lili Mou and Olga Vechtomova* <br/>
-
+*Organizers: Lili Mou and Olga Vechtomova* 
 			
-##Afternoon (2 p.m. to 5:30 p.m., with a break at 3:30-4:00)
+## Afternoon (2 p.m. to 5:30 p.m., with a break at 3:30-4:00)
 
 ### T1: Achieving Common Ground in Multi-modal Dialogue (Cutting-edge) <br/>
 *Organizers: Malihe Alikhani and Matthew Stone* 
