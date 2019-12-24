@@ -22,7 +22,7 @@ The 17th International Conference on Spoken Language Translation (IWSLT) is an a
 Workshop on Advances in Language and Vision Research. Promoting the frontier of language and vision research and bringing researchers together to discuss real-world solutions in this area. <br/>
 *Organizers: Xin Wang, Jesse Thomason, Ronghang Hu, Xinlei Chen, Peter Anderson, Qi Wu, Asli Celikyilmaz, Jason Baldridge and William Yang Wang*
 
-### AutoSimTrans 
+### [AutoSimTrans](https://autosimtrans.github.io) 
 The 1st Workshop on Automatic Simultaneous translation: challenges, recent advances,and future directions <br/>
 *Organizers: Hua Wu, Colin Cherry, Jiatao Gu, Liang Huang, Zhongjun He, Mark Liberman and Yang Liu*
 
@@ -39,7 +39,7 @@ The Second Grand-Challenge and Workshop on Human Multimodal Language promotes th
 *Organizers: AmirAli Bagher Zadeh, Louis-Philippe Morency, Paul Pu Liang, Soujanya Poria and Ying Shen*
 
 ### ECNLP 
-The Second Workshop on e-Commerce and NLP focuses on NLP for e-Commerce and online shopping applications. Shared tasks on classification and Question Answering are included. <br/>
+The Third Workshop on e-Commerce and NLP focuses on NLP for e-Commerce and online shopping applications. Shared tasks on classification and Question Answering are included. <br/>
 *Organizers: Shervin Malmasi, Eugene Agichtein, Oleg Rokhlenko, Nicola Ueffing and Ido Guy*
 
 ### FEVER
