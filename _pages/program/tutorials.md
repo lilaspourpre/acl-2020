@@ -13,7 +13,7 @@ The following tutorials have been accepted for ACL 2020 and will be held on Sund
 *Organizers: Malihe Alikhani and Matthew Stone* 
 
 ## T2: Commonsense Reasoning for Natural Language Processing (Introductory) <br/>
-*Organizers: Maarten Sap, Vered Shwartz, Antoine Bosselut and Yejin Choi* 
+*Organizers: Maarten Sap, Vered Shwartz, Antoine Bosselut, Dan Roth and Yejin Choi* 
 
 ## T3: Integrating Ethics into the NLP Curriculum (Introductory) <br/>
 *Organizers: Emily M. Bender, Dirk Hovy and Alexandra Schofield* 
