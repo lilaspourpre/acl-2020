@@ -13,7 +13,7 @@ sidebar:
 ## Two Day Workshops
 
 ### IWSLT 
-17th International Workshop on Spoken Language Translation is an annual scientific workshop, associated with an open evaluation campaign on varying dimensions of spoken language translation. <br/>
+The 17th International Conference on Spoken Language Translation (IWSLT) is an annual scientific conference for the study, development and evaluation of spoken language translation technology: speech-to-text, speech-to-speech translation, simultaneous and consecutive translation, speech dubbing, cross-lingual communication including all multimodal, emotional, para-linguistic, and stylistic aspects and their applications in the field. The conference organizes evaluations and workshop sessions around challenge areas, and presents scientific work and system descriptions. <br/>
 *Organizers: Marcello Federico, Alexander Waibel, Jiatao Gu, Kevin Knight, Will Lewis, Satoshi Nakamura, Hermann Ney, Jan Niehues, Sebastian Stüker and Marco Turchi*
 
 ## One Day Workshops
@@ -22,7 +22,7 @@ sidebar:
 Workshop on Advances in Language and Vision Research. Promoting the frontier of language and vision research and bringing researchers together to discuss real-world solutions in this area. <br/>
 *Organizers: Xin Wang, Jesse Thomason, Ronghang Hu, Xinlei Chen, Peter Anderson, Qi Wu, Asli Celikyilmaz, Jason Baldridge and William Yang Wang*
 
-### AutoSimTrans 
+### [AutoSimTrans](https://autosimtrans.github.io) 
 The 1st Workshop on Automatic Simultaneous translation: challenges, recent advances,and future directions <br/>
 *Organizers: Hua Wu, Colin Cherry, Jiatao Gu, Liang Huang, Zhongjun He, Mark Liberman and Yang Liu*
 
@@ -39,7 +39,7 @@ The Second Grand-Challenge and Workshop on Human Multimodal Language promotes th
 *Organizers: AmirAli Bagher Zadeh, Louis-Philippe Morency, Paul Pu Liang, Soujanya Poria and Ying Shen*
 
 ### ECNLP 
-The Second Workshop on e-Commerce and NLP focuses on NLP for e-Commerce and online shopping applications. Shared tasks on classification and Question Answering are included. <br/>
+The Third Workshop on e-Commerce and NLP focuses on NLP for e-Commerce and online shopping applications. Shared tasks on classification and Question Answering are included. <br/>
 *Organizers: Shervin Malmasi, Eugene Agichtein, Oleg Rokhlenko, Nicola Ueffing and Ido Guy*
 
 ### FEVER
