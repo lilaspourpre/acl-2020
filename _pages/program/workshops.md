@@ -23,8 +23,8 @@ Workshop on Advances in Language and Vision Research. Promoting the frontier of 
 *Organizers: Xin Wang, Jesse Thomason, Ronghang Hu, Xinlei Chen, Peter Anderson, Qi Wu, Asli Celikyilmaz, Jason Baldridge and William Yang Wang*
 
 ### [AutoSimTrans](https://autosimtrans.github.io) 
-The 1st Workshop on Automatic Simultaneous translation: challenges, recent advances,and future directions <br/>
-*Organizers: Hua Wu, Colin Cherry, Jiatao Gu, Liang Huang, Zhongjun He, Mark Liberman and Yang Liu*
+The 1st Workshop on Automatic Simultaneous Translation: challenges, recent advances,and future directions <br/>
+*Organizers: Hua Wu, Colin Cherry, James Cross, Liang Huang, Zhongjun He, Mark Liberman and Yang Liu*
 
 ### BEA
 The 15th Workshop on Innovative Use of NLP for Building Educational Applications. The BEA Workshop is a leading venue for NLP innovation in educational applications and one of the largest one-day workshops in ACL. <br/>
