@@ -10,7 +10,6 @@ sidebar:
 The following tutorials have been accepted for ACL 2020 and will be held on Sunday, July 5th, 2020. Exact timings will be posted later as part of the official schedule.
 
 
-
 # Morning (9 a.m. to 12:30 p.m., with a break at 10:30-11:00)		
 		
 ### T4: "Interpretability and Analysis in Neural NLP" (cutting-edge) <br/>
@@ -31,7 +30,7 @@ The following tutorials have been accepted for ACL 2020 and will be held on Sund
 *Organizers: Malihe Alikhani and Matthew Stone* 
 
 ### T2: Commonsense Reasoning for Natural Language Processing (Introductory) <br/>
-*Organizers: Maarten Sap, Vered Shwartz, Antoine Bosselut and Yejin Choi* 
+*Organizers: Maarten Sap, Vered Shwartz, Antoine Bosselut, Dan Roth and Yejin Choi* 
 
 ### T3: Integrating Ethics into the NLP Curriculum (Introductory) <br/>
 *Organizers: Emily M. Bender, Dirk Hovy and Alexandra Schofield* 
