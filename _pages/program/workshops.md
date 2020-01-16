@@ -12,13 +12,13 @@ sidebar:
 
 ## Two Day Workshops
 
-### IWSLT 
+### [IWSLT](http://www.iwslt.org/doku.php) 
 The 17th International Conference on Spoken Language Translation (IWSLT) is an annual scientific conference for the study, development and evaluation of spoken language translation technology: speech-to-text, speech-to-speech translation, simultaneous and consecutive translation, speech dubbing, cross-lingual communication including all multimodal, emotional, para-linguistic, and stylistic aspects and their applications in the field. The conference organizes evaluations and workshop sessions around challenge areas, and presents scientific work and system descriptions. <br/>
 *Organizers: Marcello Federico, Alexander Waibel, Jiatao Gu, Kevin Knight, Will Lewis, Satoshi Nakamura, Hermann Ney, Jan Niehues, Sebastian Stüker and Marco Turchi*
 
 ## One Day Workshops
 
-### ALVR
+### [ALVR](https://alvr-workshop.github.io/)
 Workshop on Advances in Language and Vision Research. Promoting the frontier of language and vision research and bringing researchers together to discuss real-world solutions in this area. <br/>
 *Organizers: Xin Wang, Jesse Thomason, Ronghang Hu, Xinlei Chen, Peter Anderson, Qi Wu, Asli Celikyilmaz, Jason Baldridge and William Yang Wang*
 
@@ -26,11 +26,11 @@ Workshop on Advances in Language and Vision Research. Promoting the frontier of 
 The 1st Workshop on Automatic Simultaneous Translation: challenges, recent advances,and future directions <br/>
 *Organizers: Hua Wu, Colin Cherry, James Cross, Liang Huang, Zhongjun He, Mark Liberman and Yang Liu*
 
-### BEA
+### [BEA](https://sig-edu.org/bea/current)
 The 15th Workshop on Innovative Use of NLP for Building Educational Applications. The BEA Workshop is a leading venue for NLP innovation in educational applications and one of the largest one-day workshops in ACL. <br/>
 *Organizers: Ekaterina Kochmar, Jill Burstein, Claudia Leacock, Nitin Madnani, Ildiko Pilan, Helen Yannakoudakis and Torsten Zesch*
 
-### BioNLP 2020
+### [BioNLP 2020](https://www.aclweb.org/portal/content/bionlp-2020-workshop-biomedical-natural-language-processing)
 NLP can help improve health and BioNLP is the best venue for biomedical &amp; clinical language processing researchers to learn how. <br/>
 *Organizers: Dina Demner-Fushman, Kevin Cohen, Sophia Ananiadou and Jun'ichi Tsujii*
 
@@ -38,11 +38,11 @@ NLP can help improve health and BioNLP is the best venue for biomedical &amp; cl
 The Second Grand-Challenge and Workshop on Human Multimodal Language promotes the growth of modeling multimodal language (language, vision, acoustic) as a fundamental research area in NLP. <br/>
 *Organizers: AmirAli Bagher Zadeh, Louis-Philippe Morency, Paul Pu Liang, Soujanya Poria and Ying Shen*
 
-### ECNLP 
+### [ECNLP](https://sites.google.com/view/ecnlp/acl-2020) 
 The Third Workshop on e-Commerce and NLP focuses on NLP for e-Commerce and online shopping applications. Shared tasks on classification and Question Answering are included. <br/>
 *Organizers: Shervin Malmasi, Eugene Agichtein, Oleg Rokhlenko, Nicola Ueffing and Ido Guy*
 
-### FEVER
+### [FEVER](http://fever.ai/)
 The Third workshop on Fact Extraction and VERification continues the discussion on fact verification and presents results from ongoing shared tasks. <br/>
 *Organizers: Christos Christodoulopoulos, James Thorne, Andreas Vlachos, Oana Cocarascu and Arpit Mittal*
 
@@ -62,7 +62,7 @@ Natural Language Interfaces: Challenges and Promises. This multidisciplinary wor
 NLP for Conversational AI workshop aims at building a ConvAI community where ideas and latest progresses can be shared freely and openly. <br/> 
 *Organizers: Tsung-Hsien Wen, Asli Celikyilmaz, Iñigo Casanueva, Mihail Eric, Anuj Kumar, Alexandros Papangelis, Rushin Shah and Zhou Yu*
 
-### NLPMC
+### [NLPMC](https://sites.google.com/view/nlp4medicalconversations/home)
 NLP for Medical Conversations. Building the clinical decision support systems as cognitive assistants by bridging the gap between NLP research and medical practice. <br/>
 *Organizers: Parminder Bhatia, Chaitanya Shivade, Mona Diab, Byron Wallace, Rashmi Gangadharaiah, Nan Du, Izhak Shafran and Steven Lin*
 
@@ -74,7 +74,7 @@ The 1st Joint Workshop on Narrative Understanding, Storylines, and Events invite
 The 5th Workshop on Representation Learning for NLP is a large workshop on vector space models of meaning, neural networks, spectral methods, with interdisciplinary keynotes, posters, panel. <br/>
 *Organizers: Emma Strubell, Spandana Gella, Marek Rei, Johannes Welbl, Fabio Petroni, Patrick Lewis, Hannaneh Hajishirzi, Kyunghyun Cho, Edward Grefenstette, Karl Moritz Hermann, Laura Rimell, Chris Dyer and Isabelle Augenstein*
 
-### SIGMORPHON 
+### [SIGMORPHON](https://sigmorphon.github.io/workshops/2020/)
 SIGMORPHON brings together researchers interested in applying computational techniques to problems in morphology, phonology, and phonetics. <br/>
 *Organizers: Garrett Nicolai and Kyle Gorman*
 
@@ -86,7 +86,7 @@ The Eighth International Workshop on Natural Language Processing for Social Medi
 The Fourth Widening NLP Workshop focuses on efforts to promote and support ideas and voices of underrepresented groups in Natural Language Processing. <br/>
 *Organizers: Samira Shaikh, Rossana da Cunha Silva, Ann Clifton, Erika Doggett and Ryan Georgi*
 
-### WNGT
+### [WNGT](https://sites.google.com/view/wngt20/home)
 The 4th Workshop on Neural Generation and Translation provides a forum for research in applications of neural models to language generation and translation tasks. <br/>
 *Organizers: Alexandra Birch, Graham Neubig, Andrew Finch, Hiroaki Hayashi, Kenneth Heafield, Ioannis Konstas, Yusuke Oda and Xian Li*
 
