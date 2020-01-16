@@ -28,8 +28,11 @@ main:
   - title: "Calls"
     url: /calls/demos
 
-  - title: "Student Research Workshop"
-    url: https://sites.google.com/view/acl20studentresearchworkshop/
+  - title: "Reviewers"
+    url: /reviewers
+
+  # - title: "Student Research Workshop"
+  #  url: https://sites.google.com/view/acl20studentresearchworkshop/
 
   - title: "Organization"
     url: /organization
