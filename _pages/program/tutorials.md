@@ -12,7 +12,7 @@ The following tutorials have been accepted for ACL 2020 and will be held on Sund
 
 ## Morning (9 a.m. to 12:30 p.m., with a break at 10:30-11:00)		
 		
-### T1: "Interpretability and Analysis in Neural NLP" (cutting-edge) <br/>
+### T1: Interpretability and Analysis in Neural NLP (cutting-edge) <br/>
 *Organizers: Yonatan Belinkov, Sebastian Gehrmann and Ellie Pavlick* 
 
 ### T2: Multi-modal Information Extraction from Text, Semi-structured, and Tabular Data on the Web (Cutting-edge) <br/>
