@@ -82,7 +82,7 @@ SIGMORPHON brings together researchers interested in applying computational tech
 The Eighth International Workshop on Natural Language Processing for Social Media (SocialNLP 2020). Check out social NLP tech from experts, researches and applications, plus resources for you to play in challenge EmotionX from SocialNLP! <br/>
 *Organizers: Lun-Wei Ku and Cheng-Te Li*
 
-### WiNLP
+### [WiNLP](http://www.winlp.org/winlp-2020-workshop/)
 The Fourth Widening NLP Workshop focuses on efforts to promote and support ideas and voices of underrepresented groups in Natural Language Processing. <br/>
 *Organizers: Samira Shaikh, Rossana da Cunha Silva, Ann Clifton, Erika Doggett and Ryan Georgi*
 
