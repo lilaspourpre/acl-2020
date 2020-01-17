@@ -8,7 +8,7 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-Thank you for agreeing to help in the reviewing process for ACL2020!  This edition of the ACL received over 3,400 submissions (the largest number of submissions ever for an NLP conference) with over 2,400 members in the programme committee! In order to ensure that all valid submissions receive a fair and thorough review, we would like to bring your attention to a few guidelines for reviewing papers. Please read these instructions before you start reviewing. 
+Thank you for agreeing to help in the reviewing process for ACL2020!  This edition of the ACL received over 3,400 submissions (the largest number of submissions ever for an NLP conference)! In order to ensure that all valid submissions receive a fair and thorough review, we would like to bring your attention to a few guidelines for reviewing papers. Please read these instructions before you start reviewing. 
 
 All reviewers were assigned no more than 6 reviews each.  Since we had a joint long and short paper deadline, please be mindful that you may have a combination of long and short papers to review.
 
