@@ -22,7 +22,7 @@ sidebar: false
 [Nikolaos Aletras] (http://www.nikosaletras.com/), University of Sheffield
 
 <h3>Senior Area Chairs: Dialogue and Interactive Systems</h3>
-[Jason Williams](https://sites.google.com/view/jasondwilliams), Apple
+[Jason Williams](https://sites.google.com/view/jasondwilliams), Apple <br/>
 [Mari Ostendorf](https://people.ece.uw.edu/ostendorf/), University of Washington
 
 <h3>Senior Area Chairs: Discourse and Pragmatics</h3>
@@ -36,7 +36,7 @@ sidebar: false
 [Alexander Rush](http://rush-nlp.com/), Cornell Tech
 
 <h3>Senior Area Chairs: Information Extraction</h3>
-[Doug Downey](https://users.cs.northwestern.edu/~ddowney/), Northwestern University
+[Doug Downey](https://users.cs.northwestern.edu/~ddowney/), Northwestern University <br/>
 [Hoifun Poon](https://www.microsoft.com/en-us/research/people/hoifung/), Microsoft
 
 <h3>Senior Area Chairs: Information Retrieval and Text Mining</h3>
@@ -50,7 +50,8 @@ sidebar: false
 [Yoav Artzi](https://yoavartzi.com/), Cornell Tech
 
 <h3>Senior Area Chairs: Machine Learning for NLP</h3>
-[André Martins](https://andre-martins.github.io/), Unbabel 
+[André Martins](https://andre-martins.github.io/), Unbabel <br/>
+[Isabelle Augenstein](https://isabelleaugenstein.github.io/), University of Copenhagen
 
 <h3>Senior Area Chairs: Machine Translation</h3>
 [Marine Carpuat](https://www.cs.umd.edu/~marine/), University of Maryland <br/>
@@ -60,13 +61,15 @@ sidebar: false
 [Michael Strube](https://www.h-its.org/people/prof-dr-michael-strube/), Heidelberg Institute for Theoretical Studies
 
 <h3>Senior Area Chairs: NLP Applications</h3>
-[Preslav Nakov](https://www.hbku.edu.qa/en/staff/dr-preslav-nakov), Qatar Computing Research Institute
+[Preslav Nakov](https://www.hbku.edu.qa/en/staff/dr-preslav-nakov), Qatar Computing Research Institute <br/>
+[Karin Verspoor](https://cis.unimelb.edu.au/people/karin-verspoor), University of Melbourne 
 
 <h3>Senior Area Chairs: Phonology, Morphology and Word Segmentation</h3>
 [Kemal Oflazer](https://www.andrew.cmu.edu/user/ko/), Carnegie Mellon University
 
 <h3>Senior Area Chairs: Question Answering</h3>
-[Eugene Agichtein](http://www.mathcs.emory.edu/~eugene/), Emory University
+[Eugene Agichtein](http://www.mathcs.emory.edu/~eugene/), Emory University <br/>
+
 
 <h3>Senior Area Chairs: Resources and Evaluation</h3>
 [Nathan Schneider](http://people.cs.georgetown.edu/nschneid/), Georgetown University <br/>
