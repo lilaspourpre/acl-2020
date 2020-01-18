@@ -18,13 +18,15 @@ sidebar: false
 [Emily Prud'hommeaux](http://cs.bc.edu/~prudhome/), Boston College
 
 <h3>Senior Area Chairs: Computational Social Science and Social Media</h3>
-[Tim Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/), University of Melbourne
+[Tim Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/), University of Melbourne <br/>
+[Nikolaos Aletras] (http://www.nikosaletras.com/), University of Sheffield
 
 <h3>Senior Area Chairs: Dialogue and Interactive Systems</h3>
 [Jason Williams](https://sites.google.com/view/jasondwilliams), Apple
+[Mari Ostendorf](https://people.ece.uw.edu/ostendorf/), University of Washington
 
 <h3>Senior Area Chairs: Discourse and Pragmatics</h3>
-[Diane Litman](https://people.cs.pitt.edu/~litman/), University of Pittsburgh
+[Annie Louis]
 
 <h3>Senior Area Chairs: Ethics and NLP</h3>
 [Dirk Hovy](https://dirkhovy.com/), Bocconi University
@@ -35,6 +37,7 @@ sidebar: false
 
 <h3>Senior Area Chairs: Information Extraction</h3>
 [Doug Downey](https://users.cs.northwestern.edu/~ddowney/), Northwestern University
+[Hoifun Poon](https://www.microsoft.com/en-us/research/people/hoifung/), Microsoft
 
 <h3>Senior Area Chairs: Information Retrieval and Text Mining</h3>
 [Chin-Yew Lin](https://www.microsoft.com/en-us/research/people/cyl/), Microsoft <br/>
