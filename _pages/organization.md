@@ -19,14 +19,14 @@ sidebar: false
 
 <h3>Senior Area Chairs: Computational Social Science and Social Media</h3>
 [Tim Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/), University of Melbourne <br/>
-[Nikolaos Aletras] (http://www.nikosaletras.com/), University of Sheffield
+[Nikolaos Aletras](http://www.nikosaletras.com/), University of Sheffield
 
 <h3>Senior Area Chairs: Dialogue and Interactive Systems</h3>
 [Jason Williams](https://sites.google.com/view/jasondwilliams), Apple <br/>
 [Mari Ostendorf](https://people.ece.uw.edu/ostendorf/), University of Washington
 
 <h3>Senior Area Chairs: Discourse and Pragmatics</h3>
-[Annie Louis]
+Annie Louis
 
 <h3>Senior Area Chairs: Ethics and NLP</h3>
 [Dirk Hovy](https://dirkhovy.com/), Bocconi University
