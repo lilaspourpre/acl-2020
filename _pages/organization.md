@@ -69,7 +69,7 @@ sidebar: false
 
 <h3>Senior Area Chairs: Question Answering</h3>
 [Eugene Agichtein](http://www.mathcs.emory.edu/~eugene/), Emory University <br/>
-
+[Alessandro Moschitti](http://disi.unitn.it/moschitti/), University of Trento
 
 <h3>Senior Area Chairs: Resources and Evaluation</h3>
 [Nathan Schneider](http://people.cs.georgetown.edu/nschneid/), Georgetown University <br/>
