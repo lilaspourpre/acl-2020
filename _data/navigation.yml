@@ -38,7 +38,7 @@ main:
   #  url: /organization
 
   - title: "Committees"
-    url: /committees/organization
+    url: /committees/organization/
 
 calls:
    - title: Call for
@@ -68,6 +68,7 @@ program:
 #       - title: "Careers in NLP Panel"
 #         url: /program/careerspanel/
 
+committees:
     - title: Committees
       children:
         - title: "Organizing"
