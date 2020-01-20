@@ -66,7 +66,7 @@ NLP for Conversational AI workshop aims at building a ConvAI community where ide
 NLP for Medical Conversations. Building the clinical decision support systems as cognitive assistants by bridging the gap between NLP research and medical practice. <br/>
 *Organizers: Parminder Bhatia, Chaitanya Shivade, Mona Diab, Byron Wallace, Rashmi Gangadharaiah, Nan Du, Izhak Shafran and Steven Lin*
 
-### NUSE
+### [NUSE](https://sites.google.com/view/nuse)
 The 1st Joint Workshop on Narrative Understanding, Storylines, and Events invites researchers in AI/NLP/Vision/DH &amp; beyond to discuss methods/fiction/news/social media<br/>
 *Organizers: Claire Bonial, Tommaso Caselli, Snigdha Chaturvedi, Elizabeth Clark, Ruihong Huang, Ben Miller, Mohit Iyyer, Alejandro Jaimes, Heng Ji, Lara Martin, Teruko Mitamura, Nanyun Peng and Joel Tetreault*
 
