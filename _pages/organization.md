@@ -182,7 +182,7 @@ Ves Stoyanov, Facebook AI
 [Emily M. Bender](https://faculty.washington.edu/ebender/), University of Washington
 
 <h3>Remote Presentation Chairs</h3>
-Yi Luan, Google AI Language <br/>
+[Yi Luan](https://luanyi.github.io/), Google AI Language <br/>
 [Hao Fang](https://hao-fang.github.io/), Microsoft Semantic Machines
 
 <h3>Website &amp; Conference App Chairs</h3>
