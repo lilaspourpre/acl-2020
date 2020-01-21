@@ -150,6 +150,9 @@ Sushant Kafle, Rochester Institute of Technology<br/>
 Masoud Rouhizadeh, Johns Hopkins University<br/>
 Naomi Saphra, University of Edinburgh
 
+<h3>D&amp;I: Sustainability Chair</h3>
+Klaus Zechner, Educational Testing Service (ETS)
+
 <h3>D&amp;I: Childcare Chairs</h3>
 Khyathi Chandu, Carnegie Mellon University<br/>
 Stephen Mayhew, Duolingo
