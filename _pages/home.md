@@ -10,16 +10,13 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**Jan 16, 2020**. Paper review period is from Jan 17 to Feb 7. Reviewers can find useful instructions [here](/reviewers).
+{: .notice--info} 
+
 **Dec 15, 2019**. New blog post by PC chairs answering some [FAQs on Global Profile](/blog/global-profile-faqs).
 {: .notice--info} 
 
 **Dec 12, 2019**. List of accepted tutorials can be found [here](/program/tutorials).
-{: .notice--info} 
-
-**Dec 10, 2019**. In the next two days we will be in touch with authors if there is any problem with their forms or profiles. There will be time to make any needed modifications.  We appreciate your understanding and patience.
-{: .notice--info} 
-
-**Dec 4, 2019**. Checkout the new [blog post](/blog/remote-presentations) on remote presentation policy at ACL this year! 
 {: .notice--info} 
 
 <div class="text-center">

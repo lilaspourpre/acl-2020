@@ -7,6 +7,12 @@ toc: false
 toc_icon: "cog"
 ---
 
+**Dec 10, 2019**. In the next two days we will be in touch with authors if there is any problem with their forms or profiles. There will be time to make any needed modifications.  We appreciate your understanding and patience.
+{: .notice--info} 
+
+**Dec 4, 2019**. Checkout the new [blog post](/blog/remote-presentations) on remote presentation policy at ACL this year! 
+{: .notice--info} 
+
 **Dec 3, 2019**. It is only six days to the paper deadline! Checkout the new [PC blog post](/blog/six-days-before-deadline) addressing some last minute questions about the Global Profile and Author/Reviewer form! 
 {: .notice--info} 
 

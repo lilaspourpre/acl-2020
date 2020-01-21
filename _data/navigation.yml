@@ -28,11 +28,17 @@ main:
   - title: "Calls"
     url: /calls/demos
 
-  - title: "Student Research Workshop"
-    url: https://sites.google.com/view/acl20studentresearchworkshop/
+  - title: "Reviewers"
+    url: /reviewers
 
-  - title: "Organization"
-    url: /organization
+  # - title: "Student Research Workshop"
+  #  url: https://sites.google.com/view/acl20studentresearchworkshop/
+
+  #- title: "Organization"
+  #  url: /organization
+
+  - title: "Committees"
+    url: /committees/organization
 
 calls:
    - title: Call for
@@ -62,6 +68,13 @@ program:
 #       - title: "Careers in NLP Panel"
 #         url: /program/careerspanel/
 
+committees:
+   - title: Committees
+     children:
+       - title: "Organizing"
+         url: /committees/organization
+       - title: "Senior Program"
+         url: /committees/program
 
 # participants:
 #   - title: "Information for Participants"
