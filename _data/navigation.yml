@@ -75,6 +75,8 @@ committees:
          url: /committees/organization
        - title: "Senior Program"
          url: /committees/program
+       - title: "Diversity &amp; Inclusion"
+         url: /committees/diversity-inclusion
 
 # participants:
 #   - title: "Information for Participants"
