@@ -13,7 +13,8 @@ sidebar:
 <h3>Program Chairs</h3>
 [Joyce Chai](http://www.cse.msu.edu/~jchai/), University of Michigan<br/>
 [Natalie Schluter](https://natschluter.github.io/), IT University of Copenhagen, Denmark<br/>
-[Joel Tetreault](https://www.cs.rochester.edu/~tetreaul/academic.html), Dataminr, USA
+[Joel Tetreault](https://www.cs.rochester.edu/~tetreaul/academic.html), Dataminr, USA <br/> <br/>
+[Senior Program Committtee](/committees/program)
 
 <h3>Local Chairs</h3>
 [Jianfeng Gao](https://www.microsoft.com/en-us/research/people/jfgao/), Microsoft Research<br/>
