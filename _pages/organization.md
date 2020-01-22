@@ -151,7 +151,7 @@ Ves Stoyanov, Facebook AI
 [Alla Rozovskaya](https://sites.google.com/site/allamrozovskaya/), Queens College (City University of New York)
 
 <h3>D&amp;I: Accessibility Chairs</h3>
-[Sushant Kafle](http://kaflesushant.com.np/), Rochester Institute of Technology<br/>
+[Sushant Kafle](http://kaflesushant.com.np/), Google/Rochester Institute of Technology<br/>
 [Masoud Rouhizadeh](http://www.cs.jhu.edu/~mrou/), Johns Hopkins University<br/>
 [Naomi Saphra](http://nsaphra.github.io/), University of Edinburgh
 
