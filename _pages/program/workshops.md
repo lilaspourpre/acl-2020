@@ -23,7 +23,7 @@ Workshop on Advances in Language and Vision Research. Promoting the frontier of 
 *Organizers: Xin Wang, Jesse Thomason, Ronghang Hu, Xinlei Chen, Peter Anderson, Qi Wu, Asli Celikyilmaz, Jason Baldridge and William Yang Wang*
 
 ### [AutoSimTrans](https://autosimtrans.github.io) 
-The 1st Workshop on Automatic Simultaneous Translation: challenges, recent advances,and future directions <br/>
+The 1st Workshop on Automatic Simultaneous Translation: challenges, recent advances,and future directions. <br/>
 *Organizers: Hua Wu, Colin Cherry, James Cross, Liang Huang, Zhongjun He, Mark Liberman and Yang Liu*
 
 ### [BEA](https://sig-edu.org/bea/current)
@@ -54,7 +54,7 @@ The 2nd Workshop on Figurative Language Processing aims to discuss computational
 The 16th International Conference on Parsing Technologies. All things related to the analysis of language structure, with a shared task on Multilingual Parsing to Enhanced Universal Dependencies. <br/>
 *Organizers: Yuji Matsumoto, Stephan Oepen, Kenji Sagae, Anders Søgaard, Weiwei Sun and Reut Tsarfaty*
 
-### NLI
+### [NLI](https://nli-acl2020.github.io/)
 Natural Language Interfaces: Challenges and Promises. This multidisciplinary workshop retrospectively and prospectively discusses the challenges and promises of natural language interfaces. <br/>
 *Organizers: Ahmed Hassan Awadallah, Yu Su, Huan Sun and Scott Wen-tau Yih*
 
@@ -67,7 +67,7 @@ NLP for Medical Conversations. Building the clinical decision support systems as
 *Organizers: Parminder Bhatia, Chaitanya Shivade, Mona Diab, Byron Wallace, Rashmi Gangadharaiah, Nan Du, Izhak Shafran and Steven Lin*
 
 ### [NUSE](https://sites.google.com/view/nuse)
-The 1st Joint Workshop on Narrative Understanding, Storylines, and Events invites researchers in AI/NLP/Vision/DH &amp; beyond to discuss methods/fiction/news/social media<br/>
+The 1st Joint Workshop on Narrative Understanding, Storylines, and Events invites researchers in AI/NLP/Vision/DH &amp; beyond to discuss methods/fiction/news/social media. <br/>
 *Organizers: Claire Bonial, Tommaso Caselli, Snigdha Chaturvedi, Elizabeth Clark, Ruihong Huang, Ben Miller, Mohit Iyyer, Alejandro Jaimes, Heng Ji, Lara Martin, Teruko Mitamura, Nanyun Peng and Joel Tetreault*
 
 ### RepL4NLP 
@@ -78,7 +78,7 @@ The 5th Workshop on Representation Learning for NLP is a large workshop on vecto
 SIGMORPHON brings together researchers interested in applying computational techniques to problems in morphology, phonology, and phonetics. <br/>
 *Organizers: Garrett Nicolai and Kyle Gorman*
 
-### SocialNLP
+### [SocialNLP](https://sites.google.com/site/socialnlp2020/)
 The Eighth International Workshop on Natural Language Processing for Social Media (SocialNLP 2020). Check out social NLP tech from experts, researches and applications, plus resources for you to play in challenge EmotionX from SocialNLP! <br/>
 *Organizers: Lun-Wei Ku and Cheng-Te Li*
 
