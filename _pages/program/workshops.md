@@ -46,7 +46,7 @@ The Third Workshop on e-Commerce and NLP focuses on NLP for e-Commerce and onlin
 The Third workshop on Fact Extraction and VERification continues the discussion on fact verification and presents results from ongoing shared tasks. <br/>
 *Organizers: Christos Christodoulopoulos, James Thorne, Andreas Vlachos, Oana Cocarascu and Arpit Mittal*
 
-### FLP
+### [FLP](https://sites.google.com/view/figlang2020/)
 The 2nd Workshop on Figurative Language Processing aims to discuss computational approaches to figurative language (e.g., metaphors, puns, sarcasm). Shared tasks: one on metaphor and one on sarcasm detection. <br/>
 *Organizers: Beata Beigman Klebanov, Ekaterina Shutova, Patricia Lichtenstein, Smaranda Muresan, Anna Feldman, Chee Wee (Ben) Leong and Debanjan Ghosh*
 
