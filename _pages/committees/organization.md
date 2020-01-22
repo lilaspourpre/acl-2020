@@ -62,7 +62,7 @@ Ves Stoyanov, Facebook AI
 [Alla Rozovskaya](https://sites.google.com/site/allamrozovskaya/), Queens College (City University of New York)
 
 <h3>D&amp;I: Accessibility Chairs</h3>
-[Sushant Kafle](http://kaflesushant.com.np/), Rochester Institute of Technology<br/>
+[Sushant Kafle](http://kaflesushant.com.np/), Google/Rochester Institute of Technology<br/>
 [Masoud Rouhizadeh](http://www.cs.jhu.edu/~mrou/), Johns Hopkins University<br/>
 [Naomi Saphra](http://nsaphra.github.io/), University of Edinburgh
 
@@ -79,7 +79,6 @@ Ves Stoyanov, Facebook AI
 [Shruti Palaskar](https://shrutijpalaskar.github.io/), Carnegie Mellon University<br/>
 [Maarten Sap](https://homes.cs.washington.edu/~msap/), University of Washington
 
-
 <h3>Local Sponsorship Chairs</h3>
 [Hoifung Poon](https://www.microsoft.com/en-us/research/people/hoifung/), Microsoft <br/>
 [Kristina Toutanova](http://kristinatoutanova.com/), Google
@@ -95,6 +94,9 @@ Ves Stoyanov, Facebook AI
 <h3>Remote Presentation Chairs</h3>
 [Yi Luan](https://luanyi.github.io/), Google AI Language <br/>
 [Hao Fang](https://hao-fang.github.io/), Microsoft Semantic Machines
+
+<h3>Sustainability Chair </h3>
+[Klaus Zechner](http://www.cs.cmu.edu/~zechner/klaus.html), Educational Testing Service 
 
 <h3>Website &amp; Conference App Chairs</h3>
 [Sudha Rao](https://raosudha.weebly.com/), Microsoft Research, Redmond <br/>
