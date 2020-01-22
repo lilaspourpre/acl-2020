@@ -58,7 +58,7 @@ The 16th International Conference on Parsing Technologies. All things related to
 Natural Language Interfaces: Challenges and Promises. This multidisciplinary workshop retrospectively and prospectively discusses the challenges and promises of natural language interfaces. <br/>
 *Organizers: Ahmed Hassan Awadallah, Yu Su, Huan Sun and Scott Wen-tau Yih*
 
-### NLP4ConvAI
+### [NLP4ConvAI](https://sites.google.com/view/2ndnlp4convai/home)
 NLP for Conversational AI workshop aims at building a ConvAI community where ideas and latest progresses can be shared freely and openly. <br/> 
 *Organizers: Tsung-Hsien Wen, Asli Celikyilmaz, Iñigo Casanueva, Mihail Eric, Anuj Kumar, Alexandros Papangelis, Rushin Shah and Zhou Yu*
 
