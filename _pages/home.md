@@ -10,13 +10,13 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**Jan 23, 2020**. Checkout out the new PC blog post on [Start of Review Process](/blog/start-of-review-process).
+{: .notice--info} 
+
 **Jan 16, 2020**. Paper review period is from Jan 17 to Feb 7. Reviewers can find useful instructions [here](/reviewers).
 {: .notice--info} 
 
 **Dec 15, 2019**. New blog post by PC chairs answering some [FAQs on Global Profile](/blog/global-profile-faqs).
-{: .notice--info} 
-
-**Dec 12, 2019**. List of accepted tutorials can be found [here](/program/tutorials).
 {: .notice--info} 
 
 <div class="text-center">
