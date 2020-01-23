@@ -11,7 +11,7 @@ sidebar:
 [Cecilia Ovesdotter Alm](https://pht180.rit.edu/ceciliaovesdotteralm/), Rochester Institute of Technology<br/>
 [Vinodkumar Prabhakaran](https://www.cs.stanford.edu/~vinod/), Google
 
-<h2>Diversity &amp; Inclusion Sub-Committeee Chairs</h2>
+<h2>Diversity &amp; Inclusion Sub-Committee Chairs</h2>
 
 <h3>Academic Inclusion Chairs</h3>
 [Aakanksha Naik](https://www.cs.cmu.edu/~anaik/), Carnegie Mellon University<br/>

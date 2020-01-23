@@ -55,7 +55,7 @@ Ves Stoyanov, Facebook AI
 <h3>Diversity &amp; Inclusion (D&amp;I) Chairs</h3>
 [Cecilia Ovesdotter Alm](https://pht180.rit.edu/ceciliaovesdotteralm/), Rochester Institute of Technology<br/>
 [Vinodkumar Prabhakaran](https://www.cs.stanford.edu/~vinod/), Google <br/> <br/>
-[Diversity &amp; Inclusion Sub-Committeee Chairs](/committees/diversity-inclusion)
+[Diversity &amp; Inclusion Sub-Committee Chairs](/committees/diversity-inclusion)
 
 <h3>Local Sponsorship Chairs</h3>
 [Hoifung Poon](https://www.microsoft.com/en-us/research/people/hoifung/), Microsoft <br/>
