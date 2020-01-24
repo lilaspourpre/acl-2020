@@ -13,7 +13,7 @@ categories:
 
 We have finally kicked off the reviewing process (January 17 to February 07)!! 
 
-As you know, we are experimenting with several  conference process changes this year:  [(1) a COI detection system developed by Amanda Stent and Arya McCarthy, (2) a reviewer-paper matching system developed by Graham Neubig](https://acl2020.org/blog/conflict-of-interest/), and (3) removed the “reviewer bidding” phase, on top of significant manual effort from our Senior Area Chairs and Area Chairs in the review assignment phase. These changes were meant to improve reviewer/paper matching while improving detection of conflicts of interest as well as minimizing abuse of the bidding method, which has manifested itself in other conferences.
+As you know, we are experimenting with several  conference process changes this year:  [(1) a COI detection system developed by Amanda Stent and Arya McCarthy, (2) a reviewer-paper matching system developed by Graham Neubig](https://acl2020.org/blog/conflict-of-interest/), and (3) removed the “reviewer bidding” phase, on top of significant manual effort from our Senior Area Chairs and Area Chairs in the review assignment phase. These changes were meant to improve reviewer/paper matching while improving detection of conflicts of interest as well as minimizing the weaknesses of the bidding method, which has manifested itself in other conferences.
 
 We need to first thank you all for filling out the global profile and the author/reviewer form! Your effort has made it possible to use the automated systems. It has also led to the largest ever pool of reviewer candidates!   
 
