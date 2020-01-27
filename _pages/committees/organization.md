@@ -70,10 +70,11 @@ Ves Stoyanov, Facebook AI
 [Emily M. Bender](https://faculty.washington.edu/ebender/), University of Washington
 
 <h3>Remote Presentation Chairs</h3>
-[Yi Luan](https://luanyi.github.io/), Google AI Language <br/>
-[Hao Fang](https://hao-fang.github.io/), Microsoft Semantic Machines
+[Hao Fang](https://hao-fang.github.io/), Microsoft Semantic Machines <br/>
+[Yi Luan](https://luanyi.github.io/), Google AI Language
 
 <h3>Sustainability Chair </h3>
+Ananya Ganesh, Educational Testing Service <br/>
 [Klaus Zechner](http://www.cs.cmu.edu/~zechner/klaus.html), Educational Testing Service 
 
 <h3>Website &amp; Conference App Chairs</h3>
