@@ -74,7 +74,7 @@ Ves Stoyanov, Facebook AI
 [Yi Luan](https://luanyi.github.io/), Google AI Language
 
 <h3>Sustainability Chair </h3>
-Ananya Ganesh, Educational Testing Service <br/>
+[Ananya Ganesh](https://ananyaganesh.github.io/), Educational Testing Service <br/>
 [Klaus Zechner](http://www.cs.cmu.edu/~zechner/klaus.html), Educational Testing Service 
 
 <h3>Website &amp; Conference App Chairs</h3>
