@@ -25,8 +25,8 @@ diamond:
   - url: https://www.asapp.com
     image_path: /assets/images/logos/asapp-logo.png
     alt: "Asapp Logo"
-    title: "Asapp"
-  - image_path: /assets/images/logos/blank-logo.png-->
+    title: "Asapp"-->
+  - image_path: /assets/images/logos/blank-logo.png
 platinum:
   - url: https://https://megagon.ai
     image_path: /assets/images/logos/megagon-logo-2019.png
@@ -47,9 +47,9 @@ platinum:
   - url: https://deepmind.com
     image_path: /assets/images/logos/deepmind-logo.png
     alt: "DeepMind Logo"
-    title: "DeepMind"
+    title: "DeepMind"-->
   - image_path: /assets/images/logos/blank-logo.png
-  - image_path: /assets/images/logos/blank-logo.png-->
+  - image_path: /assets/images/logos/blank-logo.png
 gold:
 <!--  - url: https://www.megagon.ai
     image_path: /assets/images/logos/megagon-logo.png
@@ -68,7 +68,6 @@ silver:
     image_path: /assets/images/logos/polyai-logo-2019.png
     alt: "PolyAI Logo"
     title: "PolyAI"
-	
 <!--  - url: http://www.duolingo.com
     image_path: /assets/images/logos/duolingo-logo.png
     alt: "Duolingo Logo"
@@ -96,9 +95,9 @@ silver:
   - url: https://www.interactions.com
     image_path: /assets/images/logos/interactions-logo.png
     alt: "Interactions Logo"
-    title: "Interactions"
+    title: "Interactions"-->
   - image_path: /assets/images/logos/blank-logo.png
-  - image_path: /assets/images/logos/blank-logo.png-->
+  - image_path: /assets/images/logos/blank-logo.png
 bronze:
   <!--- url: http://www.ets.org
     image_path: /assets/images/logos/ets-logo.png
@@ -124,23 +123,23 @@ socialevent:
   <!--- url: https://www.capitalgroup.com
     image_path: /assets/images/logos/capital-group-logo.png
     alt: "Capital Group Logo"
-    title: "Capital Group"
+    title: "Capital Group"-->
   - image_path: /assets/images/logos/blank-logo.png
-  - image_path: /assets/images/logos/blank-logo.png-->
+  - image_path: /assets/images/logos/blank-logo.png
 dichampion:
   <!--- url: https://deepmind.com
     image_path: /assets/images/logos/deepmind-logo.png
     alt: "DeepMind Logo"
-    title: "DeepMind"
+    title: "DeepMind"-->
   - image_path: /assets/images/logos/blank-logo.png
-  - image_path: /assets/images/logos/blank-logo.png-->
+  - image_path: /assets/images/logos/blank-logo.png
 dially:
   <!--- url: https://www.google.com
     image_path: /assets/images/logos/google-logo.png
     alt: "Google Logo"
-    title: "Google"
+    title: "Google"-->
   - image_path: /assets/images/logos/blank-logo.png
-  - image_path: /assets/images/logos/blank-logo.png-->
+  - image_path: /assets/images/logos/blank-logo.png
 inkind:
   <!--- url: https://www.grammarly.com
     image_path: /assets/images/logos/grammarly-logo.png
@@ -149,8 +148,8 @@ inkind:
   - url: https://translator.microsoft.com
     image_path: /assets/images/logos/microsoft-translator-logo.png
     alt: "Microsoft Translator Logo"
-    title: "Microsoft Translator"
-  - image_path: /assets/images/logos/blank-logo.png-->
+    title: "Microsoft Translator"-->
+  - image_path: /assets/images/logos/blank-logo.png
 sidebar: 
     nav: "sponsors"
 ---
