@@ -10,145 +10,38 @@ diamond:
     image_path: /assets/images/logos/Bloomberg-logo-2019.png
     alt: "Bloomberg Logo"
     title: "Bloomberg"
-  <!--- url: https://www.google.com
-    image_path: /assets/images/logos/google-logo.png
-    alt: "Google Logo"
-    title: "Google"
-  - url: https://www.facebook.com
-    image_path: /assets/images/logos/facebook-logo.png
-    alt: "Facebook Logo"
-    title: "Facebook"
-  - url: https://www.amazon.com
-    image_path: /assets/images/logos/amazon-logo.png
-    alt: "Amazon Logo"
-    title: "Amazon"
-  - url: https://www.asapp.com
-    image_path: /assets/images/logos/asapp-logo.png
-    alt: "Asapp Logo"
-    title: "Asapp"-->
   - image_path: /assets/images/logos/blank-logo.png
 platinum:
   - url: https://https://megagon.ai
     image_path: /assets/images/logos/megagon-logo-2019.png
     alt: "Megagon Logo"
     title: "Megagon"
-<!--  - url: https://www.twosigma.com
-    image_path: /assets/images/logos/twosigma-logo.png
-    alt: "Two Sigma Logo"
-    title: "Two Sigma"
-  - url: https://www.thomsonreuters.com/en.html
-    image_path: /assets/images/logos/reuters-logo.png
-    alt: "Thomson Reuters Logo"
-    title: "Thomson Reuters"
-  - url: https://www.capitalone.com
-    image_path: /assets/images/logos/capital-one-logo.png
-    alt: "Capital One Logo"
-    title: "Capital One"
-  - url: https://deepmind.com
-    image_path: /assets/images/logos/deepmind-logo.png
-    alt: "DeepMind Logo"
-    title: "DeepMind"-->
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 gold:
-<!--  - url: https://www.megagon.ai
-    image_path: /assets/images/logos/megagon-logo.png
-    alt: "Megagon Labs Logo"
-    title: "Megagon Labs"
-  - url: https://www.bytedance.com/ai_lab/
-    image_path: /assets/images/logos/bytedance-logo.png
-    alt: "ByteDance Logo"
-    title: "ByteDance"
-  - url: https://investor.vanguard.com/corporate-portal/
-    image_path: /assets/images/logos/vanguard-logo.png
-    alt: "Vanguard Logo"
-    title: "Vanguard"-->
+  - image_path: /assets/images/logos/blank-logo.png
+  - image_path: /assets/images/logos/blank-logo.png
 silver:
   - url: https://www.polyai.com
     image_path: /assets/images/logos/polyai-logo-2019.png
     alt: "PolyAI Logo"
     title: "PolyAI"
-<!--  - url: http://www.duolingo.com
-    image_path: /assets/images/logos/duolingo-logo.png
-    alt: "Duolingo Logo"
-    title: "Duolingo"
-  - url: http://www.sap.com
-    image_path: /assets/images/logos/sap-logo.png
-    alt: "SAP Logo"
-    title: "SAP"
-  - url: http://www.ebay.com
-    image_path: /assets/images/logos/ebay-logo.png
-    alt: "Ebay Logo"
-    title: "Ebay"
-  - url: https://www.grammarly.com
-    image_path: /assets/images/logos/grammarly-logo.png
-    alt: "Grammarly Logo"
-    title: "Grammarly"
-  - url: https://www.microsoft.com/
-    image_path: /assets/images/logos/microsoft-logo.png
-    alt: "Microsoft Logo"
-    title: "Microsoft"
-  - url: https://www.cisco.com
-    image_path: /assets/images/logos/cisco-logo.png
-    alt: "Cisco Logo"
-    title: "Cisco"
-  - url: https://www.interactions.com
-    image_path: /assets/images/logos/interactions-logo.png
-    alt: "Interactions Logo"
-    title: "Interactions"-->
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 bronze:
-  <!--- url: http://www.ets.org
-    image_path: /assets/images/logos/ets-logo.png
-    alt: "ETS Logo"
-    title: "ETS"
-  - url: https://www.raytheon.com/ourcompany/bbn
-    image_path: /assets/images/logos/raytheon-bbn-logo.png
-    alt: "Raytheon BBN Logo"
-    title: "Raytheon"
-  - url: https://www.isi.edu
-    image_path: /assets/images/logos/isi-logo.png
-    alt: "USC Information Sciences Institute Logo"
-    title: "USC Information Sciences Institute"
-  - url: https://clinc.com
-    image_path: /assets/images/logos/clinc-logo.png
-    alt: "Clinc Logo"
-    title: "Clinc"
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
--->
 supporter:
 socialevent:
-  <!--- url: https://www.capitalgroup.com
-    image_path: /assets/images/logos/capital-group-logo.png
-    alt: "Capital Group Logo"
-    title: "Capital Group"-->
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 dichampion:
-  <!--- url: https://deepmind.com
-    image_path: /assets/images/logos/deepmind-logo.png
-    alt: "DeepMind Logo"
-    title: "DeepMind"-->
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 dially:
-  <!--- url: https://www.google.com
-    image_path: /assets/images/logos/google-logo.png
-    alt: "Google Logo"
-    title: "Google"-->
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 inkind:
-  <!--- url: https://www.grammarly.com
-    image_path: /assets/images/logos/grammarly-logo.png
-    alt: "Grammarly Logo"
-    title: "Grammarly"
-  - url: https://translator.microsoft.com
-    image_path: /assets/images/logos/microsoft-translator-logo.png
-    alt: "Microsoft Translator Logo"
-    title: "Microsoft Translator"-->
   - image_path: /assets/images/logos/blank-logo.png
 sidebar: 
     nav: "sponsors"
@@ -162,12 +55,6 @@ List of Sponsors
 ACL 2020 is grateful to all its sponsors, who are listed below. We simply couldn’t run the conference without the help of these generous companies. We thank them sincerely for their ongoing support of the NLP/CL community.
 
 This year’s sponsor list includes two initiatives created last year.  These categories are: Diversity & Inclusion Champion and Diversity & Inclusion Ally. These sponsors donated funds specifically to facilitate participation in ACL 2020 by all researchers in our field. This extra funding is being used to subsidize childcare, accessibility accommodations, and attendance in cases of financial hardship. These new D&I sponsorship opportunities [sponsorship opportunities](/sponsors/benefits) are available for the AACL and EMNLP conferences as well.
-
-<!--NAACL-HLT 2019 is grateful to all its sponsors, who are listed below.  We simply couldn't run the conference without the help of these generous companies. We thank them sincerely for their ongoing support of the NLP/CL community.
-
-This year's sponsor list includes two new categories: *Diversity & Inclusion Champion* and *Diversity & Inclusion Ally*.  These sponsors donated funds specifically to facilitate participation in NAACL-HLT 2019 by all researchers in our field.  This extra funding is being used to subsidize childcare, accessibility accommodations, and attendance in cases of financial hardship. These new D&I [sponsorship opportunities](/sponsors/benefits) are available for the ACL and EMNLP conferences as well.
-
-In addition, Grammarly donated grammar-checking services to our submitting authors. We thank them for helping researchers who are not native English speakers to submit to NAACL-HLT 2019 on an equal footing. Microsoft donated captioning services, broadcasting live multilingual caption streams during the conference talks. We thank them for helping our audience members follow the spoken English-language presentations.-->
 
 ## Diamond
 
@@ -191,7 +78,7 @@ In addition, Grammarly donated grammar-checking services to our submitting autho
 
 ## Supporter
 
-<!-- {% include gallery id="supporter" class="fourth" %} -->
+{% include gallery id="supporter" class="fourth" %}
 
 ## Social Event Entertainment
 
