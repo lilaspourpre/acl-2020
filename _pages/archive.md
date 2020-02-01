@@ -7,6 +7,9 @@ toc: false
 toc_icon: "cog"
 ---
 
+**Dec 12, 2019**. List of accepted tutorials can be found [here](/program/tutorials).
+{: .notice--info} 
+
 **Dec 10, 2019**. In the next two days we will be in touch with authors if there is any problem with their forms or profiles. There will be time to make any needed modifications.  We appreciate your understanding and patience.
 {: .notice--info} 
 
