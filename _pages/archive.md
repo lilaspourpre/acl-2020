@@ -7,6 +7,9 @@ toc: false
 toc_icon: "cog"
 ---
 
+**Dec 15, 2019**. New blog post by PC chairs answering some [FAQs on Global Profile](/blog/global-profile-faqs).
+{: .notice--info} 
+
 **Dec 12, 2019**. List of accepted tutorials can be found [here](/program/tutorials).
 {: .notice--info} 
 
