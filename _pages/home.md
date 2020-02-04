@@ -25,7 +25,7 @@ excerpt: "<br/><br/>"
 
 <h2>Welcome!</h2>
 
-The 58th annual meeting of the Association for Computational Linguistics (ACL) will take place in Seattle, Washington at the [Hyatt Regency Seattle](https://www.hyatt.com/en-US/hotel/washington/hyatt-regency-seattle/sears) in downtown Seattle from July 5th through July 10th, 2020.
+The 58th annual meeting of the Association for Computational Linguistics (ACL) will take place in Seattle, Washington at the [Hyatt Regency Seattle](https://www.hyatt.com/en-US/hotel/washington/hyatt-regency-seattle/sears) in downtown Seattle from <b>July 5th through July 10th, 2020</b>.
 
 ACL is the premier conference of the field of computational linguistics, covering a broad spectrum of diverse research areas that are concerned with computational approaches to natural language.
 
