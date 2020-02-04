@@ -12,27 +12,15 @@ remote-presentation-chairs:
   bio         : "Hao Fang &amp; Yi Luan"
   avatar      : "assets/images/logos/acl-logo.png"
 
+diversity-inclusion-chairs:
+  name        : "Diversity &amp; Inclusion Chairs"
+  email       : "acl2020-diversity-inclusion-chairs@googlegroups.com"
+  bio         : "Cissi Ovesdotter Alm &amp; Vinodkumar Prabhakaran"
+  avatar      : "assets/images/logos/acl-logo.png"
+
+
 amanda-graham:
   name        : "Amanda Stent & Graham Neubig"
-
-
-thamar:
-  name        : "Thamar Solorio"
-  uri         : "http://solorio.uh.edu"
-  email       : "solorio at remove the obvious cs dot uh dot edu"
-  bio         : "Program Co-chair | Associate Professor, Computer Science, University of Houston."
-
-christy:
-  name        : "Christy Doran"
-  uri         : "https://www.linkedin.com/in/christy-doran"
-  bio         : "Program Co-chair | Program Director, Interactions, LLC."
-
-jill:
-  name        : "Jill Burstein"
-  uri         : "https://sites.google.com/site/jbursteinets/"
-  bio         : "General Chair | Director of Research (NLP), Educational Testing Service"
-  avatar      : "assets/images/avatars/general-chair.png"
-  twitter     : "JillBurstein "
 
 nitin:
   name        : "Nitin Madnani"
@@ -42,20 +30,6 @@ nitin:
   twitter     : "haikuman"
   github      : "desilinguist"
 
-luwang:
-  name        : "Student Volunteer Coordinator"
-  uri         : "https://www.ccs.neu.edu/home/luwang/"
-  bio         : "Lu Wang | Northeastern University"
-  avatar      : "assets/images/avatars/student-volunteer-chair.png"
-  email     : "luwang at ccs dot neu dot edu"
-
-sudipta:
-  name        : "Sudipta Kar"
-  uri         : "http://sudiptakar.info"
-  bio         : "Student Co-chair, NAACL-SRW 2019 | PhD Student, Computer Science, University of Houston"
-  email       : "skar3 AT uh DOT edu"
-  twitter     : "cryptexcode"
-
 rada:
   name        : "Rada Mihalcea"
   uri         : "https://web.eecs.umich.edu/~mihalcea/"
@@ -64,22 +38,3 @@ rada:
   email       : "mihalcea at umich dot edu"
   twitter     : "radamihalcea"
 
-cass:
-  name        : "Cassandra L. Jacobs"
-  uri         : "https://cljacobs.net"
-  bio         : "D&I Committee Member | Postdoctoral Fellow, University of Toronto"
-  avatar      : "assets/images/avatars/cass.jpg"
-  email       : "jacobs dot cassandra dot l at gmail dot com"
-  twitter     : "BayesForDays"
-
-industry-track-chairs:
-  name        : "Industry Track Co-Chairs"
-  email       : "naacl-2019-industry-track@googlegroups.com"
-  bio         : "Anastassia Loukina, Michelle Morales, and Rohit Kumar"
-  avatar      : "assets/images/avatars/industry-track-chairs.png"
-
-social-media-chairs:
-  name        : "Publicity &amp; Social Media Co-Chairs"
-  email       : "naacl-2019-social-media@googlegroups.com"
-  bio         : "Yuval Pinter &amp; Rachael Tatman"
-  avatar      : "assets/images/avatars/social-media-chairs.png"
