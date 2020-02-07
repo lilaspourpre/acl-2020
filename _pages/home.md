@@ -10,13 +10,13 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**Feb 04, 2020**. New blog post describing the [Diversity &amp; Inclusion Committee](/blog/diversity-and-inclusion).
+{: .notice--info} 
+
 **Jan 23, 2020**. Checkout out the new PC blog post on [Start of Review Process](/blog/start-of-review-process).
 {: .notice--info} 
 
 **Jan 16, 2020**. Paper review period is from Jan 17 to Feb 7. Reviewers can find useful instructions [here](/reviewers).
-{: .notice--info} 
-
-**Dec 15, 2019**. New blog post by PC chairs answering some [FAQs on Global Profile](/blog/global-profile-faqs).
 {: .notice--info} 
 
 <div class="text-center">
@@ -25,7 +25,7 @@ excerpt: "<br/><br/>"
 
 <h2>Welcome!</h2>
 
-The 58th annual meeting of the Association for Computational Linguistics (ACL) will take place in Seattle, Washington at the [Hyatt Regency Seattle](https://www.hyatt.com/en-US/hotel/washington/hyatt-regency-seattle/sears) in downtown Seattle from July 5th through July 10th, 2020.
+The 58th annual meeting of the Association for Computational Linguistics (ACL) will take place in Seattle, Washington at the [Hyatt Regency Seattle](https://www.hyatt.com/en-US/hotel/washington/hyatt-regency-seattle/sears) in downtown Seattle from <b>July 5th through July 10th, 2020</b>.
 
 ACL is the premier conference of the field of computational linguistics, covering a broad spectrum of diverse research areas that are concerned with computational approaches to natural language.
 
