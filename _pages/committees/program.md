@@ -24,7 +24,7 @@ SACs: [Tim Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/), [Nikolaos Alet
 SACs: [Jason Williams](https://sites.google.com/view/jasondwilliams), [Mari Ostendorf](https://people.ece.uw.edu/ostendorf/)
 
 <b>Discourse and Pragmatics</b><br/>
-SACs: [Annie Louis](http://homepages.inf.ed.ac.uk/alouis/index.html)
+SACs: [Annie Louis](http://homepages.inf.ed.ac.uk/alouis/index.html) (taking over for [Diane Litman](https://people.cs.pitt.edu/~litman/))
 
 <b>Ethics and NLP</b><br/>
 SAC: [Dirk Hovy](https://dirkhovy.com/)
@@ -90,5 +90,5 @@ SAC: [David Chiang](https://www3.nd.edu/~dchiang/)
 SAC: [Daniel Gildea](https://www.cs.rochester.edu/u/gildea/)
 
 <b>Theme</b><br/>
-SAC: [Marilyn Walker](https://www.soe.ucsc.edu/people/maw) ([Ellen Riloff](http://www.cs.utah.edu/~riloff/))
+SAC: [Marilyn Walker](https://www.soe.ucsc.edu/people/maw) (taking over for [Ellen Riloff](http://www.cs.utah.edu/~riloff/))
 
