@@ -90,5 +90,5 @@ SAC: [David Chiang](https://www3.nd.edu/~dchiang/)
 SAC: [Daniel Gildea](https://www.cs.rochester.edu/u/gildea/)
 
 <b>Theme</b><br/>
-SAC: [Ellen Riloff](http://www.cs.utah.edu/~riloff/)
+SAC: [Marilyn Walker](https://www.soe.ucsc.edu/people/maw), [Ellen Riloff](http://www.cs.utah.edu/~riloff/)
 
