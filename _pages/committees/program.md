@@ -24,7 +24,7 @@ SACs: [Tim Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/), [Nikolaos Alet
 SACs: [Jason Williams](https://sites.google.com/view/jasondwilliams), [Mari Ostendorf](https://people.ece.uw.edu/ostendorf/)
 
 <b>Discourse and Pragmatics</b><br/>
-SACs: [Annie Louis](http://homepages.inf.ed.ac.uk/alouis/index.html) (taking over for [Diane Litman](https://people.cs.pitt.edu/~litman/))
+SACs: [Annie Louis](mailto:annielouis@google.com) (taking over for [Diane Litman](https://people.cs.pitt.edu/~litman/))
 
 <b>Ethics and NLP</b><br/>
 SAC: [Dirk Hovy](https://dirkhovy.com/)
