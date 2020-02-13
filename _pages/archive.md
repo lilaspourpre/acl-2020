@@ -7,6 +7,9 @@ toc: false
 toc_icon: "cog"
 ---
 
+**Jan 16, 2020**. Paper review period is from Jan 17 to Feb 7. Reviewers can find useful instructions [here](/reviewers).
+{: .notice--info} 
+
 **Dec 15, 2019**. New blog post by PC chairs answering some [FAQs on Global Profile](/blog/global-profile-faqs).
 {: .notice--info} 
 

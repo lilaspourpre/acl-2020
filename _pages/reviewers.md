@@ -18,7 +18,7 @@ Please note that the content of any submission to ACL2020, and the participants 
 
 ## The Review Form
 
-We adopted the review form and instructions from [EMNLP-IJCNLP 2019](https://www.emnlp-ijcnlp2019.org/calls/reviewing) and [ACL 2019](http://www.acl2019.org/EN/instructions-for-reviewers.xhtml) and made some minor changes. The review form consists of three main sections. 
+We adopted the [review form](https://docs.google.com/document/d/1AusAHw2jB1cYX8dl5KcP6unmQohjyZLIrlNR8dPNcbk/edit?usp=sharing) and instructions from [EMNLP-IJCNLP 2019](https://www.emnlp-ijcnlp2019.org/calls/reviewing) and [ACL 2019](http://www.acl2019.org/EN/instructions-for-reviewers.xhtml) and made some minor changes. The review form consists of three main sections. 
 
 <b>1. In-Depth Review.</b> This section is for you to give your overall assessment of the paper and to provide evidence to support your opinions. There are 6 subsections:
    - <b>The core review:</b> This is the most important part. It should include your view of the main contributions that the paper intended to make and how well it succeeds at making these contributions. From your point of view, what are the significant strong and weak parts of the paper and the work it describes? This could be a 2 paragraph (or longer) essay and/or a bullet list. Remember to describe how the work advances the state of knowledge in computational linguistics and/or highlights why it fails to make a sufficient contribution.
