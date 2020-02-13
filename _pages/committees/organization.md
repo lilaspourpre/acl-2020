@@ -75,7 +75,10 @@ Ves Stoyanov, Facebook AI
 
 <h3>Sustainability Chair </h3>
 [Ananya Ganesh](https://ananyaganesh.github.io/), Educational Testing Service <br/>
-[Klaus Zechner](http://www.cs.cmu.edu/~zechner/klaus.html), Educational Testing Service 
+[Klaus Zechner](http://www.cs.cmu.edu/~zechner/klaus.html), Educational Testing Service   
+
+<h3>Student Volunteer Coordinator</h3>
+[Marjan Ghazvininejad](ghazvini@fb.com), Facebook AI Lab
 
 <h3>Website &amp; Conference App Chairs</h3>
 [Sudha Rao](https://raosudha.weebly.com/), Microsoft Research, Redmond <br/>
