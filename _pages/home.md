@@ -10,7 +10,7 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
-**Feb 12, 2020**. The author response period has now begun (Feb 12-17). Please checkout the [review form](https://docs.google.com/document/d/1AusAHw2jB1cYX8dl5KcP6unmQohjyZLIrlNR8dPNcbk/edit?usp=sharing) used by the reviewers.
+**Feb 12, 2020**. The author response period has now begun (Feb 12-17). Please checkout the [review form](docs/ACL_2020_Submission_Form.pdf) used by the reviewers.
 {: .notice--info} 
 
 **Feb 04, 2020**. New blog post describing the [Diversity &amp; Inclusion Committee](/blog/diversity-and-inclusion).
