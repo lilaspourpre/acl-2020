@@ -3,9 +3,6 @@ title: Keynote Speakers
 layout: single
 excerpt: "ACL 2020 Workshops."
 permalink: /program/keynotes/
-toc: true
-toc_sticky: true
-toc_icon: "cog"
 sidebar: 
     nav: program
 ---
