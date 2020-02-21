@@ -5,7 +5,7 @@ excerpt: "ACL 2020 Workshops."
 permalink: /program/keynotes/
 sidebar: 
     nav: program
----
+
 
 ## Keynote Speakers
 
@@ -20,6 +20,7 @@ kathleen:
   - image_path: /assets/images/keynotes/kathleen.jpg
     alt: "Kathleen R. McKeown"
     image_caption: "Kathleen R. McKeown"
+
     
 ### Josh Tennenbaum <br/>
 Professor <br/>
@@ -31,4 +32,8 @@ josh:
     alt: "Josh Tennenbaum"
     image_caption: "Josh Tennenbaum"
     
+---
 
+{% include feature_row id="kathleen" type="left" %}
+
+{% include feature_row id="josh" type="left" %}
