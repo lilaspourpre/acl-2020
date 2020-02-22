@@ -34,7 +34,7 @@ The 15th Workshop on Innovative Use of NLP for Building Educational Applications
 NLP can help improve health and BioNLP is the best venue for biomedical &amp; clinical language processing researchers to learn how. <br/>
 *Organizers: Dina Demner-Fushman, Kevin Cohen, Sophia Ananiadou and Jun'ichi Tsujii*
 
-### Challenge-HML
+### [Challenge-HML](http://multicomp.cs.cmu.edu/acl2020multimodalworkshop/)
 The Second Grand-Challenge and Workshop on Human Multimodal Language promotes the growth of modeling multimodal language (language, vision, acoustic) as a fundamental research area in NLP. <br/>
 *Organizers: AmirAli Bagher Zadeh, Louis-Philippe Morency, Paul Pu Liang, Soujanya Poria and Ying Shen*
 
