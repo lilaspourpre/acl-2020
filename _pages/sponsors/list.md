@@ -12,10 +12,14 @@ diamond:
     title: "Bloomberg"
   - image_path: /assets/images/logos/blank-logo.png
 platinum:
-  - url: https://https://megagon.ai
+  - url: https://megagon.ai
     image_path: /assets/images/logos/megagon-logo-2019.png
     alt: "Megagon Logo"
     title: "Megagon"
+  - url: https://baidu.com
+    image_path: /assets/images/logos/baidu.jpg
+    alt: "Baidu Logo"
+    title: "Baidu"
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 gold:
@@ -29,9 +33,17 @@ silver:
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 bronze:
+  - url: https://www.isi.edu
+    image_path: /assets/images/logos/isi.jpg
+    alt: "ISI Logo"
+    title: "ISI"
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 supporter:
+  - url: https://www.jhu.edu
+    image_path: /assets/images/logos/jhu.jpg
+    alt: "JHU Logo"
+    title: "JHU"
 socialevent:
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
