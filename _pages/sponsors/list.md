@@ -44,6 +44,9 @@ supporter:
     image_path: /assets/images/logos/jhu.jpg
     alt: "JHU Logo"
     title: "JHU"
+  - image_path: /assets/images/logos/blank-logo.png
+  - image_path: /assets/images/logos/blank-logo.png
+supporter:
 socialevent:
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
