@@ -11,14 +11,16 @@ kathleen:
   - image_path: /assets/images/keynotes/kathleen.jpg
     alt: "Kathleen R. McKeown"
     image_caption: "Kathleen R. McKeown"
-    small_excerpt: '<h3><strong>Kathleen R. McKeown </strong> </h3> <br/>Henry and Gertrude Rothschild Professor of Computer Science <br/>
+    excerpt: '<strong>Kathleen R. McKeown </strong>'
+    small_excerpt: 'Henry and Gertrude Rothschild Professor of Computer Science <br/>
 Founding Director of the Data Science Institute <br/>
 Columbia University'
 josh:
   - image_path: /assets/images/keynotes/josh.jpg
     alt: "Josh Tennenbaum"
     image_caption: "Josh Tennenbaum"
-    small_excerpt: '<h3><strong>Josh Tennenbaum</strong></h3> <br/>Professor <br/>Department of Brain and Cognitive Sciences <br/>
+    excerpt: '<strong>Josh Tennenbaum</strong>'
+    small_excerpt: 'Professor <br/>Department of Brain and Cognitive Sciences <br/>
 Massachusetts Institute of Technology'
     
 ---
