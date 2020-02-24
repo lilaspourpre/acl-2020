@@ -34,7 +34,7 @@ The 15th Workshop on Innovative Use of NLP for Building Educational Applications
 NLP can help improve health and BioNLP is the best venue for biomedical &amp; clinical language processing researchers to learn how. <br/>
 *Organizers: Dina Demner-Fushman, Kevin Cohen, Sophia Ananiadou and Jun'ichi Tsujii*
 
-### Challenge-HML
+### [Challenge-HML](http://multicomp.cs.cmu.edu/acl2020multimodalworkshop/)
 The Second Grand-Challenge and Workshop on Human Multimodal Language promotes the growth of modeling multimodal language (language, vision, acoustic) as a fundamental research area in NLP. <br/>
 *Organizers: AmirAli Bagher Zadeh, Louis-Philippe Morency, Paul Pu Liang, Soujanya Poria and Ying Shen*
 
@@ -50,7 +50,7 @@ The Third workshop on Fact Extraction and VERification continues the discussion 
 The 2nd Workshop on Figurative Language Processing aims to discuss computational approaches to figurative language (e.g., metaphors, puns, sarcasm). Shared tasks: one on metaphor and one on sarcasm detection. <br/>
 *Organizers: Beata Beigman Klebanov, Ekaterina Shutova, Patricia Lichtenstein, Smaranda Muresan, Anna Feldman, Chee Wee (Ben) Leong and Debanjan Ghosh*
 
-### IWPT
+### [IWPT](https://iwpt20.sigparse.org/)
 The 16th International Conference on Parsing Technologies. All things related to the analysis of language structure, with a shared task on Multilingual Parsing to Enhanced Universal Dependencies. <br/>
 *Organizers: Yuji Matsumoto, Stephan Oepen, Kenji Sagae, Anders Søgaard, Weiwei Sun and Reut Tsarfaty*
 
@@ -70,7 +70,7 @@ NLP for Medical Conversations. Building the clinical decision support systems as
 The 1st Joint Workshop on Narrative Understanding, Storylines, and Events invites researchers in AI/NLP/Vision/DH &amp; beyond to discuss methods/fiction/news/social media. <br/>
 *Organizers: Claire Bonial, Tommaso Caselli, Snigdha Chaturvedi, Elizabeth Clark, Ruihong Huang, Ben Miller, Mohit Iyyer, Alejandro Jaimes, Heng Ji, Lara Martin, Teruko Mitamura, Nanyun Peng and Joel Tetreault*
 
-### RepL4NLP 
+### [RepL4NLP](https://sites.google.com/view/repl4nlp2020/home) 
 The 5th Workshop on Representation Learning for NLP is a large workshop on vector space models of meaning, neural networks, spectral methods, with interdisciplinary keynotes, posters, panel. <br/>
 *Organizers: Emma Strubell, Spandana Gella, Marek Rei, Johannes Welbl, Fabio Petroni, Patrick Lewis, Hannaneh Hajishirzi, Kyunghyun Cho, Edward Grefenstette, Karl Moritz Hermann, Laura Rimell, Chris Dyer and Isabelle Augenstein*
 
