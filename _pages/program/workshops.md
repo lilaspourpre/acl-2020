@@ -70,7 +70,7 @@ NLP for Medical Conversations. Building the clinical decision support systems as
 The 1st Joint Workshop on Narrative Understanding, Storylines, and Events invites researchers in AI/NLP/Vision/DH &amp; beyond to discuss methods/fiction/news/social media. <br/>
 *Organizers: Claire Bonial, Tommaso Caselli, Snigdha Chaturvedi, Elizabeth Clark, Ruihong Huang, Ben Miller, Mohit Iyyer, Alejandro Jaimes, Heng Ji, Lara Martin, Teruko Mitamura, Nanyun Peng and Joel Tetreault*
 
-### RepL4NLP 
+### [RepL4NLP](https://sites.google.com/view/repl4nlp2020/home) 
 The 5th Workshop on Representation Learning for NLP is a large workshop on vector space models of meaning, neural networks, spectral methods, with interdisciplinary keynotes, posters, panel. <br/>
 *Organizers: Emma Strubell, Spandana Gella, Marek Rei, Johannes Welbl, Fabio Petroni, Patrick Lewis, Hannaneh Hajishirzi, Kyunghyun Cho, Edward Grefenstette, Karl Moritz Hermann, Laura Rimell, Chris Dyer and Isabelle Augenstein*
 
