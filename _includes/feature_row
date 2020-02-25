@@ -18,7 +18,7 @@
       <div class="archive__item">
         {% if f.image_path %}
           <div class="archive__item-teaser">
-            <img width="50%" src=
+            <img width="70%" src=
               {% if f.image_path contains "://" %}
                 "{{ f.image_path }}"
               {% else %}
