@@ -18,10 +18,10 @@ The following speakers have graciously accepted to give keynotes at ACL 2020. Th
 Title: TBD <br/>
 Abstract: TBD
 
-## Josh Tennenbaum
+## Josh Tenenbaum
 <figure>
   <a href="https://web.mit.edu/cocosci/josh.html"><img src="/assets/images/keynotes/josh.jpg"></a>
-  <figcaption><strong><a href="https://web.mit.edu/cocosci/josh.html">Josh Tanenbaum</a></strong>: Professor, Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology.</figcaption>
+  <figcaption><strong><a href="https://web.mit.edu/cocosci/josh.html">Josh Tenenbaum</a></strong>: Professor, Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology.</figcaption>
 </figure>
 
 Title: TBD <br/>
