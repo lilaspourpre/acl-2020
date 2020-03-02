@@ -34,7 +34,8 @@ Ves Stoyanov, Facebook AI
 <h3>Student Research Workshop Chairs</h3>
 [Rotem Dror](https://rtmdrr.github.io/), Technion - Israel Institute of Technology<br/>
 [Jiangming Liu](http://leoncrashcode.github.io/), The University of Edinburgh<br/>
-[Shruti Rijhwani](https://shrutirij.github.io/), Carnegie Mellon University
+[Shruti Rijhwani](https://shrutirij.github.io/), Carnegie Mellon University<br/>
+[Yizhong Wang](https://yizhong-wang.com/), University of Washington
 
 <h3>Faculty Advisors to the Student Research Workshop</h3>
 [Omri Abend](https://www.cse.huji.ac.il/~oabend/), Hebrew University of Jerusalem<br/>
