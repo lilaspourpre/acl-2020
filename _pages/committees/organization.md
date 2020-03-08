@@ -64,7 +64,7 @@ Ves Stoyanov, Facebook AI
 
 <h3>Publication Chairs</h3>
 [Steven Bethard](https://bethard.faculty.arizona.edu/), University of Arizona<br/>
-[Ryan Cotterrell](https://ryancotterell.github.io/), University of Cambridge<br/>
+[Ryan Cotterell](https://ryancotterell.github.io/), University of Cambridge<br/>
 [Rui Yan](http://www.ruiyan.me/), Peking University
 
 <h3>Publicity Chair</h3>
