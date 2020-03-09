@@ -32,7 +32,7 @@ The conference will be held at the: <br/><br/>
 ## Accommodation
 
 <b>Hyatt Regency Seattle</b><br/> 
-<b>808 Howell Street, Seattle, Washington, United States, 98101</b>br/> 
+<b>808 Howell Street, Seattle, Washington, United States, 98101</b><br/> 
 <b>+1 206 973 1234</b><br/>
 
 {% include figure image_path="/assets/images/seattle/hyatt_outside.png" %}
@@ -51,10 +51,10 @@ The rooms may be reserved online [here](https://www.hyatt.com/en-US/group-bookin
 
 ### Students
 
-<b>Seattle Airport Marriott</b></br>
-<b>3201 South 176th Street</b></br>
-<b>Seattle, Washington 98188 USA</b></br>
-<b>1-206-241-2000</b></br>
+<b>Seattle Airport Marriott</b><br/>
+<b>3201 South 176th Street</b><br/>
+<b>Seattle, Washington 98188 USA</b><br/>
+<b>1-206-241-2000</b><br/>
 
 We have also booked a small number of rooms specifically for students at the [Marriott Seattle Airport](https://www.marriott.com/hotels/travel/seawa-seattle-airport-marriott/) at the super-discounted rate of <b>$139</b>. We strongly encourage students to share rooms to the extent possible.
 
