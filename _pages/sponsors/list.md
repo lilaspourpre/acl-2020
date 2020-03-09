@@ -20,6 +20,10 @@ platinum:
     image_path: /assets/images/logos/baidu.jpg
     alt: "Baidu Logo"
     title: "Baidu"
+  - url: https://research.duolingo.com
+    image_path: /assets/images/logos/duolingo.png
+    alt: "Duolingo Logo"
+    title: "Duolingo"  
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 gold:
