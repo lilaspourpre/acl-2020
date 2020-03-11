@@ -10,17 +10,19 @@ sidebar:
     nav: program
 ---
 
-## Two Day Workshops
+## July 5
+
+### [W1: WiNLP](http://www.winlp.org/winlp-2020-workshop/)
+The Fourth Widening NLP Workshop focuses on efforts to promote and support ideas and voices of underrepresented groups in Natural Language Processing. <br/>
+*Organizers: Samira Shaikh, Rossana da Cunha Silva, Ann Clifton, Erika Doggett and Ryan Georgi*
+
+## July 9 & 10
 
 ### [W2: IWSLT](http://www.iwslt.org/doku.php) 
 The 17th International Conference on Spoken Language Translation (IWSLT) is an annual scientific conference for the study, development and evaluation of spoken language translation technology: speech-to-text, speech-to-speech translation, simultaneous and consecutive translation, speech dubbing, cross-lingual communication including all multimodal, emotional, para-linguistic, and stylistic aspects and their applications in the field. The conference organizes evaluations and workshop sessions around challenge areas, and presents scientific work and system descriptions. <br/>
 *Organizers: Marcello Federico, Alexander Waibel, Jiatao Gu, Kevin Knight, Will Lewis, Satoshi Nakamura, Hermann Ney, Jan Niehues, Sebastian Stüker and Marco Turchi*
 
-## One Day Workshops
-
-### [W1: WiNLP](http://www.winlp.org/winlp-2020-workshop/)
-The Fourth Widening NLP Workshop focuses on efforts to promote and support ideas and voices of underrepresented groups in Natural Language Processing. <br/>
-*Organizers: Samira Shaikh, Rossana da Cunha Silva, Ann Clifton, Erika Doggett and Ryan Georgi*
+## July 9
 
 ### [W3: NLP4ConvAI](https://sites.google.com/view/2ndnlp4convai/home)
 NLP for Conversational AI workshop aims at building a ConvAI community where ideas and latest progresses can be shared freely and openly. <br/> 
@@ -53,6 +55,8 @@ Workshop on Advances in Language and Vision Research. Promoting the frontier of 
 ### [W10: RepL4NLP](https://sites.google.com/view/repl4nlp2020/home) 
 The 5th Workshop on Representation Learning for NLP is a large workshop on vector space models of meaning, neural networks, spectral methods, with interdisciplinary keynotes, posters, panel. <br/>
 *Organizers: Emma Strubell, Spandana Gella, Marek Rei, Johannes Welbl, Fabio Petroni, Patrick Lewis, Hannaneh Hajishirzi, Kyunghyun Cho, Edward Grefenstette, Karl Moritz Hermann, Laura Rimell, Chris Dyer and Isabelle Augenstein*
+
+## July 11
 
 ### [W11: NLI](https://nli-acl2020.github.io/)
 Natural Language Interfaces: Challenges and Promises. This multidisciplinary workshop retrospectively and prospectively discusses the challenges and promises of natural language interfaces. <br/>
