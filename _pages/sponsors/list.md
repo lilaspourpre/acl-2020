@@ -10,6 +10,10 @@ diamond:
     image_path: /assets/images/logos/Bloomberg-logo-2019.png
     alt: "Bloomberg Logo"
     title: "Bloomberg"
+  - url: https://research.google.com
+    image_path: /assets/images/logos/google.png
+    alt: "Google Logo"
+    title: "Google"
   - image_path: /assets/images/logos/blank-logo.png
 platinum:
   - url: https://megagon.ai
@@ -34,6 +38,10 @@ silver:
     image_path: /assets/images/logos/polyai-logo-2019.png
     alt: "PolyAI Logo"
     title: "PolyAI"
+  - url: https://babelscape.com
+    image_path: /assets/images/logos/babelscape.pdf
+    alt: "babelscape Logo"
+    title: "babelscape"
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 bronze:
@@ -48,6 +56,10 @@ supporter:
     image_path: /assets/images/logos/jhu.jpg
     alt: "JHU Logo"
     title: "JHU"
+  - url: https://www.jhu.edu
+    image_path: /assets/images/logos/hlijhu.jpg
+    alt: "HLTCOE/JHU Logo"
+    title: "HLTCOE/JHU"
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 supporter:
@@ -60,6 +72,13 @@ dichampion:
 dially:
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
+dicontributor:
+  - url: https://www.grammarly.com
+    image_path: /assets/images/logos/grammarly-logo.png
+    alt: "grammarly Logo"
+    title: "grammarly"
+  - image_path: /assets/images/logos/blank-logo.png
+  - image_path: /assets/images/logos/blank-logo.png
 inkind:
   - image_path: /assets/images/logos/blank-logo.png
 sidebar: 
@@ -68,7 +87,9 @@ sidebar:
 
 ACL 2020 is grateful to all its sponsors, who are listed below. We simply couldn’t run the conference without the help of these generous companies. We thank them sincerely for their ongoing support of the NLP/CL community.
 
-This year’s sponsor list includes two initiatives created last year.  These categories are: Diversity & Inclusion Champion and Diversity & Inclusion Ally. These sponsors donated funds specifically to facilitate participation in ACL 2020 by all researchers in our field. This extra funding is being used to subsidize childcare, accessibility accommodations, and attendance in cases of financial hardship. These new D&I sponsorship opportunities [sponsorship opportunities](/sponsors/benefits) are available for the AACL and EMNLP conferences as well.
+
+This year’s sponsor list includes three initiatives. These categories are: Diversity & Inclusion Champion, Diversity & Inclusion Ally and Diversity and Inclusion Contributor. 
+These sponsors donated funds specifically to facilitate participation in ACL 2020 by all researchers in our field. This extra funding is being used to subsidize childcare, accessibility accommodations, and attendance in cases of financial hardship. These new D&I sponsorship opportunities [sponsorship opportunities](/sponsors/benefits) are available for the AACL and EMNLP conferences as well.
 
 ## Diamond
 
@@ -105,6 +126,10 @@ This year’s sponsor list includes two initiatives created last year.  These ca
 ## Diversity &amp; Inclusion: Ally
 
 {% include gallery id="dially" class="fourth" %}
+
+## Diversity &amp; Inclusion: Contributor
+
+{% include gallery id="dicontributor" class="fourth" %}
 
 ## In-Kind Donations
 
