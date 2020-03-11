@@ -56,7 +56,7 @@ Workshop on Advances in Language and Vision Research. Promoting the frontier of 
 The 5th Workshop on Representation Learning for NLP is a large workshop on vector space models of meaning, neural networks, spectral methods, with interdisciplinary keynotes, posters, panel. <br/>
 *Organizers: Emma Strubell, Spandana Gella, Marek Rei, Johannes Welbl, Fabio Petroni, Patrick Lewis, Hannaneh Hajishirzi, Kyunghyun Cho, Edward Grefenstette, Karl Moritz Hermann, Laura Rimell, Chris Dyer and Isabelle Augenstein*
 
-## July 11
+## July 10
 
 ### [W11: NLI](https://nli-acl2020.github.io/)
 Natural Language Interfaces: Challenges and Promises. This multidisciplinary workshop retrospectively and prospectively discusses the challenges and promises of natural language interfaces. <br/>
