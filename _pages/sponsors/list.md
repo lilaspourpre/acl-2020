@@ -58,9 +58,6 @@ supporter:
     title: "JHU"
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
-socialevent:
-  - image_path: /assets/images/logos/blank-logo.png
-  - image_path: /assets/images/logos/blank-logo.png
 dichampion:
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
@@ -113,9 +110,9 @@ These sponsors donated funds specifically to facilitate participation in ACL 202
 
 {% include gallery id="supporter" class="fourth" %}
 
-## Social Event Entertainment
+## In-Kind Donations
 
-{% include gallery id="socialevent" class="fourth" %}
+{% include gallery id="inkind" class="fourth" %}
 
 ## Diversity &amp; Inclusion: Champion
 
@@ -132,10 +129,6 @@ These sponsors donated funds specifically to facilitate participation in ACL 202
 ## Diversity &amp; Inclusion: In-Kind
 
 {% include gallery id="diinkind" class="fourth" %}
-
-## In-Kind Donations
-
-{% include gallery id="inkind" class="fourth" %}
 
 <div class="text-center"> 
 <a href="/sponsors/benefits/"><button class="btn btn--large btn--inverse">Sponsorship Tiers &amp; Pricing</button></a>
