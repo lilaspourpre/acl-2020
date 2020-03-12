@@ -56,10 +56,6 @@ supporter:
     image_path: /assets/images/logos/jhu.jpg
     alt: "JHU Logo"
     title: "JHU"
-  - url: https://www.jhu.edu
-    image_path: /assets/images/logos/hlijhu.jpg
-    alt: "HLTCOE/JHU Logo"
-    title: "HLTCOE/JHU"
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 socialevent:
@@ -112,7 +108,7 @@ These sponsors donated funds specifically to facilitate participation in ACL 202
 
 ## Supporter
 
-<!--{% include gallery id="supporter" class="fourth" %}-->
+{% include gallery id="supporter" class="fourth" %}
 
 ## Social Event Entertainment
 
