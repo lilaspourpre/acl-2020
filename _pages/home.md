@@ -10,8 +10,10 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
-**Feb 12, 2020**. The author response period has now begun (Feb 12-17). Please checkout the [ordinary review form](/docs/ACL_2020_Submission_Form.pdf) and [Theme review form](/docs/ACL20-ThemeReviewForm.pdf) used by the reviewers.
-{: .notice--info} 
+<b>March 12</b> <br/>
+ACL2020 Community, <br/>
+We wanted to let everyone know our plans with regard to COVID-19. While we are looking into all possible options (including an all-virtual conference) we think by far the most likely scenario for ACL2020 is that we will have our regular live conference in July as usual.  We do expect somewhat smaller attendance, and plan to offer increased availability of remote presentations to accommodate the members of our community whose ability to travel or get visas is impacted. We'll also be planning for ways to keep everyone healthy at the conference itself. Meanwhile we'll be tracking the situation carefully, and will keep you in the loop as we know more. Stay healthy everyone! <br/>
+Dan Jurafsky, General Chair, for the whole ACL2020 team
 
 <div class="text-center">
     <a href="/archive/" style="font-size: smaller; font-decoration: italic;">Older News</a>
