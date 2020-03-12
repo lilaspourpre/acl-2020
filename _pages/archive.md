@@ -7,6 +7,15 @@ toc: false
 toc_icon: "cog"
 ---
 
+**Feb 12, 2020**. The author response period has now begun (Feb 12-17). Please checkout the [ordinary review form](/docs/ACL_2020_Submission_Form.pdf) and [Theme review form](/docs/ACL20-ThemeReviewForm.pdf) used by the reviewers.
+{: .notice--info} 
+
+**Feb 04, 2020**. New blog post describing the [Diversity &amp; Inclusion Committee](/blog/diversity-and-inclusion).
+{: .notice--info} 
+
+**Jan 23, 2020**. Checkout out the new PC blog post on [Start of Review Process](/blog/start-of-review-process).
+{: .notice--info} 
+
 **Jan 16, 2020**. Paper review period is from Jan 17 to Feb 7. Reviewers can find useful instructions [here](/reviewers).
 {: .notice--info} 
 
