@@ -11,7 +11,7 @@ diamond:
     alt: "Bloomberg Logo"
     title: "Bloomberg"
   - url: https://research.google.com
-    image_path: /assets/images/logos/google.png
+    image_path: /assets/images/logos/Google.png
     alt: "Google Logo"
     title: "Google"
   - image_path: /assets/images/logos/blank-logo.png
@@ -39,7 +39,7 @@ silver:
     alt: "PolyAI Logo"
     title: "PolyAI"
   - url: https://babelscape.com
-    image_path: /assets/images/logos/babelscape.pdf
+    image_path: /assets/images/logos/babelscape.jpg
     alt: "babelscape Logo"
     title: "babelscape"
   - image_path: /assets/images/logos/blank-logo.png
@@ -56,13 +56,8 @@ supporter:
     image_path: /assets/images/logos/jhu.jpg
     alt: "JHU Logo"
     title: "JHU"
-  - url: https://www.jhu.edu
-    image_path: /assets/images/logos/hlijhu.jpg
-    alt: "HLTCOE/JHU Logo"
-    title: "HLTCOE/JHU"
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
-supporter:
 socialevent:
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
@@ -113,7 +108,7 @@ These sponsors donated funds specifically to facilitate participation in ACL 202
 
 ## Supporter
 
-<!--{% include gallery id="supporter" class="fourth" %}-->
+{% include gallery id="supporter" class="fourth" %}
 
 ## Social Event Entertainment
 
