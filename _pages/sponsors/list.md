@@ -68,6 +68,9 @@ dially:
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 dicontributor:
+  - image_path: /assets/images/logos/blank-logo.png
+  - image_path: /assets/images/logos/blank-logo.png
+diinkind:
   - url: https://www.grammarly.com
     image_path: /assets/images/logos/grammarly-logo.png
     alt: "grammarly Logo"
@@ -84,7 +87,7 @@ ACL 2020 is grateful to all its sponsors, who are listed below. We simply couldn
 
 
 This year’s sponsor list includes three initiatives. These categories are: Diversity & Inclusion Champion, Diversity & Inclusion Ally and Diversity and Inclusion Contributor. 
-These sponsors donated funds specifically to facilitate participation in ACL 2020 by all researchers in our field. This extra funding is being used to subsidize childcare, accessibility accommodations, and attendance in cases of financial hardship. These new D&I sponsorship opportunities [sponsorship opportunities](/sponsors/benefits) are available for the AACL and EMNLP conferences as well.
+These sponsors donated funds specifically to facilitate participation in ACL 2020 by all researchers in our field. This extra funding is being used to subsidize childcare, accessibility accommodations, and attendance in cases of financial hardship. These new D&I [sponsorship opportunities](/sponsors/benefits) are available for the AACL and EMNLP conferences as well.
 
 ## Diamond
 
@@ -125,6 +128,10 @@ These sponsors donated funds specifically to facilitate participation in ACL 202
 ## Diversity &amp; Inclusion: Contributor
 
 {% include gallery id="dicontributor" class="fourth" %}
+
+## Diversity &amp; Inclusion: In-Kind
+
+{% include gallery id="diinkind" class="fourth" %}
 
 ## In-Kind Donations
 
