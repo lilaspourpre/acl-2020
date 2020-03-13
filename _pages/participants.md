@@ -25,7 +25,7 @@ socialmaps:
 ## Conference Venue
 
 The conference will be held at the: <br/><br/>
-[Hyatt Regency Seattle](https://www.hyatt.com/en-US/hotel/washington/hyatt-regency-seattle/sears)<br/>
+Hyatt Regency Seattle<br/>
 [808 Howell Street, Seattle, Washington, United States, 98101](https://www.google.com/maps/place/808+Howell+St,+Seattle,+WA+98101/@47.6145385,-122.3361358,17z/data=!3m1!4b1!4m5!3m4!1s0x5490154abdd4d215:0x1792832aa874e808!8m2!3d47.6145385!4d-122.3339418)<br/>
 +1 206 973 1234
 
@@ -39,15 +39,14 @@ The conference will be held at the: <br/><br/>
 
 {% include figure image_path="/assets/images/seattle/hyatt_inside.png" %}
 
-We have secured accommodation for participants at ACL 2020 discounted rates at the Hyatt Regency Seattle which is also the conference venue. You can learn more about the hotel [here](https://www.hyatt.com/en-US/hotel/washington/hyatt-regency-seattle/sears).
+We have secured accommodation for participants at ACL 2020 discounted rates at the Hyatt Regency Seattle which is also the conference venue. 
+The rooms may be reserved online [here](https://www.hyatt.com/en-US/group-booking/SEARS/G-ACLA).
 
 - Walk two blocks southwest to the Westlake Station, where you can board the Link Light Rail and ride it to the airport, University of Washington, and more. Seattle-Tacoma International Airport is just 15 miles away.
 - Complimentary Wi-fi in all guest rooms.
 - Single/Double Room: <b>$249</b>, Triple Room: <b>$274</b>, Quad Room: <b>$299</b>.
 
 Quoted rates will be possible up to 3 days pre- and post-conference, based on hotel availability. ACL discounted rates are available through Tuesday, June 16, 2020.  Reservation requests received after the cut-off date will be based on standard room type availability at the contracted group rate.
-
-The rooms may be reserved online [here](https://www.hyatt.com/en-US/group-booking/SEARS/G-ACLA).
 
 ### Students
 
@@ -64,7 +63,7 @@ Please complete the Student Accommodation Request Form to make your reservation 
 
 Please complete the [Student Accommodation Request Form](https://forms.office.com/Pages/ResponsePage.aspx?id=9028kaqAQ0OMdrEjlJf7WY4w_ivCkJNKnHxP2pxjk6pUN0ZTMUE2VE1RSDhCVkZaS0RJMDk3ODhRSS4u) to make your reservation request. We will do our best to honor your request on a first-come first-served basis. All requests must be received no later than Monday, June 1, 2020 by the ACL Office.
 
-The Marriott Seattle Airport is near the airport, about 20 minutes from the Hyatt Regency Hotel (the conference venue).  The hotel offers free shuttle to and from the hotel/airport.  
+The Marriott Seattle Airport is near the airport, and offers free shuttle to and from the hotel/airport.  The Marriott Hotel is also close to the Airport light rail, roughly a 10 minute walk, then taking you to the Hyatt Regency Hotel (conference venue).  Please be aware the light rail itself probably takes 30-45 minutes, so there would be a commute each way.
 
 ## Welcome Reception
 
