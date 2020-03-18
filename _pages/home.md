@@ -10,10 +10,13 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
-**March 12.** <br/>
-ACL2020 Community, <br/>
-We wanted to let everyone know our plans with regard to COVID-19. While we are looking into all possible options (including an all-virtual conference) we think by far the most likely scenario for ACL2020 is that we will have our regular live conference in July as usual.  We do expect somewhat smaller attendance, and plan to offer increased availability of remote presentations to accommodate the members of our community whose ability to travel or get visas is impacted. We'll also be planning for ways to keep everyone healthy at the conference itself. Meanwhile we'll be tracking the situation carefully, and will keep you in the loop as we know more. Stay healthy everyone! <br/>
-Dan Jurafsky, General Chair, for the whole ACL2020 team
+**March 18.**<br/>
+Dear ACL2020 Community, <br/><br/>
+Here's another coronavirus update, as things are changing very rapidly. First, we want to reassure everyone that ACL 2020 will take place in some form, and papers accepted to ACL will be published! <br/><br/> 
+We will be keeping open the possibility of an in-person meeting as long as possible, in the hopes that things will look very different by early May. But it's looking more likely that even by July it will still be crucial to avoid large group meetings or travel, as it is now. We're therefore making backup plans for either a delayed conference or, most likely at this point, a virtual (online) conference. We're getting advice from other conferences that are going virtual, and working out best ways to do talks, workshops, and tutorials without losing the social aspect that has always been a central part of our meetings and our community. Like many of you, I have been teaching all my classes online for the last few weeks and I have been enormously impressed with the resilience of all the students and faculty and researchers here and I know it’s the same for you all and I'm confident that we will have a fantastic event no matter the format! <br/><br/>
+We especially want to thank all of you in our community for the warm wishes and thoughts and compassion you have been sending the whole ACL2020 committee as we try to manage this extremely difficult problem.  We understand that everyone has lots of questions and we'll continue to keep you updated as we know more. Please take care of yourself and each other. <br/><br/>
+Warmly,<br/>
+Dan Jurafsky, General Chair, for the whole ACL2020 Organizing Committee
 {: .notice--info} 
 
 <div class="text-center">
