@@ -14,6 +14,10 @@ diamond:
     image_path: /assets/images/logos/Google.png
     alt: "Google Logo"
     title: "Google"
+  - url: https://www.apple.com
+    image_path: /assets/images/logos/apple.jpg
+    alt: "Apple Logo"
+    title: "Apple"
   - image_path: /assets/images/logos/blank-logo.png
 platinum:
   - url: https://megagon.ai
