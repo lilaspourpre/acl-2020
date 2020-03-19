@@ -15,7 +15,7 @@ diamond:
     alt: "Google Logo"
     title: "Google"
   - url: https://www.apple.com
-    image_path: /assets/images/logos/apple.jpg
+    image_path: /assets/images/logos/Apple-for-2019-ACLwebsite.jpg
     alt: "Apple Logo"
     title: "Apple"
   - image_path: /assets/images/logos/blank-logo.png
