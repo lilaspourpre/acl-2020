@@ -18,6 +18,12 @@ diversity-inclusion-chairs:
   bio         : "Cissi Ovesdotter Alm &amp; Vinodkumar Prabhakaran"
   avatar      : "assets/images/logos/acl-logo.png"
 
+accessibility-chairs:
+  name        : "D&amp;I Accessibility Chairs"
+  email       : "acl2020-diversity-inclusion-chairs@googlegroups.com"
+  bio         : "Sushant Kafle, Masoud Rouhizadeh &amp; Naomi Saphra"
+  avatar      : "assets/images/logos/acl-logo.png"
+
 
 amanda-graham:
   name        : "Amanda Stent & Graham Neubig"

@@ -1,10 +1,10 @@
 ---
 title: "Accessibility for Camera-Ready Papers"
-author: diversity-inclusion-chairs
+author: accessibility-chairs
 author_profile: true
 excerpt: ""
 tags:
-  diversity-inclusion
+  diversity-inclusion, accessibility
 categories:
     blog
 ---
