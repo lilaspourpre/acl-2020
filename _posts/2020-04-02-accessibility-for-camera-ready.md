@@ -25,7 +25,7 @@ As a leading venue for published research on NLP/CL, it is important that we as 
 
 Thank you for helping to make your papers more accessible to all readers. If you have follow-up questions, please send an email to [acl2020-diversity-inclusion-chairs@googlegroups.com](mailto:acl2020-diversity-inclusion-chairs@googlegroups.com) with “Accessibility Subcommittee” in the subject line.
 
-<b>Additional relevant links for exploration </b> <br/><br/>
+<b>Additional relevant links for exploration </b> <br/>
 
 - [Adobe PDF Accessibility Overview](https://www.adobe.com/accessibility/pdf/pdf-accessibility-overview.html)
 - [Web Content Accessibility Guidelines](https://www.w3.org/TR/2018/REC-WCAG21-20180605/)
