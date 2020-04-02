@@ -1,5 +1,5 @@
 ---
-title: "The ACL 2020 Diversity and Inclusion Committee"
+title: "Accessibility for camera-ready papers"
 author: diversity-inclusion-chairs
 author_profile: true
 excerpt: ""
