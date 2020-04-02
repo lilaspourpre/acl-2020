@@ -1,5 +1,5 @@
 ---
-title: "Accessibility for camera-ready papers"
+title: "Accessibility for Camera-Ready Papers"
 author: diversity-inclusion-chairs
 author_profile: true
 excerpt: ""
