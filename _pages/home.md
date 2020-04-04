@@ -70,7 +70,7 @@ ACL is the premier conference of the field of computational linguistics, coverin
         <tr>
           <td>Camera-ready papers due<br/>(<i>long &amp; short papers</i>)</td>
           <td>Friday</td>
-          <td>April 24, 2020</td>
+          <td><strike>April 24</strike> May 1, 2020</td>
         </tr>
         <tr>
             <td>Proceedings publication</td>
