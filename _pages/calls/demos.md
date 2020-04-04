@@ -51,7 +51,7 @@ As in previous years, ACL 2020's demo track will feature a Best Demo Award. We h
         <tr>
           <td>Camera-ready submission</td>
           <td>Friday</td>
-          <td>April 24th, 2020</td>
+          <td><strike>April 24th</strike> May 1st, 2020</td>
         </tr>        
 </tbody>
 </table>
