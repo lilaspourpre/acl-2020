@@ -30,7 +30,7 @@ Before the metadata is entered, please have all authors ensure that the name in 
 The metadata should be written using Unicode (UTF-8) with LaTeX commands. Please try to follow these guidelines: <br/>
 - In titles, please capitalize the first word, the first word after a colon (:), and all other words except the following “little words”: articles, prepositions, coordinating conjunctions, and the infinitive marker “to.” This includes hyphenated words like Mixed-Case.
 - BibTeX (in many bibliography styles, including ACL's) lowercases the titles of conference papers, and needs to be told which letters not to lowercase. So if your title has letters that should always be capitals, please protect them with curly braces, like this: <i>{E}nglish, {C}homsky, {IBM}, {CFG}s, {HMM}s</i>. Please also protect the first letter after a sentence-final punctuation mark. For example: <i>Can {LSTM} {L}earn to {C}apture {A}greement? {T}he {C}ase of {B}asque Named {E}ntity {E}xtraction from {N}oisy {I}nput: {S}peech and {OCR}</i>. These curly braces will _not_ appear in the online conference program or proceedings. They will only appear in the BibTeX file that others will use to cite your paper.
-- If you need literal curly braces, please escape them like this: \\{ \\}
+- If you need literal curly braces, please escape them like this:   \\{ \\}
 - Please don't use any nonstandard LaTeX commands, and there should be no \footnote or citations using \cite or related commands.
 - You can use LaTeX math mode where appropriate: An $O(n^2)$ Algorithm for $n$-gram Smoothing.
 - You can use Unicode (UTF-8) for accented or special characters.
