@@ -26,7 +26,7 @@ main:
   #   url: /calls/papers
 
   - title: "Calls"
-    url: /calls/demos
+    url: /calls/papers
 
   - title: "Reviewers"
     url: /reviewers
