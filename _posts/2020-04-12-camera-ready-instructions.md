@@ -1,5 +1,5 @@
 ---
-title: "Camera Ready Instructions for ACL 2020"
+title: "Camera Ready Instructions"
 author: program-chairs
 author_profile: true
 excerpt: ""
