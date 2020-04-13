@@ -18,6 +18,10 @@ diamond:
     image_path: /assets/images/logos/Apple-for-2019-ACLwebsite.jpg
     alt: "Apple Logo"
     title: "Apple"
+  - url: https://www.amazon.science
+    image_path: /assets/images/logos/amazon.png.jpg
+    alt: "Amazon Logo"
+    title: "Amazon"
   - image_path: /assets/images/logos/blank-logo.png
 platinum:
   - url: https://megagon.ai
