@@ -41,17 +41,17 @@ As in previous years, ACL 2020's demo track will feature a Best Demo Award. We h
         <tr>
             <td style="width: 40%;">Paper submission deadline</td>
             <td style="width: 30%;">Friday</td>
-            <td>January 31st, 2020</td>
+            <td>January 31, 2020</td>
         </tr>
         <tr>
             <td>Notification of acceptance</td>
             <td>Friday</td>
-            <td>April 3rd, 2020</td>
+            <td>April 3, 2020</td>
         </tr>
         <tr>
           <td>Camera-ready submission</td>
           <td>Friday</td>
-          <td>April 24th, 2020</td>
+          <td><strike>April 24</strike> May 1, 2020</td>
         </tr>        
 </tbody>
 </table>

@@ -92,7 +92,7 @@ ACL 2020 is grateful to all its sponsors, who are listed below. We simply couldn
 
 
 This year’s sponsor list includes three initiatives. These categories are: Diversity & Inclusion Champion, Diversity & Inclusion Ally and Diversity and Inclusion Contributor. 
-These sponsors donated funds specifically to facilitate participation in ACL 2020 by all researchers in our field. This extra funding is being used to subsidize childcare, accessibility accommodations, and attendance in cases of financial hardship. These new D&I [sponsorship opportunities](/sponsors/benefits) are available for the AACL and EMNLP conferences as well.
+These sponsors donated funds specifically to facilitate participation in ACL 2020 by all researchers in our field. This extra funding is being used to subsidize attendance in various ways. Updated information will be included here soon.  Please watch for further details. 
 
 ## Diamond
 

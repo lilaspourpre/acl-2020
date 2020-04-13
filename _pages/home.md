@@ -10,12 +10,18 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
-**March 18.**<br/>
-Dear ACL2020 Community, <br/><br/>
-Here's another coronavirus update, as things are changing very rapidly. First, we want to reassure everyone that ACL 2020 will take place in some form, and papers accepted to ACL will be published! <br/><br/> 
-We will be keeping open the possibility of an in-person meeting as long as possible, in the hopes that things will look very different by early May. But it's looking more likely that even by July it will still be crucial to avoid large group meetings or travel, as it is now. We're therefore making backup plans for either a delayed conference or, most likely at this point, a virtual (online) conference. We're getting advice from other conferences that are going virtual, and working out best ways to do talks, workshops, and tutorials without losing the social aspect that has always been a central part of our meetings and our community. Like many of you, I have been teaching all my classes online for the last few weeks and I have been enormously impressed with the resilience of all the students and faculty and researchers here and I know it’s the same for you all and I'm confident that we will have a fantastic event no matter the format! <br/><br/>
-We especially want to thank all of you in our community for the warm wishes and thoughts and compassion you have been sending the whole ACL2020 committee as we try to manage this extremely difficult problem.  We understand that everyone has lots of questions and we'll continue to keep you updated as we know more. Please take care of yourself and each other. <br/><br/>
-Warmly,<br/>
+**April 12, 2020**. Authors of accepted papers can find the instructions for camera-ready [here](/authors/camera-ready-instructions). 
+{: .notice--info} 
+
+**April 4.**<br/>
+Dear ACL2020 Community,<br/><br/> 
+We hope you and your families are safe and well.<br/>
+We can now confirm that in response to COVID-19 we will be holding ACL2020 online, on the same July 5-10 dates.<br/>
+We know that many in our community are suffering or may suffer great hardships from this pandemic. We hope that we can work together in this difficult time to build a new kind of ACL meeting this year, one that offers more sustainability, expanded opportunities for exchange of knowledge, and increased inclusion of diverse contributions from around the globe.<br/>
+We will have pre-recorded talks and the full set of tutorials and workshops, and will be planning various live events like Q&A sessions, mentoring, job fairs, and spaces for hallway conversations. This will be challenging but also an opportunity for coming together virtually, and I'm looking forward to working with the entire ACL2020 organizing committee to host an enlightening and meaningful conference. <br/>
+In the near term we are getting advice from other online conference chairs (who have already been enormously helpful), and we will be drawing on all the lessons from our online teaching now and in the past. I've been impressed by the resilience, passion, and positive spirit of everyone I see in all our newly online classes and meetings, and the matching spirit of the whole ACL community. I am grateful to be able to work with you all to make ACL2020 happen for all of us! <br/>
+We'll be posting more details on registration in the next few weeks and more on the mechanics of the virtual conference soon.<br/><br/>
+With warmest wishes for everyone's health,<br/>
 Dan Jurafsky, General Chair, for the whole ACL2020 Organizing Committee
 {: .notice--info} 
 
@@ -67,7 +73,7 @@ ACL is the premier conference of the field of computational linguistics, coverin
         <tr>
           <td>Camera-ready papers due<br/>(<i>long &amp; short papers</i>)</td>
           <td>Friday</td>
-          <td>April 24, 2020</td>
+          <td><strike>April 24</strike> May 1, 2020</td>
         </tr>
         <tr>
             <td>Proceedings publication</td>

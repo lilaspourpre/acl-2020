@@ -14,7 +14,8 @@ Seattle, Washington, USA
 July 5-10, 2020  
 [http://acl2020.org](http://acl2020.org)
 
-<br>
+<b>Update on April 12, 2020:</b> Authors of accepted papers can find the instructions for camera-ready [here](/blog/camera-ready-instructions)
+
 <span style="font-weight: bolder;font-size: larger;">NEW DEVELOPMENTS FOR THE SECOND CFP (ACL2020)</span>
 
 We have several exciting and important developments in the ACL2020 conference that we want to highlight at the top of the second call for papers:
@@ -92,7 +93,7 @@ The 58th Annual Meeting of the Association for Computational Linguistics (ACL 20
         <tr>
           <td>Camera-ready papers due<br/>(<i>long &amp; short papers</i>)</td>
           <td>Friday</td>
-          <td>April 24, 2020</td>
+          <td><strike>April 24</strike> May 1, 2020</td>
         </tr>
         <tr>
             <td>Proceedings publication</td>

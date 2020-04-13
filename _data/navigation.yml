@@ -22,20 +22,14 @@ main:
   - title: "Sponsors"
     url: /sponsors/list/
     
-  # - title: "Call for Papers"
-  #   url: /calls/papers
-
   - title: "Calls"
-    url: /calls/demos
+    url: /calls/papers
+
+  - title: "Authors"
+    url: /authors/camera-ready-instructions
 
   - title: "Reviewers"
     url: /reviewers
-
-  # - title: "Student Research Workshop"
-  #  url: https://sites.google.com/view/acl20studentresearchworkshop/
-
-  #- title: "Organization"
-  #  url: /organization
 
   - title: "Committees"
     url: /committees/organization
@@ -53,6 +47,12 @@ calls:
          url: /calls/tutorials/
        - title: "Student Research Workshop"
          url: https://sites.google.com/view/acl20studentresearchworkshop/
+
+authors:
+   - title: Instructions for Authors
+     children:
+       - title: "Camera Ready Submission"
+         url: /authors/camera-ready-instructions/
 
 program:
    - title: Program Details
