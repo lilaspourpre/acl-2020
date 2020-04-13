@@ -10,6 +10,9 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**April 12, 2020**. Authors of accepted papers can find the instructions for camera-ready [here](/blog/camera-ready-instructions). 
+{: .notice--info} 
+
 **April 4.**<br/>
 Dear ACL2020 Community,<br/><br/> 
 We hope you and your families are safe and well.<br/>

@@ -14,6 +14,8 @@ Seattle, Washington, USA
 July 5-10, 2020  
 [http://acl2020.org](http://acl2020.org)
 
+Update on April 12, 2020: Authors of accepted papers can find the instructions for camera-ready [here](/blog/camera-ready-instructions)
+
 <br>
 <span style="font-weight: bolder;font-size: larger;">NEW DEVELOPMENTS FOR THE SECOND CFP (ACL2020)</span>
 
