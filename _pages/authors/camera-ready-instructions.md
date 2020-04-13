@@ -9,6 +9,8 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
+<span style="font-weight: bolder;font-size: larger;">Camera Ready Instructions</span>
+
 (These instructions are adapted from ACL 2019). 
 
 ### When and where do I send my final camera-ready paper?

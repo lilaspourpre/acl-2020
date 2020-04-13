@@ -10,7 +10,7 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
-**April 12, 2020**. Authors of accepted papers can find the instructions for camera-ready [here](/blog/camera-ready-instructions). 
+**April 12, 2020**. Authors of accepted papers can find the instructions for camera-ready [here](/authors/camera-ready-instructions). 
 {: .notice--info} 
 
 **April 4.**<br/>
