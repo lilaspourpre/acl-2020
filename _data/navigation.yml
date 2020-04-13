@@ -48,6 +48,12 @@ calls:
        - title: "Student Research Workshop"
          url: https://sites.google.com/view/acl20studentresearchworkshop/
 
+authors:
+   - title: Instructions for Authors
+     children:
+       - title: "Camera Ready Submission"
+         url: /authors/camera-ready-instructions/
+
 program:
    - title: Program Details
      children:
