@@ -65,7 +65,8 @@ Ves Stoyanov, Facebook AI
 <h3>Publication Chairs</h3>
 [Steven Bethard](https://bethard.faculty.arizona.edu/), University of Arizona<br/>
 [Ryan Cotterell](https://ryancotterell.github.io/), University of Cambridge<br/>
-[Rui Yan](http://www.ruiyan.me/), Peking University
+[Rui Yan](http://www.ruiyan.me/), Peking University<br/>
+Contact info: [acl2020publicationchairs@googlegroups.com](mailto:acl2020publicationchairs@googlegroups.com)
 
 <h3>Publicity Chair</h3>
 [Emily M. Bender](https://faculty.washington.edu/ebender/), University of Washington

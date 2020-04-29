@@ -84,7 +84,7 @@ Don't go overboard on resolution; keep file sizes manageable. Note that vector g
 
 ### What about copyright?
 
-When you submit the paper, you will be asked to sign the ACL Copyright Transfer Agreement on behalf of all authors, either electronically (via the [START Conference Manager](https://www.softconf.com/acl2020/papers/)) or physically. Authors retain many rights under this agreement and it is appropriate in the vast majority of cases. Please contact the publication chairs, [Steven Bethard](https://bethard.faculty.arizona.edu/), [Ryan Cotterell](https://ryancotterell.github.io/), and [Rui Yan](http://www.ruiyan.me/), with any concerns regarding copyright.
+When you submit the paper, you will be asked to sign the ACL Copyright Transfer Agreement on behalf of all authors, either electronically (via the [START Conference Manager](https://www.softconf.com/acl2020/papers/)) or physically. Authors retain many rights under this agreement and it is appropriate in the vast majority of cases. Please contact the publication chairs at [acl2020publicationchairs@googlegroups.com](mailto:acl2020publicationchairs@googlegroups.com), with any concerns regarding copyright.
 
 Before signing this form, please confirm with your co-authors (and, if applicable, your and their employers) that they authorize you to sign on their behalf. Please sign your full name (not just your first or last initials).
 
@@ -96,6 +96,6 @@ Please also note that your name will appear in conference metadata as you have c
 
 ### My question isn't answered here…
 
-Please email the publication chairs [Steven Bethard](https://bethard.faculty.arizona.edu/), [Ryan Cotterell](https://ryancotterell.github.io/), and [Rui Yan](http://www.ruiyan.me/). 
+Please email the publication chairs at [acl2020publicationchairs@googlegroups.com](mailto:acl2020publicationchairs@googlegroups.com). 
 
 
