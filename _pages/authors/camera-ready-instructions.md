@@ -58,7 +58,7 @@ Supplemental material can be divided into two types: appendices and non-readable
 
 ### How long can it be?
 
-Long papers are permitted at most 9 pages of text while short papers may use up to 5 pages of text. Please use the extra space to help address reviewer comments. For both long and short papers, there is no page limit for references or appendices.
+Long papers are permitted at most 9 pages of text, short papers may use up to 5 pages of text, and demo papers may use up to 7 pages of text. Please use the extra space to help address reviewer comments. For long papers, short papers and demo papers, there is no page limit for references or appendices.
 
 ### What is the format for the camera-ready copy?
 
