@@ -31,7 +31,7 @@ Dan Jurafsky, General Chair, for the whole ACL2020 Organizing Committee
 
 <h2>Welcome!</h2>
 
-The 58th annual meeting of the Association for Computational Linguistics (ACL) will take place in Seattle, Washington at the Hyatt Regency Seattle in downtown Seattle from <b>July 5th through July 10th, 2020</b>.
+The 58th annual meeting of the Association for Computational Linguistics (ACL) will take place online from <b>July 5th through July 10th, 2020</b>.
 
 ACL is the premier conference of the field of computational linguistics, covering a broad spectrum of diverse research areas that are concerned with computational approaches to natural language.
 
