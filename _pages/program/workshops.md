@@ -80,7 +80,7 @@ NLP for Medical Conversations. Building the clinical decision support systems as
 
 ### [W16: ECNLP](https://sites.google.com/view/ecnlp/acl-2020) 
 The Third Workshop on e-Commerce and NLP focuses on NLP for e-Commerce and online shopping applications. Shared tasks on classification and Question Answering are included. <br/>
-*Organizers: Shervin Malmasi, Eugene Agichtein, Oleg Rokhlenko, Nicola Ueffing and Ido Guy*
+*Organizers: Shervin Malmasi, Eugene Agichtein, Surya Kallumadi, Oleg Rokhlenko, Nicola Ueffing and Ido Guy*
 
 ### [W17: SocialNLP](https://sites.google.com/site/socialnlp2020/)
 The Eighth International Workshop on Natural Language Processing for Social Media (SocialNLP 2020). Check out social NLP tech from experts, researches and applications, plus resources for you to play in challenge EmotionX from SocialNLP! <br/>
