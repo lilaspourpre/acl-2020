@@ -13,9 +13,6 @@ excerpt: "<br/><br/>"
 **May 17, 2020**. List of papers accepted to the main conference can be found [here](/program/accepted). 
 {: .notice--info} 
 
-**April 12, 2020**. Authors of accepted papers can find the instructions for camera-ready [here](/authors/camera-ready-instructions). 
-{: .notice--info} 
-
 **April 4.**<br/>
 Dear ACL2020 Community,<br/><br/> 
 We hope you and your families are safe and well.<br/>
