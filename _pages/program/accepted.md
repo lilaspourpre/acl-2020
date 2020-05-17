@@ -12,15 +12,6 @@ toc_sticky: true
 
 ## Long Papers
 
-<b>"The Boating Store Had Its Best Sail Ever": Pronunciation-attentive Contextualized Pun Recognition</b><br/>
-Yichao Zhou, Jyun-Yu Jiang, Jieyu Zhao, Kai-Wei Chang and Wei Wang
-
-<b>(Re)construing Meaning in NLP</b><br/>
-Sean Trott, Tiago Timponi Torrent, Nancy Chang and Nathan Schneider
-
-<b>“Who said it, and Why?” Provenance for Natural Language Claims</b><br/>
-Yi Zhang, Zachary Ives and Dan Roth
-
 <b>2kenize: Tying Subword Sequences for Chinese Script Conversion</b><br/>
 Pranav A and Isabelle Augenstein
 
@@ -1305,6 +1296,9 @@ Guoshun Nan, Zhijiang Guo, Ivan Sekulic and Wei Lu
 <b>Reasoning with Multimodal Sarcastic Tweets via Modeling Cross-Modality Contrast and Semantic Association</b><br/>
 Nan Xu, Zhixiong Zeng and Wenji Mao
 
+<b>(Re)construing Meaning in NLP</b><br/>
+Sean Trott, Tiago Timponi Torrent, Nancy Chang and Nathan Schneider
+
 <b>Recurrent Chunking Mechanisms for Long-Text Machine Reading Comprehension</b><br/>
 Hongyu Gong, Yelong Shen, Dian Yu, Jianshu Chen and Dong Yu
 
@@ -1551,6 +1545,9 @@ Keyon Vafa, Suresh Naidu and David Blei
 <b>That is a Known Lie: Detecting Previously Fact-Checked Claims</b><br/>
 Shaden Shaar, Nikolay Babulkov, Giovanni Da San Martino and Preslav Nakov
 
+<b>"The Boating Store Had Its Best Sail Ever": Pronunciation-attentive Contextualized Pun Recognition</b><br/>
+Yichao Zhou, Jyun-Yu Jiang, Jieyu Zhao, Kai-Wei Chang and Wei Wang
+
 <b>The Cascade Transformer: an Application for Efficient Answer Sentence Selection</b><br/>
 Luca Soldaini and Alessandro Moschitti
 
@@ -1704,6 +1701,9 @@ Ramy Baly, Georgi Karadzhov, Jisun An, Haewoon Kwak, Yoan Dinkov, Ahmed Ali, Jam
 <b>When do Word Embeddings Accurately Reflect Surveys on our Beliefs About People?</b><br/>
 Kenneth Joseph and Jonathan Morgan
 
+<b>“Who said it, and Why?” Provenance for Natural Language Claims</b><br/>
+Yi Zhang, Zachary Ives and Dan Roth
+
 <b>WinoWhy: A Deep Diagnosis of Essential Commonsense Knowledge for Answering Winograd Schema Challenge</b><br/>
 Hongming Zhang, Xinran Zhao and Yangqiu Song
 
@@ -1726,12 +1726,6 @@ Giovanni Campagna, Agata Foryciarz, Mehrad Moradshahi and Monica Lam
 Colin Lockard, Prashant Shiralkar, Xin Luna Dong and Hannaneh Hajishirzi
 
 ## Short Papers
-
-<b>"None of the Above": Measure Uncertainty in Dialog Response Retrieval</b><br/>
-Yulan Feng, Shikib Mehri, Maxine Eskenazi and Tiancheng Zhao
-
-<b>``You Sound Just Like Your Father''\\Commercial Machine Translation Systems Include Stylistic Biases</b><br/>
-Dirk Hovy, Federico Bianchi and Tommaso Fornaciari
 
 <b>A Complete Shift-Reduce Chinese Discourse Parser with Robust Dynamic Oracle</b><br/>
 Shyh-Shiun Hung, Hen-Hsen Huang and Hsin-Hsi Chen
@@ -2120,6 +2114,9 @@ Jie Tan, Changlin Yang, Ying Li, Siliang Tang, Chen Huang and Yueting Zhuang
 <b>Non-Linear Instance-Based Cross-Lingual Mapping for Non-Isomorphic Embedding Spaces</b><br/>
 Goran Glavaš and Ivan Vulić
 
+<b>"None of the Above": Measure Uncertainty in Dialog Response Retrieval</b><br/>
+Yulan Feng, Shikib Mehri, Maxine Eskenazi and Tiancheng Zhao
+
 <b>On Exposure Bias, Hallucination and Domain Shift in Neural Machine Translation</b><br/>
 Chaojun Wang and Rico Sennrich
 
@@ -2347,6 +2344,9 @@ Yi Tay, Donovan Ong, Jie Fu, Alvin Chan, Nancy Chen, Anh Tuan Luu and Chris Pal
 
 <b>You Don't Have Time to Read This: An Exploration of Document Reading Time Prediction</b><br/>
 Orion Weller, Jordan Hildebrandt, Ilya Reznik, Christopher Challis, E. Shannon Tass, Quinn Snell and Kevin Seppi
+
+<b>``You Sound Just Like Your Father'' Commercial Machine Translation Systems Include Stylistic Biases</b><br/>
+Dirk Hovy, Federico Bianchi and Tommaso Fornaciari
 
 <b>ZPR2: Joint Zero Pronoun Recovery and Resolution using Multi-Task Learning and BERT</b><br/>
 Linfeng Song, Kun Xu, Yue Zhang, Jianshu Chen and Dong Yu
