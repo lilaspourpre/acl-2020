@@ -10,6 +10,9 @@ toc: true
 toc_sticky: true
 ---
 
+Below is the list of papers accepted to the main conference. Note that the titles/authors may change and papers may be withdrawn.
+For the final titles/authors, please refer to the proceedings on the anthology when they are out.
+
 ## Long Papers
 
 <b>2kenize: Tying Subword Sequences for Chinese Script Conversion</b><br/>
