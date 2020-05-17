@@ -10,6 +10,9 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**May 17, 2020**. List of papers accepted to the main conference can be found [here](/program/accepted). 
+{: .notice--info} 
+
 **April 12, 2020**. Authors of accepted papers can find the instructions for camera-ready [here](/authors/camera-ready-instructions). 
 {: .notice--info} 
 
