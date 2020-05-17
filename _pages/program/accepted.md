@@ -1216,7 +1216,7 @@ Aman Madaan, Amrith Setlur, Tanmay Parekh, Barnabas Poczos, Graham Neubig, Yimin
 Xiang Lisa Li and Alexander Rush
 
 <b>Predicting Declension Class from Form and Meaning</b><br/>
-Adina Williams, Tiago Pimentel, Hagen Blix, Arya D. McCarthy and Ryan Cotterell
+Adina Williams, Tiago Pimentel, Arya D. McCarthy, Hagen Blix, Eleanor Chodroff and Ryan Cotterell
 
 <b>Predicting Depression in Screening Interviews from Latent Categorization of Interview Prompts</b><br/>
 Alex Rinaldi, Jean Fox Tree and Snigdha Chaturvedi
