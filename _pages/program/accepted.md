@@ -10,7 +10,8 @@ toc: true
 toc_sticky: true
 ---
 
-Below is the list of papers accepted to the main conference. Note that the titles/authors may change and papers may be withdrawn.
+Below is the list of papers accepted to the main conference. There were <b>571 Long Papers</b> accepted, and <b>208 Short Papers</b> accepted. <br/>
+Note that the titles/authors may change and papers may be withdrawn. 
 For the final titles/authors, please refer to the proceedings on the anthology when they are out.
 
 ## Long Papers
