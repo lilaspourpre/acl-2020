@@ -241,7 +241,7 @@ William Lane and Steven Bird
 <b>BPE-Dropout: Simple and Effective Subword Regularization</b><br/>
 Ivan Provilkov, Dmitrii Emelianenko and Elena Voita
 
-<b>Breaking Through the 80\% Glass Ceiling: Raising the State of the Art in Word Sense Disambiguation by Incorporating Knowledge Graph Information</b><br/>
+<b>Breaking Through the 80% Glass Ceiling: Raising the State of the Art in Word Sense Disambiguation by Incorporating Knowledge Graph Information</b><br/>
 Michele Bevilacqua and Roberto Navigli
 
 <b>Bridging Anaphora Resolution as Question Answering</b><br/>
