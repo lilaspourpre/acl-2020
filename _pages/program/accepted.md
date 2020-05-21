@@ -10,11 +10,15 @@ toc: true
 toc_sticky: true
 ---
 
-Below is the list of papers accepted to the main conference. There were <b>571 Long Papers</b> and <b>208 Short Papers</b> accepted. <br/>
+Below is the list of papers accepted to the conference. 
 Note that the titles/authors may change and papers may be withdrawn. 
 For the final titles/authors, please refer to the proceedings on the anthology when they are out.
 
-## Long Papers
+## Main Conference
+
+There were <b>571 Long Papers</b> and <b>208 Short Papers</b> accepted. <br/>
+
+### Long Papers
 
 <b>2kenize: Tying Subword Sequences for Chinese Script Conversion</b><br/>
 Pranav A and Isabelle Augenstein
@@ -1729,7 +1733,7 @@ Giovanni Campagna, Agata Foryciarz, Mehrad Moradshahi and Monica Lam
 <b>ZeroShotCeres: Zero-Shot Relation Extraction from Semi-Structured Webpages</b><br/>
 Colin Lockard, Prashant Shiralkar, Xin Luna Dong and Hannaneh Hajishirzi
 
-## Short Papers
+### Short Papers
 
 <b>A Complete Shift-Reduce Chinese Discourse Parser with Robust Dynamic Oracle</b><br/>
 Shyh-Shiun Hung, Hen-Hsen Huang and Hsin-Hsi Chen
@@ -2354,4 +2358,135 @@ Dirk Hovy, Federico Bianchi and Tommaso Fornaciari
 
 <b>ZPR2: Joint Zero Pronoun Recovery and Resolution using Multi-Task Learning and BERT</b><br/>
 Linfeng Song, Kun Xu, Yue Zhang, Jianshu Chen and Dong Yu
+
+## System Demonstrations
+
+<b>ADVISER: A Toolkit for Developing Multi-modal, Multi-domain and Socially-engaged Conversational Agents</b><br/>
+Chia-Yu Li, Daniel Ortega, Dirk Väth, Florian Lux, Lindsey Vanderlyn, Maximilian Schmidt, Michael Neumann, Moritz Völkel, Pavel Denisov, Sabrina Jenne, Zorica Kacarevic and Ngoc Thang Vu
+
+<b>BENTO: A Visual Platform for Building Clinical NLP Pipelines Based on CodaLab</b><br/>
+Yonghao Jin, Fei Li and Hong Yu
+
+<b>Clinical-Coder: Assigning Interpretable ICD-10 Codes to Chinese Clinical Notes</b><br/>
+Pengfei Cao, Chenwei Yan, xiangling fu, Yubo Chen, Kang Liu, Jun Zhao, Shengping Liu and Weifeng Chong
+
+<b>CLIReval: Evaluating Machine Translation as a Cross-Lingual Information Retrieval Task</b><br/>
+Shuo Sun, Suzanna Sia and Kevin Duh
+
+<b>Conversation Learner - A Machine Teaching Tool for Building Dialog Managers for Task-Oriented Dialog Systems</b><br/>
+Swadheen Shukla, Lars Liden, Shahin Shayandeh, Eslam Kamal, Jinchao Li, Matt Mazzola, Thomas Park, Baolin Peng and Jianfeng Gao
+
+<b>ConvLab-2: An Open-Source Toolkit for Building, Evaluating, and Diagnosing Dialogue Systems</b><br/>
+Qi Zhu, Zheng Zhang, Yan Fang, Xiang Li, Ryuichi Takanobu, Jinchao Li, Baolin Peng, Jianfeng Gao, xiaoyan zhu and Minlie Huang
+
+<b>DIALOGPT : Large-Scale Generative Pre-training for Conversational Response Generation</b><br/>
+Yizhe Zhang, Siqi Sun, Michel Galley, Yen-Chun Chen, Chris Brockett, Xiang Gao, Jianfeng Gao, Jingjing Liu and Bill Dolan
+
+<b>Embedding-based Scientific Literature Discovery in a Text Editor Application</b><br/>
+Onur Gökçe, Jonathan Prada, Nikola Nikolov, Nianlong Gu and Richard Hahnloser
+
+<b>ESPnet-ST: All-in-One Speech Translation Toolkit</b><br/>
+Hirofumi Inaguma, Shun Kiyono, Kevin Duh, Shigeki Karita, Nelson Yalta, Tomoki Hayashi and Shinji Watanabe
+
+<b>EVIDENCEMINER: Textual Evidence Discovery for Life Sciences</b><br/>
+Xuan Wang, Yingjun Guan, Weili Liu, Aabhas Chauhan, Enyi Jiang, Qi Li, David Liem, Dibakar Sigdel, John Caufield, Peipei Ping and Jiawei Han
+
+<b>exBERT: A Visual Analysis Tool to Explore Learned Representations in Transformer Models</b><br/>
+Benjamin Hoover, Hendrik Strobelt and Sebastian Gehrmann
+
+<b>GAIA: A Fine-grained Multimedia Knowledge Extraction System</b><br/>
+Manling Li, Alireza Zareian, Ying Lin, Xiaoman Pan, Spencer Whitehead, BRIAN CHEN, Bo Wu, Heng Ji, Shih-Fu Chang, Clare Voss, Daniel Napierski and Marjorie Freedman
+
+<b>Interactive Task Learning from GUI-Grounded Natural Language Instructions and Demonstrations</b><br/>
+Toby Jia-Jun Li, Tom Mitchell and Brad Myers
+
+<b>jiant: A Software Toolkit for Research on General-Purpose Text Understanding Models</b><br/>
+Yada Pruksachatkun, Phil Yeres, Haokun Liu, Jason Phang, Phu Mon Htut, Alex Wang, Ian Tenney and Samuel R. Bowman
+
+<b>Label Noise in Context</b><br/>
+Michael Desmond, Catherine Finegan-Dollak, Jeff Boston and Matt Arnold
+
+<b>LEAN-LIFE: A Label-Efficient Annotation Framework Towards Learning from Explanation</b><br/>
+Dong-Ho Lee, Rahul Khanna, Bill Yuchen Lin, Seyeon Lee, Qinyuan Ye, Elizabeth Boschee, Leonardo Neves and Xiang Ren
+
+<b>LinggleWrite: a Coaching System for Essay Writing</b><br/>
+Chung-Ting Tsai, Jhih-Jie Chen, Chingyu Yang and Jason Chang
+
+<b>MixingBoard: a Knowledgeable Stylized Integrated Text Generation Platform</b><br/>
+Xiang Gao, Michel Galley and Bill Dolan
+
+<b>MMPE: A Multi-Modal Interface using Handwriting, Touch Reordering, and Speech Commands for Post-Editing Machine Translation</b><br/>
+Nico Herbig, Santanu Pal, Tim Düwel, Kalliopi Maria Meladaki, Mahsa Monshizadeh, Vladislav Hnatovskiy, Antonio Krüger and Josef van Genabith
+
+<b>Multilingual Universal Sentence Encoder for Semantic Retrieval</b><br/>
+Yinfei Yang, Daniel Cer, Amin Ahmad, Mandy Guo, Jax Law, Noah Constant, Gustavo Hernandez Abrego, Steve Yuan, Chris Tar, Yun-hsuan Sung, Brian Strope and Ray Kurzweil
+
+<b>Nakdan: Professional Hebrew Diacritizer</b><br/>
+Avi Shmidman, Shaltiel Shmidman, Moshe Koppel and Yoav Goldberg
+
+<b>NLP Scholar: An Interactive Visual Explorer for Natural Language Processing Literature</b><br/>
+Saif Mohammad
+
+<b>NSTM: Real-Time Query-Driven News Overview Composition at Bloomberg</b><br/>
+Joshua Bambrick, Minjie Xu, Andy Almonte, Igor Malioutov, Guim Perarnau, Vittorio Selo and Iat Chong Chan
+
+<b>OpusFilter: A Configurable Parallel Corpus Filtering Toolbox</b><br/>
+Mikko Aulamo, Sami Virpioja and Jörg Tiedemann
+
+<b>Penman: An Open-Source Library and Tool for AMR Graphs</b><br/>
+Michael Wayne Goodman
+
+<b>Personalized PageRank with Syntagmatic Information for Multilingual Word Sense Disambiguation</b><br/>
+Federico Scozzafava, Marco Maru, Fabrizio Brignone, Giovanni Torrisi and Roberto Navigli
+
+<b>Photon: A Robust Cross-Domain Text-to-SQL System</b><br/>
+Jichuan Zeng, Xi Victoria Lin, Steven C.H. Hoi, Richard Socher, Caiming Xiong, Michael Lyu and Irwin King
+
+<b>Prta: A System to Support the Analysis of Propaganda Techniques in the News</b><br/>
+Giovanni Da San Martino, Shaden Shaar, Yifan Zhang, Seunghak Yu, Alberto Barrón-Cedeño and Preslav Nakov
+
+<b>pyBART: Evidence-based Syntactic Transformations for IE</b><br/>
+Aryeh Tiktinsky, Yoav Goldberg and Reut Tsarfaty
+
+<b>Stanza: A Python Natural Language Processing Toolkit for Many Human Languages</b><br/>
+Peng Qi, Yuhao Zhang, Yuhui Zhang, Jason Bolton and Christopher D. Manning
+
+<b>Stimulating Creativity with FunLines: A Case Study of Humor Generation in Headlines</b><br/>
+Nabil Hossain, John Krumm, Tanvir Sajed and Henry Kautz
+
+<b>SUPP.AI: finding evidence for supplement-drug interactions</b><br/>
+Lucy Wang, Oyvind Tafjord, Arman Cohan, Sarthak Jain, Sam Skjonsberg, Carissa Schoenick, Nick Botner and Waleed Ammar
+
+<b>Syntactic Search by Example</b><br/>
+Micah Shlain, Hillel Taub-Tabib, Shoval Sadde and Yoav Goldberg
+
+<b>SyntaxGym: An Online Platform for Targeted Evaluation of Language Models</b><br/>
+Jon Gauthier, Jennifer Hu, Ethan Wilcox, Peng Qian and Roger Levy
+
+<b>Tabouid: a Wikipedia-based word guessing game</b><br/>
+Timothée Bernard
+
+<b>Talk to Papers: Bringing Neural Question Answering to Academic Search</b><br/>
+Tiancheng Zhao and Kyusong Lee
+
+<b>TextBrewer: An Open-Source Knowledge Distillation Toolkit for Natural Language Processing</b><br/>
+Ziqing Yang, Yiming Cui, Zhipeng Chen, Wanxiang Che, Ting Liu, Shijin Wang and Guoping Hu
+
+<b>The Microsoft Toolkit of Multi-Task Deep Neural Networks for Natural Language Understanding</b><br/>
+Xiaodong Liu, Yu Wang, Jianshu Ji, Hao Cheng, Xueyun Zhu, Emmanuel Awa, Pengcheng He, Weizhu Chen, Hoifung Poon, Guihong Cao and Jianfeng Gao
+
+<b>Torch-Struct: Deep Structured Prediction Library</b><br/>
+Alexander Rush
+
+<b>Trialstreamer: Mapping and Browsing Medical Evidence in Real-Time</b><br/>
+Benjamin Nye, Ani Nenkova, Iain Marshall and Byron C. Wallace
+
+<b>Usnea: An Authorship Tool for Interactive Fiction using Retrieval Based Semantic Parsing</b><br/>
+Ben Swanson and Boris Smus
+
+<b>What’s The Latest? A Question-driven News Chatbot</b><br/>
+Philippe Laban, John Canny and Marti A. Hearst
+
+<b>Xiaomingbot: A Multilingual Robot News Reporter</b><br/>
+Runxin Xu, Jun Cao, Mingxuan Wang, Jiaze Chen, Hao Zhou, Ying Zeng, Yuping Wang, Li Chen, Xiang Yin, Xijin Zhang, Songcheng Jiang, Yuxuan Wang and Lei Li
 
