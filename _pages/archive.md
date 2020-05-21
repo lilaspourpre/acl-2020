@@ -7,6 +7,18 @@ toc: false
 toc_icon: "cog"
 ---
 
+**April 4.**<br/>
+Dear ACL2020 Community,<br/><br/> 
+We hope you and your families are safe and well.<br/>
+We can now confirm that in response to COVID-19 we will be holding ACL2020 online, on the same July 5-10 dates.<br/>
+We know that many in our community are suffering or may suffer great hardships from this pandemic. We hope that we can work together in this difficult time to build a new kind of ACL meeting this year, one that offers more sustainability, expanded opportunities for exchange of knowledge, and increased inclusion of diverse contributions from around the globe.<br/>
+We will have pre-recorded talks and the full set of tutorials and workshops, and will be planning various live events like Q&A sessions, mentoring, job fairs, and spaces for hallway conversations. This will be challenging but also an opportunity for coming together virtually, and I'm looking forward to working with the entire ACL2020 organizing committee to host an enlightening and meaningful conference. <br/>
+In the near term we are getting advice from other online conference chairs (who have already been enormously helpful), and we will be drawing on all the lessons from our online teaching now and in the past. I've been impressed by the resilience, passion, and positive spirit of everyone I see in all our newly online classes and meetings, and the matching spirit of the whole ACL community. I am grateful to be able to work with you all to make ACL2020 happen for all of us! <br/>
+We'll be posting more details on registration in the next few weeks and more on the mechanics of the virtual conference soon.<br/><br/>
+With warmest wishes for everyone's health,<br/>
+Dan Jurafsky, General Chair, for the whole ACL2020 Organizing Committee
+{: .notice--info} 
+
 **April 12, 2020**. Authors of accepted papers can find the instructions for camera-ready [here](/authors/camera-ready-instructions). 
 {: .notice--info} 
 
