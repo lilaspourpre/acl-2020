@@ -10,16 +10,15 @@ toc: true
 toc_sticky: true
 ---
 
-Below is the list of papers accepted to the conference. 
 Note that the titles/authors may change and papers may be withdrawn. 
 For the final titles/authors, please refer to the proceedings on the anthology when they are out.
 
 ## Main Conference
 
-There were <b>571 Long Papers</b> and <b>208 Short Papers</b> accepted. <br/>
+There were <b>571 Long Papers</b> and <b>208 Short Papers</b> accepted.
 
 ### Long Papers 
-<br/>
+
 
 <b>2kenize: Tying Subword Sequences for Chinese Script Conversion</b><br/>
 Pranav A and Isabelle Augenstein
@@ -1735,7 +1734,7 @@ Giovanni Campagna, Agata Foryciarz, Mehrad Moradshahi and Monica Lam
 Colin Lockard, Prashant Shiralkar, Xin Luna Dong and Hannaneh Hajishirzi
 
 ### Short Papers
-<br/>
+
 
 <b>A Complete Shift-Reduce Chinese Discourse Parser with Robust Dynamic Oracle</b><br/>
 Shyh-Shiun Hung, Hen-Hsen Huang and Hsin-Hsi Chen
