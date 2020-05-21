@@ -18,7 +18,8 @@ For the final titles/authors, please refer to the proceedings on the anthology w
 
 There were <b>571 Long Papers</b> and <b>208 Short Papers</b> accepted. <br/>
 
-### Long Papers
+### Long Papers 
+<br/>
 
 <b>2kenize: Tying Subword Sequences for Chinese Script Conversion</b><br/>
 Pranav A and Isabelle Augenstein
@@ -1734,6 +1735,7 @@ Giovanni Campagna, Agata Foryciarz, Mehrad Moradshahi and Monica Lam
 Colin Lockard, Prashant Shiralkar, Xin Luna Dong and Hannaneh Hajishirzi
 
 ### Short Papers
+<br/>
 
 <b>A Complete Shift-Reduce Chinese Discourse Parser with Robust Dynamic Oracle</b><br/>
 Shyh-Shiun Hung, Hen-Hsen Huang and Hsin-Hsi Chen
