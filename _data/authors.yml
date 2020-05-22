@@ -18,6 +18,12 @@ diversity-inclusion-chairs:
   bio         : "Cissi Ovesdotter Alm &amp; Vinodkumar Prabhakaran"
   avatar      : "assets/images/logos/acl-logo.png"
 
+virtual-infrastructure-chairs:
+  name        : "Virtual Infrastructure Chairs"
+  email       : "acl2020-virtual-infrastructure-chairs@googlegroups.com"
+  bio         : "Hao Fang &amp; Sudha Rao"
+  avatar      : "assets/images/logos/acl-logo.png"
+
 accessibility-chairs:
   name        : "D&amp;I Accessibility Chairs"
   email       : "acl2020-diversity-inclusion-chairs@googlegroups.com"
