@@ -2489,3 +2489,153 @@ Philippe Laban, John Canny and Marti A. Hearst
 <b>Xiaomingbot: A Multilingual Robot News Reporter</b><br/>
 Runxin Xu, Jun Cao, Mingxuan Wang, Jiaze Chen, Hao Zhou, Ying Zeng, Yuping Wang, Li Chen, Xiang Yin, Xijin Zhang, Songcheng Jiang, Yuxuan Wang and Lei Li
 
+## Student Research Workshop
+
+<b>#NotAWhore! A Computational Linguistic Perspective of Rape Culture and Victimization on Social Media</b><br/>
+Ashima Suvarna and Grusha Bhalla
+
+<b>A Geometry-Inspired Attack for Generating Natural Language Adversarial Examples</b><br/>
+Zhao Meng and Roger Wattenhofer
+
+<b>A Simple and Effective Dependency parser for Telugu</b><br/>
+Sneha Nallani, Manish Shrivastava and Dipti Sharma
+
+<b>Adaptive Transformers for Learning Multimodal Representations</b><br/>
+Prajjwal Bhargava
+
+<b>AraDIC: Arabic Document Classification Using Image-Based Character Embeddings and Class-Balanced Loss</b><br/>
+Mahmoud Daif, Shunsuke Kitada and Hitoshi Iyatomi
+
+<b>Building a Japanese Typo Dataset from Wikipedia's Revision History</b><br/>
+Yu Tanaka, Yugo Murawaki, Daisuke Kawahara and Sadao Kurohashi
+
+<b>Checkpoint Reranking: An Approach To Select Better Hypothesis For Neural Machine Translation Systems</b><br/>
+Vinay Pandramish and Dipti Misra Sharma
+
+<b>Combining Subword Representations into Word-level Representations in the Transformer Architecture</b><br/>
+Noe Casas, Marta R. Costa-jussà and José A. R. Fonollosa
+
+<b>Compositional generalization by factorizing alignment and translation</b><br/>
+Jacob Russin, Jason Jo, Randall O'Reilly and Yoshua Bengio
+
+<b>Considering Likelihood in NLP Classiﬁcation Explanations with Occlusion and Language Modeling</b><br/>
+David Harbecke and Christoph Alt
+
+<b>Crossing the Line: Where do Demographic Variables Fit into Humor Detection?</b><br/>
+J. A. Meaney
+
+<b>Cross-Lingual Disaster-related Multi-label Tweet Classification with Manifold Mixup</b><br/>
+Jishnu Ray Chowdhury, Cornelia Caragea and Doina Caragea
+
+<b>Dominance as an Indicator of Rapport and Learning in Human-Agent Communication</b><br/>
+Amanda Buddemeyer, Xiaoyi Tian and Erin Walker
+
+<b>Effectively Aligning and Filtering Parallel Corpora under Sparse Data Conditions</b><br/>
+Steinþór Steingrímsson
+
+<b>Efficient Neural Machine Translation for Low-Resource Languages via Exploiting Related Languages</b><br/>
+Vikrant Goyal, Sourav Kumar and Dipti Misra Sharma
+
+<b>Embeddings of Label Components for Sequence Labeling: A Case Study of Fine-grained Named Entity Recognition</b><br/>
+Takuma Kato, Kaori Abe, Hiroki Ouchi, Shumpei Miyawaki, Jun Suzuki and Kentaro Inui
+
+<b>Enhancing Word Embeddings with Knowledge Extracted from Lexical Resources</b><br/>
+Magdalena Biesialska, bardia rafieian and Marta R. Costa-jussà
+
+<b>Exploring Interpretability in Event Extraction: Multitask Learning of a Neural Event Classifier and an Explanation Decoder</b><br/>
+Zheng Tang, Gus Hahn-Powell and Mihai Surdeanu
+
+<b>Exploring the Role of Context to Distinguish Rhetorical and Information-Seeking Questions</b><br/>
+Yuan Zhuang and Ellen Riloff
+
+<b>Feature Difference Makes Sense: A medical image captioning model exploiting feature difference and tag information</b><br/>
+Hyeryun Park, Kyungmo Kim, Jooyoung Yoon, Seongkeun Park and Jinwook Choi
+
+<b>Grammatical Error Correction Using Pseudo Learner Corpus Considering Learner's Error Tendency</b><br/>
+Yujin Takahashi, Satoru Katsumata and Mamoru Komachi
+
+<b>HGCN4MeSH: Hybrid Graph Convolution Network for MeSH Indexing</b><br/>
+Miaomiao Yu, Yujiu Yang and Chenhui Li
+
+<b>How much complexity does an RNN architecture need to learn syntax-sensitive dependencies?</b><br/>
+Gantavya Bhatt, Hritik Bansal, Rishubh Singh and Sumeet Agarwal
+
+<b>υBLEU: Uncertainty-Aware Automatic Evaluation Method for Open-Domain Dialogue Systems</b><br/>
+Tsuta Yuma, Naoki Yoshinaga and Masashi Toyoda
+
+<b>Inducing Grammar from Long Short-Term Memory Networks by Shapley Decomposition</b><br/>
+Yuhui Zhang and Allen Nie
+
+<b>Let's be Humorous: Knowledge Enhanced Humor Generation</b><br/>
+Hang Zhang, Dayiheng Liu, Jiancheng Lv and Luo Cheng
+
+<b>Logical Inferences with Comparatives and Generalized Quantifiers</b><br/>
+Izumi Haruta, Koji Mineshima and Daisuke Bekki
+
+<b>Media Bias, the Social Sciences, and NLP: Automating Frame Analyses to Identify Bias by Word Choice and Labeling</b><br/>
+Felix Hamborg
+
+<b>Multi-Task Neural Model for Agglutinative Language Translation</b><br/>
+Yirong Pan, Xiao Li, Yating Yang and Rui Dong
+
+<b>Noise-Based Augmentation Techniques for Emotion Datasets: What do we Recommend?</b><br/>
+Mimansa Jaiswal and Emily Mower Provost
+
+<b>Non-Topical Coherence in Social Talk: A Call for Dialogue Model Enrichment</b><br/>
+Alex Lưu and Sophia A. Malamud
+
+<b>Pointwise Paraphrase Appraisal is Potentially Problematic</b><br/>
+Hannah Chen, Yangfeng Ji and David Evans
+
+<b>Pre-training via Leveraging Assisting Languages for Neural Machine Translation</b><br/>
+Haiyue Song, Raj Dabre, Zhuoyuan Mao, Fei Cheng, Sadao Kurohashi and Eiichiro Sumita
+
+<b>Preventing Critical Scoring Errors in Short Answer Scoring with Confidence Estimation</b><br/>
+Hiroaki Funayama, Shota Sasaki, Yuichiroh Matsubayashi, Tomoya Mizumoto, Jun Suzuki, Masato Mita and Kentaro Inui
+
+<b>Reflection-based Word Attribute Transfer</b><br/>
+Yoichi Ishibashi, Katsuhito Sudoh, Koichiro Yoshino and Satoshi Nakamura
+
+<b>Research on Task Discovery for Transfer Learning in Deep Neural Networks</b><br/>
+Arda Akdemir
+
+<b>Research Replication Prediction Using Weakly Supervised Learning</b><br/>
+Tianyi Luo, Xingyu Li, Hainan Wang and Yang Liu
+
+<b>RPD: A Distance Function Between Word Embeddings</b><br/>
+Xuhui Zhou, Shujian Huang and Zaixiang Zheng
+
+<b>SCAR: Sentence Compression using Autoencoders for Reconstruction</b><br/>
+Chanakya Malireddy, Tirth Maniar and Manish Shrivastava
+
+<b>Self-Attention is Not Only a Weight: Analyzing BERT with Vector Norms</b><br/>
+Goro Kobayashi, Tatsuki Kuribayashi, Sho Yokoi and Kentaro Inui
+
+<b>Story-level Text Style Transfer: A Proposal</b><br/>
+Yusu Qian
+
+<b>To compress or not to compress? A Finite-State approach to Nen verbal morphology</b><br/>
+Saliha Muradoglu, Nicholas Evans and Hanna Suominen
+
+<b>Topic balancing with additive regularization of topic models</b><br/>
+Eugeniia Veselova and Konstantin Vorontsov
+
+<b>Transferring Monolingual Model to Low-Resource Language: The Case of Tigrinya</b><br/>
+Abrhalei Frezghi Tela, Abraham Woubie Zewoudie and Ville Hautamäki
+
+<b>Understanding Points of Correspondence between Sentences for Abstractive Summarization</b><br/>
+Logan Lebanoff, John Muchovej, Franck Dernoncourt, Doo Soon Kim, Lidan Wang, Walter Chang and Fei Liu
+
+<b>Unsupervised Multilingual Sentence Embeddings for Parallel Corpus Mining</b><br/>
+Ivana Kvapilíková, Mikel Artetxe, Gorka Labaka, Eneko Agirre and Ondřej Bojar
+
+<b>Unsupervised Paraphasia Classification in Aphasic Speech</b><br/>
+Sharan Pai, Nikhil Sachdeva, Prince Sachdeva and Rajiv Ratn Shah
+
+<b>Why is penguin more similar to polar bear than to sea gull? Analyzing conceptual knowledge in distributional models</b><br/>
+Pia Sommerauer
+
+<b>Zero-shot North Korean to English Neural Machine Translation by Character Tokenization and Phoneme Decomposition</b><br/>
+Hwichan Kim, Tosho Hirasawa and Mamoru Komachi
+
+
