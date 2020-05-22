@@ -10,6 +10,9 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**May 22, 2020**. List of papers accepted to Student Research Workshop can be found [here](/program/accepted/#student-research-workshop). 
+{: .notice--info} 
+
 **May 21, 2020**. List of system demonstrations accepted to the conference can be found [here](/program/accepted/#system-demonstrations). 
 {: .notice--info} 
 
