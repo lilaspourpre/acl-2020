@@ -10,6 +10,9 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**May 22, 2020**. The ACL2020 Virtual Infrastructure team is [seeking volunteers](/blog/call-for-volunteers/) to help out with the virtual website. 
+{: .notice--info} 
+
 **May 22, 2020**. List of papers accepted to Student Research Workshop can be found [here](/program/accepted/#student-research-workshop). 
 {: .notice--info} 
 
