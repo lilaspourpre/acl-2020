@@ -27,7 +27,7 @@ virtual-infrastructure-chairs:
 student-volunteer-chairs:
   name        : "Student Volunteer Chairs"
   email       : "acl2020.volunteers@gmail.com"
-  bio         : "Hao Fang &amp; Sudha Rao"
+  bio         : "Marjan Ghazvininejad"
   avatar      : "assets/images/logos/acl-logo.png"
 
 accessibility-chairs:
