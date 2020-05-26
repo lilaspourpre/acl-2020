@@ -10,6 +10,9 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**May 26, 2020**. ACL2020 Virtual Conference registration is [now open](/registration/). 
+{: .notice--info} 
+
 **May 26, 2020**. The ACL2020 team is seeking for a large number of student and non-student volunteers to help out before and during the conference. If you are interested, please answer [this call for volunteers](/blog/call-for-volunteers/). 
 {: .notice--info} 
 
