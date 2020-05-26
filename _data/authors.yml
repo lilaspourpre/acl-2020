@@ -24,6 +24,12 @@ virtual-infrastructure-chairs:
   bio         : "Hao Fang &amp; Sudha Rao"
   avatar      : "assets/images/logos/acl-logo.png"
 
+student-volunteer-chairs:
+  name        : "Student Volunteer Chairs"
+  email       : "acl2020.volunteers@gmail.com"
+  bio         : "Hao Fang &amp; Sudha Rao"
+  avatar      : "assets/images/logos/acl-logo.png"
+
 accessibility-chairs:
   name        : "D&amp;I Accessibility Chairs"
   email       : "acl2020-diversity-inclusion-chairs@googlegroups.com"
