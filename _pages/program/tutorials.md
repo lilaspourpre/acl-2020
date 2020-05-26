@@ -132,6 +132,8 @@ While deep learning has transformed the natural language processing (NLP) field 
 
 The World Wide Web contains vast quantities of textual information in several forms: unstructured text, template-based semi-structured webpages (which present data in key-value pairs and lists), and tables. Methods for extracting information from these sources and converting it to a structured form have been a target of research from the natural language processing (NLP), data mining, and database communities. While these researchers have largely separated extraction from web data into different problems based on the modality of the data, they have faced similar problems such as learning with limited labeled data, defining (or avoiding defining) ontologies, making use of prior knowledge, and scaling solutions to deal with the size of the Web. In this tutorial we take a holistic view toward information extraction, exploring the commonalities in the challenges and solutions developed to address these different forms of text. We will explore the approaches targeted at unstructured text that largely rely on learning syntactic or semantic textual patterns, approaches targeted at semi-structured documents that learn to identify structural patterns in the template, and approaches targeting web tables which rely heavily on entity linking and type information. While these different data modalities have largely been considered separately in the past, recent research has started taking a more inclusive approach toward textual extraction, in which the multiple signals offered by textual, layout, and visual clues are combined into a single extraction model made possible by new deep learning approaches. At the same time, trends within purely textual extraction have shifted toward full-document understanding rather than considering sentences as independent units. With this in mind, it is worth considering the information extraction problem as a whole to motivate solutions that harness textual semantics along with visual and semi-structured layout information. We will discuss these approaches and suggest avenues for future work. 
 
+See <a href="https://sites.google.com/view/acl-2020-multi-modal-ie">https://sites.google.com/view/acl-2020-multi-modal-ie</a> for the tutorial material.
+
 ### T3: Reviewing Natural Language Processing Research (Introductory) <br/>
 *Organizers: Kevin Cohen, Karën Fort, Margot Mieskes and Aurélie Névéol* 
 {% include gallery id="t3" %}
@@ -143,6 +145,11 @@ This tutorial will cover the theory and practice of reviewing research in natura
 {% include gallery id="t4" %}
 
 Text generation has played an important role in various applications of natural language processing (NLP), and recent studies, researchers are paying increasing attention to modeling and manipulating the style of the generation text, which we call stylized text generation. In this tutorial, we will provide a comprehensive literature review in this direction. We start from the definition of style and different settings of stylized text generation, illustrated with various applications. Then, we present different settings of stylized generation, such as style-conditioned generation, style-transfer generation, and style-adversarial generation. In each setting, we delve deep into machine learning methods, including embedding learning techniques to represent style, adversarial learning, and reinforcement learning with cycle consistency to match content but to distinguish different styles. We also introduce current approaches to evaluating stylized text generation systems. We conclude our tutorial by presenting the challenges of stylized text generation and discussing future directions, such as small-data training, non-categorical style modeling, and a generalized scope of style transfer (e.g., controlling the syntax as a style).  
+
+See <a href="https://lili-mou.github.io/">https://lili-mou.github.io/</a> for the tutorial material.
+
+
+
 			
 ## Afternoon (2 p.m. to 5:30 p.m., with a break at 3:30-4:00)
 
@@ -152,11 +159,15 @@ Text generation has played an important role in various applications of natural 
 
 All communication aims at achieving common ground (grounding): interlocutors can work together effectively only with mutual beliefs about what the state of the world is, about what their goals are, and about how they plan to make their goals a reality. Computational dialogue research offers some classic results on grouding, which unfortunately offer scant guidance to the design of grounding modules and behaviors in cutting-edge systems. In this tutorial, we focus on three main topic areas: 1) grounding in human-human communication; 2) grounding in dialogue systems; and 3) grounding in multi-modal interactive systems, including image-oriented conversations and human-robot interactions. We highlight a number of achievements of recent computational research in coordinating complex content, show how these results lead to rich and challenging opportunities for doing grounding in more flexible and powerful ways, and canvass relevant insights from the literature on human--human conversation. We expect that the tutorial will be of interest to researchers in dialogue systems, computational semantics and cognitive modeling, and hope that it will catalyze research and system building that more directly explores the creative, strategic ways conversational agents might be able to seek and offer evidence about their understanding of their interlocutors.
 
+See <a href="https://github.com/malihealikhani/Grounding_in_Dialogue">https://github.com/malihealikhani/Grounding_in_Dialogue</a> for the tutorial material.
+
 ### T6: Commonsense Reasoning for Natural Language Processing (Introductory) <br/>
 *Organizers: Maarten Sap, Vered Shwartz, Antoine Bosselut, Yejin Choi, Dan Roth* 
 {% include gallery id="t6" %}
 
 Commonsense knowledge, such as knowing that "bumping into people annoys them" or "rain makes the road slippery", helps humans navigate everyday situations seamlessly. Yet, endowing machines with such human-like commonsense reasoning capabilities has remained an elusive goal of artificial intelligence research for decades. In recent years, commonsense knowledge and reasoning have received renewed attention from the natural language processing (NLP) community, yielding exploratory studies in automated commonsense understanding. We organize this tutorial to provide researchers with the critical foundations and recent advances in commonsense representation and reasoning, in the hopes of casting a brighter light on this promising area of future research. In our tutorial, we will (1) outline the various types of commonsense (e.g., physical, social), and (2) discuss techniques to gather and represent commonsense knowledge, while highlighting the challenges specific to this type of knowledge (e.g., reporting bias). We will then (3) discuss the types of commonsense knowledge captured by modern NLP systems (e.g., large pretrained language models), and (4) present ways to measure systems' commonsense reasoning abilities. We will finish with (5) a discussion of various ways in which commonsense reasoning can be used to improve performance on NLP tasks, exemplified by an (6) interactive session on integrating commonsense into a downstream task. 
+
+See <a href="https://tinyurl.com/acl2020-commonsense">https://tinyurl.com/acl2020-commonsense</a> for the tutorial material.
 
 ### T7: Integrating Ethics into the NLP Curriculum (Introductory) <br/>
 *Organizers: Emily M. Bender, Dirk Hovy and Alexandra Schofield* 
@@ -170,6 +181,6 @@ To raise awareness among future NLP practitioners and prevent inertia in the fie
 
 This tutorial provides a comprehensive and coherent overview of cutting-edge research in open-domain question answering (QA), the task of answering questions using a large collection of documents of diversified topics. We will start by first giving a brief historical background, discussing the basic setup and core technical challenges of the research problem, and then describe modern datasets with the common evaluation metrics and benchmarks. The focus will then shift to cutting-edge models proposed for open-domain QA, including two-stage retriever-reader approaches, dense retriever and end-to-end training, and retriever-free methods. Finally, we will cover some hybrid approaches using both text and large knowledge bases and conclude the tutorial with important open questions. We hope that the tutorial will not only help the audience to acquire up-to-date knowledge but also provide new perspectives to stimulate the advances of open-domain QA research in the next phase. 
 
-
+See <a href="https://github.com/danqi/acl2020-openqa-tutorial">https://github.com/danqi/acl2020-openqa-tutorial</a> for the tutorial material.
 
 
