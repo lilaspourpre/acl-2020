@@ -9,15 +9,37 @@ sidebar: false
 
 <!-- {% include toc icon="gears" %} -->
 
-Now that ACL 2020 will be entirely virtual, we are revisiting what sort of registration we will have and will post updates soon.  We hope to open registration by sometime around the end of April to mid-May. Please watch here for further updates.
+The ACL 2020 registration fees are drastically reduced, reflecting our necessary move to being 100% virtual.  We are offering Early rates through June 26th and Late rates beginning June 27th.  We include early and late rates to encourage early registrations so we can approximate the numbers of users and be able to work around any potential for system crashes or other glitches due to unexpected high volume.  The fees charged will allow full access to all parts of the conference.
 
-## Cancellation Policy
+## Registration Details
 
-- Anyone cancelling their registration one month or more prior to the conference will be refunded the full amount paid.
+<b>Early registration</b> ends June 26, 2020, 11:59 PM (EDT) with Regular at $125 and Student at $50.
 
-- Anyone cancelling up to three weeks prior to the conference will be refunded the ACL membership (if paid as part of the registration) and any amounts paid over and above the first $200.
+<b>Late registration</b> begins June 27, 2020 and remains open throughout the conference, with Regular at $175 and Student at $75
 
-- Anyone cancelling within three weeks prior to the conference and all no-shows will not be refunded any amount. They will be able to retain the current full year ACL membership (if paid as part of the registration).
+[Register here](https://aclweb.org/conference/acl-2020-conference-registration/)
 
-- Anyone cancelling due to governmental travel restrictions, failure to obtain a visa, or serious illness that prevents travel to the conference will be refunded the full amount paid regardless of when the notification is received by the ACL Office.
+## Registration Types
 
+- Regular
+- Student
+- I am a SRW Award Student
+- I am a Volunteer (student or non-student)
+- I am a D&I Award Recipient
+- I am an invited Conference Organizer (Invited by the General Chair or Local Arrangements)
+- I am a Staff Member (ACL staff)
+- I am a Keynote Speaker, LTA or DSA
+- I am a Tutorial Presenter
+- I am an invited Sponsor or Exhibitor (Invited by company providing list of their complimentary people)
+
+## ACL Membership
+
+The ACL policy is that everyone attending an ACL conference must be a current (CY 2020) ACL member.  So, in addition to the above registration fee, each Regular will add $100 membership fee to their registration and each Student will add $50 membership fee to their registration if not already a 2020 paid member.  Your ACL membership is for the entire calendar year, providing membership in the society devoted to promoting CL research throughout the world, open access to the CL and TACL Journals and ACL Anthology as well as access to other ACL conferences in the same year without paying membership again.  Membership also entitles you to electronic notification of new issues of the journals, discounts on publications from participating publishers, announcements of ACL and related conferences, workshops, and journal calls of interest to the community.
+
+## Contact Details
+
+If you have any other questions about registration, please contact [acl.PatKirby@gmail.com](mailto:acl.PatKirby@gmail.com)
+
+## Virtual Conference Cancellation Policy
+
+For cancellations received up to two weeks prior to the conference,  registration fees will be reimbursed;  ACL membership (if paid as part of the registration) is not reimbursable.
