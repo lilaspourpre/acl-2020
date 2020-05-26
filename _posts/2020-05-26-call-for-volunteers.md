@@ -9,7 +9,7 @@ categories:
     blog
 ---
 
-*Submission Deadline: Friday, 5 June 2020*
+<b>Submission Deadline: Friday, 5 June 2020</b>
 
 NOTE: Those who already volunteered following our earlier call for volunteers, can we trouble you to please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSefcn0Evb_K-NTT62c1yty_3v0XddvafZT_UYP47GsC2sFFnA/viewform?usp=sf_link) so we can ensure you get free registration.
 
