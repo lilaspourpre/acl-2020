@@ -7,6 +7,12 @@ header:
   caption: 'Photo by <a href="https://unsplash.com/@milkovi">Milkovi</a> on <a href="http://www.unsplash.com">Unsplash</a>'
 excerpt: "<br/><br/>"
 ---
+<div class="text-center">
+    <span style="font-weight: bold; font-size: smaller;">
+    Tutorials : July 5<br/>&nbsp;Main Conference : July 6 &ndash; July 8<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Workshops : July 9 &ndash; July 10</span>
+    <br/><br/>       
+    <a href="https://aclweb.org/conference/acl-2020-conference-registration/" target="_blank" class="btn btn--primary">Register Now</a>
+</div>
 
 <h2>News</h2>
 
