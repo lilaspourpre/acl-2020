@@ -22,15 +22,6 @@ excerpt: "<br/><br/>"
 **May 26, 2020**. The ACL2020 team is seeking for a large number of student and non-student volunteers to help out before and during the conference. If you are interested, please answer [this call for volunteers](/blog/call-for-volunteers/). 
 {: .notice--info} 
 
-**May 22, 2020**. List of papers accepted to Student Research Workshop can be found [here](/program/accepted/#student-research-workshop). 
-{: .notice--info} 
-
-**May 21, 2020**. List of system demonstrations accepted to the conference can be found [here](/program/accepted/#system-demonstrations). 
-{: .notice--info} 
-
-**May 17, 2020**. List of papers accepted to the main conference can be found [here](/program/accepted/#main-conference). 
-{: .notice--info} 
-
 <div class="text-center">
     <a href="/archive/" style="font-size: smaller; font-decoration: italic;">Older News</a>
 </div>

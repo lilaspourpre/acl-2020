@@ -7,6 +7,15 @@ toc: false
 toc_icon: "cog"
 ---
 
+**May 22, 2020**. List of papers accepted to Student Research Workshop can be found [here](/program/accepted/#student-research-workshop). 
+{: .notice--info} 
+
+**May 21, 2020**. List of system demonstrations accepted to the conference can be found [here](/program/accepted/#system-demonstrations). 
+{: .notice--info} 
+
+**May 17, 2020**. List of papers accepted to the main conference can be found [here](/program/accepted/#main-conference). 
+{: .notice--info} 
+
 **April 4.**<br/>
 Dear ACL2020 Community,<br/><br/> 
 We hope you and your families are safe and well.<br/>
