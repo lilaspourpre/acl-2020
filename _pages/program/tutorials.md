@@ -9,16 +9,6 @@ toc_icon: "cog"
 sidebar: 
     nav: program
 
-timezones:
-  - url: "/assets/images/tutorial/timezones.png"
-    image_path: "/assets/images/tutorial/timezones.png"
-    alt: ""
-    title: ""
-timeslots:
-  - url: "/assets/images/tutorial/timeslots.PNG"
-    image_path: "/assets/images/tutorial/timeslots.PNG"
-    alt: ""
-    title: ""
 t1:
   - url: "/assets/images/tutorial/1/belinkov_photo.jpg"
     image_path: "/assets/images/tutorial/1/belinkov_photo.jpg"
@@ -129,19 +119,7 @@ t8:
     title: ""
 ---
 
-## Timeslots
-
-{% include gallery id="timezones" %}
-
-{% include gallery id="timeslots" %}
-
-- The table above shows 5 time slots defined for the ACL 2020 tutorials on <b>Sunday, July 5</b>. -1 means the day before (July 4), +1 means the day after (July 6).
-- Sample zones and cities were chosen for reference, for other places, please, refer to the map above.
-- Colors indicate slots judged as: <span style="background-color:#33cc33">convenient</span>, <span style="background-color:#ff9900">not very convenient</span>, <span style="background-color:#ff5050">inconvenient.
-- If a tutorial can only be given <b>once</b> , slot 4 or 5 (optimal for Seattle) will be chosen.
-- If a tutorial can be given <b>twice</b>, the teachers should propose <b>three slots</b> when they can make themselves available. Two out of these three slots will be chosen, for the best benefit of the teachers and the trainees.
-
-## List of Tutorials
+The following tutorials have been accepted for ACL2020 and will be held on Sunday, July 5th, 2020.
 
 ### T1: Interpretability and Analysis in Neural NLP (cutting-edge) <br/>
 *Organizers: Yonatan Belinkov, Sebastian Gehrmann and Ellie Pavlick* 
