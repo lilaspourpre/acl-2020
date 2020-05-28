@@ -141,13 +141,15 @@ t8:
 - If a tutorial can only be given <b>once</b> , slot 4 or 5 (optimal for Seattle) will be chosen.
 - If a tutorial can be given <b>twice</b>, the teachers should propose <b>three slots</b> when they can make themselves available. Two out of these three slots will be chosen, for the best benefit of the teachers and the trainees.
 
-## T1: Interpretability and Analysis in Neural NLP (cutting-edge) <br/>
+## List of Tutorials
+
+### T1: Interpretability and Analysis in Neural NLP (cutting-edge) <br/>
 *Organizers: Yonatan Belinkov, Sebastian Gehrmann and Ellie Pavlick* 
 {% include gallery id="t1" %}
 
 While deep learning has transformed the natural language processing (NLP) field and impacted the larger computational linguistics community, the rise of neural networks is stained by their opaque nature: It is challenging to interpret the inner workings of neural network models, and explicate their behavior. Therefore, in the last few years, an increasingly large body of work has been devoted to the analysis and interpretation of neural network models in NLP. This body of work is so far lacking a common framework and methodology. Moreover, approaching the analysis of modern neural networks can be difficult for newcomers to the field. This tutorial aims to fill this gap and introduce the nascent field of interpretability and analysis of neural networks in NLP. The tutorial will cover the main lines of analysis work, such as structural analyses using probing classifiers, behavioral studies and test suites, and interactive visualizations. We will highlight not only the most commonly applied analysis methods, but also the specific limitations and shortcomings of current approaches, in order to inform participants where to focus future efforts. 
 
-## T2: Multi-modal Information Extraction from Text, Semi-structured, and Tabular Data on the Web (Cutting-edge) <br/>
+### T2: Multi-modal Information Extraction from Text, Semi-structured, and Tabular Data on the Web (Cutting-edge) <br/>
 *Organizers: Xin Luna Dong, Hannaneh Hajishirzi, Colin Lockard and Prashant Shiralkar* 
 {% include gallery id="t2" %}
 
@@ -155,13 +157,13 @@ The World Wide Web contains vast quantities of textual information in several fo
 
 See <a href="https://sites.google.com/view/acl-2020-multi-modal-ie">https://sites.google.com/view/acl-2020-multi-modal-ie</a> for the tutorial material.
 
-## T3: Reviewing Natural Language Processing Research (Introductory) <br/>
+### T3: Reviewing Natural Language Processing Research (Introductory) <br/>
 *Organizers: Kevin Cohen, Karën Fort, Margot Mieskes and Aurélie Névéol* 
 {% include gallery id="t3" %}
 
 This tutorial will cover the theory and practice of reviewing research in natural language processing. Heavy reviewing burdens on natural language processing researchers have made it clear that our community needs to increase the size of our pool of potential reviewers. Simultaneously, notable false negatives---rejection by our conferences of work that was later shown to be tremendously important after acceptance by other conferences---have raised awareness of the fact that our reviewing practices leave something to be desired. We do not often talk about false positives with respect to conference papers, but leaders in the field have noted that we seem to have a publication bias towards papers that report high performance, with perhaps not much else of interest in them. It need not be this way. Reviewing is a learnable skill, and you will learn it here via lectures and a considerable amount of hands-on practice. 
 
-## T4: Stylized Text Generation: Approaches and Applications (Cutting-edge) <br/>
+### T4: Stylized Text Generation: Approaches and Applications (Cutting-edge) <br/>
 *Organizers: Lili Mou and Olga Vechtomova* 
 {% include gallery id="t4" %}
 
@@ -170,7 +172,7 @@ Text generation has played an important role in various applications of natural 
 See <a href="https://lili-mou.github.io/">https://lili-mou.github.io/</a> for the tutorial material.
 
 			
-## T5: Achieving Common Ground in Multi-modal Dialogue (Cutting-edge) <br/>
+### T5: Achieving Common Ground in Multi-modal Dialogue (Cutting-edge) <br/>
 *Organizers: Malihe Alikhani and Matthew Stone* 
 {% include gallery id="t5" %}
 
@@ -178,7 +180,7 @@ All communication aims at achieving common ground (grounding): interlocutors can
 
 See <a href="https://github.com/malihealikhani/Grounding_in_Dialogue">https://github.com/malihealikhani/Grounding_in_Dialogue</a> for the tutorial material.
 
-## T6: Commonsense Reasoning for Natural Language Processing (Introductory) <br/>
+### T6: Commonsense Reasoning for Natural Language Processing (Introductory) <br/>
 *Organizers: Maarten Sap, Vered Shwartz, Antoine Bosselut, Yejin Choi, Dan Roth* 
 {% include gallery id="t6" %}
 
@@ -186,7 +188,7 @@ Commonsense knowledge, such as knowing that "bumping into people annoys them" or
 
 See <a href="https://tinyurl.com/acl2020-commonsense">https://tinyurl.com/acl2020-commonsense</a> for the tutorial material.
 
-## T7: Integrating Ethics into the NLP Curriculum (Introductory) <br/>
+### T7: Integrating Ethics into the NLP Curriculum (Introductory) <br/>
 *Organizers: Emily M. Bender, Dirk Hovy and Alexandra Schofield* 
 {% include gallery id="t7" %}
 
