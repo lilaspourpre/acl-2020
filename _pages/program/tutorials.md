@@ -118,7 +118,7 @@ t8:
 The following tutorials have been accepted for ACL 2020 and will be held on Sunday, July 5th, 2020. 
 
 
-## Morning (9 a.m. to 12:30 p.m., with a break at 10:30-11:00)		
+<!--## Morning (9 a.m. to 12:30 p.m., with a break at 10:30-11:00)		-->
 		
 ### T1: Interpretability and Analysis in Neural NLP (cutting-edge) <br/>
 *Organizers: Yonatan Belinkov, Sebastian Gehrmann and Ellie Pavlick* 
@@ -151,7 +151,7 @@ See <a href="https://lili-mou.github.io/">https://lili-mou.github.io/</a> for th
 
 
 			
-## Afternoon (2 p.m. to 5:30 p.m., with a break at 3:30-4:00)
+<!--## Afternoon (2 p.m. to 5:30 p.m., with a break at 3:30-4:00)-->
 
 ### T5: Achieving Common Ground in Multi-modal Dialogue (Cutting-edge) <br/>
 *Organizers: Malihe Alikhani and Matthew Stone* 
