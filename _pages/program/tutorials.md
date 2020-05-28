@@ -129,7 +129,7 @@ t8:
     title: ""
 ---
 
-## Tutorial timeslots
+## Timeslots
 
 {% include gallery id="timezones" %}
 
