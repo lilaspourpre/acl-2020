@@ -46,7 +46,6 @@ Legend:
 
 {% include gallery id="timezones" %}
 
-
 <b>Papers and Live Video Q&A Sessions</b>
 - All accepted papers will have a pre-recorded video talk (12 minutes for long papers, demos, and Student Research Workshop papers; 7 minutes for short papers) and slides available for your access. TACL and CL papers presented at the conference are treated the same as a main conference long paper.  Videos will be captioned, and videos and slides will be available before the start of the conference and you can watch them at your convenience.
 - Each Video Q&A session will be organized by parallel tracks for specific topic areas (e.g., semantics, machine translation, etc.). Each paper in the track will have a separate Zoom room where you can engage in live discussions with the authors. You can jump between Zoom rooms during the session. 

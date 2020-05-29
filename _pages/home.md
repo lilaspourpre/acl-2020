@@ -16,6 +16,9 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**May 29, 2020**. Check out the latest [blog post](/blog/intro-to-conference-infrastructure/) to know more about the virtual infrastructure for ACL2020! 
+{: .notice--info} 
+
 **May 26, 2020**. ACL2020 Virtual Conference registration is [now open](/registration/). 
 {: .notice--info} 
 
