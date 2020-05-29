@@ -68,7 +68,7 @@ Ves Stoyanov, Facebook AI
 [Rui Yan](http://www.ruiyan.me/), Peking University<br/>
 Contact info: [acl2020publicationchairs@googlegroups.com](mailto:acl2020publicationchairs@googlegroups.com)
 
-<h3>Publicity Chair</h3>
+<h3>Publicity Chairs</h3>
 [Emily M. Bender](https://faculty.washington.edu/ebender/), University of Washington <br/>
 [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/), University Düsseldorf, Germany
 
