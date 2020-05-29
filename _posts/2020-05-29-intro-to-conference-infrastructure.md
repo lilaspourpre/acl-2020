@@ -70,7 +70,7 @@ Legend:
 
 <b>Registration and Fees</b>
 - You must [register](https://acl2020.org/registration/) in order to attend ACL 2020 and access the ACL 2020 website portal, videos, and live events. (But of course the papers will be available to everyone at the open access ACL Anthology; at some point later this summer the talk videos will join them there at the Anthology as well).
-- The ACL 2020 registration fees are drastically reduced this year due to the event being virtual.  Regular registration is $125 and student registration is $50.
+- The ACL 2020 registration fees are drastically reduced this year, which we hope will greatly increase inclusion! Regular registration is $125 and student registration is $50.
 - The low fees <b>include</b> workshops and tutorials. (You still need to register for workshops/tutorials but there is no additional charge.)
 - As usual, ACL Membership for the year is also required ($100 regular, $50 for students). ACL membership fees are valid for the whole year (meaning EMNLP and AACL!). Furthermore, it’s your membership fees that fund all our really important open access efforts, such as keeping our journals and the Anthology open access to the world with no charge!
 
