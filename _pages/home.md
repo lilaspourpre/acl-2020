@@ -1,5 +1,5 @@
 ---
-title: "2020 Annual Conference of the Association for Computational Linguistics"
+title: "The 58th Annual Meeting of the Association for Computational Linguistics"
 layout: splash
 permalink: /
 header:
