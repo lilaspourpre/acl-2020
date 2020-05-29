@@ -69,7 +69,8 @@ Ves Stoyanov, Facebook AI
 Contact info: [acl2020publicationchairs@googlegroups.com](mailto:acl2020publicationchairs@googlegroups.com)
 
 <h3>Publicity Chair</h3>
-[Emily M. Bender](https://faculty.washington.edu/ebender/), University of Washington
+[Emily M. Bender](https://faculty.washington.edu/ebender/), University of Washington <br/>
+[Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/), University Düsseldorf, Germany
 
 <h3>Remote Presentation Chairs</h3>
 [Hao Fang](https://hao-fang.github.io/), Microsoft Semantic Machines <br/>
