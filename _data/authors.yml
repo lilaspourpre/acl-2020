@@ -36,6 +36,11 @@ accessibility-chairs:
   bio         : "Sushant Kafle, Masoud Rouhizadeh &amp; Naomi Saphra"
   avatar      : "assets/images/logos/acl-logo.png"
 
+accessibility-chairs-v2:
+  name        : "D&amp;I Accessibility Chairs"
+  email       : "acl2020-diversity-inclusion-chairs@googlegroups.com"
+  bio         : "Naomi Saphra, Sushant Kafle &amp; Masoud Rouhizadeh"
+  avatar      : "assets/images/logos/acl-logo.png"
 
 amanda-graham:
   name        : "Amanda Stent & Graham Neubig"
