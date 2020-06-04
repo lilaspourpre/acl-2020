@@ -73,7 +73,7 @@ Contact info: [acl2020publicationchairs@googlegroups.com](mailto:acl2020publicat
 [Hao Fang](https://hao-fang.github.io/), Microsoft Semantic Machines 
 
 <h3>Virtual Infrastructure Committee</h3>
-[Yizhe Zhang](https://www.microsoft.com/en-us/research/people/yizzhang/), Microsoft Research, Redmond <br/>
+[Yizhe Zhang](http://yizhezhang.net/), Microsoft Research, Redmond <br/>
 [Hamid Palangi](https://www.microsoft.com/en-us/research/people/hpalangi/), Microsoft Research, Redmond <br/>
 [Lianhui Qin](https://sites.google.com/view/lianhuiqin/home), University of Washington <br/>
 [Yi Luan](https://luanyi.github.io/), Google AI Language
@@ -95,5 +95,5 @@ Contact info: [acl2020publicationchairs@googlegroups.com](mailto:acl2020publicat
 
 <h3>Website Chairs</h3>
 [Sudha Rao](https://raosudha.weebly.com/), Microsoft Research, Redmond <br/>
-[Yizhe Zhang](https://www.microsoft.com/en-us/research/people/yizzhang/), Microsoft Research, Redmond
+[Yizhe Zhang](http://yizhezhang.net/), Microsoft Research, Redmond
 
