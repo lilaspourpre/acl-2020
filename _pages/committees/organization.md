@@ -73,10 +73,10 @@ Contact info: [acl2020publicationchairs@googlegroups.com](mailto:acl2020publicat
 [Sudha Rao](https://raosudha.weebly.com/), Microsoft Research, Redmond 
 
 <h3>Virtual Infrastructure Committee</h3>
-[Yi Luan](https://luanyi.github.io/), Google AI Language
+[Yi Luan](https://luanyi.github.io/), Google AI Language <br/>
 [Hamid Palangi](https://www.microsoft.com/en-us/research/people/hpalangi/), Microsoft Research, Redmond <br/>
 [Lianhui Qin](https://sites.google.com/view/lianhuiqin/home), University of Washington <br/>
-[Yizhe Zhang](http://yizhezhang.net/), Microsoft Research, Redmond <br/>
+[Yizhe Zhang](http://yizhezhang.net/), Microsoft Research, Redmond 
 
 <h3>Publicity Chairs</h3>
 [Emily M. Bender](https://faculty.washington.edu/ebender/), University of Washington <br/>
