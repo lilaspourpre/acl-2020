@@ -31,7 +31,7 @@ There is just over one month to go before ACL 2020 (July 5-10)! We recently anno
 
 ## 1. General Statistics
 
-ACL2020 had an acceptance rate of 22.7% based on 3,429 submissions and 779 accepted papers.  3,429 is a record number of submissions for ACL.  To put that number in perspective, and to show fast the field has grown, two years ago, the number of submissions was 1,544, or less than half.  Ten years ago, there were “only” 956 submissions.
+ACL2020 had an acceptance rate of 22.7% based on 3,429 submissions and 779 accepted papers.  3,429 is a record number of submissions for ACL. To put that number in perspective, just two years ago the number of submissions was 1,544, or less than half of this year!  Ten years ago, there were “only” 956 submissions. 
 
 Of the 779 accepted papers, 571 were long papers and 208 were short papers. Note that when Desk Rejects and Withdrawals are removed, 29 and 312 papers respectively, the acceptance rate is 25.2%.
 
@@ -256,7 +256,7 @@ Acceptance rates for each track ranged from 17.9% to 41.7% as follows.
 
 ## 4. Country Statistics
 
-We follow ACL 2019 in extracting the country listed in Softconf by the corresponding author and calculating statistics on that set.  There were 57 countries represented in this subset. We list the 25 countries with the most submissions below.  China had the most submissions with 1,084, followed closely by the United States. In ACL 2019, the United States had 820 submissions and China had 817.  Germany had the third most submissions with 136.
+We follow ACL 2019 in extracting the country listed in Softconf by the contact author and calculating statistics on that set.  There were 57 countries represented in this subset. We list the 25 countries with the most submissions below.  China had the most submissions with 1,084, followed closely by the United States. In ACL 2019, the United States had 820 submissions and China had 817.  Germany had the third most submissions with 136.
 
 {% include gallery id="submissions-per-country" %}
 
