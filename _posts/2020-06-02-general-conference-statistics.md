@@ -11,18 +11,18 @@ categories:
   blog
 
 acceptance-rates:
-  - url: "/assets/images/blogs/acceptance-rates.PNG"
-    image_path: "/assets/images/blogs/acceptance-rates.PNG"
+  - url: "/assets/images/blogs/acceptance-rates.png"
+    image_path: "/assets/images/blogs/acceptance-rates.png"
     alt: ""
     title: ""
 submissions-per-track:
-  - url: "/assets/images/blogs/submissions-per-track.PNG"
-    image_path: "/assets/images/blogs/submissions-per-track.PNG"
+  - url: "/assets/images/blogs/submissions-per-track.png"
+    image_path: "/assets/images/blogs/submissions-per-track.png"
     alt: ""
     title: ""
 submissions-per-country:
-  - url: "/assets/images/blogs/submissions-per-country.PNG"
-    image_path: "/assets/images/blogs/submissions-per-country.PNG"
+  - url: "/assets/images/blogs/submissions-per-country.png"
+    image_path: "/assets/images/blogs/submissions-per-country.png"
     alt: ""
     title: ""
 ---
@@ -247,7 +247,7 @@ Acceptance rates for each track ranged from 17.9% to 41.7% as follows.
   </tr>
   <tr>
     <td><b>Total</b></td>
-    <td><b>3429</v></td>
+    <td><b>3429</b></td>
     <td><b>757</b></td>
     <td><b>22.1</b></td>
  </tr>
