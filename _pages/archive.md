@@ -7,6 +7,9 @@ toc: false
 toc_icon: "cog"
 ---
 
+**May 26, 2020**. The ACL2020 team is seeking for a large number of student and non-student volunteers to help out before and during the conference. If you are interested, please answer [this call for volunteers](/blog/call-for-volunteers/). 
+{: .notice--info} 
+
 **May 22, 2020**. List of papers accepted to Student Research Workshop can be found [here](/program/accepted/#student-research-workshop). 
 {: .notice--info} 
 

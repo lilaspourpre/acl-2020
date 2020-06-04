@@ -17,6 +17,9 @@ excerpt: "<br/><br/>"
 <h2>News</h2>
 
 
+**May 26, 2020**. The [call for volunteer](/blog/call-for-volunteers) deadline has been extended to June 9! 
+{: .notice--info} 
+
 **May 29, 2020**. The virtual ACL 2020 is an opportunity to connect participants across the world. The ACL 2020 Diversity & Inclusion committee is soliciting applications with the goal of supporting prospective conference attendees who are facing financial difficulties and would like to participate in ACL 2020. Through this effort, we hope to broaden participation of researchers, especially researchers who are underrepresented in our community. Please fill out [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=y3NlOXjzaEubyBV1XAxR8-nGpYowZ2VHg83e19kLLsdUNFpGNzZVWEZMMktFMVM5T1FIVDZZT0k4US4u) by June 7. Decisions will be sent out by June 15th, more than a week in advance of the early registration deadline. We thank the ACL 2020 sponsors, particularly the Diversity & Inclusion sponsors, for their support. If you have any questions, please email [acl2020-diversity-inclusion-chairs@googlegroups.com](mailto:acl2020-diversity-inclusion-chairs@googlegroups.com). 
 {: .notice--info} 
 
@@ -24,9 +27,6 @@ excerpt: "<br/><br/>"
 {: .notice--info} 
 
 **May 26, 2020**. ACL2020 Virtual Conference registration is [now open](/registration/). 
-{: .notice--info} 
-
-**May 26, 2020**. The ACL2020 team is seeking for a large number of student and non-student volunteers to help out before and during the conference. If you are interested, please answer [this call for volunteers](/blog/call-for-volunteers/). 
 {: .notice--info} 
 
 <div class="text-center">
