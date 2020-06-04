@@ -33,7 +33,7 @@ There will be 909 presentations at the main conference (779 from ACL, 7 from Com
 
 In addition to the talks and Q&A sessions, there will be livestreamed keynote presentations, award sessions, and business meetings, as well as mentoring and other sessions and sponsor booths.
 
-Each day we will have 10 video Q&A sessions in different time zones across the world, where two sessions are grouped back-to-back as shown in the following table. We will also have a 2-hour plenary session (7am - 9am PDT) for keynote talks, award sessions, and business meetings. 
+Each day we will have 10 video Q&A sessions in different time zones across the world, where two sessions are grouped back-to-back as shown in the following table. We will also have a 2-hour plenary session (7am - 9am PDT) for keynote talks, award sessions, and business meetings.  
 
 (The choice of time for the plenary session is based on guidelines from the ACM. While there is no ideal time, this particular time slot allows most of the world to participate before midnight and after 7am.)
 
