@@ -49,9 +49,9 @@ Ves Stoyanov, Facebook AI
 [Asli Celikyilmaz](https://www.microsoft.com/en-us/research/people/aslicel/), Microsoft Research, Redmond<br/>
 [Shawn Wen](https://shawnwun.github.io/), PolyAI
 
-<h3>Audio-Video Chairs</h3>
+<!--<h3>Audio-Video Chairs</h3>
 [Hamid Palangi](https://www.microsoft.com/en-us/research/people/hpalangi/), Microsoft Research, Redmond <br/>
-[Lianhui Qin](https://sites.google.com/view/lianhuiqin/home), University of Washington 
+[Lianhui Qin](https://sites.google.com/view/lianhuiqin/home), University of Washington -->
 
 <h3>Diversity &amp; Inclusion (D&amp;I) Chairs</h3>
 [Cecilia Ovesdotter Alm](https://pht180.rit.edu/ceciliaovesdotteralm/), Rochester Institute of Technology<br/>
@@ -68,13 +68,23 @@ Ves Stoyanov, Facebook AI
 [Rui Yan](http://www.ruiyan.me/), Peking University<br/>
 Contact info: [acl2020publicationchairs@googlegroups.com](mailto:acl2020publicationchairs@googlegroups.com)
 
+<h3>Virtual Infrastructure Chairs</h3>
+[Sudha Rao](https://raosudha.weebly.com/), Microsoft Research, Redmond <br/>
+[Hao Fang](https://hao-fang.github.io/), Microsoft Semantic Machines 
+
+<h3>Virtual Infrastructure Committee</h3>
+[Yizhe Zhang](https://www.microsoft.com/en-us/research/people/yizzhang/), Microsoft Research, Redmond <br/>
+[Hamid Palangi](https://www.microsoft.com/en-us/research/people/hpalangi/), Microsoft Research, Redmond <br/>
+[Lianhui Qin](https://sites.google.com/view/lianhuiqin/home), University of Washington <br/>
+[Yi Luan](https://luanyi.github.io/), Google AI Language
+
 <h3>Publicity Chairs</h3>
 [Emily M. Bender](https://faculty.washington.edu/ebender/), University of Washington <br/>
 [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/), University Düsseldorf, Germany
 
-<h3>Remote Presentation Chairs</h3>
+<!--<h3>Remote Presentation Chairs</h3>
 [Hao Fang](https://hao-fang.github.io/), Microsoft Semantic Machines <br/>
-[Yi Luan](https://luanyi.github.io/), Google AI Language
+[Yi Luan](https://luanyi.github.io/), Google AI Language-->
 
 <h3>Sustainability Chair </h3>
 [Ananya Ganesh](https://ananyaganesh.github.io/), Educational Testing Service <br/>
@@ -83,7 +93,7 @@ Contact info: [acl2020publicationchairs@googlegroups.com](mailto:acl2020publicat
 <h3>Student Volunteer Coordinator</h3>
 [Marjan Ghazvininejad](ghazvini@fb.com), Facebook AI Lab
 
-<h3>Website &amp; Conference App Chairs</h3>
+<h3>Website Chairs</h3>
 [Sudha Rao](https://raosudha.weebly.com/), Microsoft Research, Redmond <br/>
 [Yizhe Zhang](https://www.microsoft.com/en-us/research/people/yizzhang/), Microsoft Research, Redmond
 
