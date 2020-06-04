@@ -69,14 +69,14 @@ Ves Stoyanov, Facebook AI
 Contact info: [acl2020publicationchairs@googlegroups.com](mailto:acl2020publicationchairs@googlegroups.com)
 
 <h3>Virtual Infrastructure Chairs</h3>
-[Sudha Rao](https://raosudha.weebly.com/), Microsoft Research, Redmond <br/>
-[Hao Fang](https://hao-fang.github.io/), Microsoft Semantic Machines 
+[Hao Fang](https://hao-fang.github.io/), Microsoft Semantic Machines <br/>
+[Sudha Rao](https://raosudha.weebly.com/), Microsoft Research, Redmond 
 
 <h3>Virtual Infrastructure Committee</h3>
-[Yizhe Zhang](http://yizhezhang.net/), Microsoft Research, Redmond <br/>
+[Yi Luan](https://luanyi.github.io/), Google AI Language
 [Hamid Palangi](https://www.microsoft.com/en-us/research/people/hpalangi/), Microsoft Research, Redmond <br/>
 [Lianhui Qin](https://sites.google.com/view/lianhuiqin/home), University of Washington <br/>
-[Yi Luan](https://luanyi.github.io/), Google AI Language
+[Yizhe Zhang](http://yizhezhang.net/), Microsoft Research, Redmond <br/>
 
 <h3>Publicity Chairs</h3>
 [Emily M. Bender](https://faculty.washington.edu/ebender/), University of Washington <br/>
