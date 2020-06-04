@@ -10,8 +10,8 @@ categories:
     blog
 
 session-times:
-  - url: "/assets/images/blogs/session-times.PNG"
-    image_path: "/assets/images/blogs/session-times.PNG"
+  - url: "/assets/images/blogs/session-timezones.png"
+    image_path: "/assets/images/blogs/session-timezones.png"
     alt: ""
     title: ""
 timezones:
