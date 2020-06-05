@@ -254,7 +254,7 @@ Acceptance rates for each track ranged from 17.9% to 41.7% as follows.
 </table>
 
 
-## 4. Country Statistics
+## 4. Country and Region Statistics
 
 We follow ACL 2019 in extracting the country/region listed in Softconf by the contact author and calculating statistics on that set.   Please note that the country/region data is self-reported by each author.   There are 57 countries/regions represented in this subset.   Below we list the 25 countries/regions with the most submissions.  China led with 1,084, followed closely by the United States.   In ACL 2019, the United States had 820 submissions and China had 817.  Germany had the third most submissions then with 136.
 

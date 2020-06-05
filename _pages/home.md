@@ -17,6 +17,9 @@ excerpt: "<br/><br/>"
 <h2>News</h2>
 
 
+**June 5, 2020**. Checkout the new [blog post](/blog/general-conference-statistics/) on ACL2020 conference statistics! 
+{: .notice--info} 
+
 **May 26, 2020**. The [call for volunteer](/blog/call-for-volunteers) deadline has been extended to June 9! 
 {: .notice--info} 
 
@@ -24,9 +27,6 @@ excerpt: "<br/><br/>"
 {: .notice--info} 
 
 **May 29, 2020**. Check out the latest [blog post](/blog/intro-to-conference-infrastructure/) to know more about the virtual infrastructure for ACL2020! 
-{: .notice--info} 
-
-**May 26, 2020**. ACL2020 Virtual Conference registration is [now open](/registration/). 
 {: .notice--info} 
 
 <div class="text-center">
