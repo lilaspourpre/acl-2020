@@ -53,9 +53,9 @@ Legend:
 - To provide better access across the globe, each paper will be allocated two Q&A sessions at different times.
 
 <b>Plenary Sessions</b>
-- The two [Keynote talks](https://acl2020.org/program/keynotes/) will be livestreamed at their designated time. The talk will be 45 minutes followed by at least a 15 minute live Q&A session with the speaker. You can post your questions via chat, and a moderator will read out the questions to the speaker during live Q&A.
+- The two [Keynote talks](https://acl2020.org/program/keynotes/) will be livestreamed at their designated time. The talk will be 45 minutes followed by at least a 30 minutes live Q&A session with the speaker. You can post your questions via chat, and a moderator will read out the questions to the speaker during live Q&A.
 - Award sessions include livestreamed talks and live award ceremonies for the Lifetime Achievement Award, Distinguished Service Award, and Test of the Time Awards.
-- The Best Paper session will have live-streamed presentations followed by live Q&A.
+- The Best Paper ceremony where we will announce the best paper awards.
 - Business meetings will be a mix of pre-recorded short presentations and live discussions organized by the ACL Executive board. We strongly encourage you to participate and provide your feedback on various issues the ACL executive board is working on! The session chair will moderate the discussion, and you can raise your hand using the Zoom interface to participate.
 
 <b>Student Research Workshop (SRW)</b>
