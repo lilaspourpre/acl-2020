@@ -11,7 +11,7 @@ categories:
 
 <b>Submission Deadline: Tuesday, <strike>June 5</strike> June 9, 2020</b>
 
-NOTE: Those who already volunteered following our earlier call for volunteers, can we trouble you to please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSefcn0Evb_K-NTT62c1yty_3v0XddvafZT_UYP47GsC2sFFnA/viewform?usp=sf_link) so we can ensure you get free registration.
+NOTE: Those who already volunteered following our earlier call for volunteers, can we trouble you to please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSefcn0Evb_K-NTT62c1yty_3v0XddvafZT_UYP47GsC2sFFnA/viewform?usp=sf_link) or [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=9028kaqAQ0OMdrEjlJf7WY4w_ivCkJNKnHxP2pxjk6pUNlNUMFdSUUtSQ0haRVlYVDFEQTcxWEEzRC4u) (incase the previous one is not accessible) so we can ensure you get free registration.
 
 <h2>VOLUNTEER/SCHOLARSHIP PROGRAM</h2>
 
@@ -32,7 +32,7 @@ Preference will be given to students who are presenting a paper in the main conf
 
 <h2>SUBMISSION PROCEDURE</h2>
 
-Applicants for the Volunteer/scholarship Program should fill [this application form](https://docs.google.com/forms/d/e/1FAIpQLSefcn0Evb_K-NTT62c1yty_3v0XddvafZT_UYP47GsC2sFFnA/viewform?usp=sf_link)
+Applicants for the Volunteer/scholarship Program should fill [this application form](https://docs.google.com/forms/d/e/1FAIpQLSefcn0Evb_K-NTT62c1yty_3v0XddvafZT_UYP47GsC2sFFnA/viewform?usp=sf_link) or [this application form](https://forms.office.com/Pages/ResponsePage.aspx?id=9028kaqAQ0OMdrEjlJf7WY4w_ivCkJNKnHxP2pxjk6pUNlNUMFdSUUtSQ0haRVlYVDFEQTcxWEEzRC4u) (incase the previous one is not accessible). 
 
 <h2>TIMELINE</h2>
 
