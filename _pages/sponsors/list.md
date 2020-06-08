@@ -19,7 +19,7 @@ diamond:
     alt: "Apple Logo"
     title: "Apple"
   - url: https://www.amazon.science
-    image_path: /assets/images/logos/amazon.png.jpg
+    image_path: /assets/images/logos/amazon-logo.png
     alt: "Amazon Logo"
     title: "Amazon"
   - image_path: /assets/images/logos/blank-logo.png
@@ -32,13 +32,25 @@ platinum:
     image_path: /assets/images/logos/baidu.jpg
     alt: "Baidu Logo"
     title: "Baidu"
-  - url: https://research.duolingo.com
-    image_path: /assets/images/logos/duolingo.png
-    alt: "Duolingo Logo"
-    title: "Duolingo"  
+  - url: https://deepmind.com
+    image_path: /assets/images/logos/deepmind-logo.png
+    alt: "Deepmind Logo"
+    title: "Deepmind"
+  - url: https://www.ibm.com
+    image_path: /assets/images/logos/IBM.jpg
+    alt: "IBM Logo"
+    title: "IBM" 
+  - url: https://fb.com
+    image_path: /assets/images/logos/fb.png
+    alt: "Facebook Logo"
+    title: "Facebook" 
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 gold:
+  - url: https://www.grammarly.com
+    image_path: /assets/images/logos/grammarly-logo.png
+    alt: "grammarly Logo"
+    title: "grammarly"
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 silver:
@@ -50,6 +62,10 @@ silver:
     image_path: /assets/images/logos/babelscape.jpg
     alt: "babelscape Logo"
     title: "babelscape"
+  - url: https://europe.naverlabs.com
+    image_path: /assets/images/logos/naver.jpg
+    alt: "Naver Logo"
+    title: "Naver"
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 bronze:
@@ -67,6 +83,14 @@ supporter:
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 dichampion:
+  - url: https://deepmind.com
+    image_path: /assets/images/logos/deepmind.png
+    alt: "Deepmind Logo"
+    title: "Deepmind"
+  - url: https://www.microsoft.com
+    image_path: /assets/images/logos/MSFT.jpg
+    alt: "Microsoft Logo"
+    title: "Microsoft"
   - image_path: /assets/images/logos/blank-logo.png
   - image_path: /assets/images/logos/blank-logo.png
 dially:
