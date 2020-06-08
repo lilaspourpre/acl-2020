@@ -14,6 +14,7 @@ sidebar:
 <h2>Diversity &amp; Inclusion Sub-Committee Chairs</h2>
 
 <h3>Academic Inclusion Chairs</h3>
+[Khyathi Chandu](http://www.cs.cmu.edu/~kchandu/), Carnegie Mellon University<br/>
 [Aakanksha Naik](https://www.cs.cmu.edu/~anaik/), Carnegie Mellon University<br/>
 [Emily Prud'hommeaux](http://cs.bc.edu/~prudhome/), Boston College<br/>
 [Alla Rozovskaya](https://sites.google.com/site/allamrozovskaya/), Queens College (City University of New York)
@@ -24,7 +25,6 @@ sidebar:
 [Naomi Saphra](http://nsaphra.github.io/), University of Edinburgh
 
 <h3>Childcare Chairs</h3>
-[Khyathi Chandu](http://www.cs.cmu.edu/~kchandu/), Carnegie Mellon University<br/>
 [Stephen Mayhew](https://mayhewsw.github.io/), Duolingo
 
 <h3>Financial Access Chairs</h3>
