@@ -12,7 +12,7 @@ sidebar:
 
 <h3>Program Chairs</h3>
 [Joyce Chai](http://www.cse.msu.edu/~jchai/), University of Michigan<br/>
-[Natalie Schluter](https://natschluter.github.io/), IT University of Copenhagen, Denmark<br/>
+[Natalie Schluter](https://natschluter.github.io/), Google Brain and IT University of Copenhagen, Denmark<br/>
 [Joel Tetreault](https://www.cs.rochester.edu/~tetreaul/academic.html), Dataminr, USA <br/> <br/>
 [Senior Program Committtee](/committees/program)
 
