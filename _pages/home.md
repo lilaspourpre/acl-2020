@@ -1,5 +1,5 @@
 ---
-title: "The 8th International Conference — Analysis of Images, Social networks and Texts"
+title: "The 8th International Conference — Analysis of Images, Social Networks and Texts"
 layout: splash
 permalink: /
 header:
@@ -9,7 +9,7 @@ excerpt: "<br/><br/>"
 ---
 <div class="text-center">
     <span style="font-weight: bold; font-size: smaller;">
-    Tutorials : July 5<br/>&nbsp;Main Conference : July 6 &ndash; July 8<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Workshops : July 9 &ndash; July 10</span>
+    Abstract deadline : July 1<br/>&nbsp;Submission deadline : July 15<br/>&nbsp;Notification of acceptance : September 15<br/>&nbsp;Camera-ready version : Octeober 1<br/>&nbsp;Conference : October 15 &ndash; October 16</span>
     <br/><br/>       
     <a href="https://aclweb.org/conference/acl-2020-conference-registration/" target="_blank" class="btn btn--primary">Register Now</a>
 </div>
