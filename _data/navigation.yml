@@ -22,17 +22,20 @@ main:
   - title: "CFP"
     url: /calls/papers
 
-  - title: "Authors"
-    url: /authors/camera-ready-instructions
+#   - title: "Authors"
+#     url: /authors/camera-ready-instructions
 
-  - title: "Reviewers"
-    url: /reviewers
+#   - title: "Reviewers"
+#     url: /reviewers
 
   - title: "Committees"
     url: /committees/organization
    
   - title: "Sponsors"
     url: /sponsors/list/
+  
+  - title: "Past events"
+    url: /past
 
 # calls:
 #    - title: Call for
@@ -89,3 +92,15 @@ sponsors:
         url: /sponsors/list/
       - title: "Tiers &amp; Pricing"
         url: /sponsors/benefits/
+
+past:
+  - title: "Past events"
+    children:
+      - title: "AIST 2019"
+        url: http://2019.aistconf.org/
+      - title: "AIST 2018"
+        url: http://2018.aistconf.org/
+      - title: "AIST 2017"
+        url: http://2017.aistconf.org/
+      - title: "AIST 2012-2016"
+        url: http://legacy.aistconf.org/
