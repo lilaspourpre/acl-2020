@@ -1,5 +1,5 @@
 ---
-title: Past events
+title: 
 layout: single
 permalink: /past/
 sidebar: 
