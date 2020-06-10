@@ -66,20 +66,16 @@ The list of topics relevant to these tracks is including but is not limited to:
 <table style="width: 97%">
     <tbody>
         <tr>
-            <td style="width: 40%;">Abstract deadline</td>
+            <td>Abstract deadline</td>
             <td>July 1, 2020</td>
         </tr>
         <tr>
-            <td style="width: 40%;">Submission deadline</td>
+            <td>Submission deadline</td>
             <td>July 15, 2020</td>
         </tr>
         <tr>
-            <td style="width: 40%;">Notification of acceptance</td>
-            <td>September 15, 2020</td>
-        </tr>
-        <tr>
             <td>Notification of acceptance</td>
-            <td>September 3, 2020</td>
+            <td>September 15, 2020</td>
         </tr>
         <tr>
           <td>Camera-ready papers due</td>
