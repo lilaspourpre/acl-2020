@@ -23,12 +23,12 @@ The previous conferences in 2012-2019 attracted a significant number of students
 
 Similar to the previous years, the conference proceedings will be published in the Springer’s in Lecture Notes in Computer Science (LNCS) series. You can take a look at the proceedings of the last three years to get an idea about what kind of papers are accepted and what kind of topics are discussed at the conference:
 
-AIST 2019: [Springer Lecture Notes in Computer Science (LNCS) vol. 11832](https://link.springer.com/book/10.1007/978-3-030-37334-4) and [Communications in Computer and Information Science (CCIS) vol. 1086](https://link.springer.com/book/10.1007/978-3-030-39575-9)
-AIST 2018: [Springer Lecture Notes in Computer Science (LNCS) vol. 11179](https://link.springer.com/book/10.1007/978-3-030-11027-7)
-AIST 2017: [Springer Lecture Notes in Computer Science (LNCS) vol. 10716](http://www.springer.com/us/book/9783319730127)
-AIST 2016: [Springer Communications in Computer and Information Science (CCIS) vol. 661](http://www.springer.com/en/book/9783319529196)
-AIST 2015: [Springer Communications in Computer and Information Science (CCIS) vol. 542](http://www.springer.com/en/book/9783319261225)
-AIST 2014: [Springer Communications in Computer and Information Science (CCIS) vol. 436](http://www.springer.com/en/book/9783319125794)
+- AIST 2019: [Springer Lecture Notes in Computer Science (LNCS) vol. 11832](https://link.springer.com/book/10.1007/978-3-030-37334-4) and [Communications in Computer and Information Science (CCIS) vol. 1086](https://link.springer.com/book/10.1007/978-3-030-39575-9)
+- AIST 2018: [Springer Lecture Notes in Computer Science (LNCS) vol. 11179](https://link.springer.com/book/10.1007/978-3-030-11027-7)
+- AIST 2017: [Springer Lecture Notes in Computer Science (LNCS) vol. 10716](http://www.springer.com/us/book/9783319730127)
+- AIST 2016: [Springer Communications in Computer and Information Science (CCIS) vol. 661](http://www.springer.com/en/book/9783319529196)
+- AIST 2015: [Springer Communications in Computer and Information Science (CCIS) vol. 542](http://www.springer.com/en/book/9783319261225)
+- AIST 2014: [Springer Communications in Computer and Information Science (CCIS) vol. 436](http://www.springer.com/en/book/9783319125794)
 
 <h2>Tracks</h2>
 
@@ -66,55 +66,29 @@ The list of topics relevant to these tracks is including but is not limited to:
 <table style="width: 97%">
     <tbody>
         <tr>
-            <td style="width: 40%;">Completion of START Global Profile</td>
-            <td style="width: 30%;">Monday</td>
-            <td>December 9, 2019</td>
+            <td style="width: 40%;">Abstract deadline</td>
+            <td>July 1, 2020</td>
         </tr>
         <tr>
-            <td style="width: 40%;">Completion of ACL2020 Reviewer and Chair/Author Information Form</td>
-            <td style="width: 30%;">Monday</td>
-            <td>December 9, 2019</td>
+            <td style="width: 40%;">Submission deadline</td>
+            <td>July 15, 2020</td>
         </tr>
         <tr>
-            <td style="width: 40%;">Submission deadline<br/>(<i>long &amp; short papers</i>)</td>
-            <td style="width: 30%;">Monday</td>
-            <td>December 9, 2019</td>
+            <td style="width: 40%;">Notification of acceptance</td>
+            <td>September 15, 2020</td>
         </tr>
         <tr>
-            <td style="width: 40%;">Paper review rebuttal period<br/></td>
-            <td style="width: 30%;">Wednesday &ndash; Monday</td>
-            <td>February 12 &ndash; 17, 2020</td>
+            <td>Notification of acceptance</td>
+            <td>September 3, 2020</td>
         </tr>
         <tr>
-            <td>Notification of acceptance<br/>(<i>long &amp; short papers</i>)</td>
-            <td>Friday</td>
-            <td>April 3, 2020</td>
-        </tr>
+          <td>Camera-ready papers due</td>
+          <td>October 1, 2020</td>
+        </tr>       
         <tr>
-          <td>Camera-ready papers due<br/>(<i>long &amp; short papers</i>)</td>
-          <td>Friday</td>
-          <td><strike>April 24</strike> May 1, 2020</td>
-        </tr>
-        <tr>
-            <td>Proceedings publication</td>
-            <td>Friday</td>
-            <td>June 19, 2020</td>
-        </tr>        
-        <tr>
-            <td>Tutorials</td>
-            <td>Sunday</td>
-            <td>July 5, 2020</td>
-        </tr>        
-        <tr>
-            <td>Main conference</td>
-            <td>Monday &ndash; Wednesday</td>
-            <td>July 6 &ndash; 8, 2020</td>
-        </tr>        
-        <tr>
-            <td>Workshops and Co-located conferences</td>
-            <td>Thursday &ndash; Friday</td>
-            <td>July 9 &ndash; 10, 2020</td>
-        </tr>        
+            <td>Conference dates</td>
+            <td>OCtober 15 &ndash; 16, 2020</td>
+        </tr>     
 </tbody>
 </table>
 </center>
