@@ -14,16 +14,16 @@ minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ACL 2020"
+title                    : "AIST 2020"
 title_separator          : "-"
-name                     : "ACL"
-description              : "Official website for the 2020 Annual Conference of the Association for Computational Linguistics"
-url                      : "https://acl2020.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "AIST"
+description              : "Official website for the International Conference on Analysis of Images, Social Networks and Texts"
+url                      : "https://aistconf.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "acl-org/acl-2020" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logos/acl-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "ACL 2020" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "AIST 2020" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -54,7 +54,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : aclmeeting
+  username               : 
 facebook:
   username               : 
   app_id                 :
@@ -107,13 +107,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/aclmeeting
+      #url: https://twitter.com/aclmeeting
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: 
+      url: https://www.facebook.com/groups/aistconf
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/acl-org/acl-2020
+      #url: https://github.com/acl-org/acl-2020
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -122,7 +122,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: https://www.instagram.com/aistconference/
 
 
 # Reading Files
