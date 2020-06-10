@@ -9,7 +9,7 @@ excerpt: "<br/><br/>"
 ---
 <div class="text-center">
     <span style="font-weight: bold; font-size: smaller;">
-    Abstract deadline : July 1<br/>&nbsp;Submission deadline : July 15<br/>&nbsp;Notification of acceptance : September 15<br/>&nbsp;Camera-ready version : Octeober 1<br/>&nbsp;Conference : October 15 &ndash; October 16</span>
+    Abstract deadline : July 1<br/>&nbsp;Submission deadline : July 15<br/>&nbsp;Notification of acceptance : September 15<br/>&nbsp;Camera-ready version : October 1<br/>&nbsp;Conference : October 15 &ndash; October 16</span>
     <br/><br/>       
     <a href="https://aclweb.org/conference/acl-2020-conference-registration/" target="_blank" class="btn btn--primary">Register Now</a>
 </div>
