@@ -15,7 +15,7 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
-**May 29, 2020**. Checkout the [Call for Papers](/calls/papers) page for submission guidelines.
+**May 29, 2020**. Check the [Call for Papers](/calls/papers) page for submission guidelines.
 {: .notice--info} 
 
 <div class="text-center">
@@ -27,36 +27,3 @@ excerpt: "<br/><br/>"
 The 9th International Conference — Analysis of Images, Social Networks and Texts — will take place online from <b>October 15th through October 16th, 2020</b>.
 
 The world of Data Science changes every year. At AIST, we exchange our understanding of the Science state-of-the-art, as well as how it applies to life and business. AIST is regularly held since 2012.
-
-Location: previously Yekaterinburg, recently Moscow
-
-<h2 id="dates">Important Dates</h2>
-
-<center>
-<table style="width: 97%">
-    <tbody>
-        <tr>
-            <td>Abstract deadline</td>
-            <td>July 1, 2020</td>
-        </tr>
-        <tr>
-            <td>Submission deadline</td>
-            <td>July 15, 2020</td>
-        </tr>
-        <tr>
-            <td>Notification of acceptance</td>
-            <td>September 15, 2020</td>
-        </tr>
-        <tr>
-          <td>Camera-ready papers due</td>
-          <td>October 1, 2020</td>
-        </tr>       
-        <tr>
-            <td>Conference dates</td>
-            <td>October 15 &ndash; 16, 2020</td>
-        </tr>     
-</tbody>
-</table>
-</center>
-<h5>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> ("anywhere on Earth").</h5>
-
