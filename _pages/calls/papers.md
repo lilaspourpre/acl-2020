@@ -23,15 +23,13 @@ The previous conferences in 2012-2019 attracted a significant number of students
 
 Similar to the previous years, the conference proceedings will be published in the Springer’s in Lecture Notes in Computer Science (LNCS) series. You can take a look at the proceedings of the last three years to get an idea about what kind of papers are accepted and what kind of topics are discussed at the conference:
 
-AIST 2019: Springer Lecture Notes in Computer Science (LNCS) vol. 11832 and Communications in Computer and Information Science (CCIS) vol. 1086
-AIST 2018: Springer Lecture Notes in Computer Science (LNCS) vol. 11179
-AIST 2017: Springer Lecture Notes in Computer Science (LNCS) vol. 10716
-AIST 2016: Springer Communications in Computer and Information Science (CCIS) vol. 661
-AIST 2015: Springer Communications in Computer and Information Science (CCIS) vol. 542
-AIST 2014: Springer Communications in Computer and Information Science (CCIS) vol. 436
-Web site featuring information about past conferences.  
+AIST 2019: [Springer Lecture Notes in Computer Science (LNCS) vol. 11832](https://link.springer.com/book/10.1007/978-3-030-37334-4) and [Communications in Computer and Information Science (CCIS) vol. 1086](https://link.springer.com/book/10.1007/978-3-030-39575-9)
+AIST 2018: [Springer Lecture Notes in Computer Science (LNCS) vol. 11179](https://link.springer.com/book/10.1007/978-3-030-11027-7)
+AIST 2017: [Springer Lecture Notes in Computer Science (LNCS) vol. 10716](http://www.springer.com/us/book/9783319730127)
+AIST 2016: [Springer Communications in Computer and Information Science (CCIS) vol. 661](http://www.springer.com/en/book/9783319529196)
+AIST 2015: [Springer Communications in Computer and Information Science (CCIS) vol. 542](http://www.springer.com/en/book/9783319261225)
+AIST 2014: [Springer Communications in Computer and Information Science (CCIS) vol. 436](http://www.springer.com/en/book/9783319125794)
 
- 
 <h2>Tracks</h2>
 
 The conference will feature six tracks:
@@ -126,7 +124,7 @@ The list of topics relevant to these tracks is including but is not limited to:
 
 ## Publication
 
-AIST-2020 proceedings will be published in Springer LNCS (Lecture Notes in Computer Science). The companion volume will be published in the satellite series CCIS (Communications in Computer and Information Science).
+AIST-2020 proceedings will be published in Springer LNCS ([Lecture Notes in Computer Science](https://www.springer.com/series/558)). The companion volume will be published in the satellite series CCIS ([Communications in Computer and Information Science](https://www.springer.com/series/7899)).
  
 ## Venue
 
@@ -138,9 +136,9 @@ All papers must be original and not simultaneously submitted to another journal 
 
 Full papers describing completed research up to 12 pages of content with references.
 Posters describing ongoing research up to 6 pages of content with references.
-The papers must be formatted according to the Springer LNCS style. LaTeX template of the Springer LNCS is available at ShareLaTeX platform. We encourage you to use the LaTeX template instead of the Word template.
+The papers must be formatted according to the [Springer LNCS style](http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0). LaTeX template of the Springer LNCS is [available at ShareLaTeX platform](https://www.sharelatex.com/templates/journals/lecture-notes-in-computer-science-(lncs)). We encourage you to use the LaTeX template instead of the Word template.
 
-Papers should be submitted through the EasyChair conference management system. Submitted papers should provide sufficient detail to allow the Program Committee to assess the merits of the paper on the basis of technical quality, relevance to the conference topics, originality, significance, and clarity of presentation. Papers should present original work previously not published or concurrently submitted to another conference or journal. Each paper will be reviewed by at least three PC members. To ensure a fair assessment of the submissions, the review will be double-blind, so you need to make your paper anonymous (remove links to your personal pages, acknowledgements, affiliations, etc.).
+Papers should be submitted through the [EasyChair conference management system](https://easychair.org/conferences/?conf=aist-2020). Submitted papers should provide sufficient detail to allow the Program Committee to assess the merits of the paper on the basis of technical quality, relevance to the conference topics, originality, significance, and clarity of presentation. Papers should present original work previously not published or concurrently submitted to another conference or journal. Each paper will be reviewed by at least three PC members. To ensure a fair assessment of the submissions, the review will be double-blind, so you need to make your paper anonymous (remove links to your personal pages, acknowledgements, affiliations, etc.).
 
 ## Contact Information
 - e-mail: [org@aistconf.org](mailto:org@aistconf.org)
