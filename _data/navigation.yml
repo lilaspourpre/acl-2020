@@ -7,22 +7,22 @@ main:
   # - title: "LiveCaptions"
   #   url: /captions/
 
-  - title: "Program"
-    url: /program/keynotes/
+#   - title: "Program"
+#     url: /program/keynotes/
 
 #   - title: "Blog"
 #     url: /blog
 
-  - title: "Registration"
-    url: /registration
+#   - title: "Registration"
+#     url: /registration
 
-  - title: "Participants"
-    url: "/participants"
+#   - title: "Participants"
+#     url: "/participants"
 
   - title: "Sponsors"
     url: /sponsors/list/
     
-  - title: "Calls"
+  - title: "CFP"
     url: /calls/papers
 
   - title: "Authors"
