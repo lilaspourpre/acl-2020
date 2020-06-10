@@ -87,7 +87,7 @@ The list of topics relevant to these tracks is including but is not limited to:
         </tr>       
         <tr>
             <td>Conference dates</td>
-            <td>OCtober 15 &ndash; 16, 2020</td>
+            <td>October 15 &ndash; 16, 2020</td>
         </tr>     
 </tbody>
 </table>
