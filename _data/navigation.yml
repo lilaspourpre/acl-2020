@@ -18,9 +18,6 @@ main:
 
 #   - title: "Participants"
 #     url: "/participants"
-
-  - title: "Sponsors"
-    url: /sponsors/list/
     
   - title: "CFP"
     url: /calls/papers
@@ -33,6 +30,9 @@ main:
 
   - title: "Committees"
     url: /committees/organization
+   
+  - title: "Sponsors"
+    url: /sponsors/list/
 
 calls:
    - title: Call for
