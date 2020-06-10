@@ -8,90 +8,36 @@ sidebar:
 ---
 
 <h3>Organizing committee</h3>
-[Dmitry Ignatov](https://web.stanford.edu/~jurafsky/), Higher School of Economics, Russia &ndash; AIST series Head or Organization<br/>
-[Alexander Panchenko](http://www.cse.msu.edu/~jchai/), Skolkovo Institute of Science and Technology, Russia &ndash; AIST series Head or Organization<br/>
-[Evgeny Burnaev](https://natschluter.github.io/), Skolkovo Institute of Science and Technology, Russia &ndash; AIST 2020 Local Organizing Chair<br/>
-[Irina Nikishina](https://www.cs.rochester.edu/~tetreaul/academic.html), Skolkovo Institute of Science and Technology, Russia<br/> <br/>
-[Ilya Makarov](https://www.cs.rochester.edu/~tetreaul/academic.html), Higher School of Economics, Russia<br/> <br/>
+Dmitry Ignatov, Higher School of Economics, Russia &ndash; AIST series Head or Organization<br/>
+Alexander Panchenko, Skolkovo Institute of Science and Technology, Russia &ndash; AIST series Head or Organization<br/>
+Evgeny Burnaev, Skolkovo Institute of Science and Technology, Russia &ndash; AIST 2020 Local Organizing Chair<br/>
+Irina Nikishina, Skolkovo Institute of Science and Technology, Russia<br/>
+Ilya Makarov, Higher School of Economics, Russia<br/> <br/>
 
 <h3>Area chairs</h3>
-[Jianfeng Gao](https://www.microsoft.com/en-us/research/people/jfgao/), Microsoft Research<br/>
-Priscilla Rasmussen, ACL<br/>
-[Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz), University of Washington
 
-<h3>Tutorial Chairs</h3>
-[Agata Savary](http://www.info.univ-tours.fr/~savary/), University of Tours, France<br/>
-[Yue Zhang](https://frcchang.github.io/), Westlake University
+<h4>Data Analysis and Machine Learning</h4>
+Amedeo Napoli, LORIA, France<br/>
+Sergei O. Kuznetsov, National Research University Higher School of Economics
 
-<h3>Workshop Chairs</h3>
-[Milica Gašić](https://www.cs.hhu.de/en/research-groups/dialog-systems-and-machine-learning-prof-dr-milica-gasic/our-team/team/cv-gasic.html),  Heinrich Heine University Düsseldorf<br/>
-Dilek Hakkani-Tur, Amazon Alexa AI<br/>
-[Saif M. Mohammad](https://www.saifmohammad.com/), National Research Council Canada<br/>
-Ves Stoyanov, Facebook AI 
+<h4>Computer Vision</h4>
+Marcello Pelillo, University of Venice, Italy<br/>
+Andrey Savchenko, Higher School of Economics, Russia<br/>
+Evgeny Burnaev, Skolkovo Institute of Science and Technology, Russia
 
-<h3>Student Research Workshop Chairs</h3>
-[Rotem Dror](https://rtmdrr.github.io/), Technion - Israel Institute of Technology<br/>
-[Jiangming Liu](http://leoncrashcode.github.io/), The University of Edinburgh<br/>
-[Shruti Rijhwani](https://shrutirij.github.io/), Carnegie Mellon University<br/>
-[Yizhong Wang](https://yizhong-wang.com/), University of Washington
+<h4>Natural Language Processing</h4>
+Natalia Loukachevitch, Research Computing Center of Moscow State University<br/>
+Andrey Kutuzov, University of Oslo<br/>
+Elena Tutubalina, Kazan Federal University
 
-<h3>Faculty Advisors to the Student Research Workshop</h3>
-[Omri Abend](https://www.cse.huji.ac.il/~oabend/), Hebrew University of Jerusalem<br/>
-[Sujian Li](https://eecs.pku.edu.cn/info/1501/6754.htm), Peking University <br/>
-[Zhou Yu](http://zhouyu.cs.ucdavis.edu/), University of California, Davis
+<h4>Social Network Analysis</h4>
+Vladimir Batagelj, University of Ljubljana, Slovenia<br/>
+Olessia Koltsova, Higher School of Economics, Russia
 
-<h3>Conference Handbook Chair</h3>
-[Nanyun Peng](http://vnpeng.net/), University of Southern California
+<h4>Theoretical Machine Learning and Optimization</h4>
+Michael Khachay, Krasovsky Institute of Mathematics and Mechanics, Russia<br/>
+Panos Pardalos, University of Venice, Italy
 
-<h3>Demonstration Chairs</h3>
-[Asli Celikyilmaz](https://www.microsoft.com/en-us/research/people/aslicel/), Microsoft Research, Redmond<br/>
-[Shawn Wen](https://shawnwun.github.io/), PolyAI
-
-<!--<h3>Audio-Video Chairs</h3>
-[Hamid Palangi](https://www.microsoft.com/en-us/research/people/hpalangi/), Microsoft Research, Redmond <br/>
-[Lianhui Qin](https://sites.google.com/view/lianhuiqin/home), University of Washington -->
-
-<h3>Diversity &amp; Inclusion (D&amp;I) Chairs</h3>
-[Cecilia Ovesdotter Alm](https://pht180.rit.edu/ceciliaovesdotteralm/), Rochester Institute of Technology<br/>
-[Vinodkumar Prabhakaran](https://www.cs.stanford.edu/~vinod/), Google <br/> <br/>
-[Diversity &amp; Inclusion Sub-Committee Chairs](/committees/diversity-inclusion)
-
-<h3>Local Sponsorship Chairs</h3>
-[Hoifung Poon](https://www.microsoft.com/en-us/research/people/hoifung/), Microsoft <br/>
-[Kristina Toutanova](http://kristinatoutanova.com/), Google
-
-<h3>Publication Chairs</h3>
-[Steven Bethard](https://bethard.faculty.arizona.edu/), University of Arizona<br/>
-[Ryan Cotterell](https://ryancotterell.github.io/), University of Cambridge<br/>
-[Rui Yan](http://www.ruiyan.me/), Peking University<br/>
-Contact info: [acl2020publicationchairs@googlegroups.com](mailto:acl2020publicationchairs@googlegroups.com)
-
-<h3>Virtual Infrastructure Chairs</h3>
-[Hao Fang](https://hao-fang.github.io/), Microsoft Semantic Machines <br/>
-[Sudha Rao](https://raosudha.weebly.com/), Microsoft Research, Redmond 
-
-<h3>Virtual Infrastructure Committee</h3>
-[Yi Luan](https://luanyi.github.io/), Google AI Language <br/>
-[Hamid Palangi](https://www.microsoft.com/en-us/research/people/hpalangi/), Microsoft Research, Redmond <br/>
-[Lianhui Qin](https://sites.google.com/view/lianhuiqin/home), University of Washington <br/>
-[Yizhe Zhang](http://yizhezhang.net/), Microsoft Research, Redmond 
-
-<h3>Publicity Chairs</h3>
-[Emily M. Bender](https://faculty.washington.edu/ebender/), University of Washington <br/>
-[Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/), University Düsseldorf, Germany
-
-<!--<h3>Remote Presentation Chairs</h3>
-[Hao Fang](https://hao-fang.github.io/), Microsoft Semantic Machines <br/>
-[Yi Luan](https://luanyi.github.io/), Google AI Language-->
-
-<h3>Sustainability Chair </h3>
-[Ananya Ganesh](https://ananyaganesh.github.io/), Educational Testing Service <br/>
-[Klaus Zechner](http://www.cs.cmu.edu/~zechner/klaus.html), Educational Testing Service   
-
-<h3>Student Volunteer Coordinator</h3>
-[Marjan Ghazvininejad](ghazvini@fb.com), Facebook AI Lab
-
-<h3>Website Chairs</h3>
-[Sudha Rao](https://raosudha.weebly.com/), Microsoft Research, Redmond <br/>
-[Yizhe Zhang](http://yizhezhang.net/), Microsoft Research, Redmond
-
+<h4>Process Mining</h4>
+Anna Kalenkova, The University of Melbourne<br/>
+Wil van der Aalst, RWTH Aachen University	
