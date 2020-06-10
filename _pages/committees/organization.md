@@ -7,16 +7,14 @@ sidebar:
     nav: committees 
 ---
 
-<h3>General Chair</h3>
-[Dan Jurafsky](https://web.stanford.edu/~jurafsky/), Stanford University
+<h3>Organizing committee</h3>
+[Dmitry Ignatov](https://web.stanford.edu/~jurafsky/), Higher School of Economics, Russia &ndash; AIST series Head or Organization<br/>
+[Alexander Panchenko](http://www.cse.msu.edu/~jchai/), Skolkovo Institute of Science and Technology, Russia &ndash; AIST series Head or Organization<br/>
+[Evgeny Burnaev](https://natschluter.github.io/), Skolkovo Institute of Science and Technology, Russia &ndash; AIST 2020 Local Organizing Chair<br/>
+[Irina Nikishina](https://www.cs.rochester.edu/~tetreaul/academic.html), Skolkovo Institute of Science and Technology, Russia<br/> <br/>
+[Ilya Makarov](https://www.cs.rochester.edu/~tetreaul/academic.html), Higher School of Economics, Russia<br/> <br/>
 
-<h3>Program Chairs</h3>
-[Joyce Chai](http://www.cse.msu.edu/~jchai/), University of Michigan<br/>
-[Natalie Schluter](https://natschluter.github.io/), Google Brain and IT University of Copenhagen<br/>
-[Joel Tetreault](https://www.cs.rochester.edu/~tetreaul/academic.html), Dataminr<br/> <br/>
-[Senior Program Committtee](/committees/program)
-
-<h3>Local Chairs</h3>
+<h3>Area chairs</h3>
 [Jianfeng Gao](https://www.microsoft.com/en-us/research/people/jfgao/), Microsoft Research<br/>
 Priscilla Rasmussen, ACL<br/>
 [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz), University of Washington
