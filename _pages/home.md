@@ -1,5 +1,5 @@
 ---
-title: "The 58th Annual Meeting of the Association for Computational Linguistics"
+title: "The 8th International Conference — Analysis of Images, Social networks and Texts"
 layout: splash
 permalink: /
 header:
