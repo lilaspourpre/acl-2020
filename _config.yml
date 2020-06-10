@@ -20,7 +20,7 @@ name                     : "AIST"
 description              : "Official website for the International Conference on Analysis of Images, Social Networks and Texts"
 url                      : "https://aistconf.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "acl-org/acl-2020" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "lilaspourpre/acl-2020" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logos/acl-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "AIST 2020" # overrides the website title displayed in the masthead, use " " for no title
@@ -123,6 +123,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: https://www.instagram.com/aistconference/
+    - label: "VK"
+      icon: "fab fa-fw fa-vk"
+      url: https://vk.com/aistconf
 
 
 # Reading Files
