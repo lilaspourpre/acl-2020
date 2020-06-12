@@ -13,7 +13,7 @@ toc_icon: "cog"
 Online, Russia,  
 October 15-16, 2020.
 
-Dear Colleagues,
+<h2>CALL FOR PAPERS</h2>
 
 We invite you to submit a paper to AIST-2020, a scientific conference on Analysis of Images, Social Networks, and Texts. The conference is intended for researchers and practitioners interested in data science focusing on innovative applications of data mining and machine learning techniques to image processing, analysis of social networks, text processing, and other domains, such as economics or geographic information systems.
 
