@@ -7,6 +7,7 @@ diamond:
     image_path: /assets/images/logos/skoltech.png
     alt: "Skoltech Logo"
     title: "Skoltech"
+silver:
   - url: https://www.hse.ru/
     image_path: /assets/images/logos/hse.png
     alt: "HSE Logo"
@@ -16,3 +17,5 @@ diamond:
 AIST 2020 is grateful to all its sponsors, who are listed below.
 
 {% include gallery id="diamond" class="fourth" %}
+
+{% include gallery id="silver" class="fourth" %}
