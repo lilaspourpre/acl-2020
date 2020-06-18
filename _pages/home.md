@@ -1,5 +1,5 @@
 ---
-title: "The 9th International Conference<br/> Analysis of Images, Social Networks and Texts"
+title: "The 9th International Conference on<br/> Analysis of Images, Social Networks and Texts"
 layout: splash
 permalink: /
 header:
