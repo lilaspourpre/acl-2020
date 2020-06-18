@@ -8,7 +8,7 @@ diamond:
     alt: "Skoltech Logo"
     title: "Skoltech"
   - url: https://www.hse.ru/
-    image_path: /assets/images/logos/hse.eps
+    image_path: /assets/images/logos/hse.png
     alt: "HSE Logo"
     title: "HSE"
 ---
