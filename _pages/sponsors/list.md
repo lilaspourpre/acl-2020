@@ -2,9 +2,6 @@
 title: "List of Sponsors"
 layout: single
 permalink: /sponsors/list/
-toc: true
-toc_sticky: true
-toc_label: "&nbsp;Sponsorship Tier"
 diamond:
   - url: https://www.skoltech.ru/
     image_path: /assets/images/logos/skoltech.png
