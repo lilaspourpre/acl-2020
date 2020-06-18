@@ -2,8 +2,6 @@
 title: 
 layout: single
 permalink: /calls/papers/
-sidebar: 
-    nav: "calls"
 toc: true
 toc_sticky: true
 toc_icon: "cog"
@@ -13,13 +11,13 @@ toc_icon: "cog"
 Online, Russia,  
 October 15-16, 2020.
 
-<h2>CALL FOR PAPERS</h2>
+## CALL FOR PAPERS
 
 We invite you to submit a paper to AIST-2020, a scientific conference on Analysis of Images, Social Networks, and Texts. The conference is intended for researchers and practitioners interested in data science focusing on innovative applications of data mining and machine learning techniques to image processing, analysis of social networks, text processing, and other domains, such as economics or geographic information systems.
 
 The previous conferences in 2012-2019 attracted a significant number of students, researchers, academics, and engineers working on the analysis of images, texts, and social networks. The broad scope of AIST makes it an event where researchers from different domains, exploiting various data analysis techniques, can meet and exchange ideas. The conference allows specialists from different fields to meet each other, present their work, and discuss both theoretical and practical aspects of their data analysis problems.
 
-<h2>Past Conferences</h2>
+## Past Conferences
 
 Similar to the previous years, the conference proceedings will be published in the Springer’s in Lecture Notes in Computer Science (LNCS) series. You can take a look at the proceedings of the last three years to get an idea about what kind of papers are accepted and what kind of topics are discussed at the conference:
 
@@ -30,7 +28,7 @@ Similar to the previous years, the conference proceedings will be published in t
 - AIST 2015: [Springer Communications in Computer and Information Science (CCIS) vol. 542](http://www.springer.com/en/book/9783319261225)
 - AIST 2014: [Springer Communications in Computer and Information Science (CCIS) vol. 436](http://www.springer.com/en/book/9783319125794)
 
-<h2>Tracks</h2>
+## Tracks
 
 The conference will feature six tracks:
 
