@@ -40,4 +40,5 @@ Panos Pardalos, University of Venice, Italy
 
 <h4>Process Mining</h4>
 Anna Kalenkova, The University of Melbourne<br/>
-Wil van der Aalst, RWTH Aachen University	
+Wil van der Aalst, RWTH Aachen University<br/>
+Irina Lomazova, National Research University Higher School of Economics
