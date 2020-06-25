@@ -22,8 +22,7 @@ Sergei O. Kuznetsov, National Research University Higher School of Economics
 
 <h4>Computer Vision</h4>
 Marcello Pelillo, University of Venice, Italy<br/>
-Andrey Savchenko, Higher School of Economics, Russia<br/>
-Evgeny Burnaev, Skolkovo Institute of Science and Technology, Russia
+Andrey Savchenko, Higher School of Economics, Russia
 
 <h4>Natural Language Processing</h4>
 Natalia Loukachevitch, Research Computing Center of Moscow State University<br/>
