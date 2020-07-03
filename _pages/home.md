@@ -15,7 +15,7 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
-**July 1, 2020**. Abstract submission deadline is extended until July 7.
+**July 1, 2020**. Abstract submission deadline is extended until July 8.
 {: .notice--info} 
 
 **May 29, 2020**. Check the [Call for Papers](/calls/papers) page for submission guidelines.
