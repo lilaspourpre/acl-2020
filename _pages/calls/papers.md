@@ -65,7 +65,7 @@ The list of topics relevant to these tracks is including but is not limited to:
     <tbody>
         <tr>
             <td>Abstract deadline</td>
-            <td>July 1, 2020</td>
+            <td>July 8, 2020</td>
         </tr>
         <tr>
             <td>Submission deadline</td>
