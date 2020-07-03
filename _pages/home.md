@@ -8,7 +8,7 @@ excerpt: "<br/><br/>"
 ---
 <div class="text-center">
     <span style="font-weight: bold; font-size: smaller;">
-    Abstract deadline : <strike>July 1</strike> July 7<br/>&nbsp;Submission deadline : July 15<br/>&nbsp;Notification of acceptance : September 15<br/>&nbsp;Camera-ready version : October 1<br/>&nbsp;Conference : October 15 &ndash; October 16</span>
+    Abstract deadline : <strike>July 1</strike> July 8<br/>&nbsp;Submission deadline : July 15<br/>&nbsp;Notification of acceptance : September 15<br/>&nbsp;Camera-ready version : October 1<br/>&nbsp;Conference : October 15 &ndash; October 16</span>
     <br/><br/>       
     <a href="https://" target="_blank" class="btn btn--primary">Registration will be open soon</a>
 </div>
