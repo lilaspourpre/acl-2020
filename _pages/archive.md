@@ -7,6 +7,9 @@ toc: false
 toc_icon: "cog"
 ---
 
+**July 14, 2020**. Paper submission deadline is postponed until July 22.
+{: .notice--info}
+
 **July 1, 2020**. Abstract submission deadline is extended until July 8.
 {: .notice--info} 
 
