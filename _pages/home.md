@@ -8,14 +8,14 @@ excerpt: "<br/><br/>"
 ---
 <div class="text-center">
     <span style="font-weight: bold; font-size: smaller;">
-    Abstract deadline : <strike>July 1</strike> July 8<br/>&nbsp;Submission deadline : <strike>July 15</strike><br/> July 22&nbsp;Notification of acceptance : September 15<br/>&nbsp;Camera-ready version : October 1<br/>&nbsp;Conference : October 15 &ndash; October 16</span>
+    Abstract deadline : <strike>July 1</strike> July 8<br/>&nbsp;Submission deadline : <strike>July 15</strike> July 22<br/>&nbsp;Notification of acceptance : September 15<br/>&nbsp;Camera-ready version : October 1<br/>&nbsp;Conference : October 15 &ndash; October 16</span>
     <br/><br/>       
     <a href="https://" target="_blank" class="btn btn--primary">Registration will be open soon</a>
 </div>
 
 <h2>News</h2>
 
-**July 14, 2020**. Abstract submission deadline is postponed until July 22.
+**July 14, 2020**. Paper submission deadline is postponed until July 22.
 {: .notice--info}
 
 **July 1, 2020**. Abstract submission deadline is extended until July 8.
