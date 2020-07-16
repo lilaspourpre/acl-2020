@@ -7,9 +7,7 @@ sidebar:
     nav: committees 
 ---
 
-<h3>Program Committee</h3>
-
-<h4>Data Analysis and Machine Learning</h4>
+<h3>Data Analysis and Machine Learning</h3>
 Jaume Baixeries, Universitat Politècnica de Catalunya, Spain<br/>
 Malay Bhattacharyya, Indian Statistical Institute, Kolkata, India<br/>
 Evgeny Burnaev, Skolkovo Institute of Science and Technology, Russia<br/>
@@ -23,7 +21,7 @@ Andrey Savchenko, National Research University Higher School of Economics, Russi
 Henry Soldano, Laboratoire d'Informatique de Paris Nord, France<br/>
 Christos Tryfonopoulos, University of Peloponnese, Greece
 
-<h4>Computer Vision</h4>
+<h3>Computer Vision</h3>
 Vladimir Arlazarov, Smart Engines Ltd, Federal Research Center “Computer Science and Control” of Russian Academy of Sciences, Russia<br/>
 Aleksey Artamonov, Neuromation, Russia<br/>
 Alexey, Chernyavskiy, Philips Innovation Labs Russia, Russia<br/>
@@ -52,7 +50,7 @@ Vadim Strijov, Moscow Institute of Physics and Technology, Russia<br/>
 Dmitry Yashunin, Harman, Russia
 
 
-<h4>Natural Language Processing</h4>
+<h3>Natural Language Processing</h3>
 Anton Alekseev, St. Petersburg Department of V.A.Steklov Institute of Mathematics of the Russian Academy of Sciences, Russia<br/>
 Ilseyar Alimova, Kazan Federal University, Russia<br/>
 Ekaterina Artemova, NRU HSE, Russia<br/>
@@ -87,7 +85,7 @@ Alexey Sorokin, Moscow State University, Russia<br/>
 Irina Temnikova, Qatar Computing Research Institute, Qatar<br/>
 Ekaterina Vylomova, The University of Melbourne, Australia
 
-<h4>Social Network Analysis</h4>
+<h3>Social Network Analysis</h3>
 Ilia Karpov, National Research University Higher School of Economics, Russia<br/>
 Gregory Khvatsky, National Research University Higher School of Economics, Russia<br/>
 Sergei Koltcov, National Research University Higher School of Economics, Russia<br/>
@@ -96,7 +94,7 @@ Ekaterina Krekhovets, National Research University Higher School of Economics, R
 Andrey Sozykin, Krasovskii Institute of Mathematics and Mechanics, Russia<br/>
 Dmitry Zaytsev, Higher School of Economics, Russia
 
-<h4>Theoretical Machine Learning and Optimization</h4>
+<h3>Theoretical Machine Learning and Optimization</h3>
 Alexander, Kazakov, Matrosov Institute for System Dynamics and Control Theory SB RAS, Russia<br/>
 Michael, Khachay, Krasovsky Institute of Mathematics and Mechanics, Russia<br/>
 Vladimir, Khandeev, Sobolev Institute of Mathematics, Siberian Branch of the Russian Academy of Sciences, Russia<br/>
@@ -105,7 +103,7 @@ Bertrand M.T., Lin, National Chiao Tung University, Taiwan<br/>
 Mikhail, Posypkin, Dorodnicyn Computing Centre, FRC CSC RAS, Russia<br/>
 Artem, Pyatkin, Novosibirsk State University; Sobolev Institute of Mathematics, Russia
 
-<h4>Process Mining</h4>
+<h3>Process Mining</h3>
 Massimiliano de Leoni, Department of Mathematics - University of Padua, Italy<br/>
 Alexey A. Mitsyuk, HSE, Russia<br/>
 Sergey Shershakov, Higher School of Economics, Russia
