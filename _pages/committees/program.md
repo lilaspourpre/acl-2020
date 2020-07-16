@@ -85,18 +85,27 @@ Eugen Ruppert, Universität Hamburg / base.camp, Germany<br/>
 Andrey Shcherbakov, Intel, Australia<br/>
 Alexey Sorokin, Moscow State University, Russia<br/>
 Irina Temnikova, Qatar Computing Research Institute, Qatar<br/>
-Ekaterina Vylomova, The University of Melbourne, Australia<br/>
+Ekaterina Vylomova, The University of Melbourne, Australia
 
 <h4>Social Network Analysis</h4>
-Vladimir Batagelj, University of Ljubljana, Slovenia<br/>
-Olessia Koltsova, Higher School of Economics, Russia
+Ilia Karpov, National Research University Higher School of Economics, Russia<br/>
+Gregory Khvatsky, National Research University Higher School of Economics, Russia<br/>
+Sergei Koltcov, National Research University Higher School of Economics, Russia<br/>
+Evgeny Komotskiy, Ural Federal University, Russia<br/>
+Ekaterina Krekhovets, National Research University Higher School of Economics, Russia<br/>
+Andrey Sozykin, Krasovskii Institute of Mathematics and Mechanics, Russia<br/>
+Dmitry Zaytsev, Higher School of Economics, Russia
 
 <h4>Theoretical Machine Learning and Optimization</h4>
-Michael Khachay, Krasovsky Institute of Mathematics and Mechanics, Russia<br/>
-Panos Pardalos, University of Venice, Italy
+Alexander, Kazakov, Matrosov Institute for System Dynamics and Control Theory SB RAS, Russia<br/>
+Michael, Khachay, Krasovsky Institute of Mathematics and Mechanics, Russia<br/>
+Vladimir, Khandeev, Sobolev Institute of Mathematics, Siberian Branch of the Russian Academy of Sciences, Russia<br/>
+Donghyun, Kim, Georgia State University, United States<br/>
+Bertrand M.T., Lin, National Chiao Tung University, Taiwan<br/>
+Mikhail, Posypkin, Dorodnicyn Computing Centre, FRC CSC RAS, Russia<br/>
+Artem, Pyatkin, Novosibirsk State University; Sobolev Institute of Mathematics, Russia
 
 <h4>Process Mining</h4>
-Anna Kalenkova, The University of Melbourne<br/>
-Wil van der Aalst, RWTH Aachen University<br/>
-Irina Lomazova, National Research University Higher School of Economics
-
+Massimiliano de Leoni, Department of Mathematics - University of Padua, Italy<br/>
+Alexey A. Mitsyuk, HSE, Russia<br/>
+Sergey Shershakov, Higher School of Economics, Russia
