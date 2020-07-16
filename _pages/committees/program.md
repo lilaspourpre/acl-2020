@@ -53,9 +53,39 @@ Dmitry Yashunin, Harman, Russia
 
 
 <h4>Natural Language Processing</h4>
-Natalia Loukachevitch, Research Computing Center of Moscow State University<br/>
-Andrey Kutuzov, University of Oslo<br/>
-Elena Tutubalina, Kazan Federal University
+Anton Alekseev, St. Petersburg Department of V.A.Steklov Institute of Mathematics of the Russian Academy of Sciences, Russia<br/>
+Ilseyar Alimova, Kazan Federal University, Russia<br/>
+Ekaterina Artemova, NRU HSE, Russia<br/>
+Amir Bakarov, National Research University Higher School of Economics, Russia<br/>
+Elena Bolshakova, Moscow State Lomonosov University, Russia<br/>
+Mikhail Chernoskutov, IMM UB RAS, UrFU, Russia<br/>
+Boris Dobrov, Recearch Computing Center of Moscow State Univ., Russia<br/>
+Aleksandr Drozd, Tokyo Institure of Technology, Japan<br/>
+Dmitry Granovsky, Yandex, Russia<br/>
+Dmitry Ilvovsky, National Research University Higher School of Economics, Russia<br/>
+Max Ionov, Goethe University Frankfurt / Moscow State University, Germany<br/>
+Vladimir Ivanov, Innopolis University, Russia<br/>
+Egor Kashkin, V. V. Vinogradov Russian Language Institute of RAS, Russia<br/>
+Denis Kirjanov, NRU HSE, Russia<br/>
+Mikhail Korobov, ScrapingHub Inc., Russia<br/>
+Evgeny Kotelnikov, Vyatka State University, Russia<br/>
+Tomas Krilavicius, Professor, Informatics faculty, Vytautas Magnus University, Lithuania<br/>
+Konstantin Lopukhin, CHTD, Russia<br/>
+Alexey Malafeev, National Research University Higher School of Economics, Russia<br/>
+Valentin Malykh, ISA RAS, Russia<br/>
+Tristan Miller, Austrian Research Institute for Artificial Intelligence, Austria<br/>
+Olga Mitrofanova, St. Petersburg State University, Russia<br/>
+Kirill Nikolaev, National Research University Higher School of Economics, Russia<br/>
+Damien Nouvel, INaLCO, France<br/>
+Georgios Petasis, NCSR "Demokritos", Greece<br/>
+Vladimir Pleshko, RCO, Russia<br/>
+Vinit Ravishankar, University of Oslo, Norway<br/>
+Yuliya Rubtsova, The A.P. Ershov Institute of Informatics Systems (IIS), Siberian Branch of the Russian, Russia<br/>
+Eugen Ruppert, Universität Hamburg / base.camp, Germany<br/>
+Andrey Shcherbakov, Intel, Australia<br/>
+Alexey Sorokin, Moscow State University, Russia<br/>
+Irina Temnikova, Qatar Computing Research Institute, Qatar<br/>
+Ekaterina Vylomova, The University of Melbourne, Australia<br/>
 
 <h4>Social Network Analysis</h4>
 Vladimir Batagelj, University of Ljubljana, Slovenia<br/>
