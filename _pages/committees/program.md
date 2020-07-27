@@ -8,18 +8,18 @@ sidebar:
 ---
 
 <h3>Data Analysis and Machine Learning</h3>
-Jaume Baixeries, Universitat Politècnica de Catalunya, Spain<br/>
-Malay Bhattacharyya, Indian Statistical Institute, Kolkata, India<br/>
-Evgeny Burnaev, Skolkovo Institute of Science and Technology, Russia<br/>
-Jan Konecny, Dept. Computer Science, Palacky University, Olomouc, Czechia<br/>
-Florence Le Ber, icube, France<br/>
-Alexander Lepskiy, National Research University Higher School of Economics, Russia<br/>
-Ilya Makarov, National Research University Higher School of Economics, Russia<br/>
-Tatiana Makhalova, National Research University Higher School of Economics; LORIA-INRIA, Russia<br/>
-Nizar Messai, LI - Université François Rabelais Tours, France<br/>
-Andrey Savchenko, National Research University Higher School of Economics, Russia<br/>
-Henry Soldano, Laboratoire d'Informatique de Paris Nord, France<br/>
-Christos Tryfonopoulos, University of Peloponnese, Greece
+- Jaume Baixeries, Universitat Politècnica de Catalunya, Spain<br/>
+- Malay Bhattacharyya, Indian Statistical Institute, Kolkata, India<br/>
+- Evgeny Burnaev, Skolkovo Institute of Science and Technology, Russia<br/>
+- Jan Konecny, Dept. Computer Science, Palacky University, Olomouc, Czechia<br/>
+- Florence Le Ber, icube, France<br/>
+- Alexander Lepskiy, National Research University Higher School of Economics, Russia<br/>
+- Ilya Makarov, National Research University Higher School of Economics, Russia<br/>
+- Tatiana Makhalova, National Research University Higher School of Economics; LORIA-INRIA, Russia<br/>
+- Nizar Messai, LI - Université François Rabelais Tours, France<br/>
+- Andrey Savchenko, National Research University Higher School of Economics, Russia<br/>
+- Henry Soldano, Laboratoire d'Informatique de Paris Nord, France<br/>
+- Christos Tryfonopoulos, University of Peloponnese, Greece
 
 <h3>Computer Vision</h3>
 Vladimir Arlazarov, Smart Engines Ltd, Federal Research Center “Computer Science and Control” of Russian Academy of Sciences, Russia<br/>
