@@ -36,3 +36,15 @@ excerpt: "<br/><br/>"
 The 9th International Conference — Analysis of Images, Social Networks and Texts — will take place online from <b>October 15th through October 16th, 2020</b>.
 
 The world of Data Science changes every year. At AIST, we exchange our understanding of the Science state-of-the-art, as well as how it applies to life and business. AIST is regularly held since 2012.
+
+
+<h2>Publication</h2>
+
+<figure>
+  <a href="https://www.springer.com"><img src="/assets/images/springer.png"></a>
+</figure>
+</br></br>
+
+AIST-2020 proceedings will be published in Springer <a href="https://www.springer.com/series/558">LNCS</a>.
+
+The companion volume will be published in the satellite series [CCIS](https://www.springer.com/series/7899).
