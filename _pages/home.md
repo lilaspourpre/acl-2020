@@ -15,6 +15,9 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**August 21, 2020**. Publication of the AIST 2020 proceedings in the [Lecture Notes in Computer Science Series](https://www.springer.com/series/558) and [Communications in Computer and Information Science](http://www.springer.com/series/7899) is confirmed.
+{: .notice--info}
+
 **July 14, 2020**. Paper submission deadline is postponed until July 22.
 {: .notice--info}
 
