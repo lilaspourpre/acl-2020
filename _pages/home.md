@@ -43,7 +43,7 @@ The world of Data Science changes every year. At AIST, we exchange our understan
 <figure>
   <a href="https://www.springer.com"><img src="/assets/images/springer.png"></a>
 </figure>
-</br></br>
+
 
 AIST-2020 proceedings will be published in Springer <a href="https://www.springer.com/series/558">LNCS</a>.
 
