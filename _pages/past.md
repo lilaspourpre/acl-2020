@@ -17,10 +17,7 @@ sidebar:
         <tr>
             <td style="width: 30%;">
                 <figure>
-                    <img src="/assets/images/978-3-030-37334-4.jpg" style="width: 30%;">
-                </figure> 
-                <figure>
-                    <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-030-39575-9" style="width: 30%;">
+                    <img src="/assets/images/978-3-030-37334-4.jpg" style="width: 30%;"> <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-030-39575-9" style="width: 30%;">
                 </figure>
             </td>
             <td style="width: 30%;"><center>2019</center></td>
