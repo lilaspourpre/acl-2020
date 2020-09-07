@@ -6,10 +6,6 @@ sidebar:
     nav: past 
 ---
 
-<figure>
-    <img src="/assets/images/978-3-030-37334-4.jpg" width=100>
-</figure> 
-
 <center>
 <table style="width: 97%">
     <tbody>
@@ -21,7 +17,10 @@ sidebar:
         <tr>
             <td style="width: 40%;">
                 <figure>
-                    <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-030-39575-9" alt="ccis" width=100>
+                    <img src="/assets/images/978-3-030-37334-4.jpg">
+                </figure> 
+                <figure>
+                    <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-030-39575-9">
                 </figure>
             </td>
             <td style="width: 30%;">2019</td>
