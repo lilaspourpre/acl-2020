@@ -6,6 +6,8 @@ sidebar:
     nav: past 
 ---
 
+## Proceedings
+
 <center>
 <table style="width: 70%">
     <tbody>
