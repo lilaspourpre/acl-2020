@@ -17,7 +17,7 @@ sidebar:
         <tr>
             <td style="width: 40%;">
                 <figure>
-                    <img src="/assets/images/978-3-030-37334-4.jpg">
+                    <img src="/assets/images/978-3-030-37334-4.jpg">{:width="50"}
                 </figure> 
                 <figure>
                     <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-030-39575-9">
