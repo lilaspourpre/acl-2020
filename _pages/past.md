@@ -15,7 +15,7 @@ sidebar:
             <td>Proceedings</td>
         </tr>
         <tr>
-            <td style="width: 40%;"><img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-030-37334-4" width=100></img> <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-030-39575-9" width=100></img></td>
+            <td style="width: 40%;"><img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-030-37334-4" width=100 /> <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-030-39575-9" width=100 /></td>
             <td style="width: 30%;">2019</td>
             <td><a href="https://link.springer.com/book/10.1007/978-3-030-37334-4">LNCS</a>, <a href="https://link.springer.com/book/10.1007/978-3-030-39575-9">CCIS</a></td>
         </tr>
