@@ -6,7 +6,7 @@ sidebar:
     nav: past 
 ---
 
-
+<figure><img src="../assets/images/978-3-030-37334-4.jpg" alt="lncs" width=100></figure> <figure><img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-030-39575-9" alt="ccis" width=100></figure>
 <center>
 <table style="width: 97%">
     <tbody>
