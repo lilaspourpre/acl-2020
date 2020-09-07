@@ -17,10 +17,10 @@ sidebar:
         <tr>
             <td style="width: 40%;">
                 <figure>
-                    <img src="/assets/images/978-3-030-37334-4.jpg" height="50px">
+                    <img src="/assets/images/978-3-030-37334-4.jpg">
                 </figure> 
                 <figure>
-                    <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-030-39575-9"  width="50">
+                    <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-030-39575-9">
                 </figure>
             </td>
             <td style="width: 30%;"><center>2019</center></td>
@@ -29,7 +29,7 @@ sidebar:
         <tr>
             <td style="width: 40%;">
                 <figure>
-                    <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-030-11027-7"  width="50">
+                    <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-030-11027-7">
                 </figure>
             </td>
             <td style="width: 30%;"><center>2018</center></td>
@@ -38,7 +38,7 @@ sidebar:
         <tr>
             <td style="width: 40%;">
                 <figure>
-                    <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-319-73013-4"  width="50">
+                    <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-319-73013-4">
                 </figure>
             </td>
             <td style="width: 30%;"><center>2017</center></td>
@@ -47,7 +47,7 @@ sidebar:
         <tr>
             <td>
                 <figure>
-                    <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-319-52920-2"  width="50">
+                    <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-319-52920-2">
                 </figure>
             </td>
             <td><center>2016</center></td>
@@ -56,7 +56,7 @@ sidebar:
         <tr>
           <td>
             <figure>
-                <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-319-26123-2"  width="50">
+                <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-319-26123-2">
             </figure>
           </td>
           <td><center>2015</center></td>
@@ -65,7 +65,7 @@ sidebar:
         <tr>
             <td>
               <figure>
-                  <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-319-12580-0"  width="50">
+                  <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-319-12580-0">
                </figure>
             </td>
             <td><center>2014</center></td>
