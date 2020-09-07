@@ -9,7 +9,7 @@ sidebar:
 # Proceedings
 
 <center>
-<table style="width: 70%">
+<table style="width: 80%">
     <tbody>
         <tr>
             <td style="width: 30%;"></td>
