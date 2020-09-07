@@ -7,7 +7,7 @@ sidebar:
 ---
 
 <figure>
-  <a href="https://www.springer.com"><img src="/assets/images/978-3-030-37334-4.jpg"></a>
+  <img src="/assets/images/978-3-030-37334-4.jpg">
 </figure>
 
 <center>
