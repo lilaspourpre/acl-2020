@@ -7,7 +7,7 @@ sidebar:
 ---
 
 <figure>
-  <a href="https://www.springer.com"><img src="/assets/images/springer.png"></a>
+  <a href="https://www.springer.com"><img src="/assets/images/978-3-030-37334-4.jpg"></a>
 </figure>
 
 <center>
@@ -19,7 +19,7 @@ sidebar:
             <td>Proceedings</td>
         </tr>
         <tr>
-            <td style="width: 40%;"> <figure><img src="../assets/images/978-3-030-37334-4.jpg" alt="lncs" width=100></figure> <figure><img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-030-39575-9" alt="ccis" width=100></figure></td>
+            <td style="width: 40%;"> <figure><img src="/assets/images/978-3-030-37334-4.jpg" alt="lncs" width=100></figure> <figure><img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-030-39575-9" alt="ccis" width=100></figure></td>
             <td style="width: 30%;">2019</td>
             <td><a href="https://link.springer.com/book/10.1007/978-3-030-37334-4">LNCS</a>, <a href="https://link.springer.com/book/10.1007/978-3-030-39575-9">CCIS</a></td>
         </tr>
