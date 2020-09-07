@@ -11,7 +11,7 @@ sidebar:
     <tbody>
         <tr>
             <td style="width: 40%;"></td>
-            <td style="width: 30%;">Year</td>
+            <td style="width: 30%;"><center>Year</center></td>
             <td>Proceedings</td>
         </tr>
         <tr>
@@ -23,7 +23,7 @@ sidebar:
                     <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-030-39575-9"  width="50">
                 </figure>
             </td>
-            <td style="width: 30%;">2019</td>
+            <td style="width: 30%;"><center>2019</center></td>
             <td><a href="https://link.springer.com/book/10.1007/978-3-030-37334-4">LNCS</a>, <a href="https://link.springer.com/book/10.1007/978-3-030-39575-9">CCIS</a></td>
         </tr>
         <tr>
@@ -41,7 +41,7 @@ sidebar:
                     <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-319-73013-4"  width="50">
                 </figure>
             </td>
-            <td style="width: 30%;">2017</td>
+            <td style="width: 30%;"><center>2017</center></td>
             <td><a href="https://link.springer.com/book/10.1007/978-3-319-73013-4">LNCS</a></td>
         </tr>
         <tr>
@@ -50,7 +50,7 @@ sidebar:
                     <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-319-52920-2"  width="50">
                 </figure>
             </td>
-            <td>2016</td>
+            <td><center>2016</center></td>
             <td><a href="https://link.springer.com/book/10.1007/978-3-319-52920-2">CCIS</a></td>
         </tr>
         <tr>
@@ -59,7 +59,7 @@ sidebar:
                 <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-319-26123-2"  width="50">
             </figure>
           </td>
-          <td>2015</td>
+          <td><center>2015</center></td>
           <td><a href="https://link.springer.com/book/10.1007/978-3-319-26123-2">CCIS</a></td>
         </tr>
         <tr>
@@ -68,7 +68,7 @@ sidebar:
                   <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-319-12580-0"  width="50">
                </figure>
             </td>
-            <td>2014</td>
+            <td><center>2014</center></td>
             <td><a href="https://link.springer.com/book/10.1007/978-3-319-12580-0">CCIS</a></td>
         </tr>         
 </tbody>
