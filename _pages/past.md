@@ -32,7 +32,7 @@ sidebar:
                     <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-030-11027-7"  width="50">
                 </figure>
             </td>
-            <td style="width: 30%;">2018</td>
+            <td style="width: 30%;"><center>2018</center></td>
             <td><a href="https://link.springer.com/book/10.1007/978-3-030-11027-7">LNCS</a></td>
         </tr>
         <tr>
