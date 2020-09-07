@@ -6,6 +6,7 @@ sidebar:
     nav: past 
 ---
 
+<img src="../assets/images/978-3-030-37334-4.jpg" alt="lncs" width=100 />
 <center>
 <table style="width: 97%">
     <tbody>
