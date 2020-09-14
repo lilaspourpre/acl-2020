@@ -28,7 +28,7 @@ sidebar:
         <tr>
             <td style="width: 30%;">
                 <figure>
-                    <a href="https://link.springer.com/book/10.1007/978-3-030-11027-7"><img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-030-11027-7">/a>
+                    <a href="https://link.springer.com/book/10.1007/978-3-030-11027-7"><img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-030-11027-7"></a>
                 </figure>
             </td>
             <td style="width: 60%;"><center>7th International Conference,<br><b>AIST 2018</b>,<br>Moscow, Russia<br>July 5–7, 2018</center></td>
