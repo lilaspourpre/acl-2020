@@ -19,31 +19,31 @@ to be published soon
 
 ## Computer Vision
 
-<i>Deep Learning on Point Clouds for False Positive Reduction at Nodule Detection in Chest CT Scans</i><br/>
-Ivan Drokin and Elena Ericheva
+Deep Learning on Point Clouds for False Positive Reduction at Nodule Detection in Chest CT Scans<br/>
+<i>Ivan Drokin and Elena Ericheva</i>
 
-<i>Semi-Automatic Manga Colorization using Conditional Adversarial Networks</i><br/>
-Maksim Golyadkin and Ilya Makarov
+Semi-Automatic Manga Colorization using Conditional Adversarial Networks<br/>
+<i>Maksim Golyadkin and Ilya Makarov</i>
 
-<i>Automated Image and Video Quality Assessment for Computational Video Editing</i><br/>
-Konstantin Lomotin and Ilya Makarov
+Automated Image and Video Quality Assessment for Computational Video Editing<br/>
+<i>Konstantin Lomotin and Ilya Makarov</i>
 
-<i>Identifying user interests and habits using object detec- tion and semantic segmentation models</i><br/>
-Petr Gladilin and Valeria Volokha
+Identifying user interests and habits using object detec- tion and semantic segmentation models<br/>
+<i>Petr Gladilin and Valeria Volokha</i>
 
 ---------------------------------------------
 
-<i><b>Efficient Group-based Cohesion Prediction in Images using Facial Descriptors</b></i><br/>
-Ilya Gavrikov and Andrey Savchenko
+Efficient Group-based Cohesion Prediction in Images using Facial Descriptors<br/>
+<i>Ilya Gavrikov and Andrey Savchenko</i>
 
-<i><b>Automatic Grading of Knee Osteoarthritis from Plain Radiographs using Densely Connected Convolutional Networks</b></i><br/>
-Alexey Mikhaylichenko and Yana Demyanenko
+Automatic Grading of Knee Osteoarthritis from Plain Radiographs using Densely Connected Convolutional Networks<br/>
+<i>Alexey Mikhaylichenko and Yana Demyanenko</i>
 
-<i><b>A Novel Approach to Measurement of the Transverse Velocity of the Large-Scale Objects</b></i><br/>
-Ivan Goncharov, Alexey Mikhaylichenko and Anatoly Kleschenkov
+A Novel Approach to Measurement of the Transverse Velocity of the Large-Scale Objects<br/>
+<i>Ivan Goncharov, Alexey Mikhaylichenko and Anatoly Kleschenkov</i>
 
-<i><b>Unsupervised training denoising networks</b></i><br/>
-Alexey Kovalenko and Yana Demyanenko
+Unsupervised training denoising networks<br/>
+<i>Alexey Kovalenko and Yana Demyanenko</i>
 
 ## Natural Language Processing
 
