@@ -15,6 +15,9 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**September 15, 2020**. List of papers accepted to the main conference can be found [here](/program/accepted/).
+{: .notice--info}
+
 **August 21, 2020**. Publication of the AIST 2020 proceedings in the [Lecture Notes in Computer Science Series](https://www.springer.com/series/558) and [Communications in Computer and Information Science](http://www.springer.com/series/7899) is confirmed.
 {: .notice--info}
 
