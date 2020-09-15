@@ -19,7 +19,7 @@ to be published soon
 
 ## Computer Vision
 
-<b>Deep Learning on Point Clouds for False Positive Reduction at Nodule Detection in Chest CT Scans</b><br/>
+<i>Deep Learning on Point Clouds for False Positive Reduction at Nodule Detection in Chest CT Scans</i><br/>
 Ivan Drokin and Elena Ericheva
 
 <b>Semi-Automatic Manga Colorization using Conditional Adversarial Networks</b><br/>
