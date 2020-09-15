@@ -11,7 +11,7 @@ toc_sticky: true
 ---
 
 Note that the titles/authors may change and papers may be withdrawn. 
-For the final titles/authors, please refer to the proceedings on the anthology when they are out.
+For the final titles/authors, please refer to the proceedings when they are out.
 
 ## Data Analysis and Machine Learning
 
