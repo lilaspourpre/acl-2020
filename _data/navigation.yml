@@ -7,8 +7,8 @@ main:
   # - title: "LiveCaptions"
   #   url: /captions/
 
-#   - title: "Program"
-#     url: /program/keynotes/
+  - title: "Program"
+    url: /program/accepted/
 
 #   - title: "Blog"
 #     url: /blog
@@ -60,12 +60,6 @@ authors:
 program:
    - title: Program Details
      children:
-       - title: "Keynote Speakers"
-         url: /program/keynotes/
-       - title: "Tutorials"
-         url: /program/tutorials/
-       - title: "Workshops"
-         url: /program/workshops/
        - title: "Accepted Papers"
          url: /program/accepted/
 
