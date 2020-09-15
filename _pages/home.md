@@ -24,12 +24,6 @@ excerpt: "<br/><br/>"
 **July 14, 2020**. Paper submission deadline is postponed until July 22.
 {: .notice--info}
 
-**July 1, 2020**. Abstract submission deadline is extended until July 8.
-{: .notice--info} 
-
-**May 29, 2020**. Check the [Call for Papers](/calls/papers) page for submission guidelines.
-{: .notice--info} 
-
 <div class="text-center">
     <a href="/archive/" style="font-size: smaller; font-decoration: italic;">Older News</a>
 </div>
