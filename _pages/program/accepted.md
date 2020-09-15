@@ -15,56 +15,53 @@ For the final titles/authors, please refer to the proceedings on the anthology w
 
 ## Data Analysis and Machine Learning
 
-<b>Adversarial NLI: A New Benchmark for Natural Language Understanding</b><br/>
-Yixin Nie, Adina Williams, Emily Dinan, Mohit Bansal, Jason Weston and Douwe Kiela
-
-<b>Agreement Prediction of Arguments in Cyber Argumentation for Detecting Stance Polarity and Intensity</b><br/>
-Joseph Sirrianni, Xiaoqing Liu and Douglas Adams
-
+to be published soon
 
 ## Computer Vision
 
-<b>Adversarial NLI: A New Benchmark for Natural Language Understanding</b><br/>
-Yixin Nie, Adina Williams, Emily Dinan, Mohit Bansal, Jason Weston and Douwe Kiela
+<b>Deep Learning on Point Clouds for False Positive Reduction at Nodule Detection in Chest CT Scans</b><br/>
+Ivan Drokin and Elena Ericheva
 
-<b>Agreement Prediction of Arguments in Cyber Argumentation for Detecting Stance Polarity and Intensity</b><br/>
-Joseph Sirrianni, Xiaoqing Liu and Douglas Adams
+<b>Semi-Automatic Manga Colorization using Conditional Adversarial Networks</b><br/>
+Maksim Golyadkin and Ilya Makarov
 
+<b>Automated Image and Video Quality Assessment for Computational Video Editing</b><br/>
+Konstantin Lomotin and Ilya Makarov
+
+<b>Identifying user interests and habits using object detec- tion and semantic segmentation models</b><br/>
+Petr Gladilin and Valeria Volokha
+
+---------------------------------------------
+
+<b>Efficient Group-based Cohesion Prediction in Images using Facial Descriptors</b><br/>
+Ilya Gavrikov and Andrey Savchenko
+
+<b>Automatic Grading of Knee Osteoarthritis from Plain Radiographs using Densely Connected Convolutional Networks</b><br/>
+Alexey Mikhaylichenko and Yana Demyanenko
+
+<b>A Novel Approach to Measurement of the Transverse Velocity of the Large-Scale Objects</b><br/>
+Ivan Goncharov, Alexey Mikhaylichenko and Anatoly Kleschenkov
+
+<b>Unsupervised training denoising networks</b><br/>
+Alexey Kovalenko and Yana Demyanenko
 
 ## Natural Language Processing
 
-<b>Adversarial NLI: A New Benchmark for Natural Language Understanding</b><br/>
-Yixin Nie, Adina Williams, Emily Dinan, Mohit Bansal, Jason Weston and Douwe Kiela
-
-<b>Agreement Prediction of Arguments in Cyber Argumentation for Detecting Stance Polarity and Intensity</b><br/>
-Joseph Sirrianni, Xiaoqing Liu and Douglas Adams
+to be published soon
 
 
 ## Social Network Analysis
 
-<b>Adversarial NLI: A New Benchmark for Natural Language Understanding</b><br/>
-Yixin Nie, Adina Williams, Emily Dinan, Mohit Bansal, Jason Weston and Douwe Kiela
-
-<b>Agreement Prediction of Arguments in Cyber Argumentation for Detecting Stance Polarity and Intensity</b><br/>
-Joseph Sirrianni, Xiaoqing Liu and Douglas Adams
-
+to be published soon
 
 ## Theoretical Machine Learning and Optimization
 
-<b>Adversarial NLI: A New Benchmark for Natural Language Understanding</b><br/>
-Yixin Nie, Adina Williams, Emily Dinan, Mohit Bansal, Jason Weston and Douwe Kiela
-
-<b>Agreement Prediction of Arguments in Cyber Argumentation for Detecting Stance Polarity and Intensity</b><br/>
-Joseph Sirrianni, Xiaoqing Liu and Douglas Adams
+to be published soon
 
 
 ## Process Mining
 
-<b>Adversarial NLI: A New Benchmark for Natural Language Understanding</b><br/>
-Yixin Nie, Adina Williams, Emily Dinan, Mohit Bansal, Jason Weston and Douwe Kiela
-
-<b>Agreement Prediction of Arguments in Cyber Argumentation for Detecting Stance Polarity and Intensity</b><br/>
-Joseph Sirrianni, Xiaoqing Liu and Douglas Adams
+to be published soon
 
 
 
