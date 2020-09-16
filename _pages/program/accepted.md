@@ -15,36 +15,7 @@ For the final titles/authors, please refer to the proceedings when they are out.
 
 ## Data Analysis and Machine Learning
 
-### LNCS
-
-Gradient-based adversarial attacks on categorical sequence models via traversing an embedded world<br/>
-<i>Ivan Fursov, Alexey Zaytsev, Nikita Klyuchnikov, Andrey Kravchenko and Evgeny Burnaev</i>
-
-New Properties Of The Data Distillation Method When Working With Tabular Data<br/>
-<i>Dmitry Medvedev and Alexander Dyakonov</i>
-
-Advanced data recognition technique for real-time sand monitoring systems<br/>
-<i>Artem Appalonov, Yulia Maslennikova and Artem Khasanov</i>
-
-Russia on the Global Artificial Intelligence Scene<br/>
-<i>Dmitry Kochetkov, Aliaksandr Birukou and Anna Ermolayeva</i>
-
----------------------------------------------
-
-### CCIS
-
-Logic Graphs: complete, semantic oriented and easy to learn visualization method for OWL DL language<br/>
-<i>Nguyen Ngoc Than and Ildar Baimuratov</i>
-
-Object-Attribute Biclustering for Elimination of Missing Genotypes in Ischemic Stroke Data<br/>
-<i>Dmitry Ignatov, Gennady Khvorykh, Stefan Nikolic, Makhmud Shaban and Fouzi Takelait</i>
-
-Hierarchical Network Embedding for Community Detection<br/>
-<i>Artem Oborevich, Nikita Nikitinsky and Ilya Makarov</i>
-
-Style-transfer Autoencoder for efficient deep voice conversation<br/>
-<i>Denis Zuenko and Ilya Makarov</i>
-
+to be published soon
 
 ## Computer Vision
 
