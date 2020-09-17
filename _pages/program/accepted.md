@@ -30,7 +30,7 @@ Semi-Automatic Manga Colorization using Conditional Adversarial Networks<br/>
 Automated Image and Video Quality Assessment for Computational Video Editing<br/>
 <i>Konstantin Lomotin and Ilya Makarov</i>
 
-Identifying user interests and habits using object detec- tion and semantic segmentation models<br/>
+Identifying user interests and habits using object detection and semantic segmentation models<br/>
 <i>Petr Gladilin and Valeria Volokha</i>
 
 ---------------------------------------------
