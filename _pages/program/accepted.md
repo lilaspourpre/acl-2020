@@ -161,8 +161,27 @@ Investigating the robustness of reading difficulty models for Russian educationa
 
 ## Social Network Analysis
 
-to be published soon
+### LNCS
 
+Linking Friends in Social Networks using HashTag Attributes<br/>
+<i>Olga Gerasimova and Viktoriia Syomochkina</i>
+
+Emotional analysis of Russian texts using emojis in social networks<br/>
+<i>Anatoliy Surikov and Evgeniia Egorova</i>
+
+Community Detection Based on the Nodes Role in a Network: the Telegram Platform Case<br/>
+<i>Kseniia Tikhomirova and Ilya Makarov</i>
+
+Study Of Strategies For Disseminating Information In Social Networks Using Simulation Tools<br/>
+<i>Alexander Usanin, Ilya Zimin and Elena Zamyatina</i>
+
+
+---------------------------------------------
+
+### CCIS
+
+How Minimal Degree of the Social Graph Aﬀects Eﬃciency of an Organization<br/>
+<i>Ilya Samonenko, Tamara Voznesenskaya and Rostislav Yavorskiy</i>
 
 ## Theoretical Machine Learning and Optimization
 
