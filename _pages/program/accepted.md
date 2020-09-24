@@ -15,7 +15,42 @@ For the final titles/authors, please refer to the proceedings when they are out.
 
 ## Data Analysis and Machine Learning
 
-to be published soon
+### LNCS
+
+Gradient-based adversarial attacks on categorical sequence models via traversing an embedded world<br/>
+<i>Ivan Fursov, Alexey Zaytsev, Nikita Klyuchnikov, Andrey Kravchenko and Evgeny Burnaev</i>
+
+Bayesian Filtering in a Latent Space to Predict Bank Net Income from Acquiring<br/>
+<i>Evgeny Burnaev</i>
+
+Human Action Recognition for Boxing Training Simulator<br/>
+<i>Anton Broilovskiy and Ilya Makarov</i>
+
+New Properties Of The Data Distillation Method When Working With Tabular Data<br/>
+<i>Dmitry Medvedev and Alexander Dyakonov</i>
+
+Unsupervised anomaly detection for semi-structured sequence healthcare data<br/>
+<i>Victoria Snorovikhina and Alexey Zaytsev</i>
+
+Advanced data recognition technique for real-time sand monitoring systems<br/>
+<i>Artem Appalonov, Yulia Maslennikova and Artem Khasanov</i>
+
+Russia on the Global Artificial Intelligence Scene<br/>
+<i>Dmitry Kochetkov, Aliaksandr Birukou and Anna Ermolayeva</i>
+
+---------------------------------------------
+
+### CCIS
+
+Interpretation of 3D CNNs for Brain MRI Data Classification<br/>
+<i>Maxim Kan, Ruslan Aliev, Anna Rudenko, Nikita Petrashen, Nikita Drobyshev, Ekaterina Kondrateva, Maxim Sharaev, Alexander Bernstein and Evgeny Burnaev</i>
+
+A Comparison of Neural Networks Architectures for Diacritics Restoration<br/>
+<i>Eduard Klyshinsky and Olesya Karpik</i>
+
+Object-Attribute Biclustering for Elimination of Missing Genotypes in Ischemic Stroke Data<br/>
+<i>Dmitry Ignatov, Gennady Khvorykh, Stefan Nikolic, Makhmud Shaban and Fouzi Takelait</i>
+
 
 ## Computer Vision
 
