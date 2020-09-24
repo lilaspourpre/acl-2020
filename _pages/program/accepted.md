@@ -131,7 +131,23 @@ to be published soon
 
 ## Theoretical Machine Learning and Optimization
 
-to be published soon
+### LNCS
+
+Fast Approximation Algorithms for Stabbing Special Families of Line Segments with Equal Disks<br/>
+<i>Konstantin Kobylkin</i>
+
+Lower bound polynomial fast procedure for the Resource Constrained Project Scheduling Problem tested on PSPLIB instances<br/>
+<i>Edward Gimadi, Evgenii Goncharov and Alexander Shtepa</i>
+
+---------------------------------------------
+
+### CCIS
+
+An Effective Algorithm for the Three-Stage Facility Location Problem on a Tree-Like Network<br/>
+<i>Edward Kh. Gimadi and Aleksandr Shevyakov</i>
+
+On asymptotically optimal solvability of Euclidean Max m-k-Cycles Cover Problem<br/>
+<i>Edward Kh. Gimadi and Ivan A. Rykov</i>
 
 
 ## Process Mining
