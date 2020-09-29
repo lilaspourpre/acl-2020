@@ -180,6 +180,9 @@ Study Of Strategies For Disseminating Information In Social Networks Using Simul
 
 ### CCIS
 
+Organizational networks revisited: longitudinal approach<br/>
+<i>Olessia Koltsova, Vladimir Batagelj</i>
+
 How Minimal Degree of the Social Graph Aﬀects Eﬃciency of an Organization<br/>
 <i>Ilya Samonenko, Tamara Voznesenskaya and Rostislav Yavorskiy</i>
 
