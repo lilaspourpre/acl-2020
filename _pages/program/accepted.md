@@ -144,7 +144,7 @@ Methods for Verification of Sentiment frames<br/>
 <i>Irina Matueva and Natalia Loukachevitch</i>
 
 A Multi-task Learning Approach to Text Simplification<br/>
-<i>Anna Dmitrieva</i>
+<i>Anna Dmitrieva and Jörg Tiedemann</i>
 
 E-hypertext Media Topic Model with Automatic Label Assignment<br/>
 <i>Olga Mitrofanova, Anna Kriukova, Valery Shulginov and Vadim Shulginov</i>
