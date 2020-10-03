@@ -10,7 +10,7 @@ excerpt: "<br/><br/>"
     <span style="font-weight: bold; font-size: smaller;">
     Abstract deadline : <strike>July 1</strike> July 8<br/>&nbsp;Submission deadline : <strike>July 15</strike> July 22<br/>&nbsp;Notification of acceptance : September 15<br/>&nbsp;Camera-ready version : October 1<br/>&nbsp;Conference : October 15 &ndash; October 16</span>
     <br/><br/>       
-    <a href="https://" target="_blank" class="btn btn--primary">Registration will be open soon</a>
+    <a href="https://forms.gle/Yc7uL9gBaZYJFRD77" target="_blank" class="btn btn--primary">Register</a>
 </div>
 
 <h2>News</h2>
