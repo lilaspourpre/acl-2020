@@ -2,7 +2,7 @@
 title: Program
 layout: single
 excerpt: "AIST-2020 Program."
-permalink: /program/programs/
+permalink: /program/program/
 sidebar: 
     nav: program
 ---
