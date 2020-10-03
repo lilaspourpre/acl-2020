@@ -60,10 +60,10 @@ authors:
 program:
    - title: Program Details
      children:
-       - title: "Invited speakers"
-         url: /program/invited/
        - title: "Program"
          url: /program/program/
+       - title: "Invited speakers"
+         url: /program/invited/
        - title: "Accepted Papers"
          url: /program/accepted/
        
