@@ -1,13 +1,13 @@
 ---
 title: Invited Speakers
 layout: single
-excerpt: "AiST 2020 Invited Speakers."
+excerpt: "AIST-2020 Invited Speakers."
 permalink: /program/invited/
 sidebar: 
     nav: program
 ---
 
-The following speakers have graciously accepted to give keynotes at AIST 2020. More speakers will be announced soon.
+The following speakers have graciously accepted to give keynotes at AIST-2020. More speakers will be announced soon.
 
 ## Marcello Pelillo
 
