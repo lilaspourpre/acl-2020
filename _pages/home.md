@@ -15,6 +15,9 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**October 03, 2020**. Registration is open: [link](https://forms.gle/Yc7uL9gBaZYJFRD77).
+{: .notice--info}
+
 **September 15, 2020**. List of papers accepted to the main conference can be found [here](/program/accepted/).
 {: .notice--info}
 
@@ -34,6 +37,7 @@ The 9th International Conference — Analysis of Images, Social Networks and Tex
 
 The world of Data Science changes every year. At AIST, we exchange our understanding of the Science state-of-the-art, as well as how it applies to life and business. AIST is regularly held since 2012.
 
+Because of the current COVID-19 epidemiological situation, the conference will be held online and there is no participation fee. Please, fill in the <a href="https://forms.gle/Yc7uL9gBaZYJFRD77">registration form</a>.
 
 <h2>Publication</h2>
 
