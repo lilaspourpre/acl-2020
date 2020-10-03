@@ -15,7 +15,7 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
-**October 03, 2020**. Registration is open: [link](https://forms.gle/Yc7uL9gBaZYJFRD77).
+**October 03, 2020**. Registration is [open](https://forms.gle/Yc7uL9gBaZYJFRD77).
 {: .notice--info}
 
 **September 15, 2020**. List of papers accepted to the main conference can be found [here](/program/accepted/).
