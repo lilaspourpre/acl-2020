@@ -24,15 +24,6 @@ excerpt: "<br/><br/>"
 **October 03, 2020**. Registration is [open](https://forms.gle/Yc7uL9gBaZYJFRD77).
 {: .notice--info}
 
-**September 15, 2020**. List of papers accepted to the main conference can be found [here](/program/accepted/).
-{: .notice--info}
-
-**August 21, 2020**. Publication of the AIST 2020 proceedings in the [Lecture Notes in Computer Science Series](https://www.springer.com/series/558) and [Communications in Computer and Information Science](http://www.springer.com/series/7899) is confirmed.
-{: .notice--info}
-
-**July 14, 2020**. Paper submission deadline is postponed until July 22.
-{: .notice--info}
-
 <div class="text-center">
     <a href="/archive/" style="font-size: smaller; font-decoration: italic;">Older News</a>
 </div>
