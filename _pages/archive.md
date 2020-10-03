@@ -7,6 +7,12 @@ toc: false
 toc_icon: "cog"
 ---
 
+**October 03, 2020**. Information about the invited speakers can be found [here](/program/invited/).
+{: .notice--info}
+
+**October 03, 2020**. Conference program is [available](/program/program/).
+{: .notice--info}
+
 **October 03, 2020**. Registration is [open](https://forms.gle/Yc7uL9gBaZYJFRD77).
 {: .notice--info}
 
