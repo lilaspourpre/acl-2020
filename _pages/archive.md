@@ -7,6 +7,9 @@ toc: false
 toc_icon: "cog"
 ---
 
+**October 03, 2020**. Registration is open: [link](https://forms.gle/Yc7uL9gBaZYJFRD77).
+{: .notice--info}
+
 **September 15, 2020**. List of papers accepted to the conference can be found [here](/program/accepted/).
 {: .notice--info}
 
