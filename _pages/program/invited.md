@@ -32,8 +32,6 @@ Indiana University
 
 LORIA
 
-Miguel Couceiro (male) 
-
 <figure>
   <a href="https://members.loria.fr/mcouceiro/"><img src="https://members.loria.fr/mcouceiro/wp-content/blogs.dir/37/files/sites/37/2016/12/IMG_9466-1.jpg"></a>
   <figcaption><strong><a href="https://members.loria.fr/mcouceiro/">Miguel Couceiro</a></strong> is a Professor of Computer Science at University of Lorraine in Nancy, and head of the ORPAILLEUR team, LORIA (UMR 7503). His current research focuses on knowledge discovery and multicriteria decision making, and recently with a particular emphasis on fair and explainable models. He has (co-)authored more than 180 papers and book chapters. He is an elected member (2018-2020) of IEEE CS Technical Committee on MVL, and a PC member of several conferences. He is the local coordinator of the European Erasmus Mundus master's program LCT (Languaguage and communication Technologies, https://lct-master.org/) and is the responsible of the 2nd year master's program NLP at the University of Lorraine.</figcaption>
