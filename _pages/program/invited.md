@@ -7,7 +7,7 @@ sidebar:
     nav: program
 ---
 
-The following speakers have graciously accepted to give keynotes at AIST-2020. More speakers will be announced soon.
+The following speakers have graciously accepted to give keynotes at AIST-2020.
 
 ## Marcello Pelillo 
 
