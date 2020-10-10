@@ -25,11 +25,6 @@ MTS AI
 <b>Text and speech processing projects at MTS AI</b> <br/> <br/>
 
 
-## Santo Fortunato
-
-Indiana University
-
-
 ## Miguel Couceiro 
 
 <figure>
@@ -61,6 +56,16 @@ Indiana University
 For binary attributes, Formal Concept Analysis (FCA) offers techniques in terms of intents of formal concepts, and thus provides plausible reasons for model prediction. However, from the  interpretable machine learning viewpoint, we still need to provide decision makers with the importance of individual attributes to classification of a particular object, which may facilitate explanations by experts in various domains with high-cost errors like medicine or finance. 
 
 In this talk, we will discuss how notions from cooperative game theory can be used to assess the contribution of individual attributes in classification and clustering processes in concept-based machine learning. To address the 3rd question, we present some ideas how to reduce the number of attributes using similarities in large contexts. 
+
+## Santo Fortunato
+
+<figure>
+  <a href="https://cnets.indiana.edu/people/santo-fortunato/"><img width="300" src="/assets/images/keynotes/santo.JPG"></a>
+  <figcaption><strong><a href="https://cnets.indiana.edu/people/santo-fortunato/">Santo Fortunato</a></strong> is the Director of the Indiana University Network Science Institute (IUNI) and a faculty at Luddy School of Informatics, Computing and Engineering. Previously he was professor of complex systems at the Department of Computer Science of Aalto University, Finland. Prof. Fortunato got his PhD in Theoretical Particle Physics at the University of Bielefeld In Germany. He then moved to the field of complex systems, via a postdoctoral appointment at Luddy School of Informatics, Computing and Engineering of Indiana University. His current focus areas are network science, especially community detection in graphs, computational social science, science of science, climate change. His research has been published in leading journals, including Nature, Science, PNAS, Physical Review Letters, Reviews of Modern Physics, Physics Reports and has collected over 33,000 citations (Google Scholar). His review article Community detection in graphs (Physics Reports 486, 75-174, 2010) is one of the best known and most cited papers in network science. He received the Young Scientist Award for Socio- and Econophysics 2011, a prize given by the German Physical Society, for his outstanding contributions to the physics of social systems. He is the Founding Chair of the International Conference on Computational Social Science (IC2S2) and Chair of Networks 2021, the first merger of the NetSci and the Sunbelt conferences, possibly the largest ever event in network science.</figcaption>
+</figure>
+<b>Consensus clustering in networks</b> <br/> <br/>
+<b>Abstract:</b> Algorithms for community detection are usually stochastic, leading to different partitions for different choices of random seeds. Consensus clustering is an effective technique to derive more stable and accurate partitions than the ones obtained by the direct application of the algorithm. Here we will show how this technique can be applied recursively to improve the results of clustering algorithms.
+The basic procedure requires the calculation of the consensus matrix, which can be quite dense if (some of) the clusters of the input partitions are large. Consequently, the complexity can get dangerously close to quadratic, which makes the technique inapplicable on large graphs. Hence we also present a fast variant of consensus clustering, which calculates the consensus matrix only on the links of the original graph and on a comparable number of additional node pairs, suitably chosen. This brings the complexity down to linear, while the performance remains comparable as the full technique. Therefore, the fast consensus clustering procedure can be applied on networks with millions of nodes and links.
 
 
 
