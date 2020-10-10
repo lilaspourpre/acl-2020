@@ -35,7 +35,7 @@ The following speakers have graciously accepted to give keynotes at AIST-2020.
 
 ## Leonard Kwuida
 <figure>
-  <a href="https://www.bfh.ch/en/about-bfh/people/c2jbrzzkbu5m/"><img width="200" src="/assets/images/keynotes/kwudadlm.jpg"></a>
+  <a href="https://www.bfh.ch/en/about-bfh/people/c2jbrzzkbu5m/"><img height="200" src="/assets/images/keynotes/kwudadlm.jpg"></a>
   <figcaption><strong><a href="https://www.bfh.ch/en/about-bfh/people/c2jbrzzkbu5m/">Leonard Kwuida</a></strong> graduated from Université de Yaoundé I, in Mathematics. He holds a Ph.D from TU Dresden, in Algebra and Logic. His research interest includes Formal Concept Analysis and Data Analysis, algebraic operators for knowledge discovery in databases, explainable AI, ordered structures and weak types of negation. Dr. Kwuida teaches at Bern University of Applied Sciences, School of Business.</figcaption>
 </figure>
 <b>On interpretability and similarity in concept based Machine Learning</b> <br/> <br/>
