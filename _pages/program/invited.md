@@ -46,8 +46,21 @@ Indiana University
 
 
 ## Leonard Kwuida
+<figure>
+  <a href="https://www.bfh.ch/en/about-bfh/people/c2jbrzzkbu5m/"><img width="300" src="/assets/images/keynotes/kwiudadlm.jpg"></a>
+  <figcaption><strong><a href="https://www.bfh.ch/en/about-bfh/people/c2jbrzzkbu5m/">Leonard Kwuida</a></strong> graduated from Université de Yaoundé I, in Mathematics. He holds a Ph.D from TU Dresden, in Algebra and Logic. His research interest includes Formal Concept Analysis and Data Analysis, algebraic operators for knowledge discovery in databases, explainable AI, ordered structures and weak types of negation. Dr. Kwuida teaches at Bern University of Applied Sciences, School of Business.</figcaption>
+</figure>
+<b>Making models fairer through explanations</b> <br/> <br/>
+<b>Abstract:</b> Machine Learning (ML) provides important techniques for classification and predictions. Most of these are black box models for users and do not provide decision makers with an explanation. For the sake of transparency or more validity of decisions, the need to develop explainable/interpretable ML-methods is gaining more and more importance. Certain questions need to be addressed: 
+<ul>
+<li>How does a ML procedure derive the class for a particular entity?</li>
+<li>item Why does a particular clustering emerge from a particular unsupervised ML procedure?</li>
+<li>What can we do if the number of attributes is very large?</li>
+<li>What are the possible reasons of the mistakes for concrete cases and models?</li>
+</ul>
+For binary attributes, Formal Concept Analysis (FCA) offers techniques in terms of intents of formal concepts, and thus provides plausible reasons for model prediction. However, from the  interpretable machine learning viewpoint, we still need to provide decision makers with the importance of individual attributes to classification of a particular object, which may facilitate explanations by experts in various domains with high-cost errors like medicine or finance. 
 
-Bern University of Applied Sciences
+In this talk, we will discuss how notions from cooperative game theory can be used to assess the contribution of individual attributes in classification and clustering processes in concept-based machine learning. To address the 3rd question, we present some ideas how to reduce the number of attributes using similarities in large contexts. 
 
 
 
