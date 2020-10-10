@@ -18,13 +18,6 @@ The following speakers have graciously accepted to give keynotes at AIST-2020.
 <b>Graph-theoretic Methods in Computer Vision: Recent Advances</b> <br/> <br/>
 <b>Abstract:</b> Graphs and graph-based representations have long been an important tool in computer vision and pattern recognition, especially because of their representational power and flexibility. There is now a renewed interest toward explicitly formulating computer vision problems as graph problems. This is particularly advantageous because it allows vision problems to be cast in a pure, abstract setting with solid theoretical underpinnings and also permits access to the full arsenal of graph algorithms developed in computer science and operations research. In this talk I’ll describe some recent developments in graph-theoretic methods which allow us to address within a unified and principled framework a number of classical computer vision problems. These include interactive image segmentation, image geo-localization, image retrieval, multi-camera tracking, and person re-identification. The concepts discussed here have intriguing connections with optimization theory, game theory and dynamical systems theory, and can be applied to weighted graphs, digraphs and hypergraphs alike.
 
-## Nikita Semenov
-
-MTS AI
-
-<b>Text and speech processing projects at MTS AI</b> <br/> <br/>
-
-
 ## Miguel Couceiro 
 
 <figure>
@@ -68,7 +61,18 @@ In this talk, we will discuss how notions from cooperative game theory can be us
 The basic procedure requires the calculation of the consensus matrix, which can be quite dense if (some of) the clusters of the input partitions are large. Consequently, the complexity can get dangerously close to quadratic, which makes the technique inapplicable on large graphs. Hence we also present a fast variant of consensus clustering, which calculates the consensus matrix only on the links of the original graph and on a comparable number of additional node pairs, suitably chosen. This brings the complexity down to linear, while the performance remains comparable as the full technique. Therefore, the fast consensus clustering procedure can be applied on networks with millions of nodes and links.
 
 
+# Industry talks
 
+## Nikita Semenov
+
+MTS AI
+
+<b>Text and speech processing projects at MTS AI</b> <br/> <br/>
+
+
+## Ivan Smurov
+
+ABBYY
 
 
 
