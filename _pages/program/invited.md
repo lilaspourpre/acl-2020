@@ -35,7 +35,7 @@ The following speakers have graciously accepted to give keynotes at AIST-2020.
 
 ## Leonard Kwuida
 <figure>
-  <a href="https://www.bfh.ch/en/about-bfh/people/c2jbrzzkbu5m/"><img width="300" src="/assets/images/keynotes/kwudadlm.jpg"></a>
+  <a href="https://www.bfh.ch/en/about-bfh/people/c2jbrzzkbu5m/"><img width="200" src="/assets/images/keynotes/kwudadlm.jpg"></a>
   <figcaption><strong><a href="https://www.bfh.ch/en/about-bfh/people/c2jbrzzkbu5m/">Leonard Kwuida</a></strong> graduated from Université de Yaoundé I, in Mathematics. He holds a Ph.D from TU Dresden, in Algebra and Logic. His research interest includes Formal Concept Analysis and Data Analysis, algebraic operators for knowledge discovery in databases, explainable AI, ordered structures and weak types of negation. Dr. Kwuida teaches at Bern University of Applied Sciences, School of Business.</figcaption>
 </figure>
 <b>On interpretability and similarity in concept based Machine Learning</b> <br/> <br/>
@@ -60,6 +60,7 @@ In this talk, we will discuss how notions from cooperative game theory can be us
 <b>Abstract:</b> Algorithms for community detection are usually stochastic, leading to different partitions for different choices of random seeds. Consensus clustering is an effective technique to derive more stable and accurate partitions than the ones obtained by the direct application of the algorithm. Here we will show how this technique can be applied recursively to improve the results of clustering algorithms.
 The basic procedure requires the calculation of the consensus matrix, which can be quite dense if (some of) the clusters of the input partitions are large. Consequently, the complexity can get dangerously close to quadratic, which makes the technique inapplicable on large graphs. Hence we also present a fast variant of consensus clustering, which calculates the consensus matrix only on the links of the original graph and on a comparable number of additional node pairs, suitably chosen. This brings the complexity down to linear, while the performance remains comparable as the full technique. Therefore, the fast consensus clustering procedure can be applied on networks with millions of nodes and links.
 
+<br/><br/><br/>
 
 # Industry talks
 
