@@ -47,10 +47,10 @@ Indiana University
 
 ## Leonard Kwuida
 <figure>
-  <a href="https://www.bfh.ch/en/about-bfh/people/c2jbrzzkbu5m/"><img width="300" src="/assets/images/keynotes/kwiudadlm.jpg"></a>
+  <a href="https://www.bfh.ch/en/about-bfh/people/c2jbrzzkbu5m/"><img width="300" src="/assets/images/keynotes/kwudadlm.jpg"></a>
   <figcaption><strong><a href="https://www.bfh.ch/en/about-bfh/people/c2jbrzzkbu5m/">Leonard Kwuida</a></strong> graduated from Université de Yaoundé I, in Mathematics. He holds a Ph.D from TU Dresden, in Algebra and Logic. His research interest includes Formal Concept Analysis and Data Analysis, algebraic operators for knowledge discovery in databases, explainable AI, ordered structures and weak types of negation. Dr. Kwuida teaches at Bern University of Applied Sciences, School of Business.</figcaption>
 </figure>
-<b>Making models fairer through explanations</b> <br/> <br/>
+<b>On interpretability and similarity in concept based Machine Learning</b> <br/> <br/>
 <b>Abstract:</b> Machine Learning (ML) provides important techniques for classification and predictions. Most of these are black box models for users and do not provide decision makers with an explanation. For the sake of transparency or more validity of decisions, the need to develop explainable/interpretable ML-methods is gaining more and more importance. Certain questions need to be addressed: 
 <ul>
 <li>How does a ML procedure derive the class for a particular entity?</li>
