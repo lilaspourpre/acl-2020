@@ -8,8 +8,8 @@ sidebar:
 ---
 
 <h3>Organizing committee</h3>
-Dmitry Ignatov, Higher School of Economics, Russia &ndash; AIST series Head or Organization<br/>
-Alexander Panchenko, Skolkovo Institute of Science and Technology, Russia &ndash; AIST series Head or Organization<br/>
+Dmitry Ignatov, Higher School of Economics, Russia &ndash; Proceedings Chair; AIST series Head of Organization<br/>
+Alexander Panchenko, Skolkovo Institute of Science and Technology, Russia &ndash; AIST series Head of Organization<br/>
 Evgeny Burnaev, Skolkovo Institute of Science and Technology, Russia &ndash; AIST 2020 Local Organizing Chair<br/>
 Irina Nikishina, Skolkovo Institute of Science and Technology, Russia<br/>
 Ilya Makarov, Higher School of Economics, Russia<br/> <br/>
@@ -35,7 +35,7 @@ Olessia Koltsova, Higher School of Economics, Russia
 
 <h4>Theoretical Machine Learning and Optimization</h4>
 Michael Khachay, Krasovsky Institute of Mathematics and Mechanics, Russia<br/>
-Panos Pardalos, University of Venice, Italy
+Panos Pardalos, University of Florida, United States
 
 <h4>Process Mining</h4>
 Anna Kalenkova, The University of Melbourne<br/>
