@@ -32,7 +32,7 @@ Elena Tutubalina, Kazan Federal University, Russia
 
 <h4>Social Network Analysis</h4>
 Vladimir Batagelj, University of Ljubljana, Slovenia<br/>
-Olessia Koltsova, Higher School of Economics, Moscow, Russia
+Olessia Koltsova, Higher School of Economics, St.Petersburg, Russia
 
 <h4>Theoretical Machine Learning and Optimization</h4>
 Michael Khachay, Krasovsky Institute of Mathematics and Mechanics, Russia<br/>
