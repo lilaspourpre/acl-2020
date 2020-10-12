@@ -66,14 +66,26 @@ The basic procedure requires the calculation of the consensus matrix, which can 
 
 ## Nikita Semenov
 
-MTS AI
-
+<figure>
+  <img width="300" src="/assets/images/keynotes/semenov.jpeg">
+  <figcaption><strong>Nikita Semenov</strong>is Head of Machine Learning Department at MTS AI.
+His area of interest has recently been focused on spoken language understanding  and speech generation. Special attention in generation issues pays attention to contextual dependence and emotional component
+  </figcaption>
+</figure>
 <b>Text and speech processing projects at MTS AI</b> <br/> <br/>
+<b>Abstract:</b> How to build effective systems for processing and understanding speech in a large corporation. What challenges the researcher faces. It's no secret that any solution has its own life cycle, including a solution based on natural language processing technologies. Let us dwell in particular on the components of the life cycle of solutions with NLP and ASR technologies.
 
 
 ## Ivan Smurov
 
-ABBYY
+<figure>
+  <img width="300" src="/assets/images/keynotes/smurov.jpg">
+  <figcaption><strong>Ivan Smurov</strong> has graduated from the Department of Mechanics and Mathematics of Moscow State University in 2012, where he specialized in mathematical linguistics. He has a decade-long  experience of brining NLP research and industry closer: applying cutting edge NLP models to industrial cases as well as conducting research in the areas most useful for practical applications. 
+Currently Ivan is the head of NLP in Advanced Research Department at ABBYY and a professor at Moscow Institute of Physics and Technology. At the moment he is most interested in syntactic and semantic parsing, relation extraction and summarization.
+  </figcaption>
+</figure>
+<b>TBD</b> <br/> <br/>
+<b>Abstract:</b> TBD 
 
 
 
