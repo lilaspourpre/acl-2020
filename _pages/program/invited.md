@@ -84,8 +84,12 @@ His area of interest has recently been focused on spoken language understanding 
 Currently Ivan is the head of NLP in Advanced Research Department at ABBYY and a professor at Moscow Institute of Physics and Technology. At the moment he is most interested in syntactic and semantic parsing, relation extraction and summarization.
   </figcaption>
 </figure>
-<b>TBD</b> <br/> <br/>
-<b>Abstract:</b> TBD 
+<b>When conll-2003 is not enough: are academic NER and RE corpora well-suited to represent real-world scenarios?</b> <br/> <br/>
+<b>Abstract:</b> A lot of business applications require named entity recognition (NER) or relation extraction (RE). There exist several well-studied academic corpora (see the next section for multiple examples of such corpora). Scores obtained on these corpora are typically high. Taking recent advances in NER into account, one can even assume that it is a primarily solved task. 
+
+However, business applications seldom do enjoy the high scores reported in academia. One can theorize that the main reason for that is that both text sources and entities in industry and academia present with several noticeable diﬀerences. 
+
+In my talk, I will highlight the key differences between typical academic NER/RE corpus, and the data often dealt with in the industry. Further, I describe our attempt to bridge the gap between business and researchers by creating RuREBus corpus and conducting RuREBus shared task. Finally, I will provide some insights into the shared task results' practical interpretation.
 
 
 
