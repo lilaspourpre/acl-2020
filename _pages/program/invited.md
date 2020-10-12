@@ -68,7 +68,7 @@ The basic procedure requires the calculation of the consensus matrix, which can 
 
 <figure>
   <img width="300" src="/assets/images/keynotes/semenov.jpeg">
-  <figcaption><strong>Nikita Semenov</strong>is Head of Machine Learning Department at MTS AI.
+  <figcaption><strong>Nikita Semenov</strong> is Head of Machine Learning Department at MTS AI.
 His area of interest has recently been focused on spoken language understanding  and speech generation. Special attention in generation issues pays attention to contextual dependence and emotional component
   </figcaption>
 </figure>
