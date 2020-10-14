@@ -15,6 +15,12 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**October 14, 2020**. YouTube live [channel](https://www.youtube.com/channel/UCvqxcp-Ocg5kB-gBlRC_SwA)
+{: .notice--info}
+
+**October 14, 2020**. Join AIST-2020 [Telegram chat](https://t.me/joinchat/AAAAAESt4UeNjy1J8bT_sQInformation) to get in touch with other participants
+{: .notice--info}
+
 **October 03, 2020**. Information about the invited speakers can be found [here](/program/invited/).
 {: .notice--info}
 
