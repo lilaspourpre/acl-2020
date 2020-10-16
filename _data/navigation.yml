@@ -66,6 +66,8 @@ program:
          url: /program/invited/
        - title: "Accepted Papers"
          url: /program/accepted/
+       - title: "Best Paper Awards"
+         url: /program/best/
        
 
 committees:
