@@ -36,7 +36,7 @@ For an interesting combination of linguistic research questions (the nature of m
 
 ## Social Network Analysis
 
-Detection Using Attribute Graph Embeddings and Bipartite Networks<br/>
+Detecting Automatically Managed Accounts in Online Social Networks: Graph Embedding Approach<br/>
 <i>Ilia Karpov, Ekaterina Glazkova</i>
 
 The authors introduce a unique open dataset of bot accounts from a Russian social network that have been selected according to a rigorous definition. They also show that bots differ in their level of complexity, and that different machine learning approaches are needed to detect these different types. The proposed algorithms demonstrate a very high quality. 
