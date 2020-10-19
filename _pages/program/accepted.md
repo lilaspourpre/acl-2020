@@ -128,7 +128,7 @@ Abstractive Summarization of Russian News Learning on Quality Media<br/>
 
 ### CCIS
 
-Bot Detection Using Attribute Graph Embeddings and Bipartite Networks<br/>
+Detecting Automatically Managed Accounts in Online Social Networks: Graph Embedding Approach<br/>
 <i>Ilia Karpov and Ekaterina Glazkova</i>
 
 Federated Learning in Named Entity Recognition<br/>
