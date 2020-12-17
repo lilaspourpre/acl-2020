@@ -15,7 +15,7 @@ toc_sticky: true
 Gradient-based adversarial attacks on categorical sequence models via traversing an embedded world<br/>
 <i>Ivan Fursov, Alexey Zaytsev, Nikita Klyuchnikov, Andrey Kravchenko and Evgeny Burnaev</i>
 
-The authors show the importance of threats by over trust in deep learning models for validation of categorical sequences, which may lead to fraudulent money transactions, medical fraud, and the spreading of fictional texts
+The authors show the importance of threats by over trust in deep learning models for validation of categorical sequences, which may lead to fraudulent money transactions, medical fraud, and the spreading of fictional texts.
 
 
 ## Computer Vision
