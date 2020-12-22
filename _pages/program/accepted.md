@@ -81,7 +81,7 @@ Automatic Grading of Knee Osteoarthritis from Plain Radiographs using Densely Co
 A Novel Approach to Measurement of the Transverse Velocity of the Large-Scale Objects<br/>
 <i>Ivan Goncharov, Alexey Mikhaylichenko and Anatoly Kleschenkov</i>
 
-Unsupervised training denoising networks<br/>
+Unsupervised training of denoising networks<br/>
 <i>Alexey Kovalenko and Yana Demyanenko</i>
 
 ## Natural Language Processing
