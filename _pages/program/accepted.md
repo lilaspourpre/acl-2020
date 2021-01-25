@@ -209,7 +209,20 @@ On asymptotically optimal solvability of Euclidean Max m-k-Cycles Cover Problem<
 
 ## Process Mining
 
-to be published soon
+
+### LNCS
+
+Data and Reference Semantic-Based Simulator of DB-nets with the Use of Renew Tool<br/>
+<i>Anton Rigin and Sergey Shershakov</i>
+
+Checking Conformance between Colored Petri Nets and Event Logs<br/>
+<i>Julio Cesar Carrasquel, Khalil Mecheraoui and Irina Lomazova</i>
 
 
+---------------------------------------------
+
+### CCIS
+
+Educational Data Mining for Prediction of Academically Risky Students Depending on their Temperamen<br/>
+<i>Elena Shadrina, Olga Oshmarina and Marianna Korenkova</i>
 
