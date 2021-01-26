@@ -93,6 +93,8 @@ The list of topics relevant to these tracks is including but is not limited to:
 ## Publication
 
 AIST-2020 proceedings will be published in Springer LNCS ([Lecture Notes in Computer Science](https://www.springer.com/series/558)). The companion volume will be published in the satellite series CCIS ([Communications in Computer and Information Science](https://www.springer.com/series/7899)).
+
+Please pay attention to the publisher's [Editorial Policies](https://www.springer.com/gp/authors-editors/journal-author/journal-author-helpdesk/editorial-policies/14214).
  
 ## Venue
 
@@ -107,7 +109,6 @@ Posters describing ongoing research up to 6 pages of content with references.
 The papers must be formatted according to the [Springer LNCS style](http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0). LaTeX template of the Springer LNCS is [available at ShareLaTeX platform](https://www.sharelatex.com/templates/journals/lecture-notes-in-computer-science-(lncs)). We encourage you to use the LaTeX template instead of the Word template. For further information please also read ["Author instructions"](http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
 
 Papers should be submitted through the [EasyChair conference management system](https://easychair.org/my/conference?conf=aist20200). Submitted papers should provide sufficient detail to allow the Program Committee to assess the merits of the paper on the basis of technical quality, relevance to the conference topics, originality, significance, and clarity of presentation. Papers should present original work previously not published or concurrently submitted to another conference or journal. Each paper will be reviewed by at least three PC members. To ensure a fair assessment of the submissions, the review will be double-blind, so you need to make your paper anonymous (remove links to your personal pages, acknowledgements, affiliations, etc.).
-
 
 ## Contact Information
 - e-mail: [org@aistconf.org](mailto:org@aistconf.org)
