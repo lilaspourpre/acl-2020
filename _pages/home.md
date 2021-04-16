@@ -15,6 +15,9 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
+**April 14, 2021**. Papers are finally published! You can have the free access [here](https://link.springer.com/book/10.1007/978-3-030-72610-2).
+{: .notice--info}
+
 **October 16, 2020**. Best paper awards are published [online](/program/best/)
 {: .notice--info}
 
