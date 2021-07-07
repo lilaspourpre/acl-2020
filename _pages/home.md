@@ -8,23 +8,14 @@ excerpt: "<br/><br/>"
 ---
 <div class="text-center">
     <span style="font-weight: bold; font-size: smaller;">
-    Abstract deadline : <strike>July 1</strike> July 8<br/>&nbsp;Submission deadline : <strike>July 15</strike> July 22<br/>&nbsp;Notification of acceptance : September 15<br/>&nbsp;Camera-ready version : October 1<br/>&nbsp;Conference : October 15 &ndash; October 16</span>
+    CFP : July 15<br/>&nbsp;Abstract deadline : September 1<br/>&nbsp;Submission deadline : September 15<br/>&nbsp;Notification of acceptance : November 1<br/>&nbsp;Camera-ready version : November 15<br/>&nbsp;Conference : December 16 &ndash; December 18</span>
     <br/><br/>       
-    <a href="https://forms.gle/Yc7uL9gBaZYJFRD77" target="_blank" class="btn btn--primary">Register Now</a>
+    <a href="" target="_blank" class="btn btn--primary">Register Now</a>
 </div>
 
 <h2>News</h2>
 
-**April 14, 2021**. Papers are finally published! You can have the free access [here](https://link.springer.com/book/10.1007/978-3-030-72610-2).
-{: .notice--info}
-
-**October 16, 2020**. Best paper awards are published [online](/program/best/)
-{: .notice--info}
-
-**October 14, 2020**. YouTube live [channel](https://www.youtube.com/channel/UCvqxcp-Ocg5kB-gBlRC_SwA)
-{: .notice--info}
-
-**October 14, 2020**. Join AIST-2020 [Telegram chat](https://t.me/joinchat/AAAAAESt4UfKCiLcCj2PbA) to get in touch with other participants
+**July 8, 2021**. CFP will be published on July 15!
 {: .notice--info}
 
 <div class="text-center">
@@ -33,11 +24,11 @@ excerpt: "<br/><br/>"
 
 <h2>Welcome!</h2>
 
-The 9th International Conference — Analysis of Images, Social Networks and Texts — will take place online from <b>October 15th through October 16th, 2020</b>.
+The 10th International Conference — Analysis of Images, Social Networks and Texts — will take place online from <b>December 16th through December 18th, 2021</b>.
 
 The world of Data Science changes every year. At AIST, we exchange our understanding of the Science state-of-the-art, as well as how it applies to life and business. AIST is regularly held since 2012.
 
-Because of the current COVID-19 epidemiological situation, the conference will be held online and there is no participation fee. To participate, please, fill in the <a href="https://forms.gle/Yc7uL9gBaZYJFRD77">registration form</a>.
+Because of the current COVID-19 epidemiological situation, the conference will be held both online and offline.
 
 <h2>Publication</h2>
 
