@@ -28,7 +28,7 @@ The 10th International Conference — Analysis of Images, Social Networks and Te
 
 The world of Data Science changes every year. At AIST, we exchange our understanding of the Science state-of-the-art, as well as how it applies to life and business. AIST is regularly held since 2012.
 
-Because of the current COVID-19 epidemiological situation, the conference will be held both online and offline.
+Because of the current COVID-19 epidemiological situation, the conference will be held both online (Moscow) and offline (Tbilisi).
 
 <h2>Publication</h2>
 
