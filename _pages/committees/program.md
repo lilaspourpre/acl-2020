@@ -122,10 +122,11 @@ TBD
 - Artem, Pyatkin, Novosibirsk State University; Sobolev Institute of Mathematics, Russia
 -->
 
+<!--
 <h3>Process Mining</h3>
 TBD
 
-<!--
+
 - Massimiliano de Leoni, Department of Mathematics - University of Padua, Italy<br/>
 - Alexey A. Mitsyuk, HSE, Russia<br/>
 - Sergey Shershakov, Higher School of Economics, Russia
