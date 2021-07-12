@@ -16,7 +16,7 @@ Irina Nikishina, Skolkovo Institute of Science and Technology, Russia<br/>
 
 <h4>Data Analysis and Machine Learning</h4>
 Amedeo Napoli, LORIA, France<br/>
-Sergei O. Kuznetsov, National Research University Higher School of Economics, Moscow, Russia
+Evgenii Tsymbalov, Yandex, Russia
 
 <h4>Computer Vision</h4>
 Evgeny Burnaev, Skolkovo Institute of Science and Technology, Russia<br/>
@@ -42,9 +42,9 @@ Michael Khachay, Krasovsky Institute of Mathematics and Mechanics, Russia<br/>
 Panos Pardalos, University of Florida, United States
 -->
 
+<!--
 <h4>Process Mining</h4>
 TBD
-<!--
 Wil van der Aalst, RWTH Aachen University, Germany<br/>
 Anna Kalenkova, The University of Melbourne, Australia<br/>
 Irina Lomazova, National Research University Higher School of Economics, Moscow, Russia
