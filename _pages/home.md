@@ -37,6 +37,6 @@ Because of the current COVID-19 epidemiological situation, the conference will b
 </figure>
 
 
-AIST-2020 proceedings will be published in Springer <a href="https://www.springer.com/series/558">LNCS</a>.
+AIST-2021 proceedings will be published in Springer <a href="https://www.springer.com/series/558">LNCS</a>.
 
 The companion volume will be published in the satellite series [CCIS](https://www.springer.com/series/7899).
