@@ -8,24 +8,24 @@ sidebar:
 ---
 
 <h3>Organizing committee</h3>
-Dmitry Ignatov, Higher School of Economics, Moscow, Russia &ndash; Proceedings Chair; AIST series Head of Organization<br/>
-Alexander Panchenko, Skolkovo Institute of Science and Technology, Russia &ndash; AIST series Head of Organization<br/>
-Irina Nikishina, Skolkovo Institute of Science and Technology, Russia<br/>
+- Dmitry Ignatov, Higher School of Economics, Moscow, Russia &ndash; Proceedings Chair; AIST series Head of Organization<br/>
+- Alexander Panchenko, Skolkovo Institute of Science and Technology, Russia &ndash; AIST series Head of Organization<br/>
+- Irina Nikishina, Skolkovo Institute of Science and Technology, Russia; secretary<br/>
 
 <h3>Area chairs</h3>
 
 <h4>Data Analysis and Machine Learning</h4>
-Amedeo Napoli, LORIA, France<br/>
-Evgenii Tsymbalov, Yandex, Russia
+- Amedeo Napoli, LORIA, France<br/>
+- Evgenii Tsymbalov, Yandex, Russia
 
 <h4>Computer Vision</h4>
-Evgeny Burnaev, Skolkovo Institute of Science and Technology, Russia<br/>
-Andrey Savchenko, National Research University Higher School of Economics, Nizhny Novgorod, Russia
+- Evgeny Burnaev, Skolkovo Institute of Science and Technology, Russia<br/>
+- Andrey Savchenko, National Research University Higher School of Economics, Nizhny Novgorod, Russia
 
 <h4>Natural Language Processing</h4>
-Natalia Loukachevitch, Research Computing Center of Moscow State University, Russia<br/>
-Andrey Kutuzov, University of Oslo, Norway<br/>
-Elena Tutubalina, Kazan Federal University, Russia
+- Natalia Loukachevitch, Research Computing Center of Moscow State University, Russia<br/>
+- Andrey Kutuzov, University of Oslo, Norway<br/>
+- Elena Tutubalina, Kazan Federal University, Russia
 
 
 <h4>Social Network Analysis</h4>
