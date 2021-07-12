@@ -9,6 +9,7 @@ sidebar:
 
 <h3>Data Analysis and Machine Learning</h3>
 TBD
+
 <!--
 - Jaume Baixeries, Universitat Politècnica de Catalunya, Spain<br/>
 - Malay Bhattacharyya, Indian Statistical Institute, Kolkata, India<br/>
@@ -26,6 +27,7 @@ TBD
 
 <h3>Computer Vision</h3>
 TBD
+
 <!--
 - Vladimir Arlazarov, Smart Engines Ltd, Federal Research Center “Computer Science and Control” of Russian Academy of Sciences, Russia<br/>
 - Aleksey Artamonov, Neuromation, Russia<br/>
@@ -57,6 +59,7 @@ TBD
 
 <h3>Natural Language Processing</h3>
 TBD
+
 <!--
 - Anton Alekseev, St. Petersburg Department of V.A.Steklov Institute of Mathematics of the Russian Academy of Sciences, Russia<br/>
 - Ilseyar Alimova, Kazan Federal University, Russia<br/>
@@ -95,6 +98,7 @@ TBD
 
 <h3>Social Network Analysis</h3>
 TBD
+
 <!--
 - Ilia Karpov, National Research University Higher School of Economics, Russia<br/>
 - Gregory Khvatsky, National Research University Higher School of Economics, Russia<br/>
@@ -107,6 +111,7 @@ TBD
 
 <h3>Theoretical Machine Learning and Optimization</h3>
 TBD
+
 <!--
 - Alexander, Kazakov, Matrosov Institute for System Dynamics and Control Theory SB RAS, Russia<br/>
 - Michael, Khachay, Krasovsky Institute of Mathematics and Mechanics, Russia<br/>
@@ -119,6 +124,7 @@ TBD
 
 <h3>Process Mining</h3>
 TBD
+
 <!--
 - Massimiliano de Leoni, Department of Mathematics - University of Padua, Italy<br/>
 - Alexey A. Mitsyuk, HSE, Russia<br/>
