@@ -8,7 +8,7 @@ toc_icon: "cog"
 ---
 
 <sub>**AIST 2021**  
-Online, Russia & Tbilisi, Georgia  
+Online & Tbilisi, Georgia  
 December 16-18, 2021.
 
 ## CALL FOR PAPERS
