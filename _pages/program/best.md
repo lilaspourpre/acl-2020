@@ -1,7 +1,7 @@
 ---
 title: Best Paper Awards
 layout: single
-excerpt: "AIST 2020 Best Paper Awards."
+excerpt: "AIST 2021 Best Paper Awards."
 permalink: /program/best/
 sidebar: 
     nav: program
@@ -10,6 +10,9 @@ toc: true
 toc_sticky: true
 ---
 
+To be defined.
+
+<!--
 ## Data Analysis and Machine Learning
 
 Gradient-based adversarial attacks on categorical sequence models via traversing an embedded world<br/>
@@ -58,3 +61,4 @@ Checking Conformance between Colored Petri Nets and Event Logs<br/>
 The authors proposed an algorithm for conformance checking between colored Petri nets and event logs. The paper describes a solid theoretical approach broadening the existing conformance checking techniques.
 
 
+-->
