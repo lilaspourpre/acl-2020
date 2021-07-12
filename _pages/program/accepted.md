@@ -1,7 +1,7 @@
 ---
 title: Accepted Papers
 layout: single
-excerpt: "AIST 2020 Accepted Papers."
+excerpt: "AIST 2021 Accepted Papers."
 permalink: /program/accepted/
 sidebar: 
     nav: program
@@ -10,9 +10,12 @@ toc: true
 toc_sticky: true
 ---
 
+To be defined.
+
 Note that the titles/authors may change and papers may be withdrawn. 
 For the final titles/authors, please refer to the proceedings when they are out.
 
+<!--
 ## Data Analysis and Machine Learning
 
 ### LNCS
@@ -226,3 +229,4 @@ Checking Conformance between Colored Petri Nets and Event Logs<br/>
 Educational Data Mining for Prediction of Academically Risky Students Depending on their Temperamen<br/>
 <i>Elena Shadrina, Olga Oshmarina and Marianna Korenkova</i>
 
+-->
