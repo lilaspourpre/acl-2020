@@ -14,7 +14,7 @@ silver:
     title: "HSE"
 ---
 
-AIST 2020 is grateful to all its sponsors, who are listed below.
+AIST 2021 is grateful to all its sponsors, who are listed below.
 
 {% include gallery id="diamond" class="fourth" %}
 
