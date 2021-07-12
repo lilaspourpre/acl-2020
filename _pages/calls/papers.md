@@ -38,7 +38,6 @@ The conference will feature six tracks:
 - Social Network Analysis
 - Computer Vision
 - Theoretical Machine Learning and Optimization
-- Process Mining
 
 The list of topics relevant to these tracks is including but is not limited to:
 
