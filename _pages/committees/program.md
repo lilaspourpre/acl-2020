@@ -51,8 +51,8 @@ sidebar:
 
 
 <h3>Natural Language Processing</h3>
-- Anton Alekseev, St. Petersburg Department of V.A.Steklov Institute of Mathematics of the Russian Academy of Sciences, Russia<br/- >
-- Ilseyar Alimova, Kazan Federal University, Russia<br- />
+- Anton Alekseev, St. Petersburg Department of V.A.Steklov Institute of Mathematics of the Russian Academy of Sciences, Russia<br/>
+- Ilseyar Alimova, Kazan Federal University, Russia<br/>
 - Ekaterina Artemova, NRU HSE, Russia<br/>
 - Amir Bakarov, National Research University Higher School of Economics, Russia<br/>
 - Elena Bolshakova, Moscow State Lomonosov University, Russia<br/>
