@@ -14,7 +14,7 @@ minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "AIST 2020"
+title                    : "AIST 2021"
 title_separator          : "-"
 name                     : "AIST"
 description              : "Official website for the International Conference on Analysis of Images, Social Networks and Texts"
