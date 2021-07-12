@@ -19,6 +19,15 @@ sidebar:
         <tr>
             <td style="width: 30%;">
                 <figure>
+                    <a href="https://link.springer.com/book/10.1007/978-3-030-72610-2"><img src="/assets/images/978-3-030-37334-4.jpg"></a> <a href="https://link.springer.com/book/10.1007/978-3-030-71214-3"><img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-030-39575-9"></a>
+                </figure>
+            </td>
+            <td style="width: 60%;"><center>8th International Conference,<br><b>AIST 2020</b>,<br>Skoltech, Russia<br>October 15–16, 2020</center></td>
+            <td><center><a href=https://link.springer.com/book/10.1007/978-3-030-72610-2">LNCS</a>, <a href="https://link.springer.com/book/10.1007/978-3-030-71214-3">CCIS</a></center></td>
+        </tr>
+        <tr>
+            <td style="width: 30%;">
+                <figure>
                     <a href="https://link.springer.com/book/10.1007/978-3-030-37334-4"><img src="/assets/images/978-3-030-37334-4.jpg"></a> <a href="https://link.springer.com/book/10.1007/978-3-030-39575-9"><img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-030-39575-9"></a>
                 </figure>
             </td>
