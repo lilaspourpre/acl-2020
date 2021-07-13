@@ -31,7 +31,7 @@ Similar to the previous years, the conference proceedings will be published in t
 
 ## Tracks
 
-The conference will feature six tracks:
+The conference will feature five tracks:
 
 - Data Analysis and Machine Learning
 - Natural Language Processing
