@@ -29,14 +29,14 @@ sidebar:
 
 
 <h4>Social Network Analysis</h4>
-TBD
+ - Sergei Ivanov, Huawei, Russia<br/>
 <!--
 Vladimir Batagelj, University of Ljubljana, Slovenia<br/>
 Olessia Koltsova, Higher School of Economics, St. Petersburg, Russia
 -->
 
 <h4>Theoretical Machine Learning and Optimization</h4>
-TBD
+ - Michael Khachay, Krasovsky Institute of Mathematics and Mechanics, Russia<br/>
 <!--
 Michael Khachay, Krasovsky Institute of Mathematics and Mechanics, Russia<br/>
 Panos Pardalos, University of Florida, United States
