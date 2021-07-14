@@ -11,12 +11,16 @@ sidebar:
 - Dmitry Ignatov, Higher School of Economics, Moscow, Russia &ndash; Proceedings Chair; AIST series Head of Organization<br/>
 - Alexander Panchenko, Skolkovo Institute of Science and Technology, Russia &ndash; AIST series Head of Organization<br/>
 - Irina Nikishina, Skolkovo Institute of Science and Technology, Russia; secretary<br/>
+- Anna-Maria Lukina, Marketing Director, Exactpro, Russia; co-organizer<br/>
+- Natia Sirbiladze, CEO of Exactpro Systems, Georgia; local Organizer<br/>
+- Janna Zabolotnaya, Marketing Manager, Exactpro Systems, Russia; local Organizer
 
 <h3>Area chairs</h3>
 
 <h4>Data Analysis and Machine Learning</h4>
 - Amedeo Napoli, LORIA, France<br/>
-- Evgenii Tsymbalov, Yandex, Russia
+- Evgenii Tsymbalov, Yandex, Russia<br/>
+- Sergei O. Kuznetsov, HSE University, Russia
 
 <h4>Computer Vision</h4>
 - Evgeny Burnaev, Skolkovo Institute of Science and Technology, Russia<br/>
