@@ -16,8 +16,8 @@ main:
 #   - title: "Registration"
 #     url: /registration
 
-#   - title: "Participants"
-#     url: "/participants"
+  - title: "Venue"
+    url: "/venue"
     
   - title: "CFP"
     url: /calls/papers
