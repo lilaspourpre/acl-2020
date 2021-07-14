@@ -98,7 +98,7 @@ Please pay attention to the publisher's [Editorial Policies](https://www.springe
  
 ## Venue
 
-The conference will be held online with the support of Skolkovo Institute of Science and Technology (Skoltech) and partially offline in Tbilisi, Georgia.
+The conference will be held online with the support of Skolkovo Institute of Science and Technology (Moscow, Russia) and partially offline at [Tbilisi State University](https://www.tsu.ge/en) (Tbilisi, Georgia).
  
 ## Submission Guidelines
 
