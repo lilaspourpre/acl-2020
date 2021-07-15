@@ -11,7 +11,7 @@ sidebar:
 - Dmitry Ignatov, Higher School of Economics, Moscow, Russia &ndash; Proceedings Chair; AIST series Head of Organization<br/>
 - Alexander Panchenko, Skolkovo Institute of Science and Technology, Russia &ndash; AIST series Head of Organization<br/>
 - Irina Nikishina, Skolkovo Institute of Science and Technology, Russia; secretary<br/>
-- Anna-Maria Lukina, Marketing Director, Exactpro, Russia; co-organizer<br/>
+- Iosif Itkin, CEO and co-founder, Exactpro Systems; local Organizer<br/>
 - Natia Sirbiladze, CEO of Exactpro Systems, Georgia; local Organizer<br/>
 - Janna Zabolotnaya, Marketing Manager, Exactpro Systems, Russia; local Organizer
 
