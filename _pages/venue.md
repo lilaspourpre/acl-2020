@@ -37,7 +37,7 @@ The conference will be held online with the support of Skolkovo Institute of Sci
 </figure>
 <br>
 <figure>
-  <a href=""><img width="300" src="/assets/images/TSU 1.JPG"></a>
+  <a href=""><img width="300" src="/assets/images/TSU 1 .JPG"></a>
   <figcaption></figcaption>
 </figure>
 <br>
