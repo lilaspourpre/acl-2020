@@ -41,10 +41,8 @@ Vladimir Batagelj, University of Ljubljana, Slovenia<br/>
 
 <h4>Theoretical Machine Learning and Optimization</h4>
  - Michael Khachay, Krasovsky Institute of Mathematics and Mechanics, Russia<br/>
-<!--
-Michael Khachay, Krasovsky Institute of Mathematics and Mechanics, Russia<br/>
-Panos Pardalos, University of Florida, United States
--->
+ - Panos Pardalos, University of Florida, United States
+
 
 <!--
 <h4>Process Mining</h4>
