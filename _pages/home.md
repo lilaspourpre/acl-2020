@@ -10,7 +10,7 @@ excerpt: "<br/><br/>"
     <span style="font-weight: bold; font-size: smaller;">
     CFP : July 15<br/>&nbsp;Abstract deadline : September 1<br/>&nbsp;Submission deadline : September 15<br/>&nbsp;Notification of acceptance : November 1<br/>&nbsp;Camera-ready version : November 15<br/>&nbsp;Conference : December 16 &ndash; December 18</span>
     <br/><br/>       
-    <a href="" target="_blank" class="btn btn--primary">Register Now</a>
+    <a href="https://easychair.org/conferences/?conf=aist20211" target="_blank" class="btn btn--primary">Submit Abstract</a>
 </div>
 
 <h2>News</h2>
