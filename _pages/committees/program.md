@@ -115,6 +115,7 @@ sidebar:
 - Vladimir Ivanov, Innopolis University, Russia<br/>
 - Denis Kirjanov, National Research University Higher School of Economics, Russia<br/>
 - Evgeny Kotelnikov, Vyatka State University, Russia<br/>
+- Maria Kunilovskaya, University of Wolverhampton, United Kingdom<br/>
 - Elizaveta Kuzmenko, University of Trento, Italy<br/>
 - Konstantin Lopukhin, CHTD, Russia<br/>
 - Alexey Malafeev, National Research University Higher School of Economics, Russia<br/>
