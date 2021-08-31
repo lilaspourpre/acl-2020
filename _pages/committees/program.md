@@ -18,6 +18,7 @@ sidebar:
 - Alexander Lepskiy, National Research University Higher School of Economics, Russia<br/>
 - Ilya Makarov, National Research University Higher School of Economics, Russia<br/>
 - Evgeniy M. Ozhegov Higher School of Econommics, Russia<br/>
+- Delhibabu Radhakrishnan, Kazan Federal University and Innopolis, Kazan, Russia<br/>
 - Henry Soldano, Laboratoire d'Informatique de Paris Nord, France<br/>
 - Martin Trnecka, Palacky University Olomouc, Czech Republic<br/>
 - Christos Tryfonopoulos, University of Peloponnese, Greece<br/>
