@@ -8,7 +8,21 @@ sidebar:
 ---
 
 <h3>Data Analysis and Machine Learning</h3>
-TBD
+- Jaume Baixeries, Universitat Politècnica de Catalunya, Spain<br/>
+- Malay Bhattacharyya, Indian Statistical Institute, Kolkata, India<br/>
+- Mikhail Bogatyrev, Tula State University, Russia<br/>
+- Evgeny Burnaev, Skolkovo Institute of Science and Technology, Russia<br/>
+- Aleksey Buzmakov, GAMES team, NRU Higher School of Economics, Perm, Russia<br/>
+- Sofya Kulikova, National Reseach Univercity Higher School of Economics, Russia<br/>
+- Florence Le Ber, icube, France<br/>
+- Alexander Lepskiy, National Research University Higher School of Economics, Russia<br/>
+- Ilya Makarov, National Research University Higher School of Economics, Russia<br/>
+- Evgeniy M. Ozhegov Higher School of Econommics, Russia<br/>
+- Henry Soldano, Laboratoire d'Informatique de Paris Nord, France<br/>
+- Martin Trnecka, Palacky University Olomouc, Czech Republic<br/>
+- Christos Tryfonopoulos, University of Peloponnese, Greece<br/>
+- Alexey Zaytsev, Skoltech, IITP RAS, Russia<br/>
+- 
 
 <!--
 - Jaume Baixeries, Universitat Politècnica de Catalunya, Spain<br/>
@@ -26,7 +40,29 @@ TBD
 -->
 
 <h3>Computer Vision</h3>
-TBD
+
+- Vladimir Arlazarov, Smart Engines Ltd, Federal Research Center “Computer Science and Control” of Russian Academy of Sciences, Russia<br/>
+- Aleksey Artamonov, Neuromation, Russia<br/>
+- Alexey, Chernyavskiy, Philips Innovation Labs Russia, Russia<br/>
+- Ivan Drokin, Botkin.ai, Russia<br/>
+- Elena Ericheva, Botkin.ai, Russia<br/>
+- Petr Gladilin, ITMO University, Russia<br/>
+- Javad Khodadoust, Payame Noor University (PNU), Iran<br/>
+- Anton Konushin, NRU HSE, Russia<br/>
+- Andrey Kopylov, Tula State University, Russia<br/>
+- Andrey Kuznetsov, Samara National Research University, Russia<br/>
+- Ilya Makarov, National Research University Higher School of Economics, Russia<br/>
+- Yury Malkov, Institute of Applied Physics of the Russian Academy of Sciences, Russia<br/>
+- Evgeny Myasnikov, Samara National Research University, Russia<br/>
+- Long Nguyen The, Irkutsk State Technical University, Russia<br/>
+- Alexey Ruchay, Chelyabinsk State University, Russia<br/>
+- Christian Sacarea, Babes-Bolyai University, Romania<br/>
+- Friedhelm Schwenker, Ulm University, Germany<br/>
+- Vlad Shakhuro, Lomonosov Moscow State University, Russia<br/>
+- Dmitry Stepanov, Program System Institute of Russian Academy of Sciences, Russia<br/>
+- Vadim Strijov, Moscow Institute of Physics and Technology, Russia<br/>
+- Valery Volokha, ITMO University, Russia<br/>
+- Dmitry Yashunin, Harman, Russia
 
 <!--
 - Vladimir Arlazarov, Smart Engines Ltd, Federal Research Center “Computer Science and Control” of Russian Academy of Sciences, Russia<br/>
@@ -37,7 +73,6 @@ TBD
 - Javad Khodadoust, Payame Noor University (PNU), Iran<br/>
 - Anton Konushin, NRU HSE, Russia<br/>
 - Andrey Kopylov, Tula State University, Russia<br/>
-- Andrey Kuznetsov, Samara National Research University, Russia<br/>
 - Ilya Makarov, National Research University Higher School of Economics, Russia<br/>
 - Yury Malkov, Institute of Applied Physics of the Russian Academy of Sciences, Russia<br/>
 - Evgeny Myasnikov, Samara National Research University, Russia<br/>
@@ -58,7 +93,45 @@ TBD
 -->
 
 <h3>Natural Language Processing</h3>
-TBD
+- Anton Alekseev, St. Petersburg Department of V.A.Steklov Institute of Mathematics of the Russian Academy of Sciences, Russia<br/>
+- Ilseyar Alimova, Kazan Federal University, Russia<br/>
+- Aleksandr Babii, National Research University Higher School of Economics, Russia<br/>
+- Yulia Badryzlova, National Research University Higher School of Economics, Russia<br/>
+- Amir Bakarov, National Research University Higher School of Economics, Russia<br/>
+- Tatiana Batura, A.P.Ershov Institute of Informatics Systems SB RAS; Novosibirsk State University, Russia<br/>
+- Elena Bolshakova, Moscow State Lomonosov University, Russia<br/>
+- Mikhail Chernoskutov, IMM UB RAS, UrFU, Russia<br/>
+- Daniil Chernyshev, Lomonosov Moscow State University, Russia<br/>
+- Boris Dobrov, Recearch Computing Center of Moscow State Univ., Russia<br/>
+- Alena Fenogenova, Sberbank, SberDevices, Russia<br/>
+- Elena Filatova, City University of New York, USA<br/>
+- Yuriy Gapanyuk, Bauman Moscow State Technical University, Russia<br/>
+- Anna Glazkova, University of Tyumen, Russia<br/>
+- Taisia Glushkova, Instituto Superior Técnico, Instituto de Telecomunicaçōes, Portugal<br/>
+- Natalia Grabar, STL CNRS Université Lille 3, France<br/>
+- Dmitry Granovsky, Yandex, Russia<br/>
+- Dmitry Ilvovsky, National Research University Higher School of Economics, Russia<br/>
+- Max Ionov, Goethe University Frankfurt / Moscow State University, Germany<br/>
+- Vladimir Ivanov, Innopolis University, Russia<br/>
+- Denis Kirjanov, National Research University Higher School of Economics, Russia<br/>
+- Evgeny Kotelnikov, Vyatka State University, Russia<br/>
+- Elizaveta Kuzmenko, University of Trento, Italy<br/>
+- Konstantin Lopukhin, CHTD, Russia<br/>
+- Alexey Malafeev, National Research University Higher School of Economics, Russia<br/>
+- Valentin Malykh, ISA RAS, Russia<br/>
+- Olga Mitrofanova, St. Petersburg State University, Russia<br/>
+- Damien Nouvel, INaLCO, France<br/>
+- Dina Pisarevskaya, Queen Mary University of London, United Kingdom<br/>
+- Vladimir Pleshko, RCO, Russia<br/>
+- Yuliya Rubtsova, The A.P. Ershov Institute of Informatics Systems (IIS), Siberian Branch of the Russian, Russia<br/>
+- Tatiana Shavrina, National Research University Higher School of Economics, Russia<br/>
+- Andrey Shcherbakov, Intel, Australia<br/>
+- Alexey Sorokin, Moscow State University, Russia<br/>
+- Irina Temnikova, Qatar Computing Research Institute, Qatar<br/>
+- Mikhail Tikhomirov, Moscow State University, Russia<br/>
+- Yuliya Trofimova, Russia<br/>
+- Ekaterina Vylomova, The University of Melbourne, Australia
+- Nikolai Zolotykh, University of Nizhni Novgorod, Russia<br/>
 
 <!--
 - Anton Alekseev, St. Petersburg Department of V.A.Steklov Institute of Mathematics of the Russian Academy of Sciences, Russia<br/>
@@ -97,7 +170,7 @@ TBD
 -->
 
 <h3>Social Network Analysis</h3>
-TBD
+- Sergei Koltcov, National Research University Higher School of Economics, Russia<br/>
 
 <!--
 - Ilia Karpov, National Research University Higher School of Economics, Russia<br/>
@@ -110,7 +183,12 @@ TBD
 -->
 
 <h3>Theoretical Machine Learning and Optimization</h3>
-TBD
+- Artem Baklanov, International Institute for Applied Systems Analysis (IIASA), Austria<br/>
+- Anton Eremeev, Omsk Branch of Sobolev Institute of Mathmatics SB RAS, Russia<br/>
+- Alexander, Kazakov, Matrosov Institute for System Dynamics and Control Theory SB RAS, Russia<br/>
+- Yury Kochetov, Sobolev Institute of Mathematics, Russia<br/>
+- Anna Lempert, Matrosov Institute for System Dynamics and Control Theory SB RAS, Russia<br/>
+- Tatiana Tchemisova, University of Aveiro, Portugal<br/>
 
 <!--
 - Alexander, Kazakov, Matrosov Institute for System Dynamics and Control Theory SB RAS, Russia<br/>
