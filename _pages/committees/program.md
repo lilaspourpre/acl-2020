@@ -57,6 +57,7 @@ sidebar:
 - Long Nguyen The, Irkutsk State Technical University, Russia<br/>
 - Alexey Ruchay, Chelyabinsk State University, Russia<br/>
 - Christian Sacarea, Babes-Bolyai University, Romania<br/>
+- Aleksei Samarin, SpbSU, Russia<br/>
 - Friedhelm Schwenker, Ulm University, Germany<br/>
 - Vlad Shakhuro, Lomonosov Moscow State University, Russia<br/>
 - Dmitry Stepanov, Program System Institute of Russian Academy of Sciences, Russia<br/>
