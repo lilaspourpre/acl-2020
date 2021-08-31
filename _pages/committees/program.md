@@ -21,8 +21,7 @@ sidebar:
 - Henry Soldano, Laboratoire d'Informatique de Paris Nord, France<br/>
 - Martin Trnecka, Palacky University Olomouc, Czech Republic<br/>
 - Christos Tryfonopoulos, University of Peloponnese, Greece<br/>
-- Alexey Zaytsev, Skoltech, IITP RAS, Russia<br/>
-- 
+- Alexey Zaytsev, Skoltech, IITP RAS, Russia
 
 <!--
 - Jaume Baixeries, Universitat Politècnica de Catalunya, Spain<br/>
