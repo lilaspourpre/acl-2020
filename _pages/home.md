@@ -15,7 +15,7 @@ excerpt: "<br/><br/>"
 
 <h2>News</h2>
 
-**September 2, 2021**. Hurry up! The deadline for abstract submission is almost over!
+**September 2, 2021**. The deadline for abstract submission is almost over.
 {: .notice--info}
 
 **July 8, 2021**. CFP will be published on July 15!
