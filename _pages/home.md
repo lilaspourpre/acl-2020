@@ -8,12 +8,15 @@ excerpt: "<br/><br/>"
 ---
 <div class="text-center">
     <span style="font-weight: bold; font-size: smaller;">
-    CFP : July 15<br/>&nbsp;Abstract deadline : September 1<br/>&nbsp;Submission deadline : September 15<br/>&nbsp;Notification of acceptance : November 1<br/>&nbsp;Camera-ready version : November 15<br/>&nbsp;Conference : December 16 &ndash; December 18</span>
+    CFP : July 15<br/>&nbsp;Abstract deadline : <strike>September 1</strike><br/>&nbsp;Submission deadline : September 15<br/>&nbsp;Notification of acceptance : November 1<br/>&nbsp;Camera-ready version : November 15<br/>&nbsp;Conference : December 16 &ndash; December 18</span>
     <br/><br/>       
     <a href="https://easychair.org/conferences/?conf=aist20211" target="_blank" class="btn btn--primary">Submit Abstract</a>
 </div>
 
 <h2>News</h2>
+
+**September 2, 2021**. Hurry up! The deadline for abstract submission is almost over!
+{: .notice--info}
 
 **July 8, 2021**. CFP will be published on July 15!
 {: .notice--info}
