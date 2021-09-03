@@ -33,7 +33,7 @@ Similar to the previous years, the conference proceedings will be published in t
 
 The conference will feature five tracks:
 
-- Data Analysis and Machine Learning
+- Data Analysis
 - Natural Language Processing
 - Social Network Analysis
 - Computer Vision
