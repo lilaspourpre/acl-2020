@@ -17,7 +17,7 @@ sidebar:
 
 <h3>Area chairs</h3>
 
-<h4>Data Analysis and Machine Learning</h4>
+<h4>Data Analysis</h4>
 - Amedeo Napoli, LORIA, France<br/>
 - Evgenii Tsymbalov, Yandex, Russia<br/>
 - Sergei O. Kuznetsov, HSE University, Russia
