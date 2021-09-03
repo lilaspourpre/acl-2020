@@ -7,7 +7,7 @@ sidebar:
     nav: committees 
 ---
 
-<h3>Data Analysis and Machine Learning</h3>
+<h3>Data Analysis</h3>
 - Jaume Baixeries, Universitat Politècnica de Catalunya, Spain<br/>
 - Malay Bhattacharyya, Indian Statistical Institute, Kolkata, India<br/>
 - Mikhail Bogatyrev, Tula State University, Russia<br/>
