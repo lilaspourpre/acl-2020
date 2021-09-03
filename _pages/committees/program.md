@@ -13,6 +13,8 @@ sidebar:
 - Mikhail Bogatyrev, Tula State University, Russia<br/>
 - Evgeny Burnaev, Skolkovo Institute of Science and Technology, Russia<br/>
 - Aleksey Buzmakov, GAMES team, NRU Higher School of Economics, Perm, Russia<br/>
+- Yury Kashnitsky, Moscow Institute of Physics and Technology, Russia<br/>
+- Jan Konecny, Dept. Computer Science, Palacky University, Olomouc, Czech Republic<br/>
 - Sofya Kulikova, National Reseach Univercity Higher School of Economics, Russia<br/>
 - Florence Le Ber, icube, France<br/>
 - Alexander Lepskiy, National Research University Higher School of Economics, Russia<br/>
@@ -108,6 +110,7 @@ sidebar:
 - Alena Fenogenova, Sberbank, SberDevices, Russia<br/>
 - Elena Filatova, City University of New York, USA<br/>
 - Yuriy Gapanyuk, Bauman Moscow State Technical University, Russia<br/>
+- Maksim Glazkov, Neuro.net, Russia<br/>
 - Anna Glazkova, University of Tyumen, Russia<br/>
 - Taisia Glushkova, Instituto Superior Técnico, Instituto de Telecomunicaçōes, Portugal<br/>
 - Natalia Grabar, STL CNRS Université Lille 3, France<br/>
@@ -120,12 +123,15 @@ sidebar:
 - Maria Kunilovskaya, University of Wolverhampton, United Kingdom<br/>
 - Elizaveta Kuzmenko, University of Trento, Italy<br/>
 - Konstantin Lopukhin, CHTD, Russia<br/>
+- Olga Lyashevskaya, National Research University Higher School of Economics, Russia<br/>
 - Alexey Malafeev, National Research University Higher School of Economics, Russia<br/>
 - Valentin Malykh, ISA RAS, Russia<br/>
 - Olga Mitrofanova, St. Petersburg State University, Russia<br/>
 - Damien Nouvel, INaLCO, France<br/>
+- Stefan Pickl, Bundeswehr University Munich, Germany<br/>
 - Dina Pisarevskaya, Queen Mary University of London, United Kingdom<br/>
 - Vladimir Pleshko, RCO, Russia<br/>
+- Julia Rodina, National Research University Higher School of Economics, Russia<br/>
 - Yuliya Rubtsova, The A.P. Ershov Institute of Informatics Systems (IIS), Siberian Branch of the Russian, Russia<br/>
 - Tatiana Shavrina, National Research University Higher School of Economics, Russia<br/>
 - Andrey Shcherbakov, Intel, Australia<br/>
