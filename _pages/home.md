@@ -14,6 +14,7 @@ excerpt: "<br/><br/>"
 </div>
 
 <h2>News</h2>
+
 **September 26, 2021**. Paper submission deadline is postponed until September, 26.
 {: .notice--info}
 
