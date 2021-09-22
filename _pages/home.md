@@ -14,6 +14,11 @@ excerpt: "<br/><br/>"
 </div>
 
 <h2>News</h2>
+**September 26, 2021**. Paper submission deadline is postponed until September, 26.
+{: .notice--info}
+
+**September 22, 2021**. Do not miss the last chance to submit your abstract to AIST.
+{: .notice--info}
 
 **September 2, 2021**. The deadline for abstract submission is almost over.
 {: .notice--info}
