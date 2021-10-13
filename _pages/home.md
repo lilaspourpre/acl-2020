@@ -8,12 +8,13 @@ excerpt: "<br/><br/>"
 ---
 <div class="text-center">
     <span style="font-weight: bold; font-size: smaller;">
-    CFP : July 15<br/>&nbsp;Abstract deadline : <strike>September 1</strike> September 22<br/>&nbsp;Submission deadline : <strike>September 15</strike> September 26<br/>&nbsp;Notification of acceptance : November 1<br/>&nbsp;Camera-ready version : November 15<br/>&nbsp;Conference : December 16 &ndash; December 18</span>
-    <br/><br/>       
-    <a href="https://easychair.org/conferences/?conf=aist20211" target="_blank" class="btn btn--primary">Submit Abstract</a>
+    CFP : July 15<br/>&nbsp;Abstract deadline : <strike>September 1</strike> <strike>September 22</strike><br/>&nbsp;Submission deadline : <strike>September 15</strike> <strike>September 26</strike><br/>&nbsp;Notification of acceptance : November 1<br/>&nbsp;Camera-ready version : November 15<br/>&nbsp;Conference : December 16 &ndash; December 18</span>
 </div>
 
 <h2>News</h2>
+
+**October 13, 2021**. Paper review procedure is currently in progress.
+{: .notice--info}
 
 **September 26, 2021**. Paper submission deadline is postponed until September, 26.
 {: .notice--info}
