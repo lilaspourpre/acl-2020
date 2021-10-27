@@ -34,7 +34,7 @@ sidebar:
 
 <h4>Social Network Analysis</h4>
  - Sergei Ivanov, Huawei, Russia<br/>
- - Olessia Koltsova, Higher School of Economics, St. Petersburg, Russia</br>
+ - Olessia Koltsova, Higher School of Economics, St. Petersburg, Russia<br/>
  - Jari Saramäki, Aalto University, Finland
 
 <h4>Theoretical Machine Learning and Optimization</h4>
