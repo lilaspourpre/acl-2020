@@ -200,7 +200,6 @@ sidebar:
 - Dmitri Kvasov DIMES, University of Calabria, Italy<br/>
 - Anna Lempert, Matrosov Institute for System Dynamics and Control Theory SB RAS, Russia<br/>
 - Yury Nikulin, University of Turku, Russia<br/>
-- Panos Pardalos, University of Florida, USA<br/>
 - Alex Petunin UrFU, Russia<br/>
 - Tatiana Tchemisova, University of Aveiro, Portugal<br/>
 - Konstantin Vorontsov
