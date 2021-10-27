@@ -13,9 +13,11 @@ sidebar:
 - Mikhail Bogatyrev, Tula State University, Russia<br/>
 - Evgeny Burnaev, Skolkovo Institute of Science and Technology, Russia<br/>
 - Aleksey Buzmakov, GAMES team, NRU Higher School of Economics, Perm, Russia<br/>
+- Anna Ermolayeva, Peoples' Friendship University of Russia, Russia<br/>
 - Yury Kashnitsky, Moscow Institute of Physics and Technology, Russia<br/>
 - Jan Konecny, Dept. Computer Science, Palacky University, Olomouc, Czech Republic<br/>
 - Sofya Kulikova, National Reseach Univercity Higher School of Economics, Russia<br/>
+- Anvar	Kurmukov, IITP RAS, Russia<br/>
 - Florence Le Ber, icube, France<br/>
 - Alexander Lepskiy, National Research University Higher School of Economics, Russia<br/>
 - Ilya Makarov, National Research University Higher School of Economics, Russia<br/>
@@ -61,6 +63,7 @@ sidebar:
 - Christian Sacarea, Babes-Bolyai University, Romania<br/>
 - Aleksei Samarin, SpbSU, Russia<br/>
 - Friedhelm Schwenker, Ulm University, Germany<br/>
+- Oleg Seredin, Tula State University, Russia<br/>
 - Vlad Shakhuro, Lomonosov Moscow State University, Russia<br/>
 - Dmitry Stepanov, Program System Institute of Russian Academy of Sciences, Russia<br/>
 - Vadim Strijov, Moscow Institute of Physics and Technology, Russia<br/>
@@ -106,9 +109,10 @@ sidebar:
 - Elena Bolshakova, Moscow State Lomonosov University, Russia<br/>
 - Mikhail Chernoskutov, IMM UB RAS, UrFU, Russia<br/>
 - Daniil Chernyshev, Lomonosov Moscow State University, Russia<br/>
+- Vera Davydova, Sber AI, Russia<br/>
 - Boris Dobrov, Recearch Computing Center of Moscow State Univ., Russia<br/>
 - Alena Fenogenova, Sberbank, SberDevices, Russia<br/>
-- Elena Filatova, City University of New York, USA<br/>
+- Elena Filatova, City University of New York, United States<br/>
 - Yuriy Gapanyuk, Bauman Moscow State Technical University, Russia<br/>
 - Maksim Glazkov, Neuro.net, Russia<br/>
 - Anna Glazkova, University of Tyumen, Russia<br/>
@@ -120,6 +124,7 @@ sidebar:
 - Vladimir Ivanov, Innopolis University, Russia<br/>
 - Denis Kirjanov, National Research University Higher School of Economics, Russia<br/>
 - Evgeny Kotelnikov, Vyatka State University, Russia<br/>
+- Angelina Kudriavtseva, Lomonosov Moscow State University, Russia<br/>
 - Maria Kunilovskaya, University of Wolverhampton, United Kingdom<br/>
 - Elizaveta Kuzmenko, University of Trento, Italy<br/>
 - Konstantin Lopukhin, CHTD, Russia<br/>
@@ -132,6 +137,7 @@ sidebar:
 - Dina Pisarevskaya, Queen Mary University of London, United Kingdom<br/>
 - Vladimir Pleshko, RCO, Russia<br/>
 - Julia Rodina, National Research University Higher School of Economics, Russia<br/>
+- Alexey Romanov, University of Massachusetts Lowell, United States<br/>
 - Yuliya Rubtsova, The A.P. Ershov Institute of Informatics Systems (IIS), Siberian Branch of the Russian, Russia<br/>
 - Tatiana Shavrina, National Research University Higher School of Economics, Russia<br/>
 - Andrey Shcherbakov, Intel, Australia<br/>
