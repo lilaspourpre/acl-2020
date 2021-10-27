@@ -179,7 +179,16 @@ sidebar:
 -->
 
 <h3>Social Network Analysis</h3>
+- Nikita Basov, St. Petersburg State University, Russia<br/>
+- Vladimir Batagelj, University of Ljubljana, Slovenia<br/>
+- Ilia Karpov, National Research University Higher School of Economics, Russia<br/>
 - Sergei Koltcov, National Research University Higher School of Economics, Russia<br/>
+- Ekaterina	Krekhovets, National Research University Higher School of Economics, Russia<br/>
+- Ilya	Makarov, National Research University Higher School of Economics, Russia<br/>
+- Sergey Pashakhin, National Research University Higher School of Economics, Russia<br/>
+- Alexander	Porshnev, National Research University Higher School of Economics, Russia<br/>
+- Ekaterina Pronoza, Saint-Petersburg State University, Russia<br/>
+- Andrey Sozykin, Krasovskii Institute of Mathematics and Mechanics, Russia<br/>
 
 <!--
 - Ilia Karpov, National Research University Higher School of Economics, Russia<br/>
