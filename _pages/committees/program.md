@@ -194,10 +194,16 @@ sidebar:
 <h3>Theoretical Machine Learning and Optimization</h3>
 - Artem Baklanov, International Institute for Applied Systems Analysis (IIASA), Austria<br/>
 - Anton Eremeev, Omsk Branch of Sobolev Institute of Mathmatics SB RAS, Russia<br/>
+- Adil Erzin, Sobolev Institute of Mathematics, Russia<br/>
 - Alexander, Kazakov, Matrosov Institute for System Dynamics and Control Theory SB RAS, Russia<br/>
 - Yury Kochetov, Sobolev Institute of Mathematics, Russia<br/>
+- Dmitri Kvasov DIMES, University of Calabria, Italy<br/>
 - Anna Lempert, Matrosov Institute for System Dynamics and Control Theory SB RAS, Russia<br/>
+- Yury Nikulin, University of Turku, Russia<br/>
+- Panos Pardalos, University of Florida, USA<br/>
+- Alex Petunin UrFU, Russia<br/>
 - Tatiana Tchemisova, University of Aveiro, Portugal<br/>
+- Konstantin Vorontsov
 
 <!--
 - Alexander, Kazakov, Matrosov Institute for System Dynamics and Control Theory SB RAS, Russia<br/>
