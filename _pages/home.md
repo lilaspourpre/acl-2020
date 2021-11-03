@@ -13,6 +13,9 @@ excerpt: "<br/><br/>"
 </div>
 
 <h2>News</h2>
+**November 3, 2021**. AIST conference will still be held both offline and online with some COVID-19 restrictions. Please, fill in the registration form.
+{: .notice--info}
+
 **November 3, 2021**. Registration for the conference (for both offline and online formats) is open!
 {: .notice--info}
 
