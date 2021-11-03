@@ -19,7 +19,7 @@ excerpt: "<br/><br/>"
 **November 3, 2021**. Registration for the conference (for both offline and online formats) is open!
 {: .notice--info}
 
-**November 2, 2021**. Notification of acceptance are sent.
+**November 2, 2021**. Notifications of acceptance are sent.
 {: .notice--info}
 
 **October 13, 2021**. Paper review procedure is currently in progress.
