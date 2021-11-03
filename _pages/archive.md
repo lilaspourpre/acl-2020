@@ -7,6 +7,18 @@ toc: false
 toc_icon: "cog"
 ---
 
+**September 26, 2021**. Paper submission deadline is postponed until September, 26.
+{: .notice--info}
+
+**September 22, 2021**. Do not miss the last chance to submit your abstract to AIST.
+{: .notice--info}
+
+**September 2, 2021**. The deadline for abstract submission is almost over.
+{: .notice--info}
+
+**July 8, 2021**. CFP will be published on July 15!
+{: .notice--info}
+
 **October 16, 2020**. Best paper awards are published [online](/program/best/)
 {: .notice--info}
 
