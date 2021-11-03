@@ -33,7 +33,7 @@ sidebar:
 
 
 <h4>Social Network Analysis</h4>
- - Sergei Ivanov, Huawei, Russia<br/>
+ - Sergei Ivanov, Skolkovo Institute of Science and Technology, Russia<br/>
  - Olessia Koltsova, Higher School of Economics, St. Petersburg, Russia<br/>
  - Jari Saramäki, Aalto University, Finland
 
