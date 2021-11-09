@@ -7,6 +7,9 @@ toc: false
 toc_icon: "cog"
 ---
 
+**November 9, 2021**. The list of accepted papers is <a href="/program/accepted/" style="font-size: smaller; font-decoration: italic;">published</a>!
+{: .notice--info}
+
 **September 26, 2021**. Paper submission deadline is postponed until September, 26.
 {: .notice--info}
 
