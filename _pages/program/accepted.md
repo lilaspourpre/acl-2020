@@ -10,223 +10,177 @@ toc: true
 toc_sticky: true
 ---
 
-To be defined.<br>
-
 Note that the titles/authors may change and papers may be withdrawn. 
 For the final titles/authors, please refer to the proceedings when they are out.
 
-<!--
+
 ## Data Analysis and Machine Learning
 
 ### LNCS
 
-Gradient-based adversarial attacks on categorical sequence models via traversing an embedded world<br/>
-<i>Ivan Fursov, Alexey Zaytsev, Nikita Klyuchnikov, Andrey Kravchenko and Evgeny Burnaev</i>
+Depression Detection by Person's Voice<br/>
+<i>Evgeniya Zavorina and Ilya Makarov</i>
 
-Bayesian Filtering in a Latent Space to Predict Bank Net Income from Acquiring<br/>
-<i>Evgeny Burnaev</i>
+Scalable computation of prediction intervals for neural networks with matrix sketching<br/>
+<i>Alexander Fishkov and Maxim Panov</i>
 
-Human Action Recognition for Boxing Training Simulator<br/>
-<i>Anton Broilovskiy and Ilya Makarov</i>
-
-New Properties Of The Data Distillation Method When Working With Tabular Data<br/>
+Learning to Generate Synthetic Training Data using Gradient Matching and Implicit Differentiation<br/>
 <i>Dmitry Medvedev and Alexander Dyakonov</i>
 
-Unsupervised anomaly detection for semi-structured sequence healthcare data<br/>
-<i>Victoria Snorovikhina and Alexey Zaytsev</i>
+Application of data analysis methods to optimize the operation of a multifunctional service center<br/>
+<i>Ekaterina Kasatkina and Daiana Vavilova</i>
 
-Advanced data recognition technique for real-time sand monitoring systems<br/>
-<i>Artem Appalonov, Yulia Maslennikova and Artem Khasanov</i>
-
-Russia on the Global Artificial Intelligence Scene<br/>
-<i>Dmitry Kochetkov, Aliaksandr Birukou and Anna Ermolayeva</i>
+Dropout Strikes Back: Improved Uncertainty Estimation via Diversity Sampling<br/>
+<i>Kirill Fedyanin, Evgenii Tsymbalov and Maxim Panov</i>
 
 ---------------------------------------------
 
 ### CCIS
 
-Interpretation of 3D CNNs for Brain MRI Data Classification<br/>
-<i>Maxim Kan, Ruslan Aliev, Anna Rudenko, Nikita Petrashen, Nikita Drobyshev, Ekaterina Kondrateva, Maxim Sharaev, Alexander Bernstein and Evgeny Burnaev</i>
-
-A Comparison of Neural Networks Architectures for Diacritics Restoration<br/>
-<i>Eduard Klyshinsky and Olesya Karpik</i>
-
-Object-Attribute Biclustering for Elimination of Missing Genotypes in Ischemic Stroke Data<br/>
-<i>Dmitry Ignatov, Gennady Khvorykh, Stefan Nikolic, Makhmud Shaban and Fouzi Takelait</i>
+TBD
 
 
 ## Computer Vision
 
 ### LNCS
 
-Deep Learning on Point Clouds for False Positive Reduction at Nodule Detection in Chest CT Scans<br/>
-<i>Ivan Drokin and Elena Ericheva</i>
+Group-level Affect Recognition in Video using Deviation of Frame Features<br/>
+<i>Andrey Savchenko, Lyudmila Savchenko and Natalya Belova</i>
 
-Semi-Automatic Manga Colorization using Conditional Adversarial Networks<br/>
-<i>Maksim Golyadkin and Ilya Makarov</i>
+Data dimension reduction technique based on preservation of Hellinger divergence<br/>
+<i>Evgeny Myasnikov</i>
 
-Automated Image and Video Quality Assessment for Computational Video Editing<br/>
-<i>Konstantin Lomotin and Ilya Makarov</i>
+Development of a method for iris-based person recognition using convolutional  neural networks<br/>
+<i>Yulia Ganeeva and Evgeny Myasnikov</i>
 
-Identifying user interests and habits using object detection and semantic segmentation models<br/>
-<i>Petr Gladilin and Valeria Volokha</i>
+Outfit Recommendation Using Visual Similarity<br/>
+<i>Diana Zagidullina and Ilya Makarov</i>
 
 ---------------------------------------------
 
 ### CCIS
 
-Efficient Group-based Cohesion Prediction in Images using Facial Descriptors<br/>
-<i>Ilya Gavrikov and Andrey Savchenko</i>
+Transformer-based Deep Reinforcement Learning in VizDoom<br/>
+<i>Vitalii Sopov and Ilya Makarov</i>
 
-Automatic Grading of Knee Osteoarthritis from Plain Radiographs using Densely Connected Convolutional Networks<br/>
-<i>Alexey Mikhaylichenko and Yana Demyanenko</i>
+Text CAPTCHA Traversal via Knowledge Distillation of Convolutional Neural Networks: Exploring the Impact of Color Channels Selection<br/>
+<i>Valery Terekhov, Valery Chernenky and Denis Ishkov</i>
 
-A Novel Approach to Measurement of the Transverse Velocity of the Large-Scale Objects<br/>
-<i>Ivan Goncharov, Alexey Mikhaylichenko and Anatoly Kleschenkov</i>
-
-Unsupervised training of denoising networks<br/>
-<i>Alexey Kovalenko and Yana Demyanenko</i>
+Analysis of thresholding methods for the segmentation of brain vessels<br/>
+<i>Alexey Kruzhalov and Andrey Philippovich</i>
 
 ## Natural Language Processing
 
 ### LNCS
 
-ELMo and BERT in semantic change detection for Russian<br/>
-<i>Yuliya Trofimova, Julia Rodina, Andrey Kutuzov and Ekaterina Artemova</i>
+Near-Zero-Shot Suggestion Mining with a Little Help from WordNet<br/>
+<i>Anton Alekseev, Elena Tutubalina, Sejeong Kwon and Sergey Nikolenko</i>
 
-RST Discourse Parser for Russian: Experimental Study of Deep Learning Models<br/>
-<i>Elena Chistova, Artem Shelmanov, Dina Pisarevskaya, Maria Kobozeva, Svetlana Toldova, Alexander Panchenko and Ivan Smirnov</i>
+Building a Bilingual QA-system with ruGPT-3<br/>
+<i>Tatiana Shavrina, Dina Pisarevskaya and Valentin Malykh</i>
 
-Do topics make a metaphor? Topic modeling for metaphor identification and analysis in Russian<br/>
-<i>Yulia Badryzlova, Anastasia Nikiforova and Olga Lyashevskaya</i>
+Jokingbird: Funny Headline Generation for News<br/>
+<i>Nikita Login, Alexander Baranov and Pavel Braslavski</i>
 
-Generating Sport Summaries: A Case Study for Russian<br/>
-<i>Valentin Malykh, Denis Porplenko and Elena Tutubalina</i>
+Learning to Rank with Capsule Neural Networks<br/>
+<i>Anna Nesterenko and Anastasia Ianina</i>
 
-DaNetQA: a yes/no Question Answering Dataset for the Russian Language<br/>
-<i>Ekaterina Artemova, Taisiya Glushkova, Alexey Machnev and Dmitry Ignatov</i>
+Transformers for online social network language modelling<br/>
+<i>Ilia Karpov and Nick Kartashev</i>
 
-BERT for Sequence-to-Sequence Multi-Label Text Classification<br/>
-<i>Ramil Yarullin and Pavel Serdyukov</i>
+Multilingual Embeddings for Clustering Cultural Events<br/>
+<i>Maria Kunilovskaya and Elizaveta Kuzmenko</i>
 
-Ensemble-based commercial buildings facades photographs classifier<br/>
-<i>Aleksei Samarin and Valentin Malykh</i>
+Lexicon-based Methods vs. BERT for Text Sentiment Analysis<br/>
+<i>Anastasia Kotelnikova, Danil Paschenko, Klavdiya Bochenina and Evgeny Kotelnikov</i>
 
-Automatic emotion identification in russian text messages<br/>
-<i>Marina Kazyulina, Aleksandr Babii and Alexey Malafeev</i>
+Sculpting enhanced dependencies for Belarusian<br/>
+<i>Yana Shishkina and Olga Lyashevskaya</i>
 
-A Comparative Study of Feature Types for Age-Based Text Classification<br/>
-<i>Anna Glazkova, Yury Egorov and Maksim Glazkov</i>
+Improving morpheme segmentation using BERT embeddings<br/>
+<i>Alexey Sorokin</i>
 
-Automatic Generation of Annotated Collection for Recognition of Sentiment Frames<br/>
-<i>Yuliana Solomatina and Natalia Loukachevitch</i>
+Selection of pseudo-annotated data for adverse drug reaction classification across drug groups<br/>
+<i>Ilseyar Alimova and Elena Tutubalina</i>
 
-Metagraph based approach for neural text question generation<br/>
-<i>Marina Belyanova, Sergey Chernobrovkin, Igor Latkin and Yuriy Gapanyuk</i>
+Building a Combined Morphological Model for Russian Word Forms<br/>
+<i>Elena Bolshakova and Alexander Sapin</i>
 
-Abstractive Summarization of Russian News Learning on Quality Media<br/>
-<i>Daniil Chernyshev and Boris Dobrov</i>
+Training dataset and dictionary sizes matter in BERT models: the case of Baltic languages<br/>
+<i>Matej Ulčar and Marko Robnik-Šikonja</i>
 
 ---------------------------------------------
 
 ### CCIS
 
-Detecting Automatically Managed Accounts in Online Social Networks: Graph Embedding Approach<br/>
-<i>Ilia Karpov and Ekaterina Glazkova</i>
+Language-free regular expression search of document's references<br/>
+<i>Aleksandr Ogaltsov</i>
 
-Federated Learning in Named Entity Recognition<br/>
-<i>Efim Luboshnikov and Ilya Makarov</i>
+Extracting Software Requirements from Unstructured Documents<br/>
+<i>Vladimir Ivanov, Andrey Sadovykh, Alexandr Naumchev, Alessandra Bagnato and Kirill Yakovlev</i>
 
-Semantic Recommendation System for Bilingual Corpus of Academic Papers<br/>
-<i>Anna Safaryan, Petr Filchenkov, Weijia Yan, Andrey Kutuzov and Irina Nikishina</i>
+Using BERT to Explore Lexical Semantic Change of Prepositions<br/>
+<i>Vasily Konovalov and Liudmila Radchankava</i>
 
-Prediction of News Popularity via Keywords Extraction and Trends Tracking<br/>
-<i>Alexander Pugachev, Anton Voronov and Ilya Makarov</i>
+Call Larisa Ivanovna: Code-Mixing Fools Multilingual NLU Models<br/>
+<i>Alexey Birshert and Ekaterina Artemova</i>
 
-Methods for Verification of Sentiment frames<br/>
-<i>Irina Matueva and Natalia Loukachevitch</i>
+Continuous prompt tuning for Russian: how to learn prompts efficiently with RuGPT3?<br/>
+<i>Nikita Konodyuk and Maria Tikhonova</i>
 
-A Multi-task Learning Approach to Text Simplification<br/>
-<i>Anna Dmitrieva and Jörg Tiedemann</i>
+Context-based text-graph embeddings in word-sense induсtion tasks<br/>
+<i>Leonid Sherstyuk and Ilya Makarov</i>
 
-E-hypertext Media Topic Model with Automatic Label Assignment<br/>
-<i>Olga Mitrofanova, Anna Kriukova, Valery Shulginov and Vadim Shulginov</i>
-
-Convolutional Variational Autoencoders for Audio Feature Representation in Speech Recognition Systems<br/>
-<i>Olga Yakovenko and Ivan Bondarenko</i>
-
-Did You Just Assume My Vector? Detecting Gender Stereotypes in Word Embeddings<br/>
-<i>Amir Bakarov</i>
-
-Investigating the robustness of reading difficulty models for Russian educational texts<br/>
-<i>Ulyana Isaeva and Alexey Sorokin</i>
-
+Does BERT look at sentiment lexicon?<br/>
+<i>Elena Razova, Sergey Vychegzhanin and Evgeny Kotelnikov</i>
 
 ## Social Network Analysis
 
 ### LNCS
 
-Linking Friends in Social Networks using HashTag Attributes<br/>
-<i>Olga Gerasimova and Viktoriia Syomochkina</i>
+Multimodal space of users’ interests and preferences in social networks<br/>
+<i>Evgeniia Shchepina, Evgeniia Egorova, Pavel Fedotov and Anatoliy Surikov</i>
 
-Emotional analysis of Russian texts using emojis in social networks<br/>
-<i>Anatoliy Surikov and Evgeniia Egorova</i>
+Research Papers Recommendation<br/>
+<i>Olga Gerasimova, Anna Lapidus and Ilya Makarov</i>
 
-Community Detection Based on the Nodes Role in a Network: the Telegram Platform Case<br/>
-<i>Kseniia Tikhomirova and Ilya Makarov</i>
-
-Study Of Strategies For Disseminating Information In Social Networks Using Simulation Tools<br/>
-<i>Alexander Usanin, Ilya Zimin and Elena Zamyatina</i>
-
+Citation network applications in scientific co-authorship recommender system<br/>
+<i>Vladislav Tishin, Artyom Sosedka, Peter Ibragimov and Vadim Porvatov</i>
 
 ---------------------------------------------
 
 ### CCIS
 
-Organizational networks revisited: longitudinal approach<br/>
-<i>Antonina Milekhina, Valentina Kuskova and Elena Artyukhova.</i>
+A method for identifying bridges in online social networks<br/>
+<i>Andrey Rabchevskiy, Victor Zayakin and Evgeny Rabchevskiy</i>
 
-How Minimal Degree of the Social Graph Aﬀects Eﬃciency of an Organization<br/>
-<i>Ilya Samonenko, Tamara Voznesenskaya and Rostislav Yavorskiy</i>
+Agent-based model for estimation of collective emotionsin social networks<br/>
+<i>Kirill Polevoda, Anatoliy Surikov and Dmitriy Tsarev</i>
+
 
 ## Theoretical Machine Learning and Optimization
 
 ### LNCS
 
-Fast Approximation Algorithms for Stabbing Special Families of Line Segments with Equal Disks<br/>
-<i>Konstantin Kobylkin</i>
+How fast Uniform Capacitated Facility Location Problem on a path graph is solved<br/>
+<i>Alexander Ageev, Edward Gimadi and Alexandr Shtepa</i>
 
-Lower bound polynomial fast procedure for the Resource Constrained Project Scheduling Problem tested on PSPLIB instances<br/>
-<i>Edward Gimadi, Evgenii Goncharov and Alexander Shtepa</i>
+A Local Search Algorithm for the Biclustering Problem<br/>
+<i>Tatyana Levanova and Ivan Khmara</i>
 
----------------------------------------------
-
-### CCIS
-
-An Effective Algorithm for the Three-Stage Facility Location Problem on a Tree-Like Network<br/>
-<i>Edward Kh. Gimadi and Aleksandr Shevyakov</i>
-
-On asymptotically optimal solvability of Euclidean Max m-k-Cycles Cover Problem<br/>
-<i>Edward Kh. Gimadi and Ivan A. Rykov</i>
-
-
-## Process Mining
-
-
-### LNCS
-
-Data and Reference Semantic-Based Simulator of DB-nets with the Use of Renew Tool<br/>
-<i>Anton Rigin and Sergey Shershakov</i>
-
-Checking Conformance between Colored Petri Nets and Event Logs<br/>
-<i>Julio Cesar Carrasquel, Khalil Mecheraoui and Irina Lomazova</i>
-
+On a weakly supervised classification problem<br/>
+<i>Vladimir Berikov, Alexander Litvinenko, Igor Pestunov and Yuri Sinyavsky</i>
 
 ---------------------------------------------
 
 ### CCIS
 
-Educational Data Mining for Prediction of Academically Risky Students Depending on their Temperamen<br/>
-<i>Elena Shadrina, Olga Oshmarina and Marianna Korenkova</i>
+Neural architecture search with structure complexity control<br/>
+<i>Konstantin Yakovlev, Olga Grebenkova, Oleg Bakhteev and Vadim Strijov</i>
 
--->
+On several edge-disjoint MSTs with given diameter in undirected graph with exponentially distributed edge weights<br/>
+<i>Edward Gimadi, Alexandr Shtepa and Aleksandr Shevyakov</i>
+
+On the Pareto-optimal Solutions in the Multimodal Clustering Problem<br/>
+<i>Mikhail Bogatyrev, Dmitry Orlov and Tatiana Shestaka</i>
+
