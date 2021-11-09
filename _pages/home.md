@@ -13,6 +13,9 @@ excerpt: "<br/><br/>"
 </div>
 
 <h2>News</h2>
+**November 9, 2021**. The list of accepted papers is <a href="/program/accepted/" style="font-size: smaller; font-decoration: italic;">published</a>!
+{: .notice--info}
+
 **November 3, 2021**. AIST conference will still be held both offline and online with some COVID-19 restrictions. Please, fill in the registration form.
 {: .notice--info}
 
@@ -20,9 +23,6 @@ excerpt: "<br/><br/>"
 {: .notice--info}
 
 **November 2, 2021**. Notifications of acceptance are sent.
-{: .notice--info}
-
-**October 13, 2021**. Paper review procedure is currently in progress.
 {: .notice--info}
 
 <div class="text-center">
