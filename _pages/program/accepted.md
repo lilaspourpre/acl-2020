@@ -24,20 +24,18 @@ Depression Detection by Person's Voice<br/>
 Scalable computation of prediction intervals for neural networks with matrix sketching<br/>
 <i>Alexander Fishkov and Maxim Panov</i>
 
-Learning to Generate Synthetic Training Data using Gradient Matching and Implicit Differentiation<br/>
-<i>Dmitry Medvedev and Alexander Dyakonov</i>
-
 Application of data analysis methods to optimize the operation of a multifunctional service center<br/>
 <i>Ekaterina Kasatkina and Daiana Vavilova</i>
-
-Dropout Strikes Back: Improved Uncertainty Estimation via Diversity Sampling<br/>
-<i>Kirill Fedyanin, Evgenii Tsymbalov and Maxim Panov</i>
 
 ---------------------------------------------
 
 ### CCIS
 
-TBD
+Dropout Strikes Back: Improved Uncertainty Estimation via Diversity Sampling<br/>
+<i>Kirill Fedyanin, Evgenii Tsymbalov and Maxim Panov</i>
+
+Learning to Generate Synthetic Training Data using Gradient Matching and Implicit Differentiation<br/>
+<i>Dmitry Medvedev and Alexander Dyakonov</i>
 
 
 ## Computer Vision
