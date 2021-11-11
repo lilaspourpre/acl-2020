@@ -16,7 +16,7 @@ excerpt: "<br/><br/>"
 **November 9, 2021**. The list of accepted papers is <a href="/program/accepted/" style="font-size: smaller; font-decoration: italic;">published</a>!
 {: .notice--info}
 
-**November 3, 2021**. AIST conference will still be held both offline and online with some COVID-19 restrictions. Please, fill in the registration form.
+**November 3, 2021**. AIST conference will still be held both offline and online with some COVID-19 restrictions. Please, fill in <a href="http://eepurl.com/djZwUv" style="font-size: smaller; font-decoration: italic;">the registration form</a>.
 {: .notice--info}
 
 **November 3, 2021**. Registration for the conference (for both offline and online formats) is <a href="http://eepurl.com/djZwUv" style="font-size: smaller; font-decoration: italic;">open</a>!
