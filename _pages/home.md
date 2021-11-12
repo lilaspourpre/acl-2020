@@ -8,11 +8,14 @@ excerpt: "<br/><br/>"
 ---
 <div class="text-center">
     <span style="font-weight: bold; font-size: smaller;">
-    CFP : July 15<br/>&nbsp;Abstract deadline : <strike>September 1</strike> <strike>September 22</strike><br/>&nbsp;Submission deadline : <strike>September 15</strike> <strike>September 26</strike><br/>&nbsp;<strike>Notification of acceptance : November 1</strike><br/>&nbsp;Camera-ready version : November 15<br/>&nbsp;Conference : December 16 &ndash; December 18</span><br/><br/>
+    CFP : July 15<br/>&nbsp;Abstract deadline : <strike>September 1</strike> <strike>September 22</strike><br/>&nbsp;Submission deadline : <strike>September 15</strike> <strike>September 26</strike><br/>&nbsp;<strike>Notification of acceptance : November 1</strike><br/>&nbsp;Camera-ready version : <strike>November 15</strike>November 20<br/>&nbsp;Conference : December 16 &ndash; December 18</span><br/><br/>
       <a href="http://eepurl.com/djZwUv" target="_blank" class="btn btn--primary">Register Now</a>
 </div>
 
 <h2>News</h2>
+**November 12, 2021**. Camera-ready submission deadline is extended until November 20, 2021.
+{: .notice--info}
+
 **November 9, 2021**. The list of accepted papers is <a href="/program/accepted/" style="font-size: smaller; font-decoration: italic;">published</a>!
 {: .notice--info}
 
