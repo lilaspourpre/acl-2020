@@ -8,7 +8,7 @@ excerpt: "<br/><br/>"
 ---
 <div class="text-center">
     <span style="font-weight: bold; font-size: smaller;">
-    CFP : July 15<br/>&nbsp;Abstract deadline : <strike>September 1</strike> <strike>September 22</strike><br/>&nbsp;Submission deadline : <strike>September 15</strike> <strike>September 26</strike><br/>&nbsp;<strike>Notification of acceptance : November 1</strike><br/>&nbsp;Camera-ready version : <strike>November 15</strike>November 20<br/>&nbsp;Conference : December 16 &ndash; December 18</span><br/><br/>
+    <strike>CFP : July 15</strike><br/>&nbsp;<strike>Abstract deadline : September 1</strike> <strike>September 22</strike><br/>&nbsp;<strike>Submission deadline : September 15</strike> <strike>September 26</strike><br/>&nbsp;<strike>Notification of acceptance : November 1</strike><br/>&nbsp;Camera-ready version : <strike>November 15</strike> November 20<br/>&nbsp;Conference : December 16 &ndash; December 18</span><br/><br/>
       <a href="http://eepurl.com/djZwUv" target="_blank" class="btn btn--primary">Register Now</a>
 </div>
 
