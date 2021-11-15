@@ -6,7 +6,7 @@ permalink: /venue/
 
 The conference will be held online with the support of Skolkovo Institute of Science and Technology (Moscow, Russia) and partially offline at [Tbilisi State University](https://www.tsu.ge/en) (Tbilisi, Georgia).
 
-<iframe src="/docs/AIST_2021_Guide_.pdf" width="100%" height="500px">
+<iframe src="docs/AIST_2021_Guide_.pdf" width="100%" height="500px">
 <br>
 <figure>
   <img width="300" src="/assets/images/a (1).JPG">
