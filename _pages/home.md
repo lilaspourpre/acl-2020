@@ -13,6 +13,9 @@ excerpt: "<br/><br/>"
 </div>
 
 <h2>News</h2>
+**November 15, 2021**. There is no participation fee for both online and offline participation modes.
+{: .notice--info}
+
 **November 12, 2021**. Camera-ready submission deadline is extended until November 20, 2021.
 {: .notice--info}
 
