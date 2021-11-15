@@ -8,7 +8,7 @@ The conference will be held online with the support of Skolkovo Institute of Sci
 <br>
 
 
-<embed src="/assets/images/AIST_2021_Guide_.pdf" width="100%" height="100%" style="border: none;"/>
+<embed src="/assets/images/AIST_2021_Guide_.pdf" width="100%" height="8350%" style="border: none;"/>
   
 
 <figure>
