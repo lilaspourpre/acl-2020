@@ -11,8 +11,6 @@ The conference will be held online with the support of Skolkovo Institute of Sci
     <p><a href="/assets/images/AIST_2021_Guide_.pdf">Download the guide for offline participants coming to Georgia</a></p>
 </object>
 
-<embed src="/assets/images/AIST_2021_Guide_.pdf" width="100%" height="100%" style="border: none;"/>  
-
 <figure>
   <img width="300" src="/assets/images/a (1).JPG">
   <figcaption></figcaption>
