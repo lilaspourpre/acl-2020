@@ -17,6 +17,10 @@ gold:
     image_path: /assets/images/logos/exactpro.png
     alt: "Exactpro Systems Logo"
     title: "Exactpro Systems"
+  - url: https://www.boeing.com/
+    image_path: /assets/images/Boeing_full_logo.svg.png
+    alt: "Boeing Logo"
+    title: "Boeing"
 silver:
   - url: https://www.hse.ru/
     image_path: /assets/images/logos/hse.png
