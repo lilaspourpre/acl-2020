@@ -17,11 +17,12 @@ gold:
     image_path: /assets/images/logos/exactpro.png
     alt: "Exactpro Systems Logo"
     title: "Exactpro Systems"
+silver:
   - url: https://www.boeing.com/
     image_path: /assets/images/Boeing_full_logo.svg.png
     alt: "Boeing Logo"
     title: "Boeing"
-silver:
+bronze:
   - url: https://www.hse.ru/
     image_path: /assets/images/logos/hse.png
     alt: "HSE Logo"
@@ -37,3 +38,5 @@ AIST 2021 is grateful to all its sponsors, who are listed below.
 {% include gallery id="gold" class="fourth" %}
 
 {% include gallery id="silver" class="fourth" %}
+
+{% include gallery id="bronze" class="fourth" %}
