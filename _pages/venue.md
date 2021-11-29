@@ -13,6 +13,19 @@ You may want to <a href="/assets/images/AIST_2021_Guide_.pdf"><b>download the gu
     <p><a href="/assets/images/AIST_2021_Guide_.pdf">Tbilisi Guide 2021</a></p>
 </object></a>
 
+#### Entry rules for COVID-19 vaccinated visitors
+
+Citizens of all countries, traveling from any country are able to enter Georgia, if they:
+
+* While traveling by air present the document confirming the full course (two doses, one dose in case of Johnson&Johnson) of any COVID-19 vaccination at the border checkpoints of Georgia.
+
+* While crossing the land and sea border of Georgia present the document confirming the full course (two doses, one dose in case of Johnson&Johnson) of any COVID-19 vaccination at the border checkpoints of Georgia, as well as the negative PCR test taken in the last 72 hours prior to the visit to Georgia.
+
+#### Entry rules for non-vaccinated visitors
+
+Please, refer to the following [website](https://stopcov.ge/en/page/sazRvris-kveTis-regulaciebi).
+
+
 <figure>
   <img width="300" src="/assets/images/a (1).JPG">
   <figcaption></figcaption>
