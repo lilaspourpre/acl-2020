@@ -13,6 +13,7 @@ excerpt: "<br/><br/>"
 </div>
 
 <h2>News</h2>
+
 **November 30, 2021**. Conference program is <a href="/program/program/" style="font-size: smaller; font-decoration: italic;">published</a>.
 {: .notice--info}
 
