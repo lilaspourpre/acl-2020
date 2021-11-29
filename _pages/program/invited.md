@@ -22,7 +22,7 @@ The following speakers have graciously accepted to give keynotes at AIST-2021.<b
 ## Zulfat Miftakhutdinov
 
 <figure>
-  <a href="https://scholar.google.ru/citations?user=cL4eju0AAAAJ&hl=ru"><img width="300" src=""></a>
+  <a href="https://scholar.google.ru/citations?user=cL4eju0AAAAJ&hl=ru"><img width="300" src="/assets/images/zulfat.jpg"></a>
   <figcaption><strong><a href="https://www.unive.it/pag/18669/?tx_news_pi1%5Bnews%5D=1514&cHash=6fb2d08f42d9112b0d582cca08db515f">Zulfat Miftakhutdinov</a></strong> is a researcher in Natural Language Processing domain at Kazan Federal University. His research focuses on a medical concept normalization task and its relation to current research in natural language processing (NLP). This task aims to extract medical concepts in real conditions: given a set of documents, a system has to find biomedical entity mentions in a free-form text and map them to a certain medical concept (disease, drug, adverse drug reaction, etc.).</figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ The following speakers have graciously accepted to give keynotes at AIST-2021.<b
 
 <figure>
   <a href="https://crei.skoltech.ru/cdise/people/irinanikishina"><img width="300" src="/assets/images/nikishina.jpg"></a>
-  <figcaption><strong><a href="https://www.unive.it/pag/18669/?tx_news_pi1%5Bnews%5D=1514&cHash=6fb2d08f42d9112b0d582cca08db515f">Irina Nikishina</a></strong> is a PhD student and NLP researcher in Skolkovo Natural Language Processing group at Skolkovo Institute of Science and Technology.</figcaption>
+  <figcaption><strong><a href="https://www.unive.it/pag/18669/?tx_news_pi1%5Bnews%5D=1514&cHash=6fb2d08f42d9112b0d582cca08db515f">Irina Nikishina</a></strong> is a PhD student and a NLP researcher in Skolkovo Natural Language Processing group at Skolkovo Institute of Science and Technology.</figcaption>
 </figure>
 
 <b>Taxonomy Enrichment with Text and Graph Vector Representation</b> <br/> <br/>
