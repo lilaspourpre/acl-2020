@@ -27,7 +27,7 @@ The following speakers have graciously accepted to give keynotes at AIST-2021.<b
 </figure>
 
 <b>Drug and Disease Interpretation Learning with Biomedical Entity Representation Transformer</b> <br/> <br/>
-<b>Abstract:</b> to be updated later.
+<b>Abstract:</b> In this talk, he overviews a medical concept normalization task and its relation to current research in natural language processing (NLP). This task aims to extract medical concepts in real conditions: given a set of documents, a system has to find biomedical entity mentions in a free-form text and map them to a certain medical concept (disease, drug, adverse drug reaction, etc.). Zulfat presents a simple and effective two-stage neural approach based on fine-tuned BERT architectures. In the first stage, a metric learning model is trained to optimize the relative similarity of mentions and concepts via triplet loss. In the second stage, the closest concept name representation is found in an embedding space to a given clinical mention. Extensive experiments validate the effectiveness of our approach in knowledge transfer from the scientific literature to clinical trials..
 
 ## Irina Nikishina
 
