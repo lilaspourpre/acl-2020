@@ -33,7 +33,7 @@ The following speakers have graciously accepted to give keynotes at AIST-2021.<b
 
 <figure>
   <a href="https://crei.skoltech.ru/cdise/people/irinanikishina"><img width="300" src="/assets/images/nikishina.jpg"></a>
-  <figcaption><strong><a href="https://crei.skoltech.ru/cdise/people/irinanikishina">Irina Nikishina</a></strong> is a PhD student and a NLP researcher in Skolkovo Natural Language Processing group at Skolkovo Institute of Science and Technology. Her research focuses on semantics and taxonomy enrichment. She also worked on entity linking and detoxification. She is also the AIST secretary and one of the founders of the semantic search engine for papers presented in Russian NLP conferences (<a href="https://nlp.rusvectores.org/en/">RusNLP</a></figcaption>).
+  <figcaption><strong><a href="https://crei.skoltech.ru/cdise/people/irinanikishina">Irina Nikishina</a></strong> is a PhD student and a NLP researcher in Skolkovo Natural Language Processing group at Skolkovo Institute of Science and Technology. Her research focuses on semantics and taxonomy enrichment. She also worked on entity linking and detoxification. She is also the AIST secretary and one of the founders of the semantic search engine for papers presented in Russian NLP conferences (<a href="https://nlp.rusvectores.org/en/">RusNLP</a>).</figcaption>
 </figure>
 
 <b>Taxonomy Enrichment with Text and Graph Vector Representation</b> <br/> <br/>
