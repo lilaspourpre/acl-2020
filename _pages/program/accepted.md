@@ -117,9 +117,6 @@ Language-free regular expression search of document's references<br/>
 Extracting Software Requirements from Unstructured Documents<br/>
 <i>Vladimir Ivanov, Andrey Sadovykh, Alexandr Naumchev, Alessandra Bagnato and Kirill Yakovlev</i>
 
-Using BERT to Explore Lexical Semantic Change of Prepositions<br/>
-<i>Vasily Konovalov and Liudmila Radchankava</i>
-
 Call Larisa Ivanovna: Code-Mixing Fools Multilingual NLU Models<br/>
 <i>Alexey Birshert and Ekaterina Artemova</i>
 
