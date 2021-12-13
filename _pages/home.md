@@ -13,6 +13,8 @@ excerpt: "<br/><br/>"
 </div>
 
 <h2>News</h2>
+**December 13, 2021**. Online sessions will be organized via Zoom. The links will be published later. It will be also possible to watch the conference streaming in Youtube.
+{: .notice--info}
 
 **November 30, 2021**. Conference program is <a href="/program/program/" style="font-size: smaller; font-decoration: italic;">published</a>.
 {: .notice--info}
