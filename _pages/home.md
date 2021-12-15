@@ -13,6 +13,10 @@ excerpt: "<br/><br/>"
 </div>
 
 <h2>News</h2>
+
+**December 16, 2021**. Dear offline participants! Conference <a href="/venue" style="font-size: smaller; font-decoration: italic;">Venue page</a> has been updated. Now you can see the insrtuctions of how to get to the building.
+{: .notice--info}
+
 **December 15, 2021**. You are welcome to participate in the conference via <a href="https://zoom.us/j/95692718589?pwd=U1ZQZHBXdG1pU2x3b0owSy9kY2Q1Zz09" style="font-size: smaller; font-decoration: italic;">zoom link</a>. (Conference identification number: 956 9271 8589. Passcode: 221843)
 {: .notice--info}
 
