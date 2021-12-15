@@ -13,6 +13,9 @@ excerpt: "<br/><br/>"
 </div>
 
 <h2>News</h2>
+**December 15, 2021**. You are welcome to participate in the conference via <a href="https://zoom.us/j/95692718589?pwd=U1ZQZHBXdG1pU2x3b0owSy9kY2Q1Zz09" style="font-size: smaller; font-decoration: italic;">zoom link</a>. (Conference identification number: 956 9271 8589. Passcode: 221843)
+{: .notice--info}
+
 **December 13, 2021**. Online sessions will be organized via Zoom. The links will be published later. It will be also possible to watch the conference streaming in Youtube.
 {: .notice--info}
 
