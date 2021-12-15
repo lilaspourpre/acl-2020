@@ -157,7 +157,7 @@ Agent-based model for estimation of collective emotionsin social networks<br/>
 
 ### LNCS
 
-How fast Uniform Capacitated Facility Location Problem on a path graph is solved<br/>
+How Fast Can the Uniform Capacitated Facility Location Problem Be Solved on Path Graphs<br/>
 <i>Alexander Ageev, Edward Gimadi and Alexandr Shtepa</i>
 
 A Local Search Algorithm for the Biclustering Problem<br/>
