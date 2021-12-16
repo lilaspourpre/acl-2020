@@ -59,6 +59,8 @@ The world of Data Science changes every year. At AIST, we exchange our understan
 
 Because of the current COVID-19 epidemiological situation, the conference will be held both online (Moscow) and offline (Tbilisi).
 
+Our telegram chat: <a href="https://t.me/+RK3hR9_UClkoFHc2">link</a>
+
 <h2>Publication</h2>
 
 <figure>
