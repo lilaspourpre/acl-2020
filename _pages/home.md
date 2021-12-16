@@ -12,6 +12,8 @@ excerpt: "<br/><br/>"
       <a href="http://eepurl.com/djZwUv" target="_blank" class="btn btn--primary">Register Now</a>
 </div>
 
+Join our telegram chat: <a href="https://t.me/+RK3hR9_UClkoFHc2">LNK</a>
+
 <h2>News</h2>
 
 **December 16, 2021**. Urgent! The link has changed: <a href="https://zoom.us/j/95692718589?pwd=U1ZQZHBXdG1pU2x3b0owSy9kY2Q1Zz09" style="font-size: smaller; font-decoration: italic;">correct zoom link</a>.
@@ -58,8 +60,6 @@ The 10th International Conference — Analysis of Images, Social Networks and Te
 The world of Data Science changes every year. At AIST, we exchange our understanding of the Science state-of-the-art, as well as how it applies to life and business. AIST is regularly held since 2012.
 
 Because of the current COVID-19 epidemiological situation, the conference will be held both online (Moscow) and offline (Tbilisi).
-
-Our telegram chat: <a href="https://t.me/+RK3hR9_UClkoFHc2">link</a>
 
 <h2>Publication</h2>
 
