@@ -12,7 +12,7 @@ excerpt: "<br/><br/>"
       <a href="http://eepurl.com/djZwUv" target="_blank" class="btn btn--primary">Register Now</a>
 </div>
 
-Join our telegram chat: <a href="https://t.me/+RK3hR9_UClkoFHc2">LNK</a>
+Join our telegram chat: <a href="https://t.me/+RK3hR9_UClkoFHc2">LINK</a>
 
 <h2>News</h2>
 
