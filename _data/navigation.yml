@@ -30,12 +30,16 @@ main:
   
   - title: "Venue"
     url: "/venue"
+    
+  - title: "Photos"
+    url: /photos
    
   - title: "Sponsors"
     url: /sponsors/list/
   
   - title: "Past events"
     url: /past
+    
 
 # calls:
 #    - title: Call for
@@ -93,6 +97,14 @@ sponsors:
         url: /sponsors/list/
       - title: "Tiers &amp; Pricing"
         url: /sponsors/benefits/
+        
+photos:
+  - title: Photos
+    children:
+      - title: "Photos, day 1"
+        url: /photos/day_1/
+      - title: "Photos, day 2"
+        url: /photos/day_2/
 
 past:
   - title: "Past events"
