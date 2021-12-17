@@ -1,7 +1,7 @@
 ---
-title: "Venue"
+title: "Photos"
 layout: single
-permalink: /venue/
+permalink: /photos/
 ---
 
 <figure>
