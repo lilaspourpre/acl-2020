@@ -16,6 +16,9 @@ Join our telegram chat: <a href="https://t.me/+RK3hR9_UClkoFHc2">LINK</a>
 
 <h2>News</h2>
 
+**December 16, 2021**. Photos of the offline part of the confererence are published <a href="/photos" style="font-size: smaller; font-decoration: italic;">here</a>.
+{: .notice--info}
+
 **December 17, 2021**. Kindly be informed that on 18 December, the in-person part of Day 3 of AIST-2021 will take place at the Exactpro office, located at <a href="https://www.google.com/maps/place/Exactpro+Georgia/@41.7244246,44.7298311,15z/data=!4m2!3m1!1s0x0:0xaaa2e6fa1434cfdb?sa=X&ved=2ahUKEwjEgsnKyOj0AhWzSfEDHS9BB30Q_BJ6BAgXEAU">71 Vazha Pshavela Ave, Tbilisi 0186</a>. Exactpro's representative will meet you at the entrance to guide you to the venue.
 {: .notice--info}
 
