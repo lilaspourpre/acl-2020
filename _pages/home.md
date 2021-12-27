@@ -16,6 +16,9 @@ Join our telegram chat: <a href="https://t.me/+RK3hR9_UClkoFHc2">LINK</a>
 
 <h2>News</h2>
 
+**December 27, 2021**. AIST-2021 recordings are available on the AIST <a href="https://youtube.com/playlist?list=PLmG76X44dbLFDcc1meE3IGZYtgkt4td4F" style="font-size: smaller; font-decoration: italic";>Youtube channel</a>.
+{: .notice--info}
+
 **December 16, 2021**. Photos of the offline part of the confererence are published <a href="/photos" style="font-size: smaller; font-decoration: italic;">here</a>.
 {: .notice--info}
 
