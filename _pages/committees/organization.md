@@ -11,39 +11,39 @@ sidebar:
 Dmitry Ignatov, Higher School of Economics, Moscow, Russia &ndash; Proceedings Chair; AIST series Head of Organization<br/>
 Alexander Panchenko, Skolkovo Institute of Science and Technology, Russia &ndash; AIST series Head of Organization<br/>
 Evgeny Burnaev, Skolkovo Institute of Science and Technology, Russia &ndash; AIST 2020 Local Organizing Chair<br/>
-Irina Nikishina, Skolkovo Institute of Science and Technology, Russia<br/>
-Ilya Makarov, Higher School of Economics, Moscow, Russia<br/>
-Ekaterina Artemova, Higher School of Economics, Moscow, Russia<br/> <br/>
+Irina Nikishina, Skolkovo Institute of Science and Technology<br/>
+Ilya Makarov, Higher School of Economics, Moscow<br/>
+Ekaterina Artemova, Higher School of Economics, Moscow<br/> <br/>
 
 <h3>Area chairs</h3>
 
 <h4>Data Analysis and Machine Learning</h4>
-Amedeo Napoli, LORIA, France<br/>
-Sergei O. Kuznetsov, National Research University Higher School of Economics, Moscow, Russia
+Amedeo Napoli, LORIA<br/>
+Sergei O. Kuznetsov, National Research University Higher School of Economics, Moscow
 
 <h4>Computer Vision</h4>
 Marcello Pelillo, University of Venice, Italy<br/>
-Andrey Savchenko, National Research University Higher School of Economics, Nizhny Novgorod, Russia
+Andrey Savchenko, National Research University Higher School of Economics, Nizhny Novgorod
 
 <h4>Natural Language Processing</h4>
-Natalia Loukachevitch, Research Computing Center of Moscow State University, Russia<br/>
-Andrey Kutuzov, University of Oslo, Norway<br/>
-Elena Tutubalina, Kazan Federal University, Russia
+Natalia Loukachevitch, Research Computing Center of Moscow State University<br/>
+Andrey Kutuzov, University of Oslo<br/>
+Elena Tutubalina, Kazan Federal University
 
 <h4>Social Network Analysis</h4>
-Vladimir Batagelj, University of Ljubljana, Slovenia<br/>
-Olessia Koltsova, Higher School of Economics, St. Petersburg, Russia
+Vladimir Batagelj, University of Ljubljana<br/>
+Olessia Koltsova, Higher School of Economics, St. Petersburg
 
 <h4>Theoretical Machine Learning and Optimization</h4>
-Michael Khachay, Krasovsky Institute of Mathematics and Mechanics, Russia<br/>
-Panos Pardalos, University of Florida, United States
+Michael Khachay, Krasovsky Institute of Mathematics and Mechanics<br/>
+Panos Pardalos, University of Florida
 
 <h4>Process Mining</h4>
-Wil van der Aalst, RWTH Aachen University, Germany<br/>
-Anna Kalenkova, The University of Melbourne, Australia<br/>
-Irina Lomazova, National Research University Higher School of Economics, Moscow, Russia
+Wil van der Aalst, RWTH Aachen University<br/>
+Anna Kalenkova, The University of Melbourne<br/>
+Irina Lomazova, National Research University Higher School of Economics, Moscow
 
 
 <h3>Volunteers</h3>
-Robiul Islam, HSE alumni & Innopolis, Russia<br/>
-Evgeniy Tsymbalov, Skolkovo Institute of Science and Technology, Russia
+Robiul Islam, HSE alumni & Innopolis<br/>
+Evgeniy Tsymbalov, Skolkovo Institute of Science and Technology
