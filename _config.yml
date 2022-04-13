@@ -123,9 +123,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: https://www.instagram.com/aistconference/
-    - label: "VK"
-      icon: "fab fa-fw fa-vk"
-      url: https://vk.com/aistconf
+    # - label: "VK"
+      # icon: "fab fa-fw fa-vk"
+      # url: https://vk.com/aistconf
 
 
 # Reading Files
