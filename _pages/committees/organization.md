@@ -8,38 +8,38 @@ sidebar:
 ---
 
 <h3>Organizing committee</h3>
-- Dmitry Ignatov, Higher School of Economics, Moscow, Russia &ndash; Proceedings Chair; AIST series Head of Organization<br/>
-- Alexander Panchenko, Skolkovo Institute of Science and Technology, Russia &ndash; AIST series Head of Organization<br/>
-- Irina Nikishina, Skolkovo Institute of Science and Technology, Russia; secretary<br/>
+- Dmitry Ignatov, Higher School of Economics, Moscow &ndash; Proceedings Chair; AIST series Head of Organization<br/>
+- Alexander Panchenko, Skolkovo Institute of Science and Technology &ndash; AIST series Head of Organization<br/>
+- Irina Nikishina, Skolkovo Institute of Science and Technology; secretary<br/>
 - Iosif Itkin, CEO and co-founder, Exactpro Systems; local Organizer<br/>
-- Natia Sirbiladze, CEO of Exactpro Systems, Georgia; local Organizer<br/>
-- Janna Zabolotnaya, Marketing Manager, Exactpro Systems, Russia; local Organizer
+- Natia Sirbiladze, CEO of Exactpro Systems; local Organizer<br/>
+- Janna Zabolotnaya, Marketing Manager, Exactpro Systems; local Organizer
 
 <h3>Area chairs</h3>
 
 <h4>Data Analysis</h4>
-- Amedeo Napoli, LORIA, France<br/>
-- Evgenii Tsymbalov, Yandex, Russia<br/>
-- Sergei O. Kuznetsov, HSE University, Russia
+- Amedeo Napoli, LORIA<br/>
+- Evgenii Tsymbalov, Yandex<br/>
+- Sergei O. Kuznetsov, HSE University
 
 <h4>Computer Vision</h4>
-- Evgeny Burnaev, Skolkovo Institute of Science and Technology, Russia<br/>
-- Andrey Savchenko, National Research University Higher School of Economics, Nizhny Novgorod, Russia
+- Evgeny Burnaev, Skolkovo Institute of Science and Technology<br/>
+- Andrey Savchenko, National Research University Higher School of Economics, Nizhny Novgorod
 
 <h4>Natural Language Processing</h4>
-- Natalia Loukachevitch, Research Computing Center of Moscow State University, Russia<br/>
-- Andrey Kutuzov, University of Oslo, Norway<br/>
-- Elena Tutubalina, Kazan Federal University, Russia
+- Natalia Loukachevitch, Research Computing Center of Moscow State University<br/>
+- Andrey Kutuzov, University of Oslo<br/>
+- Elena Tutubalina, Kazan Federal University
 
 
 <h4>Social Network Analysis</h4>
- - Sergei Ivanov, Skolkovo Institute of Science and Technology, Russia<br/>
- - Olessia Koltsova, Higher School of Economics, St. Petersburg, Russia<br/>
- - Jari Saramäki, Aalto University, Finland
+ - Sergei Ivanov, Skolkovo Institute of Science and Technology<br/>
+ - Olessia Koltsova, Higher School of Economics, St. Petersburg<br/>
+ - Jari Saramäki, Aalto University
 
 <h4>Theoretical Machine Learning and Optimization</h4>
- - Michael Khachay, Krasovsky Institute of Mathematics and Mechanics, Russia<br/>
- - Panos Pardalos, University of Florida, United States
+ - Michael Khachay, Krasovsky Institute of Mathematics and Mechanics<br/>
+ - Panos Pardalos, University of Florida
 
 
 <!--
