@@ -13,7 +13,8 @@ sidebar:
 - Irina Nikishina, Skolkovo Institute of Science and Technology; secretary<br/>
 - Iosif Itkin, CEO and co-founder, Exactpro Systems; local Organizer<br/>
 - Natia Sirbiladze, CEO of Exactpro Systems; local Organizer<br/>
-- Janna Zabolotnaya, Marketing Manager, Exactpro Systems; local Organizer
+- Janna Zabolotnaya, Marketing Manager, Exactpro Systems; local Organizer<br/>
+- Alexandra Dukhanina, Skolkovo Institute of Science and Technology; Administrative support
 
 <h3>Area chairs</h3>
 
@@ -50,9 +51,9 @@ Anna Kalenkova, The University of Melbourne, Australia<br/>
 Irina Lomazova, National Research University Higher School of Economics, Moscow, Russia
 -->
 
+<!--
 <h3>Volunteers</h3>
 TBD
-<!--
 Robiul Islam, HSE alumni & Innopolis, Russia<br/>
 Evgeniy Tsymbalov, Skolkovo Institute of Science and Technology, Russia
 -->
