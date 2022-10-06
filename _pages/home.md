@@ -16,6 +16,9 @@ Join our telegram chat: <a href="https://t.me/+RK3hR9_UClkoFHc2">LINK</a>
 
 <h2>News</h2>
 
+**Oct 6, 2022**. Papers are finally published! You can have the free access here: [LNCS](https://link.springer.com/book/9783031164996) and [CCIS](https://link.springer.com/book/10.1007/978-3-031-15168-2).
+{: .notice--info}
+
 **December 27, 2021**. AIST-2021 recordings are available on the AIST <a href="https://youtube.com/playlist?list=PLmG76X44dbLFDcc1meE3IGZYtgkt4td4F" style="font-size: smaller; font-decoration: italic;">Youtube channel</a>.
 {: .notice--info}
 
