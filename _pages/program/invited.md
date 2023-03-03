@@ -7,8 +7,10 @@ sidebar:
     nav: program
 ---
 
-The following speakers have graciously accepted to give keynotes at AIST-2021.<br>
+The following speakers have graciously accepted to give keynotes at AIST-2023.<br>
 
+TBA
+<!-- 
 ## Jeremy Barnes
 
 <figure>
@@ -39,4 +41,4 @@ The following speakers have graciously accepted to give keynotes at AIST-2021.<b
 <b>Taxonomy Enrichment with Text and Graph Vector Representation</b> <br/> <br/>
 <b>Abstract:</b> Knowledge graphs such as DBpedia, Freebase or Wikidata always contain a taxonomic backbone that allows the arrangement and structuring of various concepts in accordance with hypo-hypernym (``class-subclass'') relationship. With the rapid growth of lexical resources for specific domains, the problem of automatic extension of the existing knowledge bases with new words is becoming more and more widespread. In this talk, she addresses the problem of taxonomy enrichment which aims at adding new words to the existing taxonomy.
 
-The author presents a new method which allows achieving high results on this task with little effort. It uses the resources which exist for the majority of languages, making the method universal. The method is extended by incorporating deep representations of graph structures like node2vec, Poincaré embeddings, GCN  etc. that have recently demonstrated promising results on various NLP tasks. Furthermore, combining these representations with word embeddings allows them to beat the state of the art.
+The author presents a new method which allows achieving high results on this task with little effort. It uses the resources which exist for the majority of languages, making the method universal. The method is extended by incorporating deep representations of graph structures like node2vec, Poincaré embeddings, GCN  etc. that have recently demonstrated promising results on various NLP tasks. Furthermore, combining these representations with word embeddings allows them to beat the state of the art. -->

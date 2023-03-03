@@ -19,6 +19,15 @@ sidebar:
         <tr>
             <td style="width: 30%;">
                 <figure>
+                    <a href="https://link.springer.com/book/10.1007/978-3-031-16500-9"><img src="/assets/images/978-3-031-16500-9.png"></a> <a href="https://link.springer.com/book/10.1007/978-3-031-15168-2"><img src="/assets/images/978-3-031-15168-2.png"></a>
+                </figure>
+            </td>
+            <td style="width: 60%;"><center>10th International Conference,<br><b>AIST 2021</b>,<br>Tbilisi, Georgia<br>December 16–18, 2021</center></td>
+            <td><center><a href="https://link.springer.com/book/10.1007/978-3-031-16500-9">LNCS</a>, <a href="https://link.springer.com/book/10.1007/978-3-031-15168-2">CCIS</a></center></td>
+        </tr>
+        <tr>
+            <td style="width: 30%;">
+                <figure>
                     <a href="https://link.springer.com/book/10.1007/978-3-030-72610-2"><img src="/assets/images/978-3-030-72610-2.jpg"></a> <a href="https://link.springer.com/book/10.1007/978-3-030-71214-3"><img src="/assets/images/978-3-030-71214-3.jpg"></a>
                 </figure>
             </td>

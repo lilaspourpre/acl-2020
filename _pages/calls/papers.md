@@ -7,20 +7,23 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-<sub>**AIST 2021**  
-Moscow (online) & Tbilisi (offline)  
-December 16-18, 2021.
+<sub>**AIST 2023**  
+Yerevan, Armenia 
+September 29-30, 2023.
 
 ## CALL FOR PAPERS
 
-We invite you to submit a paper to AIST-2021, a scientific conference on Analysis of Images, Social Networks, and Texts. The conference is intended for researchers and practitioners interested in data science focusing on innovative applications of data mining and machine learning techniques to image processing, analysis of social networks, text processing, and other domains, such as economics or geographic information systems.
+We invite you to submit a paper to AIST’2023, a scientific conference on Analysis of Images, Social Networks, and Texts. The conference is intended for researchers and practitioners interested in data science focusing on innovative applications of data mining and machine learning techniques to image processing, analysis of social networks, text processing, and other domains, such as economics or geographic information systems.
 
-The previous conferences in 2012-2020 attracted a significant number of students, researchers, academics, and engineers working on the analysis of images, texts, and social networks. The broad scope of AIST makes it an event where researchers from different domains, exploiting various data analysis techniques, can meet and exchange ideas. The conference allows specialists from different fields to meet each other, present their work, and discuss both theoretical and practical aspects of their data analysis problems.
+The conference is intended for computer scientists and practitioners whose research interests are related to data science. The previous conferences in 2012-2021 attracted a significant number of students, researchers, academics, and engineers working on the analysis of images, texts, and social networks. The broad scope of AIST makes it an event where researchers from different domains, exploiting various data analysis techniques, can meet and exchange ideas. The conference allows specialists from different fields to meet each other, present their work, and discuss both theoretical and practical aspects of their data analysis problems. Another important aim of the conference is to stimulate scientists and people from the industry to benefit from the knowledge exchange and identify possible grounds for fruitful collaboration.
+
+Similar to the previous years, the conference proceedings will be published in the Springer’s in Lecture Notes in Computer Science (LNCS) series.
 
 ## Past Conferences
 
-Similar to the previous years, the conference proceedings will be published in the Springer’s in Lecture Notes in Computer Science (LNCS) series. You can take a look at the proceedings of the last three years to get an idea about what kind of papers are accepted and what kind of topics are discussed at the conference:
+If you did not participate before in the AIST conference you can take a look at the proceedings of the last three years to get an idea about what kind of papers are accepted and what kind of topics are discussed at the conference. Proceeding of the previous years can be found below:
 
+- AIST 2021: [Springer Lecture Notes in Computer Science (LNCS) vol. 13217](https://link.springer.com/book/10.1007/978-3-031-16500-9) and [Communications in Computer and Information Science (CCIS) vol. 1573](https://link.springer.com/book/10.1007/978-3-031-15168-2)
 - AIST 2020: [Springer Lecture Notes in Computer Science (LNCS) vol. 12602](https://link.springer.com/book/10.1007/978-3-030-72610-2) and [Communications in Computer and Information Science (CCIS) vol. 1357](https://link.springer.com/book/10.1007/978-3-030-71214-3)
 - AIST 2019: [Springer Lecture Notes in Computer Science (LNCS) vol. 11832](https://link.springer.com/book/10.1007/978-3-030-37334-4) and [Communications in Computer and Information Science (CCIS) vol. 1086](https://link.springer.com/book/10.1007/978-3-030-39575-9)
 - AIST 2018: [Springer Lecture Notes in Computer Science (LNCS) vol. 11179](https://link.springer.com/book/10.1007/978-3-030-11027-7)
@@ -28,6 +31,25 @@ Similar to the previous years, the conference proceedings will be published in t
 - AIST 2016: [Springer Communications in Computer and Information Science (CCIS) vol. 661](http://www.springer.com/en/book/9783319529196)
 - AIST 2015: [Springer Communications in Computer and Information Science (CCIS) vol. 542](http://www.springer.com/en/book/9783319261225)
 - AIST 2014: [Springer Communications in Computer and Information Science (CCIS) vol. 436](http://www.springer.com/en/book/9783319125794)
+
+## Submission Link
+
+TBA soon.
+
+## Submission Guidelines
+
+All papers must be original and not simultaneously submitted to another journal or conference. The following paper categories are welcome:
+
+- Full papers describing completed research up to 12 pages of content with references.
+- Posters describing ongoing research up to 6 pages of content with references.
+
+The papers must be formatted according to the [Springer LNCS style](http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0). LaTeX template of the Springer LNCS is [available at Overleaf platform](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj). We encourage you to use the LaTeX template instead of the Word template. For further information please also read ["Author instructions"](http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
+
+Papers should be submitted through the EasyChair conference management system (see the submission link above). Submitted papers should be written in English and provide sufficient detail to allow the Program Committee to assess the merits of the paper on the basis of technical quality, relevance to the conference topics, originality, significance, and clarity of presentation. **Papers in Russian are not currently accepted.**
+
+The program committee expects that authors are ready to submit high-quality research papers. We also **require at least one of the authors to attend the conference** to present their study. Papers should present original work previously not published or concurrently submitted to another conference or journal.
+
+Each paper will be reviewed by at least three PC members. To ensure a fair assessment of the submissions, **the review will be double-blind, so you need to make your paper anonymous** (remove links to your personal pages, acknowledgments, affiliations, etc.). Your work will be rejected in case you did not anonymize properly your paper.
 
 ## Tracks
 
@@ -39,7 +61,7 @@ The conference will feature five tracks:
 - Computer Vision
 - Theoretical Machine Learning and Optimization
 
-The list of topics relevant to these tracks is including but is not limited to:
+## List of Topics
 
 - Analysis of images and videos
 - Computational linguistics
@@ -65,23 +87,23 @@ The list of topics relevant to these tracks is including but is not limited to:
     <tbody>
         <tr>
             <td>Abstract deadline</td>
-            <td>September 22, 2021</td>
+            <td>June 31, 2023</td>
         </tr>
         <tr>
             <td>Submission deadline</td>
-            <td>September 26, 2021</td>
+            <td>July 15, 2023</td>
         </tr>
         <tr>
             <td>Notification of acceptance</td>
-            <td>November 1, 2021</td>
+            <td>August 15, 2023</td>
         </tr>
         <tr>
           <td>Camera-ready papers due</td>
-          <td>November 15, 2021</td>
+          <td>September 1, 2023</td>
         </tr>       
         <tr>
             <td>Conference dates</td>
-            <td>December 16 &ndash; 18, 2021</td>
+            <td>September 29 &ndash; 30, 2023</td>
         </tr>     
 </tbody>
 </table>
@@ -92,24 +114,14 @@ The list of topics relevant to these tracks is including but is not limited to:
 
 ## Publication
 
-AIST-2021 proceedings will be published in Springer LNCS ([Lecture Notes in Computer Science](https://www.springer.com/series/558)). The companion volume will be published in the satellite series CCIS ([Communications in Computer and Information Science](https://www.springer.com/series/7899)).
+AIST-2023 proceedings will be published in Springer LNCS ([Lecture Notes in Computer Science](https://www.springer.com/series/558)). The companion volume will be published in the satellite series CCIS ([Communications in Computer and Information Science](https://www.springer.com/series/7899)).
 
-Please pay attention to the publisher's [Editorial Policies](https://www.springer.com/gp/authors-editors/journal-author/journal-author-helpdesk/editorial-policies/14214).
  
 ## Venue
 
-The conference will be held online with the support of Skolkovo Institute of Science and Technology (Moscow, Russia) and partially offline at [Tbilisi State University](https://www.tsu.ge/en) (Tbilisi, Georgia).
+The conference will be held online with the support of Skolkovo Institute of Science and Technology (Moscow, Russia) and offline at Zaven & Sonia Akian College of Science & Engineering, [American University of Armenia](https://cse.aua.am/) (Yerevan, Armenia)
  
-## Submission Guidelines
-
-All papers must be original and not simultaneously submitted to another journal or conference. The following paper categories are welcome:
-
-Full papers describing completed research up to 12 pages of content with references.
-Posters describing ongoing research up to 6 pages of content with references.
-The papers must be formatted according to the [Springer LNCS style](http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0). LaTeX template of the Springer LNCS is [available at Overleaf platform](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj). We encourage you to use the LaTeX template instead of the Word template. For further information please also read ["Author instructions"](http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
-
-Papers should be submitted through the [EasyChair conference management system](https://easychair.org/conferences/?conf=aist20211). Submitted papers should provide sufficient detail to allow the Program Committee to assess the merits of the paper on the basis of technical quality, relevance to the conference topics, originality, significance, and clarity of presentation. Papers should present original work previously not published or concurrently submitted to another conference or journal. Each paper will be reviewed by at least three PC members. To ensure a fair assessment of the submissions, the review will be double-blind, so you need to make your paper anonymous (remove links to your personal pages, acknowledgements, affiliations, etc.).
 
 ## Contact Information
-- e-mail: [org@aistconf.org](mailto:org@aistconf.org)
 
+All questions about submissions should be emailed to [org@aistconf.org](http://mailto:org@aistconf.org/). See more details about the conference at [aistconf.org](http://aistconf.org/). Updates about the conference are published on the conference [blog](http://aistconf.ru/category/blog/), as well as on our [Facebook](https://www.facebook.com/groups/aistconf/), [Instagram](https://www.instagram.com/aistconference/?hl=en) and [VK](https://vk.com/aistconf) groups.

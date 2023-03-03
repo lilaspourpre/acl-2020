@@ -8,20 +8,20 @@ diamond:
     alt: "Skoltech Logo"
     title: "Skoltech"
 platinum:
-  - url: https://www.tsu.ge/en
-    image_path: /assets/images/logos/tsu1.png
-    alt: "tsu logo"
-    title: "Ivane Javakhishvili Tbilisi State University"
-gold:
-  - url: https://exactpro.com/
-    image_path: /assets/images/logos/exactpro.png
-    alt: "Exactpro Systems Logo"
-    title: "Exactpro Systems"
-silver:
-  - url: https://www.boeing.com/
-    image_path: /assets/images/Boeing_full_logo.svg.png
-    alt: "Boeing Logo"
-    title: "Boeing"
+  - url: https://cse.aua.am/
+    image_path: /assets/images/logos/AUA-logo.png
+    alt: "American University of Armenia"
+    title: "American University of Armenia"
+# gold:
+#   - url: https://exactpro.com/
+#     image_path: /assets/images/logos/exactpro.png
+#     alt: "Exactpro Systems Logo"
+#     title: "Exactpro Systems"
+# silver:
+#   - url: https://www.boeing.com/
+#     image_path: /assets/images/Boeing_full_logo.svg.png
+#     alt: "Boeing Logo"
+#     title: "Boeing"
 bronze:
   - url: https://www.hse.ru/
     image_path: /assets/images/logos/hse.png
@@ -35,8 +35,8 @@ AIST 2021 is grateful to all its sponsors, who are listed below.
 
 {% include gallery id="platinum" class="fourth" %}
 
-{% include gallery id="gold" class="fourth" %}
+<!-- {% include gallery id="gold" class="fourth" %}
 
-{% include gallery id="silver" class="fourth" %}
+{% include gallery id="silver" class="fourth" %} -->
 
 {% include gallery id="bronze" class="fourth" %}

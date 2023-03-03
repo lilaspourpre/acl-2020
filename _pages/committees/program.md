@@ -1,7 +1,7 @@
 ---
 title: Program Committee
 layout: single
-excerpt: "AIST 2020 program committee."
+excerpt: "AIST 2023 program committee."
 permalink: /committees/program
 sidebar: 
     nav: committees 

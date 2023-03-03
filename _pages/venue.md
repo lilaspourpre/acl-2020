@@ -4,10 +4,11 @@ layout: single
 permalink: /venue/
 ---
 
-The conference will be held online with the support of Skolkovo Institute of Science and Technology (Moscow, Russia) and partially offline at [Tbilisi State University](https://www.tsu.ge/en) (Tbilisi, Georgia).
+The conference will be held offline at Zaven & Sonia Akian College of Science & Engineering, [American University of Armenia](https://cse.aua.am/) (Yerevan, Armenia).
+
 <br>
 
-**Address: 1, Chavchavadze Ave., 0179, Tbilisi, Georgia
+<!-- **Address: 1, Chavchavadze Ave., 0179, Tbilisi, Georgia
 1st building, main entrance, Conference hall on the 2nd floor**
 
 <figure>
@@ -68,4 +69,8 @@ Please, refer to the following [website](https://stopcov.ge/en/page/sazRvris-kve
 <figure>
   <img width="300" src="/assets/images/TSU 2.JPG">
   <figcaption></figcaption>
+<<<<<<< HEAD
 </figure>
+=======
+</figure> -->
+>>>>>>> 61b0ed7 (add data 2023)
