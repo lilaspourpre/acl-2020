@@ -1,7 +1,7 @@
 ---
 title: Accepted Papers
 layout: single
-excerpt: "AIST 2021 Accepted Papers."
+excerpt: "AIST 2023 Accepted Papers."
 permalink: /program/accepted/
 sidebar: 
     nav: program
