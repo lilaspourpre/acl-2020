@@ -10,14 +10,22 @@ toc_icon: "cog"
 <sub>**AIST 2023**  
 Yerevan, Armenia 
 September 29-30, 2023.
+https://AISTconf.org 
+
 
 ## CALL FOR PAPERS
 
-We invite you to submit a paper to AIST’2023, a scientific conference on Analysis of Images, Social Networks, and Texts. The conference is intended for researchers and practitioners interested in data science focusing on innovative applications of data mining and machine learning techniques to image processing, analysis of social networks, text processing, and other domains, such as economics or geographic information systems.
+Dear colleagues,
+    
+We are excited to invite you to submit a paper to AIST’2023, a scientific conference on Analysis of Images, Social Networks, and Texts. The conference is intended for researchers and practitioners interested in data science focusing on innovative applications of data analysis and machine learning techniques to image processing, analysis of network data, text processing, and other domains, such as economics or geographic information systems. 
+    
+The conference is intended for computer scientists and practitioners whose research interests are related to data science. The ten previous editions of the AIST conference held in 2012-2021 attracted a significant number of students, researchers, academics, and engineers working on the analysis of images, texts, and social networks. The broad scope of AIST makes it an event where researchers from different domains, exploiting various data analysis techniques, can meet and exchange ideas. The conference allows specialists from different fields to meet each other, present their work, and discuss both theoretical and practical aspects of their data analysis problems. Another important aim of the conference is to stimulate scientists and people from the industry to benefit from the knowledge exchange and identify possible grounds for fruitful collaboration.
+    
+Similar to the previous years, the main volume of the conference proceedings will be published in the Springer’s in Lecture Notes in Computer Science (LNCS) series. 
+    
+## Venue
 
-The conference is intended for computer scientists and practitioners whose research interests are related to data science. The previous conferences in 2012-2021 attracted a significant number of students, researchers, academics, and engineers working on the analysis of images, texts, and social networks. The broad scope of AIST makes it an event where researchers from different domains, exploiting various data analysis techniques, can meet and exchange ideas. The conference allows specialists from different fields to meet each other, present their work, and discuss both theoretical and practical aspects of their data analysis problems. Another important aim of the conference is to stimulate scientists and people from the industry to benefit from the knowledge exchange and identify possible grounds for fruitful collaboration.
-
-Similar to the previous years, the conference proceedings will be published in the Springer’s in Lecture Notes in Computer Science (LNCS) series.
+The conference continues to travel in a beautiful (and tasty!) region, and following Tbilisi, Georgia in 2021 edition this year AIST will be held offline at Yerevan, Armenia. More specifically the event is organized with support of Zaven & Sonia Akian College of Science & Engineering, [American University of Armenia](https://cse.aua.am/). Besides the scientific knowledge you will enjoy a good season in Armenia and dive into local culture. The conference will feature representatives of the local data analysis community.
 
 ## Past Conferences
 
@@ -32,53 +40,33 @@ If you did not participate before in the AIST conference you can take a look at 
 - AIST 2015: [Springer Communications in Computer and Information Science (CCIS) vol. 542](http://www.springer.com/en/book/9783319261225)
 - AIST 2014: [Springer Communications in Computer and Information Science (CCIS) vol. 436](http://www.springer.com/en/book/9783319125794)
 
-## Submission Link
-
-TBA soon.
-
-## Submission Guidelines
-
-All papers must be original and not simultaneously submitted to another journal or conference. The following paper categories are welcome:
-
-- Full papers describing completed research up to 12 pages of content with references.
-- Posters describing ongoing research up to 6 pages of content with references.
-
-The papers must be formatted according to the [Springer LNCS style](http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0). LaTeX template of the Springer LNCS is [available at Overleaf platform](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj). We encourage you to use the LaTeX template instead of the Word template. For further information please also read ["Author instructions"](http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
-
-Papers should be submitted through the EasyChair conference management system (see the submission link above). Submitted papers should be written in English and provide sufficient detail to allow the Program Committee to assess the merits of the paper on the basis of technical quality, relevance to the conference topics, originality, significance, and clarity of presentation. **Papers in Russian are not currently accepted.**
-
-The program committee expects that authors are ready to submit high-quality research papers. We also **require at least one of the authors to attend the conference** to present their study. Papers should present original work previously not published or concurrently submitted to another conference or journal.
-
-Each paper will be reviewed by at least three PC members. To ensure a fair assessment of the submissions, **the review will be double-blind, so you need to make your paper anonymous** (remove links to your personal pages, acknowledgments, affiliations, etc.). Your work will be rejected in case you did not anonymize properly your paper.
-
+    
 ## Tracks
 
-The conference will feature five tracks:
+Submission can be made in one of the following tracks chaired by experts in the respective fields:
 
-- Data Analysis
 - Natural Language Processing
-- Social Network Analysis
 - Computer Vision
+- Data Analysis and Machine Learning
+- Network Analysis
 - Theoretical Machine Learning and Optimization
 
-## List of Topics
-
-- Analysis of images and videos
+More generally we are encouraging submission on any application of deep learning and data analysis including, but not limited to the following topics:
+    
+- Analysis of images and video
+- Analytics for geoinformation systems
 - Computational linguistics
 - Core data mining and machine learning techniques
-- Data analysis in geoinformation systems
-- Deep learning applications
 - Discovering and analyzing processes using event data
+- Deep learning applications
 - Educational data mining
 - Game analytics
 - Machine learning and data mining for economics and social sciences
 - Natural language processing and applications
 - Optimization problems in complex networks
-- Optimization models in data science
-- Recommender systems and collaborative technologies
+- Recommendational systems and collaborative technologies
 - Semantic web and ontologies
 - Social network analysis
-
 
 <h2 id="dates">Important Dates</h2>
 
@@ -112,16 +100,26 @@ The conference will feature five tracks:
 <h5>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> ("anywhere on Earth").</h5>
 
 
+## Submission Guidelines
+
+All papers must be original and not simultaneously submitted to another journal or conference. The following paper categories are welcome:
+
+- Full papers describing completed research up to 12 pages of content with references.
+- Posters describing ongoing research up to 6 pages of content with references.
+
+The papers must be formatted according to the [Springer LNCS style](http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0). LaTeX template of the Springer LNCS is [available at Overleaf platform](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj). We encourage you to use the LaTeX template instead of the Word template.
+
+Papers should be submitted through the EasyChair conference management system. Submitted papers should be written in English and provide sufficient detail to allow the Program Committee to assess the merits of the paper on the basis of technical quality, relevance to the conference topics, originality, significance, and clarity of presentation.
+
+The program committee expects that authors are ready to submit high-quality research papers. We also **require at least one of the authors to attend the conference** to present their study. Papers should present original work previously not published or concurrently submitted to another conference or journal.
+
+Each paper will be reviewed by at least three PC members. To ensure a fair assessment of the submissions, **the review will be double-blind, so you need to make your paper anonymous** (remove links to your personal pages, acknowledgments, affiliations, etc.). Your work will be rejected in case you did not anonymize properly your paper. However, ArXiv pre-prints are allowed to be submitted. 
+
 ## Publication
 
 AIST-2023 proceedings will be published in Springer LNCS ([Lecture Notes in Computer Science](https://www.springer.com/series/558)). The companion volume will be published in the satellite series CCIS ([Communications in Computer and Information Science](https://www.springer.com/series/7899)).
 
  
-## Venue
-
-The conference will be held online with the support of Skolkovo Institute of Science and Technology (Moscow, Russia) and offline at Zaven & Sonia Akian College of Science & Engineering, [American University of Armenia](https://cse.aua.am/) (Yerevan, Armenia)
- 
-
 ## Contact Information
 
 All questions about submissions should be emailed to [org@aistconf.org](http://mailto:org@aistconf.org/). See more details about the conference at [aistconf.org](http://aistconf.org/). Updates about the conference are published on the conference [blog](http://aistconf.ru/category/blog/), as well as on our [Facebook](https://www.facebook.com/groups/aistconf/), [Instagram](https://www.instagram.com/aistconference/?hl=en) and [VK](https://vk.com/aistconf) groups.
