@@ -35,4 +35,4 @@ Ilya Makarov, Higher School of Economics
 <h4>Theoretical Machine Learning and Optimization</h4>
 Michael Khachay, Krasovsky Institute of Mathematics and Mechanics<br/>
 
-<h3>Volunteers</h3>
+<!-- <h3>Volunteers</h3> -->
