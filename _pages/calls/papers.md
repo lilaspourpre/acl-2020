@@ -8,8 +8,8 @@ toc_icon: "cog"
 ---
 
 <sub>**AIST 2023**  
-Yerevan, Armenia 
-September 29-30, 2023.
+Yerevan, Armenia<br>
+September 29-30, 2023.<br>
 [https://AISTconf.org](https://aistconf.org)
 
 
