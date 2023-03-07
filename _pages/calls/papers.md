@@ -118,15 +118,16 @@ Each paper will be reviewed by at least three PC members. To ensure a fair asses
     
 ## Program Committee
 
-Please, refer https://aistconf.org/committees/program for the past year PC members.
+Please, refer [https://aistconf.org/committees/program](https://aistconf.org/committees/program) for the past year PC members.
    
     
 ## Organizing Committee
-Habet Medoyan, American University of Armenia
-Amalya Hambardzumyan, American University of Armenia 
-Irina Nikishina, University of Hamburg
-Dmitry Ignatov, Higher School of Economics
-Evgenii Tsymbalov, Amazon Alexa AI
+
+Habet Medoyan, American University of Armenia<br>
+Amalya Hambardzumyan, American University of Armenia<br>
+Irina Nikishina, University of Hamburg<br>
+Dmitry Ignatov, Higher School of Economics<br>
+Evgenii Tsymbalov, Amazon Alexa AI<br>
 Alexander Panchenko, Skolkovo Institute of Science and Technology
 
 
