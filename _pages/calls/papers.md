@@ -143,4 +143,4 @@ AIST-2023 proceedings will be published in Springer LNCS ([Lecture Notes in Comp
  
 ## Contact Information
 
-All questions about submissions should be emailed to [org@aistconf.org](http://mailto:org@aistconf.org/). See more details about the conference at [aistconf.org](http://aistconf.org/). Updates about the conference are published on the conference [blog](http://aistconf.ru/category/blog/), as well as on our [Facebook](https://www.facebook.com/groups/aistconf/), [Instagram](https://www.instagram.com/aistconference/?hl=en) and [VK](https://vk.com/aistconf) groups.
+All questions about submissions should be emailed to [org@aistconf.org](http://mailto:org@aistconf.org/). See more details about the conference at [aistconf.org](http://aistconf.org/). Updates about the conference are published on the conference [main page](http://aistconf.ru/), as well as on our [Facebook](https://www.facebook.com/groups/aistconf/), [Instagram](https://www.instagram.com/aistconference/?hl=en) and [VK](https://vk.com/aistconf) groups.
