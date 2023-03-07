@@ -1,7 +1,7 @@
 ---
 title: Best Paper Awards
 layout: single
-excerpt: "AIST 2021 Best Paper Awards."
+excerpt: "AIST 2023 Best Paper Awards."
 permalink: /program/best/
 sidebar: 
     nav: program
