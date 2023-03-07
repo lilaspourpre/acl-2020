@@ -32,7 +32,7 @@ The 11th International Conference — Analysis of Images, Social Networks and Te
 
 The world of Data Science changes every year. At AIST, we exchange our understanding of the Science state-of-the-art, as well as how it applies to life and business. AIST is regularly held since 2012.
 
-The conference will be held both online and offline (Yerevan, Armenia). See [Venue](/venue/) page for more information.
+The conference will be held offline (Yerevan, Armenia). See [Venue](/venue/) page for more information.
 
 <h2>Publication</h2>
 
