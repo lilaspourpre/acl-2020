@@ -1,7 +1,7 @@
 ---
 title: Program
 layout: single
-excerpt: "AIST-2021 Program."
+excerpt: "AIST-2023 Program."
 permalink: /program/program/
 sidebar: 
     nav: program
