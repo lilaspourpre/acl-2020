@@ -33,7 +33,7 @@ Irina Nikishina, Universität Hamburg, Germany<br/>
 Ilya Makarov, Higher School of Economics, Moscow
 
 <h4>Theoretical Machine Learning and Optimization</h4>
- - Michael Khachay, Krasovsky Institute of Mathematics and Mechanics<br/>
- - Panos Pardalos, University of Florida
+Michael Khachay, Krasovsky Institute of Mathematics and Mechanics<br/>
+Panos Pardalos, University of Florida
 
 <h3>Volunteers</h3>
