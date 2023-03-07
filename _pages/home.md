@@ -3,7 +3,7 @@ title: "The 11th International Conference on<br/> Analysis of Images, Social Net
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/skoltech/mainpage_02.jpg"
+  overlay_image: "/assets/images/skoltech/yerevan.jpg"
 excerpt: "<br/><br/>"
 ---
 <div class="text-center">
