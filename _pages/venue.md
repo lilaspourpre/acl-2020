@@ -4,7 +4,7 @@ layout: single
 permalink: /venue/
 ---
 
-The conference will be held offline at Zaven & Sonia Akian College of Science & Engineering, [American University of Armenia](https://cse.aua.am/) (Yerevan, Armenia).
+The conference continues to travel in a beautiful (and tasty!) region, and following Tbilisi, Georgia in 2021 edition this year AIST will be held offline at Yerevan, Armenia. More specifically the event is organized with support of Zaven & Sonia Akian College of Science & Engineering, [American University of Armenia](https://cse.aua.am/). Besides the scientific knowledge you will enjoy a good season in Armenia and dive into local culture. The conference will feature representatives of the local data analysis community.
 
 <br>
 
