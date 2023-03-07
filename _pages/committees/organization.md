@@ -11,7 +11,7 @@ sidebar:
 Dmitry Ignatov, Higher School of Economics, Moscow, Russia &ndash; Proceedings Chair; AIST series Head of Organization<br/>
 Alexander Panchenko, Skolkovo Institute of Science and Technology, Russia &ndash; AIST series Head of Organization<br/>
 Irina Nikishina, Universität Hamburg, Germany<br/>
-Evgenii Tsymbalov, Alexa AI<br/>
+Evgenii Tsymbalov, Amazon Alexa AI<br/>
 Habet Medoyan, American University of Armenia; Local Organizer<br/>
 Amalya Hambardzumyan, American University of Armenia; Local Organizer
 
