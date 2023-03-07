@@ -73,4 +73,3 @@ Please, refer to the following [website](https://stopcov.ge/en/page/sazRvris-kve
 </figure>
 =======
 </figure> -->
->>>>>>> 61b0ed7 (add data 2023)
