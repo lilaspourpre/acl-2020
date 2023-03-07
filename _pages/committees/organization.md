@@ -17,18 +17,20 @@ Amalya Hambardzumyan, American University of Armenia; Local Organizer
 
 <h3>Area chairs</h3>
 
-<h4>Data Analysis</h4>
-Evgenii Tsymbalov, Amazon Alexa AI<br/>
-Maxim Panov, Technology Innovation Institute
-
-<h4>Computer Vision</h4>
-Andrey Savchenko, National Research University Higher School of Economics
-
 <h4>Natural Language Processing</h4>
 Andrey Kutuzov, University of Oslo<br/>
 Elena Tutubalina, Kazan Federal University
 
-<h4>Social Network Analysis</h4>
+<h4>Computer Vision</h4>
+Andrey Savchenko, National Research University Higher School of Economics
+
+
+<h4>Data Analysis and Machine Learning</h4>
+Evgenii Tsymbalov, Amazon Alexa AI<br/>
+Maxim Panov, Technology Innovation Institute
+
+
+<h4>Network Analysis</h4>
 Irina Nikishina, Universität Hamburg<br/>
 Ilya Makarov, Higher School of Economics
 
