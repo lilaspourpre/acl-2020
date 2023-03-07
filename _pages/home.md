@@ -41,7 +41,7 @@ The conference will be held both online and offline (Yerevan, Armenia). See [Ven
 </figure>
 
 
-AIST-2021 proceedings will be published in Springer <a href="https://www.springer.com/series/558">LNCS</a>.
+AIST-2023 proceedings will be published in Springer <a href="https://www.springer.com/series/558">LNCS</a>.
 
 The companion volume will be published in the satellite series [CCIS](https://www.springer.com/series/7899).
 
