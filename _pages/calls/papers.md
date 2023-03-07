@@ -46,15 +46,15 @@ If you did not participate before in the AIST conference you can take a look at 
 Submission can be made in one of the following tracks chaired by experts in the respective fields:
 
 - Natural Language Processing
-    Chairs: Andrey Kutuzov (University of Oslo), Elena Tutubalina (Kazan Federal University)
+    - Chairs: Andrey Kutuzov (University of Oslo), Elena Tutubalina (Kazan Federal University)
 - Computer Vision 
-    Chairs: Andrey Savchenko (National Research University Higher School of Economics)
+    - Chairs: Andrey Savchenko (National Research University Higher School of Economics)
 - Data Analysis and Machine Learning
-    Chairs: Data Analysis and Machine Learning. Chairs: Maxim Panov (Technology Innovation Institute), Evgenii Tsymbalov (Amazon Alexa AI)
+    - Chairs: Data Analysis and Machine Learning. Chairs: Maxim Panov (Technology Innovation Institute), Evgenii Tsymbalov (Amazon Alexa AI)
 - Network Analysis
-    Chairs: Chairs: Irina Nikishina (University of Hamburg), Ilia Makarov (Artificial Intelligence Research Institute)
+    - Chairs: Chairs: Irina Nikishina (University of Hamburg), Ilia Makarov (Artificial Intelligence Research Institute)
 - Theoretical Machine Learning and Optimization
-    Chairs: Mikhail Khachay (Krasovsky Institute of Mathematics and Mechanics)
+    - Chairs: Mikhail Khachay (Krasovsky Institute of Mathematics and Mechanics)
 
 More generally we are encouraging submission on any application of deep learning and data analysis including, but not limited to the following topics:
     
