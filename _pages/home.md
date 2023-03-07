@@ -12,7 +12,7 @@ excerpt: "<br/><br/>"
     <br/>       
 </div>
 
-Join our telegram chat: <a href="https://t.me/+RK3hR9_UClkoFHc2">LINK</a>
+Join our <a href="https://t.me/+RK3hR9_UClkoFHc2">telegram chat.</a>
 
 <h2>News</h2>
 
