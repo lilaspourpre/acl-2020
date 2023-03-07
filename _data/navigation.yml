@@ -31,8 +31,8 @@ main:
   - title: "Venue"
     url: "/venue"
     
-  - title: "Photos"
-    url: "/photos"
+#   - title: "Photos"
+#     url: "/photos"
    
   - title: "Sponsors"
     url: /sponsors/list/
@@ -101,6 +101,8 @@ sponsors:
 past:
   - title: "Past events"
     children:
+      - title: "AIST 2021"
+        url: http://2021.aistconf.org/
       - title: "AIST 2020"
         url: http://2020.aistconf.org/
       - title: "AIST 2019"
