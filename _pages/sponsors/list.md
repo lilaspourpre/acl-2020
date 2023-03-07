@@ -29,7 +29,7 @@ bronze:
     title: "HSE"
 ---
 
-AIST 2021 is grateful to all its sponsors, who are listed below.
+AIST 2023 is grateful to all its sponsors, who are listed below.
 
 
 {% include gallery id="platinum" class="fourth" %}
