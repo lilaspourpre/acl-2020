@@ -1,7 +1,7 @@
 ---
 title: Invited Speakers
 layout: single
-excerpt: "AIST-2021 Invited Speakers."
+excerpt: "AIST-2023 Invited Speakers."
 permalink: /program/invited/
 sidebar: 
     nav: program
