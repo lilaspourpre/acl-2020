@@ -13,7 +13,7 @@ toc_sticky: true
 Note that the titles/authors may change and papers may be withdrawn. 
 For the final titles/authors, please refer to the proceedings when they are out.
 
-
+<!-- 
 ## Data Analysis and Machine Learning
 
 ### LNCS
@@ -177,5 +177,5 @@ On several edge-disjoint MSTs with given diameter in undirected graph with expon
 <i>Edward Gimadi, Alexandr Shtepa and Aleksandr Shevyakov</i>
 
 On the Pareto-optimal Solutions in the Multimodal Clustering Problem<br/>
-<i>Mikhail Bogatyrev, Dmitry Orlov and Tatiana Shestaka</i>
+<i>Mikhail Bogatyrev, Dmitry Orlov and Tatiana Shestaka</i> -->
 
