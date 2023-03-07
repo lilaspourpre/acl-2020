@@ -9,20 +9,20 @@ sidebar:
 
 <h3>Data Analysis</h3>
 - Jaume Baixeries, Universitat Politècnica de Catalunya<br/>
-- Malay Bhattacharyya, Indian Statistical Institute, Kolkata<br/>
+- Malay Bhattacharyya, Indian Statistical Institute<br/>
 - Mikhail Bogatyrev, Tula State University<br/>
 - Evgeny Burnaev, Skolkovo Institute of Science and Technology<br/>
-- Aleksey Buzmakov, GAMES team, NRU Higher School of Economics, Perm<br/>
+- Aleksey Buzmakov, GAMES team, NRU Higher School of Economics<br/>
 - Anna Ermolayeva, Peoples' Friendship University of Russia<br/>
 - Yury Kashnitsky, Moscow Institute of Physics and Technology<br/>
-- Jan Konecny, Dept. Computer Science, Palacky University, Olomouc<br/>
+- Jan Konecny, Dept. Computer Science, Palacky University<br/>
 - Sofya Kulikova, National Reseach Univercity Higher School of Economics<br/>
 - Anvar	Kurmukov, IITP RAS<br/>
 - Florence Le Ber, icube<br/>
 - Alexander Lepskiy, National Research University Higher School of Economics<br/>
 - Ilya Makarov, National Research University Higher School of Economics<br/>
 - Evgeniy M. Ozhegov Higher School of Econommics<br/>
-- Delhibabu Radhakrishnan, Kazan Federal University and Innopolis, Kazan<br/>
+- Delhibabu Radhakrishnan, Kazan Federal University and Innopolis<br/>
 - Henry Soldano, Laboratoire d'Informatique de Paris Nord<br/>
 - Martin Trnecka, Palacky University Olomouc<br/>
 - Christos Tryfonopoulos, University of Peloponnese<br/>
@@ -47,7 +47,7 @@ sidebar:
 
 - Vladimir Arlazarov, Smart Engines Ltd, Federal Research Center “Computer Science and Control” of Russian Academy of Sciences<br/>
 - Aleksey Artamonov, Neuromation<br/>
-- Alexey, Chernyavskiy, Philips Innovation Labs Russia<br/>
+- Alexey, Chernyavskiy, Philips Innovation Labs<br/>
 - Ivan Drokin, Botkin.ai<br/>
 - Elena Ericheva, Botkin.ai<br/>
 - Petr Gladilin, ITMO University<br/>
