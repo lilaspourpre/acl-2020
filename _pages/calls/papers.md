@@ -26,35 +26,16 @@ Similar to the previous years, the main volume of the conference proceedings wil
 ## Venue
 
 The conference continues to travel in a beautiful (and tasty!) region. This year AIST will be held offline in Yerevan, Armenia. More specifically the event is organized with support of Zaven & Sonia Akian College of Science & Engineering, [American University of Armenia](https://cse.aua.am/). Besides the scientific knowledge you will enjoy a good season in Armenia and dive into local culture. The conference will feature representatives of the local data analysis community.
-
-## Past Conferences
-
-If you did not participate before in the AIST conference you can take a look at the proceedings of the last three years to get an idea about what kind of papers are accepted and what kind of topics are discussed at the conference. Proceeding of the previous years can be found below:
-
-- AIST-2021: [Springer Lecture Notes in Computer Science (LNCS) vol. 13217](https://link.springer.com/book/10.1007/978-3-031-16500-9) and [Communications in Computer and Information Science (CCIS) vol. 1573](https://link.springer.com/book/10.1007/978-3-031-15168-2)
-- AIST-2020: [Springer Lecture Notes in Computer Science (LNCS) vol. 12602](https://link.springer.com/book/10.1007/978-3-030-72610-2) and [Communications in Computer and Information Science (CCIS) vol. 1357](https://link.springer.com/book/10.1007/978-3-030-71214-3)
-- AIST-2019: [Springer Lecture Notes in Computer Science (LNCS) vol. 11832](https://link.springer.com/book/10.1007/978-3-030-37334-4) and [Communications in Computer and Information Science (CCIS) vol. 1086](https://link.springer.com/book/10.1007/978-3-030-39575-9)
-- AIST-2018: [Springer Lecture Notes in Computer Science (LNCS) vol. 11179](https://link.springer.com/book/10.1007/978-3-030-11027-7)
-- AIST-2017: [Springer Lecture Notes in Computer Science (LNCS) vol. 10716](http://www.springer.com/us/book/9783319730127)
-- AIST-2016: [Springer Communications in Computer and Information Science (CCIS) vol. 661](http://www.springer.com/en/book/9783319529196)
-- AIST-2015: [Springer Communications in Computer and Information Science (CCIS) vol. 542](http://www.springer.com/en/book/9783319261225)
-- AIST-2014: [Springer Communications in Computer and Information Science (CCIS) vol. 436](http://www.springer.com/en/book/9783319125794)
-
     
 ## Tracks
 
 Submission can be made in one of the following tracks chaired by experts in the respective fields:
 
 - Natural Language Processing
-    - Chairs: Andrey Kutuzov (University of Oslo), Elena Tutubalina (Kazan Federal University)
 - Computer Vision 
-    - Chairs: Andrey Savchenko (National Research University Higher School of Economics)
 - Data Analysis and Machine Learning
-    - Chairs: Data Analysis and Machine Learning. Chairs: Maxim Panov (Technology Innovation Institute), Evgenii Tsymbalov (Amazon Alexa AI)
 - Network Analysis
-    - Chairs: Chairs: Irina Nikishina (University of Hamburg), Ilia Makarov (Artificial Intelligence Research Institute)
 - Theoretical Machine Learning and Optimization
-    - Chairs: Mikhail Khachay (Krasovsky Institute of Mathematics and Mechanics)
 
 More generally we are encouraging submission on any application of deep learning and data analysis including, but not limited to the following topics:
     
@@ -140,6 +121,20 @@ Alexander Panchenko, Skolkovo Institute of Science and Technology
 
 AIST-2023 proceedings will be published in Springer LNCS ([Lecture Notes in Computer Science](https://www.springer.com/series/558)). The companion volume will be published in the satellite series CCIS ([Communications in Computer and Information Science](https://www.springer.com/series/7899)).
 
+    
+## Past Conferences
+
+If you did not participate before in the AIST conference you can take a look at the proceedings of the last three years to get an idea about what kind of papers are accepted and what kind of topics are discussed at the conference. Proceeding of the previous years can be found below:
+
+- AIST-2021: [Springer Lecture Notes in Computer Science (LNCS) vol. 13217](https://link.springer.com/book/10.1007/978-3-031-16500-9) and [Communications in Computer and Information Science (CCIS) vol. 1573](https://link.springer.com/book/10.1007/978-3-031-15168-2)
+- AIST-2020: [Springer Lecture Notes in Computer Science (LNCS) vol. 12602](https://link.springer.com/book/10.1007/978-3-030-72610-2) and [Communications in Computer and Information Science (CCIS) vol. 1357](https://link.springer.com/book/10.1007/978-3-030-71214-3)
+- AIST-2019: [Springer Lecture Notes in Computer Science (LNCS) vol. 11832](https://link.springer.com/book/10.1007/978-3-030-37334-4) and [Communications in Computer and Information Science (CCIS) vol. 1086](https://link.springer.com/book/10.1007/978-3-030-39575-9)
+- AIST-2018: [Springer Lecture Notes in Computer Science (LNCS) vol. 11179](https://link.springer.com/book/10.1007/978-3-030-11027-7)
+- AIST-2017: [Springer Lecture Notes in Computer Science (LNCS) vol. 10716](http://www.springer.com/us/book/9783319730127)
+- AIST-2016: [Springer Communications in Computer and Information Science (CCIS) vol. 661](http://www.springer.com/en/book/9783319529196)
+- AIST-2015: [Springer Communications in Computer and Information Science (CCIS) vol. 542](http://www.springer.com/en/book/9783319261225)
+- AIST-2014: [Springer Communications in Computer and Information Science (CCIS) vol. 436](http://www.springer.com/en/book/9783319125794)
+    
  
 ## Contact Information
 
