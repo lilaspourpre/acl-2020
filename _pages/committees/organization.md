@@ -22,8 +22,8 @@ Andrey Kutuzov, University of Oslo<br/>
 Elena Tutubalina, Kazan Federal University
 
 <h4>Computer Vision</h4>
-Andrey Savchenko, National Research University Higher School of Economics
-
+Andrey Savchenko, National Research University Higher School of Economics<br>
+Sergey Zagoruyko, MTS AI
 
 <h4>Data Analysis and Machine Learning</h4>
 Evgenii Tsymbalov, Amazon Alexa AI<br/>
