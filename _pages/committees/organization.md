@@ -8,12 +8,12 @@ sidebar:
 ---
 
 <h3>Organizing committee</h3>
-Dmitry Ignatov, Higher School of Economics &ndash; Proceedings Chair; AIST series Head of Organization<br/>
-Alexander Panchenko, Skolkovo Institute of Science and Technology &ndash; AIST series Head of Organization<br/>
+Habet Medoyan, American University of Armenia<br/>
+Amalya Hambardzumyan, American University of Armenia</br>
 Irina Nikishina, Universität Hamburg<br/>
+Dmitry Ignatov, Higher School of Economics &ndash; Proceedings Chair<br/>
 Evgenii Tsymbalov, Amazon Alexa AI<br/>
-Habet Medoyan, American University of Armenia; Local Organizer<br/>
-Amalya Hambardzumyan, American University of Armenia; Local Organizer
+Alexander Panchenko, Skolkovo Institute of Science and Technology &ndash<br/>
 
 <h3>Area chairs</h3>
 
@@ -22,7 +22,7 @@ Andrey Kutuzov, University of Oslo<br/>
 Elena Tutubalina, Kazan Federal University
 
 <h4>Computer Vision</h4>
-Andrey Savchenko, National Research University Higher School of Economics<br>
+Andrey Savchenko, Higher School of Economics<br>
 Sergey Zagoruyko, MTS AI
 
 <h4>Data Analysis and Machine Learning</h4>
