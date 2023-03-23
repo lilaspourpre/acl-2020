@@ -113,7 +113,7 @@ Habet Medoyan, American University of Armenia<br>
 Amalya Hambardzumyan, American University of Armenia<br>
 Irina Nikishina, University of Hamburg<br>
 Dmitry Ignatov, Higher School of Economics<br>
-Evgenii Tsymbalov, Amazon Alexa AI<br>
+Evgenii Tsymbalov, Apptek<br>
 Alexander Panchenko, Skolkovo Institute of Science and Technology
 
 
