@@ -109,7 +109,7 @@ Please, refer [https://aistconf.org/committees/program](https://aistconf.org/com
     
 ## Organizing Committee
 
-Habet Medoyan, American University of Armenia<br>
+Habet Madoyan, American University of Armenia<br>
 Amalya Hambardzumyan, American University of Armenia<br>
 Irina Nikishina, University of Hamburg<br>
 Dmitry Ignatov, Higher School of Economics<br>
