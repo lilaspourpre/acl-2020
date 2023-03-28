@@ -8,7 +8,7 @@ sidebar:
 ---
 
 <h3>Organizing committee</h3>
-Habet Medoyan, American University of Armenia<br/>
+Habet Madoyan, American University of Armenia<br/>
 Amalya Hambardzumyan, American University of Armenia<br/>
 Irina Nikishina, Universität Hamburg<br/>
 Dmitry Ignatov, Higher School of Economics &ndash<br/>
