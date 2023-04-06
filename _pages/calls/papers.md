@@ -9,7 +9,7 @@ toc_icon: "cog"
 
 <sub>**AIST-2023**  
 Yerevan, Armenia<br>
-September 29-31, 2023.<br>
+September 28-30, 2023.<br>
 [https://AISTconf.org](https://aistconf.org)
 
 
@@ -77,7 +77,7 @@ More generally we are encouraging submission on any application of deep learning
         </tr>       
         <tr>
             <td>Conference dates</td>
-            <td>September 29 &ndash; 31, 2023</td>
+            <td>September 28 &ndash; 30, 2023</td>
         </tr>     
 </tbody>
 </table>
