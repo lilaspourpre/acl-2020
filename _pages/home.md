@@ -28,7 +28,7 @@ Join our <a href="https://t.me/+RK3hR9_UClkoFHc2">telegram chat.</a>
 
 <h2>Welcome!</h2>
 
-The 11th International Conference — Analysis of Images, Social Networks and Texts — will take place online from <b>September 29th through September 31th, 2023</b>.
+The 11th International Conference — Analysis of Images, Social Networks and Texts — will take place online from <b>September 28th through September 30th, 2023</b>.
 
 The world of Data Science changes every year. At AIST, we exchange our understanding of the Science state-of-the-art, as well as how it applies to life and business. AIST is regularly held since 2012.
 
