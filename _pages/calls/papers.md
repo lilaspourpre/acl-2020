@@ -61,7 +61,7 @@ More generally we are encouraging submission on any application of deep learning
     <tbody>
         <tr>
             <td>Abstract deadline</td>
-            <td>June 31, 2023</td>
+            <td>June 30, 2023</td>
         </tr>
         <tr>
             <td>Submission deadline</td>
