@@ -9,7 +9,7 @@ diamond:
     title: "Skoltech"
 platinum:
   - url: https://cse.aua.am/
-    image_path: /assets/images/logos/AUA-logo.png
+    image_path: /assets/images/logos/AUA_ACSE_RGB_HL.png
     alt: "American University of Armenia"
     title: "American University of Armenia"
 # gold:
