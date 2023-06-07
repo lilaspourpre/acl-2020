@@ -16,7 +16,7 @@ Join our <a href="https://t.me/+RK3hR9_UClkoFHc2">telegram chat.</a>
 
 <h2>News</h2>
 
-**June 7, 2023.** Paper submission [link](https://easychair.org/conferences/?conf=aist2023)
+**June 7, 2023.** Paper submission [link](https://easychair.org/conferences/?conf=aist2023).
 {: .notice--info}
 
 **March 3, 2023**. Call for papers is published [here](/calls/papers).
