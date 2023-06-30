@@ -100,7 +100,10 @@ Papers should be submitted through the [EasyChair conference management system](
 The program committee expects that authors are ready to submit high-quality research papers. We also **require at least one of the authors to attend the conference** to present their study. Papers should present original work previously not published or concurrently submitted to another conference or journal.
 
 Each paper will be reviewed by at least three PC members. To ensure a fair assessment of the submissions, **the review will be double-blind, so you need to make your paper anonymous** (remove links to your personal pages, acknowledgments, affiliations, etc.). Your work will be rejected in case you did not anonymize properly your paper. However, ArXiv pre-prints are allowed to be submitted. 
-    
+
+### Poster session
+
+You may also create a non-archival submission for poster session. It can be based on a published or unpublished work. Both abstract and poster PDF should be submitted by July 15.
     
 ## Program Committee
 
