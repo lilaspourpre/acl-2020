@@ -16,6 +16,9 @@ Join our <a href="https://t.me/+RK3hR9_UClkoFHc2">telegram chat.</a>
 
 <h2>News</h2>
 
+**June 7, 2023.** You may also create a non-archival submission for poster session. It can be based on a published or unpublished work. Both abstract and poster PDF should be submitted by July 15.
+{: .notice--info}
+
 **June 7, 2023.** Paper submission [link](https://easychair.org/conferences/?conf=aist2023).
 {: .notice--info}
 
