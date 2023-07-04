@@ -16,6 +16,9 @@ Join our <a href="https://t.me/+RK3hR9_UClkoFHc2">telegram chat.</a>
 
 <h2>News</h2>
 
+**June 4, 2023.** Abstract submission deadline is moved to July, 13! Paper submission is due July, 20.
+{: .notice--info}
+
 **June 30, 2023.** You may also create a non-archival submission for poster session. It can be based on a published or unpublished work. Both abstract and poster PDF should be submitted by July 15 to the special "Poster session" track.
 {: .notice--info}
 
