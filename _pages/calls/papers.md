@@ -103,7 +103,7 @@ Each paper will be reviewed by at least three PC members. To ensure a fair asses
 
 ### Poster session
 
-You may also create a non-archival submission for poster session. It can be based on a published or unpublished work. Both abstract and poster PDF should be submitted by <strike>July 15</strike> July 20 to the special "Poster session" track.
+You may also create a non-archival submission for poster session. It can be based on a published or unpublished work. Both your abstract (and optionally the extended abstract in PDF)  should be submitted by <strike>July 15</strike> July 20 to the special “Poster session” track.
     
 ## Program Committee
 
