@@ -69,11 +69,11 @@ More generally we are encouraging submission on any application of deep learning
         </tr>
         <tr>
             <td>Notification of acceptance</td>
-            <td>August 15, 2023</td>
+            <td><strike>August 15</strike> August 22, 2023</td>
         </tr>
         <tr>
           <td>Camera-ready papers due</td>
-          <td>September 1, 2023</td>
+          <td><strike>September 1</strike> September 10, 2023</td>
         </tr>       
         <tr>
             <td>Conference dates</td>
