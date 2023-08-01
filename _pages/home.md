@@ -8,13 +8,15 @@ excerpt: "<br/><br/>"
 ---
 <div class="text-center">
     <span style="font-weight: bold; font-size: smaller;">
-    Abstract deadline : <strike>June 30</strike> July 13<br/>&nbsp;Submission deadline : <strike>July 15</strike> July 20 <br/>&nbsp;Notification of acceptance : August 15<br/>&nbsp;Camera-ready version : September 1<br/>&nbsp;Conference : September 28 &ndash; September 30</span>
+    Abstract deadline : <strike>June 30</strike> July 13<br/>&nbsp;Submission deadline : <strike>July 15</strike> July 20 <br/>&nbsp;Notification of acceptance : <strike>August 15</strike>August 22<br/>&nbsp;Camera-ready version : <strike>September 1</strike>September 10<br/>&nbsp;Conference : September 28 &ndash; September 30</span>
     <br/>       
 </div>
 
 Join our <a href="https://t.me/+RK3hR9_UClkoFHc2">telegram chat.</a>
 
 <h2>News</h2>
+**June 4, 2023.** Notification of acceptance is moved to August, 22! Camera-ready version is due September, 10.
+{: .notice--info}
 
 **June 4, 2023.** Abstract submission deadline is moved to July, 13! Paper submission is due July, 20.
 {: .notice--info}
