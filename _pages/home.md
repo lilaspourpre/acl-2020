@@ -15,7 +15,10 @@ excerpt: "<br/><br/>"
 Join our <a href="https://t.me/+RK3hR9_UClkoFHc2">telegram chat.</a>
 
 <h2>News</h2>
-**June 4, 2023.** Notification of acceptance is moved to August, 22! Camera-ready version is due September, 10.
+**August 6, 2023.** Poster submission is re-opened until August, 25.
+{: .notice--info}
+
+**August 2, 2023.** Notification of acceptance is moved to August, 22! Camera-ready version is due September, 10.
 {: .notice--info}
 
 **June 4, 2023.** Abstract submission deadline is moved to July, 13! Paper submission is due July, 20.
