@@ -8,8 +8,8 @@ The conference continues to travel in a beautiful (and tasty!) region. This year
 
 The venue address is as follows:
 
-<i>American University of Armenia<br/>
-40 Marshal Baghramyan Ave, Yerevan 0019</i>
+<i>American University of Armenia<br/></i>
+<i>40 Marshal Baghramyan Ave, Yerevan 0019</i>
 
 
 <figure>
