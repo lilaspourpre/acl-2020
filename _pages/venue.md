@@ -6,6 +6,11 @@ permalink: /venue/
 
 The conference continues to travel in a beautiful (and tasty!) region. This year AIST will be held offline in **Yerevan, Armenia**. More specifically the event is organized with support of Zaven & Sonia Akian College of Science & Engineering, [American University of Armenia](https://cse.aua.am/). Besides the scientific knowledge you will enjoy a good season in Armenia and dive into local culture. The conference will feature representatives of the local data analysis community.
 
+The venue address is as follows:
+
+<i>American University of Armenia</br>40 Marshal Baghramyan Ave, Yerevan 0019</i>
+
+
 <figure>
   <img width="300" src="/assets/images/yerevan2.jpg">
   <figcaption></figcaption>
