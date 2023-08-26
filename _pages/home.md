@@ -15,6 +15,10 @@ excerpt: "<br/><br/>"
 Join our <a href="https://t.me/+RK3hR9_UClkoFHc2">telegram chat.</a>
 
 <h2>News</h2>
+
+**August 26, 2023.** List of accepted papers is [published](/program/accepted).
+{: .notice--info}
+
 **August 6, 2023.** Poster submission is re-opened until August, 25.
 {: .notice--info}
 
@@ -46,7 +50,7 @@ The 11th International Conference — Analysis of Images, Social Networks and Te
 
 The world of Data Science changes every year. At AIST, we exchange our understanding of the Science state-of-the-art, as well as how it applies to life and business. AIST is regularly held since 2012.
 
-The conference will be held offline (Yerevan, Armenia). See [Venue](/venue/) page for more information.
+The conference will be held offline (Yerevan, Armenia). See [Venue](/venue/) page for more information. 
 
 <h2>Publication</h2>
 
