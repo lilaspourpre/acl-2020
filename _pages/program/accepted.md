@@ -13,169 +13,182 @@ toc_sticky: true
 Note that the titles/authors may change and papers may be withdrawn. 
 For the final titles/authors, please refer to the proceedings when they are out.
 
-<!-- 
+
 ## Data Analysis and Machine Learning
 
 ### LNCS
 
-Depression Detection by Person's Voice<br/>
-<i>Evgeniya Zavorina and Ilya Makarov</i>
+Ensemble Clustering with Heterogeneous Transfer Learning<br/>
+<i>Vladimir Berikov</i>
 
-Scalable computation of prediction intervals for neural networks with matrix sketching<br/>
-<i>Alexander Fishkov and Maxim Panov</i>
+Metamorphic testing for recommender systems<br/>
+<i>Sofia Iakusheva and Anton Khritankov</i>
 
-Application of data analysis methods to optimize the operation of a multifunctional service center<br/>
-<i>Ekaterina Kasatkina and Daiana Vavilova</i>
+Application of Dynamic Graph CNN* and FICP for Detection and Research Archaeology Sites<br/>
+<i>Aleksandr Vokhmintcev, Olga Khristodulo, Andrey Melnikov and Matvei Romanov</i>
+
+Detecting design patterns in Android applications with CodeBERT embeddings and CK metrics<br/>
+<i>Gcinizwe Dlamini, Ahmad Usman, Lionel Randall Kharkrang and Vladimir Ivanov</i>
 
 ---------------------------------------------
 
 ### CCIS
 
-Dropout Strikes Back: Improved Uncertainty Estimation via Diversity Sampling<br/>
-<i>Kirill Fedyanin, Evgenii Tsymbalov and Maxim Panov</i>
+Data-Driven Approach for Identifying Functional State of Hemodialysis Fistulas: Entropy-Complexity and Formal Concept Analysis<br/>
+<i>Ekaterina Zvorykina, Yurii Beschastnov, Majid Sohrabi and Vasilii Gromov</i>
 
-Learning to Generate Synthetic Training Data using Gradient Matching and Implicit Differentiation<br/>
-<i>Dmitry Medvedev and Alexander Dyakonov</i>
+Interpretable Embeddings for Geographic Transactional Activity Analysis<br/>
+<i>Gleb Glukhov, Pavel Zhdanov and Egor Shikov</i>
 
+Application of Multimodal Machine Learning for Image Recommendation Systems<br/>
+<i>Mikhail Foniakov, Anatoly Bardukov and Ilya Makarov</i>
 
 ## Computer Vision
 
 ### LNCS
 
-Group-level Affect Recognition in Video using Deviation of Frame Features<br/>
-<i>Andrey Savchenko, Lyudmila Savchenko and Natalya Belova</i>
+MiVOLO: Multi-input Transformer for Age and Gender Estimation<br/>
+<i>Maksim Kuprashevich and Irina Tolstykh</i>
 
-Data dimension reduction technique based on preservation of Hellinger divergence<br/>
-<i>Evgeny Myasnikov</i>
+DeepLOC: Deep Learning-based Bone Pathology Localization and Classification in Wrist X-ray Images<br/>
+<i>Razan Dibo, Andrey Galichin, Pavel Astashev, Dmitry V. Dylov and Oleg Y. Rogov</i>
 
-Development of a method for iris-based person recognition using convolutional  neural networks<br/>
-<i>Yulia Ganeeva and Evgeny Myasnikov</i>
+Greedy Algorithm for Fast Finding Curvilinear Symmetry of Binary Raster Images<br/>
+<i>Oleg Seredin, Daniil Liakhov, Nikita Lomov, Olesia Kushnir and Andrei Kopylov</i>
 
-Outfit Recommendation Using Visual Similarity<br/>
-<i>Diana Zagidullina and Ilya Makarov</i>
+Handwritten Text Recognition and Browsing in Archive of Prisoners' Letters from Smolensk Convict Prison<br/>
+<i>Nikita Lomov, Dmitry Kropotov, Danila Stepochkin and Anton Laptev</i>
 
 ---------------------------------------------
 
 ### CCIS
 
-Transformer-based Deep Reinforcement Learning in VizDoom<br/>
-<i>Vitalii Sopov and Ilya Makarov</i>
+Interactive Image Segmentation with Superpixel Propagation<br/>
+<i>Hrach Ayunts, Varduhi Yeghiazaryan, Shant Navasardyan and Humphrey Shi</i>
 
-Text CAPTCHA Traversal via Knowledge Distillation of Convolutional Neural Networks: Exploring the Impact of Color Channels Selection<br/>
-<i>Valery Terekhov, Valery Chernenky and Denis Ishkov</i>
+Acne recognition: training models with experts<br/>
+<i>Stefan Nikolic, Dmitriy Ignatov and Peter Fedorov</i>
 
-Analysis of thresholding methods for the segmentation of brain vessels<br/>
-<i>Alexey Kruzhalov and Andrey Philippovich</i>
+Gesture recognition on video data<br/>
+<i>Georgy Gunkin and Ilya Makarov</i>
+
+Learning facial expression recognition in-the-wild from synthetic data based on an ensemble of lightweight neural networks<br/>
+<i>Long Nguyen and Andrey Savchenko</i>
+
+Semantic-aware GAN Manipulations for Human Face Editing<br/>
+<i>Pavel Khlusov and Ilya Makarov</i>
 
 ## Natural Language Processing
 
 ### LNCS
 
-Near-Zero-Shot Suggestion Mining with a Little Help from WordNet<br/>
-<i>Anton Alekseev, Elena Tutubalina, Sejeong Kwon and Sergey Nikolenko</i>
+Paraphrasers and Classifiers: Controllable Text Generation for Text Style Transfer
+Evgeny Orlov and Murat Apishev
 
-Building a Bilingual QA-system with ruGPT-3<br/>
-<i>Tatiana Shavrina, Dina Pisarevskaya and Valentin Malykh</i>
+Controllable story generation based on perplexity minimization
+Sergey Vychegzhanin, Anastasia Kotelnikova, Alexander Sergeev and Evgeny Kotelnikov
 
-Jokingbird: Funny Headline Generation for News<br/>
-<i>Nikita Login, Alexander Baranov and Pavel Braslavski</i>
+Leveraging Lexical Taxonomy Data in Large Language Models for Hyponymy Prediction
+Polina Chernomorchenko, Alexander Panchenko and Irina Nikishina.
 
-Learning to Rank with Capsule Neural Networks<br/>
-<i>Anna Nesterenko and Anastasia Ianina</i>
+Static, dynamic, or contextualized: what is the best approach for discovering semantic shifts in Russian media?
+Maria Tikhonova and Veronika Nikonova
 
-Transformers for online social network language modelling<br/>
-<i>Ilia Karpov and Nick Kartashev</i>
+Less than Necessary or More than Sufficient: Validating Probing Dataset Size
+Evgeny Orlov and Oleg Serikov
 
-Multilingual Embeddings for Clustering Cultural Events<br/>
-<i>Maria Kunilovskaya and Elizaveta Kuzmenko</i>
+Needle in a Haystack: Finding Suitable Idioms Based on Text Descriptions
+Dmitrii Zhernokleev and Pavel Braslavski
 
-Lexicon-based Methods vs. BERT for Text Sentiment Analysis<br/>
-<i>Anastasia Kotelnikova, Danil Paschenko, Klavdiya Bochenina and Evgeny Kotelnikov</i>
+Benchmarking Multi-Label Topic Classification in Kyrgyz Language
+Anton Alekseev, Sergey Nikolenko and Gulnara Kabaeva
 
-Sculpting enhanced dependencies for Belarusian<br/>
-<i>Yana Shishkina and Olga Lyashevskaya</i>
+Content selection in abstractive summarization with biased encoder mixtures
+Daniil Chernyshev and Boris Dobrov
 
-Improving morpheme segmentation using BERT embeddings<br/>
-<i>Alexey Sorokin</i>
+Automatic Detection of Dialectal Features of Pskov Dialects in the Speech of Native Speakers
+Ekaterina Zalivina
 
-Selection of pseudo-annotated data for adverse drug reaction classification across drug groups<br/>
-<i>Ilseyar Alimova and Elena Tutubalina</i>
+A computational study of matrix decomposition methods for compression of pre-trained Transformers
+Viktoriia Chekalina, Sergey Pletenev, Daniil Moskovskiy, Sergey Zagoruyko, Mikhail Seleznev and Alexander Panchenko
 
-Building a Combined Morphological Model for Russian Word Forms<br/>
-<i>Elena Bolshakova and Alexander Sapin</i>
+Unsupervised Ultra-Fine Entity Typing with Distributionally Induced Word Senses
+Özge Sevgili, Steffen Remus, Abhik Jana, Alexander Panchenko and Chris Biemann
 
-Training dataset and dictionary sizes matter in BERT models: the case of Baltic languages<br/>
-<i>Matej Ulčar and Marko Robnik-Šikonja</i>
+RuCAM: Comparative Argumentative Machine for the Russian Language
+Maria Maslova, Stefan Rebrikov, Chris Biemann and Irina Nikishina
 
 ---------------------------------------------
 
 ### CCIS
 
-Language-free regular expression search of document's references<br/>
-<i>Aleksandr Ogaltsov</i>
+The Battle of Information Representations: Comparing Sentiment and Semantic Features for Forecasting Market Trends
+Andrei Zaichenko, Aleksei Kazakov, Elizaveta Kovtun and Semen Budennyy
 
-Extracting Software Requirements from Unstructured Documents<br/>
-<i>Vladimir Ivanov, Andrey Sadovykh, Alexandr Naumchev, Alessandra Bagnato and Kirill Yakovlev</i>
+Prompt-tuning for Targeted Sentiment Analysis in Russian
+Yuliana Solomatina and Natalia Loukachevitch
 
-Call Larisa Ivanovna: Code-Mixing Fools Multilingual NLU Models<br/>
-<i>Alexey Birshert and Ekaterina Artemova</i>
+Tuning-free Discriminative Nearest Neighbor Few-shot Intent Detection via Consecutive Knowledge Transfer
+Maksim Savkin and Vasily Konovalov
 
-Continuous prompt tuning for Russian: how to learn prompts efficiently with RuGPT3?<br/>
-<i>Nikita Konodyuk and Maria Tikhonova</i>
+Determination of the Number of Topics Intrinsically: Is It Possible?
+Victor Bulatov, Vasiliy Alekseev and Konstantin Vorontsov
 
-Context-based text-graph embeddings in word-sense induсtion tasks<br/>
-<i>Leonid Sherstyuk and Ilya Makarov</i>
+User Review Summarization in Russian
+Artem Prisiazhniuk and Valentin Malykh
 
-Does BERT look at sentiment lexicon?<br/>
-<i>Elena Razova, Sergey Vychegzhanin and Evgeny Kotelnikov</i>
+Automatic aspect extraction from scientific texts
+Anna Marshalova, Elena Bruches and Tatiana Batura
+
+Whether Large Language Models Learn at the Inference Stage?
+Vladlen Kulikov, Ilya Makarov and Radoslav Neychev
+
+Sentence Difficulty in Three Languages: Russian Dataset compared to Italian and English
+Vladimir Ivanov and Elbayoumi Mohamed Gamal
+
+Document-level relation extraction in Russian
+Alexey Yandutov and Natalia Loukachevitch
+
+On the Way to Controllable Text Summarization in Russian
+Maria Tikhonova and Alyona Dryomina
+
+Machine Translation for Russian-Khakas language pair: translation results in low-resource setting
+Anna Lebedeva
+
+Machine Translation Models Stand Strong in the Face of Adversarial Attacks
+Elizaveta Kostenok, Pavel Burnyshev and Alexey Zaytsev
 
 ## Social Network Analysis
 
 ### LNCS
 
-Multimodal space of users’ interests and preferences in social networks<br/>
-<i>Evgeniia Shchepina, Evgeniia Egorova, Pavel Fedotov and Anatoliy Surikov</i>
+Visualization-Driven Graph Sampling Strategy for Exploring Large-Scale Networks<br/>
+<i>Gagik Khalafyan, Irina Tirosyan and Varduhi Yeghiazaryan</i>
 
-Research Papers Recommendation<br/>
-<i>Olga Gerasimova, Anna Lapidus and Ilya Makarov</i>
-
-Citation network applications in scientific co-authorship recommender system<br/>
-<i>Vladislav Tishin, Artyom Sosedka, Peter Ibragimov and Vadim Porvatov</i>
+Limit Distributions of Friendship Index in Scale-Free Networks<br/>
+<i>Sergei Sidorov, Sergei Mironov and Alexey Grigoriev</i>
 
 ---------------------------------------------
 
 ### CCIS
 
-A method for identifying bridges in online social networks<br/>
-<i>Andrey Rabchevskiy, Victor Zayakin and Evgeny Rabchevskiy</i>
-
-Agent-based model for estimation of collective emotionsin social networks<br/>
-<i>Kirill Polevoda, Anatoliy Surikov and Dmitriy Tsarev</i>
+Approximate Density Computation for OA-biclustering<br/>
+<i>Dmitry Ignatov, Kamila Usmanova and Daria Komissarova</i>
 
 
 ## Theoretical Machine Learning and Optimization
 
 ### LNCS
 
-How Fast Can the Uniform Capacitated Facility Location Problem Be Solved on Path Graphs<br/>
-<i>Alexander Ageev, Edward Gimadi and Alexandr Shtepa</i>
+Is Canfield Right? On the Asymptotic Coefficients for the Maximum Antichain of Partitions and Related Counting Inequalities<br/>
+<i>Dmitry Ignatov</i>
 
-A Local Search Algorithm for the Biclustering Problem<br/>
-<i>Tatyana Levanova and Ivan Khmara</i>
-
-On a weakly supervised classification problem<br/>
-<i>Vladimir Berikov, Alexander Litvinenko, Igor Pestunov and Yuri Sinyavsky</i>
+The Problem of Finding Several Given Diameter Spanning Trees of Maximum Total Weight in a Complete Graph<br/>
+<i>Edward Kh. Gimadi and Alexandr Shtepa</i>
 
 ---------------------------------------------
 
 ### CCIS
 
-Neural architecture search with structure complexity control<br/>
-<i>Konstantin Yakovlev, Olga Grebenkova, Oleg Bakhteev and Vadim Strijov</i>
-
-On several edge-disjoint MSTs with given diameter in undirected graph with exponentially distributed edge weights<br/>
-<i>Edward Gimadi, Alexandr Shtepa and Aleksandr Shevyakov</i>
-
-On the Pareto-optimal Solutions in the Multimodal Clustering Problem<br/>
-<i>Mikhail Bogatyrev, Dmitry Orlov and Tatiana Shestaka</i> -->
-
+Distributed Bayesian Coresets<br/>
+<i>Vladimir Omelyusik and Maxim Panov</i>
