@@ -82,81 +82,81 @@ Semantic-aware GAN Manipulations for Human Face Editing<br/>
 
 ### LNCS
 
-Paraphrasers and Classifiers: Controllable Text Generation for Text Style Transfer
-Evgeny Orlov and Murat Apishev
+Paraphrasers and Classifiers: Controllable Text Generation for Text Style Transfer<br/>
+<i>Evgeny Orlov and Murat Apishev</i>
 
-Controllable story generation based on perplexity minimization
-Sergey Vychegzhanin, Anastasia Kotelnikova, Alexander Sergeev and Evgeny Kotelnikov
+Controllable story generation based on perplexity minimization<br/>
+<i>Sergey Vychegzhanin, Anastasia Kotelnikova, Alexander Sergeev and Evgeny Kotelnikov</i>
 
-Leveraging Lexical Taxonomy Data in Large Language Models for Hyponymy Prediction
-Polina Chernomorchenko, Alexander Panchenko and Irina Nikishina.
+Leveraging Lexical Taxonomy Data in Large Language Models for Hyponymy Prediction<br/>
+<i>Polina Chernomorchenko, Alexander Panchenko and Irina Nikishina</i>
 
-Static, dynamic, or contextualized: what is the best approach for discovering semantic shifts in Russian media?
-Maria Tikhonova and Veronika Nikonova
+Static, dynamic, or contextualized: what is the best approach for discovering semantic shifts in Russian media?<br/>
+<i>Maria Tikhonova and Veronika Nikonova</i>
 
-Less than Necessary or More than Sufficient: Validating Probing Dataset Size
-Evgeny Orlov and Oleg Serikov
+Less than Necessary or More than Sufficient: Validating Probing Dataset Size<br/>
+<i>Evgeny Orlov and Oleg Serikov</i>
 
-Needle in a Haystack: Finding Suitable Idioms Based on Text Descriptions
-Dmitrii Zhernokleev and Pavel Braslavski
+Needle in a Haystack: Finding Suitable Idioms Based on Text Descriptions<br/>
+<i>Dmitrii Zhernokleev and Pavel Braslavski</i>
 
-Benchmarking Multi-Label Topic Classification in Kyrgyz Language
-Anton Alekseev, Sergey Nikolenko and Gulnara Kabaeva
+Benchmarking Multi-Label Topic Classification in Kyrgyz Language<br/>
+<i>Anton Alekseev, Sergey Nikolenko and Gulnara Kabaeva</i>
 
-Content selection in abstractive summarization with biased encoder mixtures
-Daniil Chernyshev and Boris Dobrov
+Content selection in abstractive summarization with biased encoder mixtures<br/>
+<i>Daniil Chernyshev and Boris Dobrov</i>
 
-Automatic Detection of Dialectal Features of Pskov Dialects in the Speech of Native Speakers
-Ekaterina Zalivina
+Automatic Detection of Dialectal Features of Pskov Dialects in the Speech of Native Speakers<br/>
+<i>Ekaterina Zalivina</i>
 
-A computational study of matrix decomposition methods for compression of pre-trained Transformers
-Viktoriia Chekalina, Sergey Pletenev, Daniil Moskovskiy, Sergey Zagoruyko, Mikhail Seleznev and Alexander Panchenko
+A computational study of matrix decomposition methods for compression of pre-trained Transformers<br/>
+<i>Viktoriia Chekalina, Sergey Pletenev, Daniil Moskovskiy, Sergey Zagoruyko, Mikhail Seleznev and Alexander Panchenko</i>
 
-Unsupervised Ultra-Fine Entity Typing with Distributionally Induced Word Senses
-Özge Sevgili, Steffen Remus, Abhik Jana, Alexander Panchenko and Chris Biemann
+Unsupervised Ultra-Fine Entity Typing with Distributionally Induced Word Senses<br/>
+<i>Özge Sevgili, Steffen Remus, Abhik Jana, Alexander Panchenko and Chris Biemann</i>
 
-RuCAM: Comparative Argumentative Machine for the Russian Language
-Maria Maslova, Stefan Rebrikov, Chris Biemann and Irina Nikishina
+RuCAM: Comparative Argumentative Machine for the Russian Language<br/>
+<i>Maria Maslova, Stefan Rebrikov, Chris Biemann and Irina Nikishina</i>
 
 ---------------------------------------------
 
 ### CCIS
 
-The Battle of Information Representations: Comparing Sentiment and Semantic Features for Forecasting Market Trends
-Andrei Zaichenko, Aleksei Kazakov, Elizaveta Kovtun and Semen Budennyy
+The Battle of Information Representations: Comparing Sentiment and Semantic Features for Forecasting Market Trends<br/>
+<i>Andrei Zaichenko, Aleksei Kazakov, Elizaveta Kovtun and Semen Budennyy</i>
 
-Prompt-tuning for Targeted Sentiment Analysis in Russian
-Yuliana Solomatina and Natalia Loukachevitch
+Prompt-tuning for Targeted Sentiment Analysis in Russian<br/>
+<i>Yuliana Solomatina and Natalia Loukachevitch</i>
 
-Tuning-free Discriminative Nearest Neighbor Few-shot Intent Detection via Consecutive Knowledge Transfer
-Maksim Savkin and Vasily Konovalov
+Tuning-free Discriminative Nearest Neighbor Few-shot Intent Detection via Consecutive Knowledge Transfer<br/>
+<i>Maksim Savkin and Vasily Konovalov</i>
 
-Determination of the Number of Topics Intrinsically: Is It Possible?
-Victor Bulatov, Vasiliy Alekseev and Konstantin Vorontsov
+Determination of the Number of Topics Intrinsically: Is It Possible?<br/>
+<i>Victor Bulatov, Vasiliy Alekseev and Konstantin Vorontsov</i>
 
-User Review Summarization in Russian
-Artem Prisiazhniuk and Valentin Malykh
+User Review Summarization in Russian<br/>
+<i>Artem Prisiazhniuk and Valentin Malykh</i>
 
-Automatic aspect extraction from scientific texts
-Anna Marshalova, Elena Bruches and Tatiana Batura
+Automatic aspect extraction from scientific texts<br/>
+<i>Anna Marshalova, Elena Bruches and Tatiana Batura</i>
 
-Whether Large Language Models Learn at the Inference Stage?
-Vladlen Kulikov, Ilya Makarov and Radoslav Neychev
+Whether Large Language Models Learn at the Inference Stage?<br/>
+<i>Vladlen Kulikov, Ilya Makarov and Radoslav Neychev</i>
 
-Sentence Difficulty in Three Languages: Russian Dataset compared to Italian and English
-Vladimir Ivanov and Elbayoumi Mohamed Gamal
+Sentence Difficulty in Three Languages: Russian Dataset compared to Italian and English<br/>
+<i>Vladimir Ivanov and Elbayoumi Mohamed Gamal</i>
 
-Document-level relation extraction in Russian
-Alexey Yandutov and Natalia Loukachevitch
+Document-level relation extraction in Russian<br/>
+<i>Alexey Yandutov and Natalia Loukachevitch</i>
 
-On the Way to Controllable Text Summarization in Russian
-Maria Tikhonova and Alyona Dryomina
+On the Way to Controllable Text Summarization in Russian<br/>
+<i>Maria Tikhonova and Alyona Dryomina</i>
 
-Machine Translation for Russian-Khakas language pair: translation results in low-resource setting
-Anna Lebedeva
+Machine Translation for Russian-Khakas language pair: translation results in low-resource setting<br/>
+<i>Anna Lebedeva</i>
 
-Machine Translation Models Stand Strong in the Face of Adversarial Attacks
-Elizaveta Kostenok, Pavel Burnyshev and Alexey Zaytsev
+Machine Translation Models Stand Strong in the Face of Adversarial Attacks<br/>
+<i>Elizaveta Kostenok, Pavel Burnyshev and Alexey Zaytsev</i>
 
 ## Social Network Analysis
 
