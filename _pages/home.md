@@ -17,6 +17,9 @@ Join our <a href="https://t.me/+RK3hR9_UClkoFHc2">telegram chat.</a>
 
 <h2>News</h2>
 
+**August 31, 2023.** Registration is now [open](https://www.eventbrite.com/e/aist-2023-tickets-664697717767).
+{: .notice--info}
+
 **August 26, 2023.** List of accepted papers is [published](/program/accepted).
 {: .notice--info}
 
