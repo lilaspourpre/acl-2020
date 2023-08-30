@@ -10,6 +10,7 @@ excerpt: "<br/><br/>"
     <span style="font-weight: bold; font-size: smaller;">
     Abstract deadline : <strike>June 30</strike> July 13<br/>&nbsp;Submission deadline : <strike>July 15</strike> July 20 <br/>&nbsp;Notification of acceptance : <strike>August 15</strike> August 22<br/>&nbsp;Camera-ready version : <strike>September 1</strike> September 10<br/>&nbsp;Conference : September 28 &ndash; September 30</span>
     <br/>       
+  <a href="https://www.eventbrite.com/e/aist-2023-tickets-664697717767" target="_blank" class="btn btn--primary">Register Now</a>
 </div>
 
 Join our <a href="https://t.me/+RK3hR9_UClkoFHc2">telegram chat.</a>
