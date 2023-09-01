@@ -11,27 +11,31 @@ The following speakers have graciously accepted to give keynotes at AIST-2023.<b
 
 TBA
 
-<!-- 
-## Jeremy Barnes
+ 
+## Samuel Horvath
 
 <figure>
-  <a href="https://jerbarnes.github.io/"><img width="300" src="https://www.mn.uio.no/ifi/english/people/aca/jeremycb/jeremycb.jpg"></a>
-  <figcaption><strong><a href="https://jerbarnes.github.io/">Jeremy Barnes</a></strong> is an Assistant Professor of Natural Language Processing in IXA Group, part of the HiTZ Centre of the University of the Basque Country UPV/EHU. His research focuses on creating resources and NLP models for under-resourced languages and scenarios, including cross-lingual methods, weak supervision, multi-task learning, and domain adaptation. He has worked extensively on sentiment and emotion analysis.</figcaption>
+  <a href="https://mbzuai.ac.ae/study/faculty/samuel-horvath/"><img width="300" src="/assets/images/sam_headshot.jpeg"></a>
+  <figcaption><strong><a href="https://mbzuai.ac.ae/study/faculty/samuel-horvath/">Samuel Horvath</a></strong> is an Assistant Professor of Machine Learning. Samuel Horváth’s research interests lie at the intersection of mathematics, computer science, machine learning, optimization, and statistics, with a particular focus on federated learning.</figcaption>
 </figure>
 
-<b>Is it time to move beyond sentence classification?</b> <br/> <br/>
-<b>Abstract:</b> Many NLP tasks (sentiment analysis, natural language understanding, etc.) are commonly cast as binary or ternary sentence classification tasks. This framing allows for quick (often semi-automated) annotation, allowing for large amounts of annotated data at sentence-level, which has made these datasets common baselines for deep learning models. Recently, performance on many of these datasets reached human-level performance, which seemed quite promising for NLP. However, it seems that many gains in performance do not lead to models that generalize well and often overfit to spurious correlations in the dataset. In this talk, I will detail a set of problems with sentence classification tasks, how they have been affected by BERT-like models, and possible solutions.
+<b>Towards Real-World Federated Learning: Addressing Client Heterogeneity and Model Size</b> <br/> <br/>
+<b>Abstract:</b>In this talk, I will introduce federated learning and discuss two recent approaches for addressing the challenges of client heterogeneity and model size in federated learning.
+In the first part of the talk, I will introduce federated learning. I will discuss the motivation for federated learning, the key challenges, and some of the existing approaches.
+In the second part of the talk, I will discuss the FjORD framework. FjORD is a framework for addressing the problem of client heterogeneity in federated learning. FjORD uses Ordered Dropout to gradually prune the model width without retraining, enabling clients with different capabilities to participate by tailoring the model width to the client's capabilities.
+In the third part of the talk, I will discuss the Maestro framework. Maestro is a framework for addressing the problem of model size in federated learning. Maestro uses a technique called trainable low-rank layers to compress the model without sacrificing accuracy.
+I will conclude the talk by discussing the future of federated learning.
 
-## Zulfat Miftakhutdinov
-
+## Hakim Hacid
 <figure>
-  <a href="https://scholar.google.ru/citations?user=cL4eju0AAAAJ&hl=ru"><img width="300" src="/assets/images/zulfat.jpg"></a>
-  <figcaption><strong><a href="https://scholar.google.ru/citations?user=cL4eju0AAAAJ&hl=ru">Zulfat Miftakhutdinov</a></strong> is a researcher in Natural Language Processing domain at Kazan Federal University. His research focuses on a medical concept normalization task and its relation to current research in natural language processing (NLP). This task aims to extract medical concepts in real conditions: given a set of documents, a system has to find biomedical entity mentions in a free-form text and map them to a certain medical concept (disease, drug, adverse drug reaction, etc.).</figcaption>
+  <a href="https://scholar.google.ae/citations?user=62FX_zEAAAAJ&hl=en"><img width="300" src=""></a>
+  <figcaption><strong><a href="https://scholar.google.ae/citations?user=62FX_zEAAAAJ&hl=en">Hakim Hacid</a></strong> is Principal Researcher at the Technology Innovation Institute (TII), a cutting-edge UAE-based scientific research center. Prior to joining TII, he was an Associate Professor at Zayed University and contributed to research in the areas of data analytics, information retrieval, and security.</figcaption>
 </figure>
 
-<b>Drug and Disease Interpretation Learning with Biomedical Entity Representation Transformer</b> <br/> <br/>
-<b>Abstract:</b> In this talk, he overviews a medical concept normalization task and its relation to current research in natural language processing (NLP). This task aims to extract medical concepts in real conditions: given a set of documents, a system has to find biomedical entity mentions in a free-form text and map them to a certain medical concept (disease, drug, adverse drug reaction, etc.). Zulfat presents a simple and effective two-stage neural approach based on fine-tuned BERT architectures. In the first stage, a metric learning model is trained to optimize the relative similarity of mentions and concepts via triplet loss. In the second stage, the closest concept name representation is found in an embedding space to a given clinical mention. Extensive experiments validate the effectiveness of our approach in knowledge transfer from the scientific literature to clinical trials..
+<b>Towards Edge AI: Principles, current state, and perspectives</b> <br/> <br/>
+<b>Abstract:</b>The artificial intelligence (AI) community has invested heavily in developing techniques that can digest very large amounts of data to extract valuable information and knowledge. Most techniques, particularly deep learning models, require large amounts of computing and storage power, making them suitable for cloud-based environments. The intelligence is therefore remote from the end user, raising concerns about, for example, data privacy and latency. Edge AI addresses some of the problems inherent in the cloud and focuses on best practices, architectures and processes for extending data AI outside the cloud. Edge AI brings AI closer to the end user and uses, for example, fewer communication resources, as processing is performed directly on the edge device. This presentation will introduce edge AI and give an overview of existing work and potential future contributions.
 
+<!--
 ## Irina Nikishina
 
 <figure>
