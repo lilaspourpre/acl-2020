@@ -14,7 +14,7 @@ sidebar:
 - Aram Butavyan, American University of Armenia<br/>
 - Radhakrishnan Delhibabu, Vellore Institute of Technology<br/> 
 - Anna Ermolayeva, Peoples' Friendship University of Russia<br/>
-- Kirill Fedyanin, TII</br>
+- Kirill Fedyanin, TII<br/>
 - Alexander Fishkov, Skolkovo Institute of Science and Technology<br/>
 - Alexander Gneushev MIPT<br/>
 - Jan Konecny, Dept. Computer Science, Palacky University, Olomouc<br/>
