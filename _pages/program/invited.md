@@ -18,7 +18,7 @@ The following speakers have graciously accepted to give keynotes at AIST-2023.<b
 </figure>
 
 <b>Towards Real-World Federated Learning: Addressing Client Heterogeneity and Model Size</b> <br/> <br/>
-<b>Abstract:</b>In this talk, I will introduce federated learning and discuss two recent approaches for addressing the challenges of client heterogeneity and model size in federated learning.
+<b>Abstract:</b> In this talk, I will introduce federated learning and discuss two recent approaches for addressing the challenges of client heterogeneity and model size in federated learning.
 In the first part of the talk, I will introduce federated learning. I will discuss the motivation for federated learning, the key challenges, and some of the existing approaches.
 In the second part of the talk, I will discuss the FjORD framework. FjORD is a framework for addressing the problem of client heterogeneity in federated learning. FjORD uses Ordered Dropout to gradually prune the model width without retraining, enabling clients with different capabilities to participate by tailoring the model width to the client's capabilities.
 In the third part of the talk, I will discuss the Maestro framework. Maestro is a framework for addressing the problem of model size in federated learning. Maestro uses a technique called trainable low-rank layers to compress the model without sacrificing accuracy.
@@ -31,7 +31,7 @@ I will conclude the talk by discussing the future of federated learning.
 </figure>
 
 <b>Towards Edge AI: Principles, current state, and perspectives</b> <br/> <br/>
-<b>Abstract:</b>The artificial intelligence (AI) community has invested heavily in developing techniques that can digest very large amounts of data to extract valuable information and knowledge. Most techniques, particularly deep learning models, require large amounts of computing and storage power, making them suitable for cloud-based environments. The intelligence is therefore remote from the end user, raising concerns about, for example, data privacy and latency. Edge AI addresses some of the problems inherent in the cloud and focuses on best practices, architectures and processes for extending data AI outside the cloud. Edge AI brings AI closer to the end user and uses, for example, fewer communication resources, as processing is performed directly on the edge device. This presentation will introduce edge AI and give an overview of existing work and potential future contributions.
+<b>Abstract:</b> The artificial intelligence (AI) community has invested heavily in developing techniques that can digest very large amounts of data to extract valuable information and knowledge. Most techniques, particularly deep learning models, require large amounts of computing and storage power, making them suitable for cloud-based environments. The intelligence is therefore remote from the end user, raising concerns about, for example, data privacy and latency. Edge AI addresses some of the problems inherent in the cloud and focuses on best practices, architectures and processes for extending data AI outside the cloud. Edge AI brings AI closer to the end user and uses, for example, fewer communication resources, as processing is performed directly on the edge device. This presentation will introduce edge AI and give an overview of existing work and potential future contributions.
 
 <!--
 ## Irina Nikishina
