@@ -29,7 +29,7 @@ I will conclude the talk by discussing the future of federated learning.
 
 ## Hakim Hacid
 <figure>
-  <a href="https://scholar.google.ae/citations?user=62FX_zEAAAAJ&hl=en"><img width="300" src=""></a>
+  <a href="https://scholar.google.ae/citations?user=62FX_zEAAAAJ&hl=en"><img width="300" src="/assets/images/hakim.jpg"></a>
   <figcaption><strong><a href="https://scholar.google.ae/citations?user=62FX_zEAAAAJ&hl=en">Hakim Hacid</a></strong> is the principal researcher at the AI cross-centre unit at the Technology Innovation Institute (TII), a leading scientific research centre based in the United Arab Emirates as well as an Honorary Professor at Macquarie University in Sydney, Australia. Prior to joining TII, he was an associate professor at Zayed University and contributed to research in the areas of data analysis, information retrieval and security. He also served as chairman of the Department of Computer Science and Applied Technology. Dr. Hacid has authored over 60 research papers published in leading journals and conferences and holds several industrial patents. His research interests include databases, data mining and analysis, programming, web information systems, natural language processing and security. Hakim Hacid received his PhD in data mining/databases from the University of Lyon, France. He also obtained a double master's degree in computer science (research and professional master's) from the same university.</figcaption>
 </figure>
 
