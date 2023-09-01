@@ -7,8 +7,6 @@ sidebar:
     nav: program
 ---
 
-TBA soon
-
 
 [Open program in a new tab](https://docs.google.com/spreadsheets/d/1lQeQf_U9E-rO5ZijBFo0Mb4OLqFGIGNKJsAS30iBtJY/edit?usp=sharing) 
 
