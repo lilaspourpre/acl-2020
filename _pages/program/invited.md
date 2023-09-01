@@ -14,7 +14,10 @@ The following speakers have graciously accepted to give keynotes at AIST-2023.<b
 
 <figure>
   <a href="https://mbzuai.ac.ae/study/faculty/samuel-horvath/"><img width="300" src="/assets/images/sam_headshot.jpeg"></a>
-  <figcaption><strong><a href="https://mbzuai.ac.ae/study/faculty/samuel-horvath/">Samuel Horvath</a></strong> is an Assistant Professor of Machine Learning. Samuel Horváth’s research interests lie at the intersection of mathematics, computer science, machine learning, optimization, and statistics, with a particular focus on federated learning.</figcaption>
+  <figcaption><strong><a href="https://mbzuai.ac.ae/study/faculty/samuel-horvath/">Samuel Horvath</a></strong> is an assistant professor of Machine Learning at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). Before joining MBZUAI, he completed his MS and Ph.D. in statistics at King Abdullah University of Science and Technology (KAUST) advised by Professor Peter Richtárik. Earlier in his academic journey, Samuel was an undergraduate student in Financial Mathematics at Comenius University.
+In his research, Samuel focuses on providing a fundamental understanding of how distributed and federated training algorithms function and their interactions with various sources of heterogeneity. These sources include system-level computing infrastructure variability and training data statistical variability. Driven by these theoretical insights, Samuel aims to create efficient and practical distributed and federated training algorithms.
+Samuel's broad interests lie in distributed, collaborative, and efficient on-device ML.
+</figcaption>
 </figure>
 
 <b>Towards Real-World Federated Learning: Addressing Client Heterogeneity and Model Size</b> <br/> <br/>
@@ -27,7 +30,7 @@ I will conclude the talk by discussing the future of federated learning.
 ## Hakim Hacid
 <figure>
   <a href="https://scholar.google.ae/citations?user=62FX_zEAAAAJ&hl=en"><img width="300" src=""></a>
-  <figcaption><strong><a href="https://scholar.google.ae/citations?user=62FX_zEAAAAJ&hl=en">Hakim Hacid</a></strong> is Principal Researcher at the Technology Innovation Institute (TII), a cutting-edge UAE-based scientific research center. Prior to joining TII, he was an Associate Professor at Zayed University and contributed to research in the areas of data analytics, information retrieval, and security.</figcaption>
+  <figcaption><strong><a href="https://scholar.google.ae/citations?user=62FX_zEAAAAJ&hl=en">Hakim Hacid</a></strong> is the principal researcher at the AI cross-centre unit at the Technology Innovation Institute (TII), a leading scientific research centre based in the United Arab Emirates as well as an Honorary Professor at Macquarie University in Sydney, Australia. Prior to joining TII, he was an associate professor at Zayed University and contributed to research in the areas of data analysis, information retrieval and security. He also served as chairman of the Department of Computer Science and Applied Technology. Dr. Hacid has authored over 60 research papers published in leading journals and conferences and holds several industrial patents. His research interests include databases, data mining and analysis, programming, web information systems, natural language processing and security. Hakim Hacid received his PhD in data mining/databases from the University of Lyon, France. He also obtained a double master's degree in computer science (research and professional master's) from the same university.</figcaption>
 </figure>
 
 <b>Towards Edge AI: Principles, current state, and perspectives</b> <br/> <br/>
