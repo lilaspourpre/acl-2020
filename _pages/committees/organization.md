@@ -11,6 +11,7 @@ sidebar:
 Habet Madoyan, American University of Armenia<br/>
 Amalya Hambardzumyan, American University of Armenia<br/>
 Irina Nikishina, Universität Hamburg<br/>
+Maxim Panov, Technology Innovation Institute<br/>
 Dmitry Ignatov, Higher School of Economics<br/>
 Evgenii Tsymbalov, Apptek<br/>
 Alexander Panchenko, Skolkovo Institute of Science and Technology & AIRI<br/>
