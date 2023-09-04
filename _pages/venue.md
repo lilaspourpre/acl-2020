@@ -13,10 +13,6 @@ The venue address is as follows:
 
 You may want to <a href="/docs/Guidebook.pdf"><b>download the guide</b></a> for the offline participants coming to Armenia:
 
-<a href="/docs/Guidebook.pdf"><object width="50%" height="50%" type="application/pdf" data="/docs/Guidebook.pdf">
-    <p><a href="/docs/Guidebook.pdf">Yerevan Guide 2023</a></p>
-</object></a>
-
 ### Suggestions for accommodation in Yerevan:
 
 | Rooftop Apart-Hotel Yerevan | [booking](https://www.booking.com/hotel/am/rooftop-apart.en-gb.html) | [maps](https://goo.gl/maps/EzebKUdnQJLXMcsN8) | [website](https://rooftopaparthotel.com/en/) |(+374) 11 707727 |
