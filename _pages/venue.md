@@ -11,6 +11,12 @@ The venue address is as follows:
 <i>American University of Armenia<br/></i>
 <i>40 Marshal Baghramyan Ave, Yerevan 0019</i>
 
+You may want to <a href="/docs/Guidebook.pdf"><b>download the guide</b></a> for the offline participants coming to Armenia:
+
+<a href="/docs/Guidebook.pdf"><object width="100%" height="100%" type="application/pdf" data="/docs/Guidebook.pdf">
+    <p><a href="/docs/Guidebook.pdf">Yerevan Guide 2023</a></p>
+</object></a>
+
 ### Suggestions for accommodation in Yerevan:
 
 | Rooftop Apart-Hotel Yerevan | [booking](https://www.booking.com/hotel/am/rooftop-apart.en-gb.html) | [maps](https://goo.gl/maps/EzebKUdnQJLXMcsN8) | [website](https://rooftopaparthotel.com/en/) |(+374) 11 707727 |
@@ -20,7 +26,6 @@ The venue address is as follows:
 | Dave Hotel Yerevan	| [booking](https://www.booking.com/hotel/am/dave-yerevan.en-gb.html)	| [maps](https://goo.gl/maps/3QJF89oHR7MhNfSt8)	| [website](https://www.davehotels.com/dave-yerevan/)	| (+374) 60 707575 |
 | Royal Plaza Hotel Yerevan	| [booking](https://www.booking.com/hotel/am/royal-plaza.en-gb.html?aid=356980&label=gog235jc-1BCAUoB0IgbWFyc2hhbC1iYWdocmFteWFuLW1ldHJvLXN0YXRpb25IM1gDaAeIAQGYAQm4ARfIAQzYAQHoAQGIAgGoAgO4Ar_IoqcGwAIB0gIkODQyNjcyMWEtNjllOC00Njk3LTk5ZjQtMDk3ZmU5MzZiMTY42AIF4AIB&sid=ff5bdba9512e9b45114b63af462b9e98) | [maps](https://goo.gl/maps/14b49vyBtLjS4W8t9) | - |  (+374) 94 620009 |
 | Diamond Hotel Yerevan	| [booking](https://www.booking.com/hotel/am/diamond-house.en-gb.html?aid=318615&label=Catch_All-EN-131006970841-PUjmicBGaT%2Af%2AaX4sDbiUAS548793046931%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atidsa-1641476121786%3Alp9070053%3Ali%3Adec%3Adm&sid=ff5bdba9512e9b45114b63af462b9e98) | [maps](https://goo.gl/maps/d388s3J7ezJCzoZd9) | - | (+374) 10 508080 |
-
 
 <figure>
   <img width="300" src="/assets/images/yerevan2.jpg">
