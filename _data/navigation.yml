@@ -66,8 +66,8 @@ program:
      children:
        - title: "Program"
          url: /program/program/
-       - title: "Invited speakers"
-         url: /program/invited/
+       - title: "Keynote speakers"
+         url: /program/keynote/
        - title: "Accepted Papers"
          url: /program/accepted/
        - title: "Best Paper Awards"
