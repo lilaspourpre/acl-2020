@@ -13,7 +13,7 @@ The venue address is as follows:
 
 You may want to <a href="/docs/Guidebook.pdf"><b>download the guide</b></a> for the offline participants coming to Armenia:
 
-<a href="/docs/Guidebook.pdf"><object width="100%" height="100%" type="application/pdf" data="/docs/Guidebook.pdf">
+<a href="/docs/Guidebook.pdf"><object width="50%" height="50%" type="application/pdf" data="/docs/Guidebook.pdf">
     <p><a href="/docs/Guidebook.pdf">Yerevan Guide 2023</a></p>
 </object></a>
 
