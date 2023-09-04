@@ -1,8 +1,8 @@
 ---
-title: Invited Speakers
+title: Keynote Speakers
 layout: single
-excerpt: "AIST-2023 Invited Speakers."
-permalink: /program/invited/
+excerpt: "AIST-2023 Keynote Speakers."
+permalink: /program/keynote/
 sidebar: 
     nav: program
 ---
