@@ -13,7 +13,7 @@ The following speakers have graciously accepted to give keynotes at AIST-2023.<b
 ## Samuel Horvath
 
 <figure>
-  <a href="https://mbzuai.ac.ae/study/faculty/samuel-horvath/"><img length="300" src="/assets/images/sam_headshot.jpeg"></a>
+  <a href="https://mbzuai.ac.ae/study/faculty/samuel-horvath/"><img length="100" src="/assets/images/sam_headshot.jpeg"></a>
   <figcaption><strong><a href="https://mbzuai.ac.ae/study/faculty/samuel-horvath/">Samuel Horvath</a></strong> is an assistant professor of Machine Learning at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). Before joining MBZUAI, he completed his MS and Ph.D. in statistics at King Abdullah University of Science and Technology (KAUST) advised by Professor Peter Richtárik. Earlier in his academic journey, Samuel was an undergraduate student in Financial Mathematics at Comenius University.
 In his research, Samuel focuses on providing a fundamental understanding of how distributed and federated training algorithms function and their interactions with various sources of heterogeneity. These sources include system-level computing infrastructure variability and training data statistical variability. Driven by these theoretical insights, Samuel aims to create efficient and practical distributed and federated training algorithms.
 Samuel's broad interests lie in distributed, collaborative, and efficient on-device ML.
