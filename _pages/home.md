@@ -17,6 +17,9 @@ Join our <a href="https://t.me/+RK3hR9_UClkoFHc2">telegram chat.</a>
 
 <h2>News</h2>
 
+**September 4, 2023.** You may want to <a href="/docs/Guidebook.pdf"><b>download the guide</b></a> for the offline participants coming to Armenia.
+{: .notice--info}
+
 **August 31, 2023.** Registration is now [open](https://www.eventbrite.com/e/aist-2023-tickets-664697717767).
 {: .notice--info}
 
