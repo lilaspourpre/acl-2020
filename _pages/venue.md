@@ -11,7 +11,7 @@ The venue address is as follows:
 <i>American University of Armenia<br/></i>
 <i>40 Marshal Baghramyan Ave, Yerevan 0019</i>
 
-You may want to <a href="/docs/Guidebook.pdf"><b>download the guide</b></a> for the offline participants coming to Armenia:
+You may want to <a href="/Guidebook.pdf"><b>download the guide</b></a> for the offline participants coming to Armenia:
 
 ### Suggestions for accommodation in Yerevan:
 
