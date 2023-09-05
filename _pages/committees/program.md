@@ -72,7 +72,7 @@ sidebar:
 - Pavel Braslavski, Ural Federal University<br/>
 - Vera Davydova, Sber AI<br/>
 - Oksana Dereza, National University of Ireland, Galway<br/>
-- Anna Dmitrieva, University of Helsinki; National Research University Higher School of Economics<br/>
+- Anna Dmitrieva, University of Helsinki<br/>
 - Ekaterina Dmitrieva, HSE University<br/>
 - Boris Dobrov, Recearch Computing Center of Moscow State Univ.<br/>
 - Pavel Efimov, ITMO University<br/>
