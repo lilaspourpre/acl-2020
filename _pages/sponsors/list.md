@@ -12,11 +12,11 @@ platinum:
     image_path: /assets/images/logos/AUA_ACSE_RGB_HL.png
     alt: "American University of Armenia"
     title: "American University of Armenia"
-# gold:
-#   - url: https://exactpro.com/
-#     image_path: /assets/images/logos/exactpro.png
-#     alt: "Exactpro Systems Logo"
-#     title: "Exactpro Systems"
+gold:
+  - url: https://airi.net/
+    image_path: /assets/images/logos/airi.jpg
+    alt: "AIRI Logo"
+    title: "AIRI"
 # silver:
 #   - url: https://www.boeing.com/
 #     image_path: /assets/images/Boeing_full_logo.svg.png
@@ -33,6 +33,7 @@ AIST 2023 is grateful to all its sponsors, who are listed below.
 
 
 {% include gallery id="platinum" class="fourth" %}
+{% include gallery id="gold" class="fourth" %}
 
 <!-- 
 {% include gallery id="gold" class="fourth" %}
