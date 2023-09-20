@@ -39,14 +39,14 @@ sidebar:
 
 - Ammar Ali, ITMO University<br/>
 - Alexey, Chernyavskiy, Philips Innovation Labs Russia<br/>
-- Andrei Filatov<br/>
+- Andrei Filatov, Skoltech, Sber AI<br/>
 - Georgii Gaikov, MTS AI<br/>
 - Petr Gladilin, Huawei, ITMO University<br/>
 - Javad Khodadoust, Tecnológico de Monterrey<br/>
 - Daniel Kireev, VisionLabs<br/>
 - Anton Konushin, NRU HSE<br/>
-- Maxim Kurkin<br/>
-- Ksenia Kuvshinova<br/>
+- Maxim Kurkin, Skoltech, Sber AI, AIRI<br/>
+- Ksenia Kuvshinova, Skoltech, Sber AI<br/>
 - Gaffer Mahmoud, ITMO university<br/>
 - Ilya Makarov, HSE University<br/>
 - Ruslan Musaev<br/>
