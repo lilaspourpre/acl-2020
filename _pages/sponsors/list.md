@@ -14,7 +14,7 @@ platinum:
     title: "American University of Armenia"
 gold:
   - url: https://airi.net/
-    image_path: /assets/images/airi.jpg
+    image_path: /assets/images/AIRI - Full logo-black.png
     alt: "AIRI Logo"
     title: "AIRI"
 # silver:
