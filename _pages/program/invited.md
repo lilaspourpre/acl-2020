@@ -1,4 +1,4 @@
-<img width="740" alt="image" src="https://github.com/lilaspourpre/acl-2020/assets/9992898/30acbdd5-bf72-4763-b0c6-f5fce894e37b">---
+---
 title: Keynote Speakers
 layout: single
 excerpt: "AIST-2023 Keynote Speakers."
