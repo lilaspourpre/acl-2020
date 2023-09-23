@@ -64,7 +64,7 @@ from Lomonosov Moscow State University (1980–1986), followed by a doctoral deg
 
 ## Muhammad Shahid Iqbal Malik
 
-figure>
+<figure>
   <a href=""><img width="300" src="/assets/images/mh.jpg"></a>
   <figcaption><strong><a href="">Muhammad Shahid Iqbal Malik</a></strong> </figcaption>
 </figure>
