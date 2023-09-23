@@ -66,7 +66,7 @@ from Lomonosov Moscow State University (1980–1986), followed by a doctoral deg
 
 <figure>
   <a href="https://www.hse.ru/en/org/persons/785341107"><img width="300" src="/assets/images/mh.jpg"></a>
-  <figcaption><strong><a href="https://www.hse.ru/en/org/persons/785341107">Muhammad Shahid Iqbal Malik</a></strong> </figcaption>
+  <figcaption><strong><a href="https://www.hse.ru/en/org/persons/785341107">Muhammad Shahid Iqbal Malik</a></strong> is a postdoc fellow in the lab for Models and Methods of Computational Pragmatics in the National Research University (HSE, Moscow, Russia). He is also Former Assistant Professor (July 2019 -- September 2022) in the Department of Computer Science at the Capital University of Science and Technology, Islamabad Pakistan.</figcaption>
 </figure>
 
 <b>Threatening Content and Target Identification in low-resource languages using NLP Techniques</b> <br/> <br/>
