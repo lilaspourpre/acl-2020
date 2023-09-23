@@ -1,4 +1,4 @@
----
+<img width="740" alt="image" src="https://github.com/lilaspourpre/acl-2020/assets/9992898/30acbdd5-bf72-4763-b0c6-f5fce894e37b">---
 title: Keynote Speakers
 layout: single
 excerpt: "AIST-2023 Keynote Speakers."
@@ -60,3 +60,15 @@ from Lomonosov Moscow State University (1980–1986), followed by a doctoral deg
 
 <b>Decoding Hyperspectral Imaging: From Basic Principles to Medical Applications</b> <br/> <br/>
 <b>Abstract:</b> Over the past few decades, the application of hyperspectral imaging (HSI) has significantly expanded, finding widespread use in areas such as satellite imaging, agriculture, the food industry, and medicine. What sets HSI apart is its capacity to acquire complete spectral data from every pixel of an image. Each HSI dataset is a collection of individual images across numerous spectral bands and/or varied lighting conditions. A distinctive element of HSI is that, unlike grayscale or color images – where each pixel contains one or three to four color channels respectively – HSI captures hundreds of spectral bands for every pixel. Hence, the output from HSI is essentially a three- or four-dimensional dataset, with two dimensions representing spatial axes and the rest providing spectral values. Each dimension typically encompasses hundreds of individual values, so the massive amount of information collected by HSI hardware presents a great opportunity to apply ML and AI tools for data analysis. During this keynote presentation, the speaker will overview the fundamental principles of HSI technology including examples from her own projects. The goal will be to illustrate both the immense promise of HSI in revealing previously unseen surgical targets, as well as challenges posed by the high-dimensionality of HSI data. The key considerations for automatic processing and analysis of HSI data for medical use will also be touched upon. These include preserving the original spectral detail of an image to prevent the loss of information, ensuring processing efficiency for real-time application in a clinical environment, and managing the demands on processing power to ensure broader implementation.
+
+
+## Muhammad Shahid Iqbal Malik
+figure>
+  <a href=""><img width="300" src="/assets/images/mh.jpg"></a>
+  <figcaption><strong><a href="">Muhammad Shahid Iqbal Malik</a></strong> </figcaption>
+</figure>
+
+<b>Threatening Content and Target Identification in low-resource languages using NLP Techniques</b> <br/> <br/>
+<b>Abstract:</b> Identification of threatening text on social media platforms is a challenging task. Contrary to the high-resource languages, the Urdu language has very limited such approaches and the benchmark approach has an issue of inappropriate data annotation. Therefore, we present robust threatening content and target identification as a hierarchical classification model for Urdu tweets. This study investigates the potential of the Urdu-BERT (Bidirectional Encoder Representations from Transformer) language model to learn universal contextualized representations aiming to showcase its usefulness for binary classification tasks of threatening content and target identification. We propose to exploit a pre-trained Urdu-BERT as a transfer learning model after fine-tuning its parameters on a newly designed Urdu corpus from the Twitter platform. The proposed dataset contains 2,400 tweets manually annotated as threatening or non-threatening at the first level and threatening tweets are further categorized into individual or group at the second level. The performance of fine-tuned Urdu-BERT is compared with the benchmark study and other feature models. Experimental results show that the fine-tuned Urdu-BERT model achieves state-of-the-art performance by obtaining 87.5% accuracy and 87.8% F1-score for threatening content identification and 82.5% accuracy and 83.2% F1-score for target identification task. Furthermore, the proposed model outperforms the benchmark study.    
+
+
