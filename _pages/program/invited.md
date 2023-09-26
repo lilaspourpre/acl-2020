@@ -66,7 +66,7 @@ from Lomonosov Moscow State University (1980–1986), followed by a doctoral deg
 
 <figure>
   <a href="https://www.hse.ru/en/org/persons/785341107"><img width="300" src="/assets/images/mh.jpg"></a>
-  <figcaption><strong><a href="https://www.hse.ru/en/org/persons/785341107">Muhammad Shahid Iqbal Malik</a></strong> is a postdoc fellow in the lab for Models and Methods of Computational Pragmatics in the National Research University (HSE, Moscow, Russia). He is also Former Assistant Professor (July 2019 -- September 2022) in the Department of Computer Science at the Capital University of Science and Technology, Islamabad Pakistan.</figcaption>
+  <figcaption><strong><a href="https://www.hse.ru/en/org/persons/785341107">Muhammad Shahid Iqbal Malik</a></strong> is currently a Postdoc Fellow in the Lab for Models and Methods of Computational Pragmatics, National Research University HSE, Moscow, Russia. Dr. Malik received his Master degree in Computer Engineering (2011), followed by a Doctoral degree in Data Mining (2018) from International Islamic University, Islamabad, Pakistan. Previously, he served more than 3 years as an Assistant Professor at CUST University, Islamabad and 4 years as a Lecturer at Comsats University Islamabad, Pakistan. In addition, he served 12 years in HVAC industry, Islamabad and developed several embedded systems solutions for Air-conditioning systems. Dr. Malik authored 23 research papers published in leading International Journals and Conferences. His research interests include Social Media Mining, Natural Language Processing, Predictive Analytics and Social Computing.</figcaption>
 </figure>
 
 <b>Threatening Content and Target Identification in low-resource languages using NLP Techniques</b> <br/> <br/>
