@@ -10,55 +10,44 @@ toc: true
 toc_sticky: true
 ---
 
-To be defined.
 
-<!--
+
 ## Data Analysis and Machine Learning
 
-Gradient-based adversarial attacks on categorical sequence models via traversing an embedded world<br/>
-<i>Ivan Fursov, Alexey Zaytsev, Nikita Klyuchnikov, Andrey Kravchenko and Evgeny Burnaev</i>
+Ensemble Clustering with Heterogeneous Transfer Learning<br/>
+<i>Vladimir Berikov</i>
 
-The authors show the importance of threats by over trust in deep learning models for validation of categorical sequences, which may lead to fraudulent money transactions, medical fraud, and the spreading of fictional texts.
-
+The author considers the important problem of clustering in presence of additional labeled dataset. He proposes to extract certain statistical features from the labelled dataset and then use them to refine clustering of the unlabelled data.
 
 ## Computer Vision
 
-Deep Learning on Point Clouds for False Positive Reduction at Nodule Detection in Chest CT Scans<br/>
-<i>Ivan Drokin and Elena Ericheva</i>
+DeepLOC: Deep Learning-based Bone Pathology Localization and Classification in Wrist X-ray Images.<br/>
+<i>Razan Dibo, Andrey Galichin, Pavel Astashev, Dmitry V. Dylov and Oleg Y. Rogov</i>
 
-The authors proposed novel representation of scanned data (point cloud) and PointNet-based architecture for reduction of false positives in medical classification. All 3 reviewers voted for “strong accept” score.
+The authors proposed a novel approach to detecting and classification of pathologies on wrist X-ray images. They proposed a new block in the transformer leading to the state-of-the-art performance in the considered problem.
 
 
 ## Natural Language Processing
 
-Do topics make a metaphor? Topic modeling for metaphor identification and analysis in Russian<br/>
-<i>Yulia Badryzlova, Anastasia Nikiforova and Olga Lyashevskaya</i>
+Benchmarking Multi-Label Topic Classification in Kyrgyz Language
+<br/>
+<i>Anton Alekseev, Sergey Nikolenko and Gulnara Kabaeva</i>
 
-For an interesting combination of linguistic research questions (the nature of metaphor) and advanced NLP methods (topic modeling).
+For their meticulous work on creating NLP datasets for Kyrgyz: a low-resource language spoken by millions of people.
 
 
 ## Social Network Analysis
 
-Detecting Automatically Managed Accounts in Online Social Networks: Graph Embedding Approach<br/>
-<i>Ilia Karpov, Ekaterina Glazkova</i>
+Limit Distributions of Friendship Index in Scale-Free Networks<br/>
+<i>Sergei Sidorov, Sergei Mironov and Alexey Grigoriev</i>
 
-The authors introduce a unique open dataset of bot accounts from a Russian social network that have been selected according to a rigorous definition. They also show that bots differ in their level of complexity, and that different machine learning approaches are needed to detect these different types. The proposed algorithms demonstrate a very high quality. 
+The paper explores the behavior of the friends index in scale-free graphs, with number of edges distributed as power law and treating it as a probabilistic model.
 
 
 ## Theoretical Machine Learning and Optimization
 
-Fast Approximation Algorithms for Stabbing Special Families of Line Segments with Equal Disks<br/>
-<i>Konstantin Kobylkin</i>
+Is Canfield Right? On the Asymptotic Coefficients for the Maximum Antichain of Partitions and Related Counting Inequalities
+<br/>
+<i>Dmitry Ignatov</i>
 
-In the paper, novel polynomial-time constant-factor approximation algorithms for several geometric settings of the well known Hitting Set combinatorial optimization problem are proposed. The algorithms have state-of-the-art expected performance guarantees and can be applied for solving relevant practical problems in operations research.
-
-
-## Process Mining
-
-Checking Conformance between Colored Petri Nets and Event Logs<br/>
-<i>Julio Cesar Carrasquel, Khalil Mecheraoui, Irina Lomazova</i>
-
-The authors proposed an algorithm for conformance checking between colored Petri nets and event logs. The paper describes a solid theoretical approach broadening the existing conformance checking techniques.
-
-
--->
+The author considers open problems on counting (maximal) antichains in partition lattices and the size of maximum antichain. The new bounds for asymptotics coefficients obtained and the new integer sequence in OEIS encyclopedia.
