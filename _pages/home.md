@@ -73,4 +73,7 @@ AIST-2023 proceedings will be published in Springer <a href="https://www.springe
 
 The companion volume will be published in the satellite series [CCIS](https://www.springer.com/series/7899).
 
+Please follow the [Code of Conduct](https://www.springernature.com/gp/authors/book-authors-code-of-conduct) when you prepare your final publication.
+
+
 <!-- ВК9173 -->
