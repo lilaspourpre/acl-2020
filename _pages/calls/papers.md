@@ -124,6 +124,7 @@ Alexander Panchenko, Skolkovo Institute of Science and Technology & AIRI
 
 AIST-2023 proceedings will be published in Springer LNCS ([Lecture Notes in Computer Science](https://www.springer.com/series/558)). The companion volume will be published in the satellite series CCIS ([Communications in Computer and Information Science](https://www.springer.com/series/7899)).
 
+Please follow the [Code of Conduct](https://www.springernature.com/gp/authors/book-authors-code-of-conduct) when you prepare your final publication.
     
 ## Past Conferences
 
