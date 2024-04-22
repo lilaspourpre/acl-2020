@@ -1,7 +1,7 @@
 ---
 title: Keynote Speakers
 layout: single
-excerpt: "AIST-2023 Keynote Speakers."
+excerpt: "AIST-2024 Keynote Speakers."
 permalink: /program/keynote/
 sidebar: 
     nav: program
