@@ -7,9 +7,10 @@ sidebar:
     nav: program
 ---
 
-The following speakers have graciously accepted to give keynotes at AIST-2023.<br>
+The following speakers have graciously accepted to give keynotes at AIST-2024.<br>
 
- 
+TBA
+<!--- 
 ## Samuel Horvath
 
 <figure>
@@ -72,4 +73,4 @@ from Lomonosov Moscow State University (1980–1986), followed by a doctoral deg
 <b>Threatening Content and Target Identification in low-resource languages using NLP Techniques</b> <br/> <br/>
 <b>Abstract:</b> Unrestricted access to social media has aroused serious concerns in the society. In the last decade, abusive/offensive content, the use of threatening language, and violence incitation have become predominant in the mainstream of social media. As far as threatening expression detection is concerned, it was mainly explored in English. Contrary to the high-resource languages, the low-resource languages have very limited such approaches, especially Urdu. Urdu is Pakistan’s national language and is indigenous to 170 million people in the Asian subcontinent. In addition, it is also spoken by millions of people in India, USA, UK, and Canada. There are several challenges while dealing with Urdu language like annotated datasets are not available, essential resources and accurate text processing toolkits are missing. Furthermore, pertinent language models are scarcely available for Urdu. In this talk, I will discuss the design of an automated Urdu framework for the identification of threatening content and target identification as a hierarchical classification model for the Twitter platform. The process of creating a manually annotated dataset labeled as threatening vs. non-threatening at the first level and individual vs. group (target identification) at the second level will be discussed. Furthermore, the steps of data cleaning and pre-processing will be described. The proposed framework investigated the potential of the Urdu-BERT (Bidirectional Encoder Representations from Transformer) language model with fine-tuning to learn universal contextualized representations aiming to showcase its usefulness for binary classification tasks of threatening content and target identification. In the end, I will discuss the results obtained by the fine-tuning hyperparameters of the Urdu-BERT model and their comparison with benchmark approaches. I will conclude my talk by discussing the advantages of the proposed framework and the future prospects in the Urdu language.  
 
-
+--->
