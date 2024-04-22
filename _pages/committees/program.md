@@ -7,7 +7,9 @@ sidebar:
     nav: committees 
 ---
 
+TBA soon
 
+<!---
 <h3>Data Analysis</h3>
 - Jaume Baixeries, Universitat Politècnica de Catalunya<br/>
 - Mikhail Bogatyrev, Tula State University<br/>
@@ -135,4 +137,4 @@ sidebar:
 - Denis Sidorov, Energy Systems Institute SB RAS<br/>
 - Tatiana Tchemisova, University of Aveiro
 
-
+---!>
