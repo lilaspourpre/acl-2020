@@ -101,6 +101,8 @@ sponsors:
 past:
   - title: "Past events"
     children:
+      - title: "AIST 2023"
+        url: http://2023.aistconf.org/
       - title: "AIST 2021"
         url: http://2021.aistconf.org/
       - title: "AIST 2020"
