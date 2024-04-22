@@ -1,7 +1,7 @@
 ---
 title: Organizing Committee
 layout: single
-excerpt: "AIST 2023 organizing committee."
+excerpt: "AIST 2024 organizing committee."
 permalink: /committees/organization
 sidebar: 
     nav: committees 
