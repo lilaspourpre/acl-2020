@@ -4,8 +4,10 @@ layout: single
 permalink: /venue/
 ---
 
-The conference continues to travel in a beautiful (and tasty!) region. This year AIST will be held offline in **Yerevan, Armenia**. More specifically the event is organized with support of Zaven & Sonia Akian College of Science & Engineering, [American University of Armenia](https://cse.aua.am/). Besides the scientific knowledge you will enjoy a good season in Armenia and dive into local culture. The conference will feature representatives of the local data analysis community.
+The conference continues to travel in a beautiful (and tasty!) region. This year AIST will be held offline in **Bishkek, Kirgizstan**. More specifically the event is organized with support of [Kyrgyz-Turkish Manas University](https://www.manas.edu.kg/en/index.php) and [The Cramer Project](https://thecramer.com/en/akylai). Besides the scientific knowledge you will enjoy a good season in Kirgizstan and dive into local culture. The conference will feature representatives of the local data analysis community.
 
+More information will be available soon.
+<!--
 The venue address is as follows:
 
 <i>American University of Armenia<br/></i>
@@ -30,7 +32,7 @@ You may want to <a href="/Guidebook.pdf"><b>download the guide</b></a> for the o
 
 <br>
 
-<!-- **Address: 1, Chavchavadze Ave., 0179, Tbilisi, Georgia
+ **Address: 1, Chavchavadze Ave., 0179, Tbilisi, Georgia
 1st building, main entrance, Conference hall on the 2nd floor**
 
 <figure>
