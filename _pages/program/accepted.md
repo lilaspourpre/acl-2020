@@ -1,7 +1,7 @@
 ---
 title: Accepted Papers
 layout: single
-excerpt: "AIST 2023 Accepted Papers."
+excerpt: "AIST 2024 Accepted Papers."
 permalink: /program/accepted/
 sidebar: 
     nav: program
@@ -13,7 +13,7 @@ toc_sticky: true
 Note that the titles/authors may change and papers may be withdrawn. 
 For the final titles/authors, please refer to the proceedings when they are out.
 
-
+<!---
 ## Data Analysis and Machine Learning
 
 ### LNCS
@@ -192,3 +192,4 @@ The Problem of Finding Several Given Diameter Spanning Trees of Maximum Total We
 
 Distributed Bayesian Coresets<br/>
 <i>Vladimir Omelyusik and Maxim Panov</i>
+--->
