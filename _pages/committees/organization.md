@@ -21,23 +21,22 @@ Alexander Panchenko, Skolkovo Institute of Science and Technology & AIRI<br/>
 
 <h4>Natural Language Processing</h4>
 Andrey Kutuzov, University of Oslo<br/>
-Elena Tutubalina, Kazan Federal University & AIRI
+Elena Tutubalina, Kazan Federal University & AIRI<br/>
+Natalia Loukachevitch, Research Computing Center of Moscow State University
 
 <h4>Computer Vision</h4>
 Andrey Savchenko, Higher School of Economics<br>
-Sergey Zagoruyko, MTS AI
 
 <h4>Data Analysis and Machine Learning</h4>
 Evgenii Tsymbalov, Apptek<br/>
 Maxim Panov, Technology Innovation Institute
 
-
 <h4>Network Analysis</h4>
 Irina Nikishina, Universität Hamburg<br/>
-Ilya Makarov, Higher School of Economics & AIRI
 
 <h4>Theoretical Machine Learning and Optimization</h4>
-Michael Khachay, Krasovsky Institute of Mathematics and Mechanics<br/>
+TBA
+<!--Michael Khachay, Krasovsky Institute of Mathematics and Mechanics<br/>
 Panos Pardalos, University of Florida
-
-<!-- <h3>Volunteers</h3> -->
+<h3>Volunteers</h3> 
+ -->
