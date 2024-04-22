@@ -7,6 +7,39 @@ toc: false
 toc_icon: "cog"
 ---
 
+**September 29, 2023.** Links to the Youtube stream are available <a href="/program/program"><b>on the program page</b></a>
+{: .notice--info}
+
+**September 4, 2023.** You may want to <a href="/Guidebook.pdf"><b>download the guide</b></a> for the offline participants coming to Armenia.
+{: .notice--info}
+
+**August 31, 2023.** Registration is now [open](https://www.eventbrite.com/e/aist-2023-tickets-664697717767).
+{: .notice--info}
+
+**August 26, 2023.** List of accepted papers is [published](/program/accepted).
+{: .notice--info}
+
+**August 6, 2023.** Poster submission is re-opened until August, 25.
+{: .notice--info}
+
+**August 2, 2023.** Notification of acceptance is moved to August, 22! Camera-ready version is due September, 10.
+{: .notice--info}
+
+**June 4, 2023.** Abstract submission deadline is moved to July, 13! Paper submission is due July, 20.
+{: .notice--info}
+
+**June 30, 2023.** Your abstract (and optionally the extended abstract in PDF) should be submitted by July 20 to the special “Poster session” track.
+{: .notice--info}
+
+**June 7, 2023.** Paper submission [link](https://easychair.org/conferences/?conf=aist2023).
+{: .notice--info}
+
+**March 3, 2023**. Call for papers is published [here](/calls/papers).
+{: .notice--info}
+
+**March 3, 2023**. Join AIST-2023 [Telegram chat](https://t.me/joinchat/AAAAAESt4UfKCiLcCj2PbA) to get in touch with other participants
+{: .notice--info}
+
 **Oct 6, 2022**. Papers are finally published! You can have the free access here: [LNCS](https://link.springer.com/book/9783031164996) and [CCIS](https://link.springer.com/book/10.1007/978-3-031-15168-2).
 {: .notice--info}
 
