@@ -8,8 +8,9 @@ sidebar:
 ---
 
 <h3>Organizing committee</h3>
-Habet Madoyan, American University of Armenia<br/>
-Amalya Hambardzumyan, American University of Armenia<br/>
+<!--Habet Madoyan, American University of Armenia<br/>
+Amalya Hambardzumyan, American University of Armenia<br/>-->
+TBA, Local Committee
 Irina Nikishina, Universität Hamburg<br/>
 Maxim Panov, Technology Innovation Institute<br/>
 Dmitry Ignatov, Higher School of Economics<br/>
