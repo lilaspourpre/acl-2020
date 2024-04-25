@@ -3,7 +3,7 @@ title: "The 12th International Conference on<br/> Analysis of Images, Social Net
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/bishkek.JPG"
+  overlay_image: "/assets/images/bishkek3.PNG"
 excerpt: "<br/><br/>"
 ---
 <div class="text-center">
