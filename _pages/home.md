@@ -16,7 +16,7 @@ Join our <a href="https://t.me/+RK3hR9_UClkoFHc2">telegram chat.</a>
 
 <h2>News</h2>
 
-**April 22, 2024.** AIST-2024 will take place in Bishkek, Kirgizstan, on October 17-19
+**April 22, 2024.** AIST-2024 will take place in Bishkek, Kyrgyzstan, on October 17-19
 {: .notice--info}
 
 <div class="text-center">
