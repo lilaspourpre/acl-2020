@@ -8,7 +8,7 @@ The conference continues to travel in a beautiful region. This year AIST will be
 
 <figure>
   <img width="300" src="/assets/images/bishkek2.JPG">
-  <figcaption></figcaption>
+  <figcaption>Photo: Gladkov_photo</figcaption>
 </figure>
 
 
