@@ -8,7 +8,7 @@ toc_icon: "cog"
 ---
 
 <sub>**AIST-2024**  
-Bishkek, Kirgizstan<br>
+Bishkek, Kyrgyzstan<br>
 October 17-19, 2024.<br>
 [https://AISTconf.org](https://aistconf.org)
 
