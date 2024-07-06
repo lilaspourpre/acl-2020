@@ -19,7 +19,7 @@ sidebar:
         <tr>
             <td style="width: 30%;">
                 <figure>
-                    <a href="https://link.springer.com/book/10.1007/978-3-031-54534-4"><img src="https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-54534-4?as=webp"></a> <a href="https://link.springer.com/book/9783031670077"><img src="/assets/img/ccis2023.png"></a>
+                    <a href="https://link.springer.com/book/10.1007/978-3-031-54534-4"><img src="https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-54534-4?as=webp"></a> <a href="https://link.springer.com/book/9783031670077"><img src="/assets/images/ccis2023.png"></a>
                 </figure>
             </td>
             <td style="width: 60%;"><center>11th International Conference,<br><b>AIST 2023</b>,<br>Yerevan, Armenia<br>September 28–30, 2023</center></td>
