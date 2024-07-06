@@ -15,21 +15,35 @@ October 17-19, 2024.<br>
 
 ## CALL FOR PAPERS
 
-TBA soon
 
-<!--
 Dear colleagues,
-    
-We are excited to invite you to submit a paper to AIST-2023, a scientific conference on Analysis of Images, Social Networks, and Texts. The conference is intended for researchers and practitioners interested in data science focusing on innovative applications of data analysis and machine learning techniques to image processing, analysis of network data, text processing, and other domains, such as economics or geographic information systems. 
-    
-The conference is intended for computer scientists and practitioners whose research interests are related to data science. The ten previous editions of the AIST conference held in 2012-2021 attracted a significant number of students, researchers, academics, and engineers working on the analysis of images, texts, and social networks. The broad scope of AIST makes it an event where researchers from different domains, exploiting various data analysis techniques, can meet and exchange ideas. The conference allows specialists from different fields to meet each other, present their work, and discuss both theoretical and practical aspects of their data analysis problems. Another important aim of the conference is to stimulate scientists and people from the industry to benefit from the knowledge exchange and identify possible grounds for fruitful collaboration.
-    
+
+We are excited to invite you to submit a paper to AIST’2024, a scientific conference on Analysis of Images, Social Networks, and Texts. The conference is intended for researchers and practitioners interested in data science focusing on innovative applications of data analysis and machine learning techniques to image processing, analysis of network data, text processing, and other domains, such as economics or geographic information systems. 
+
+The conference is designed for computer scientists and practitioners whose research interests are related to data science. The eleven previous editions of the AIST conference held in 2012-2023 attracted a significant number of students, researchers, academics, and engineers working on the analysis of images, texts, and social networks. The broad scope of AIST makes it an event where researchers from different domains, exploiting various data analysis techniques, can meet and exchange ideas. The conference allows specialists from different fields to meet each other, present their work, and discuss both theoretical and practical aspects of their data analysis problems. Another important aim of the conference is to stimulate scientists and people from the industry to benefit from the knowledge exchange and identify possible grounds for fruitful collaboration.
+
 Similar to the previous years, the main volume of the conference proceedings will be published in the Springer’s in Lecture Notes in Computer Science (LNCS) series. 
-    
+
+
 ## Venue
 
-The conference continues to travel in a beautiful (and tasty!) region. This year AIST will be held offline in Yerevan, Armenia. More specifically the event is organized with support of Zaven & Sonia Akian College of Science & Engineering, [American University of Armenia](https://cse.aua.am/). Besides the scientific knowledge you will enjoy a good season in Armenia and dive into local culture. The conference will feature representatives of the local data analysis community.
-    
+The conference continues travelling to beautiful regions, and following Yerevan, Armenia in 2023 edition this year AIST will be held offline in Bishkek, Kyrgyzstan. More specifically the event is organized with support of [Kyrgyz-Turkish Manas University](https://www.manas.edu.kg/en/index.php) and [The Cramer Project](https://about.thecramer.com/). Besides the scientific knowledge you will enjoy the nature of Kyrgyzstan and dive into local culture. The conference will feature representatives of the local data analysis community.
+
+## Past Conferences
+
+If you did not participate before in the AIST conference you can take a look at the proceedings of the last three years to get an idea about what kind of papers are accepted and what kind of topics are discussed at the conference. Proceeding of the previous years can be found below:
+
+- AIST-2023: [Springer Lecture Notes in Computer Science (LNCS) vol. 14486](https://link.springer.com/book/10.1007/978-3-031-54534-4) and [Communications in Computer and Information Science (CCIS) vol. 1905](https://link.springer.com/book/9783031670077)
+- AIST-2021: [Springer Lecture Notes in Computer Science (LNCS) vol. 13217](https://link.springer.com/book/10.1007/978-3-031-16500-9) and [Communications in Computer and Information Science (CCIS) vol. 1573](https://link.springer.com/book/10.1007/978-3-031-15168-2)
+- AIST-2020: [Springer Lecture Notes in Computer Science (LNCS) vol. 12602](https://link.springer.com/book/10.1007/978-3-030-72610-2) and [Communications in Computer and Information Science (CCIS) vol. 1357](https://link.springer.com/book/10.1007/978-3-030-71214-3)
+- AIST-2019: [Springer Lecture Notes in Computer Science (LNCS) vol. 11832](https://link.springer.com/book/10.1007/978-3-030-37334-4) and [Communications in Computer and Information Science (CCIS) vol. 1086](https://link.springer.com/book/10.1007/978-3-030-39575-9)
+- AIST-2018: [Springer Lecture Notes in Computer Science (LNCS) vol. 11179](https://link.springer.com/book/10.1007/978-3-030-11027-7)
+- AIST-2017: [Springer Lecture Notes in Computer Science (LNCS) vol. 10716](http://www.springer.com/us/book/9783319730127)
+- AIST-2016: [Springer Communications in Computer and Information Science (CCIS) vol. 661](http://www.springer.com/en/book/9783319529196)
+- AIST-2015: [Springer Communications in Computer and Information Science (CCIS) vol. 542](http://www.springer.com/en/book/9783319261225)
+- AIST-2014: [Springer Communications in Computer and Information Science (CCIS) vol. 436](http://www.springer.com/en/book/9783319125794)
+   
+
 ## Tracks
 
 Submission can be made in one of the following tracks chaired by experts in the respective fields:
@@ -64,23 +78,23 @@ More generally we are encouraging submission on any application of deep learning
     <tbody>
         <tr>
             <td>Abstract deadline</td>
-            <td><strike>June 30</strike> July 13, 2023</td>
+            <td> July 15, 2024</td>
         </tr>
         <tr>
             <td>Submission deadline</td>
-            <td><strike>July 15</strike> July 20, 2023</td>
+            <td>August 01, 2024</td>
         </tr>
         <tr>
             <td>Notification of acceptance</td>
-            <td><strike>August 15</strike> August 22, 2023</td>
+            <td>September 01, 2023</td>
         </tr>
         <tr>
           <td>Camera-ready papers due</td>
-          <td><strike>September 1</strike> September 10, 2023</td>
+          <td>September 15, 2024</td>
         </tr>       
         <tr>
             <td>Conference dates</td>
-            <td>September 28 &ndash; 30, 2023</td>
+            <td>October 17 &ndash; 19, 2024</td>
         </tr>     
 </tbody>
 </table>
@@ -115,8 +129,7 @@ Please, refer [https://aistconf.org/committees/program](https://aistconf.org/com
     
 ## Organizing Committee
 
-Habet Madoyan, American University of Armenia<br>
-Amalya Hambardzumyan, American University of Armenia<br>
+
 Irina Nikishina, University of Hamburg<br>
 Dmitry Ignatov, Higher School of Economics<br>
 Evgenii Tsymbalov, Apptek<br>
@@ -129,23 +142,7 @@ Alexander Panchenko, Skolkovo Institute of Science and Technology & AIRI
 AIST-2023 proceedings will be published in Springer LNCS ([Lecture Notes in Computer Science](https://www.springer.com/series/558)). The companion volume will be published in the satellite series CCIS ([Communications in Computer and Information Science](https://www.springer.com/series/7899)).
 
 Please follow the [Code of Conduct](https://www.springernature.com/gp/authors/book-authors-code-of-conduct) when you prepare your final publication.
-
---->
-
-## Past Conferences
-
-If you did not participate before in the AIST conference you can take a look at the proceedings of the last three years to get an idea about what kind of papers are accepted and what kind of topics are discussed at the conference. Proceeding of the previous years can be found below:
-
-- AIST-2023: [Springer Lecture Notes in Computer Science (LNCS) vol. 14486](https://link.springer.com/book/10.1007/978-3-031-54534-4) and [Communications in Computer and Information Science (CCIS) vol. ](https://link.springer.com/book/9783031670077)
-- AIST-2021: [Springer Lecture Notes in Computer Science (LNCS) vol. 13217](https://link.springer.com/book/10.1007/978-3-031-16500-9) and [Communications in Computer and Information Science (CCIS) vol. 1573](https://link.springer.com/book/10.1007/978-3-031-15168-2)
-- AIST-2020: [Springer Lecture Notes in Computer Science (LNCS) vol. 12602](https://link.springer.com/book/10.1007/978-3-030-72610-2) and [Communications in Computer and Information Science (CCIS) vol. 1357](https://link.springer.com/book/10.1007/978-3-030-71214-3)
-- AIST-2019: [Springer Lecture Notes in Computer Science (LNCS) vol. 11832](https://link.springer.com/book/10.1007/978-3-030-37334-4) and [Communications in Computer and Information Science (CCIS) vol. 1086](https://link.springer.com/book/10.1007/978-3-030-39575-9)
-- AIST-2018: [Springer Lecture Notes in Computer Science (LNCS) vol. 11179](https://link.springer.com/book/10.1007/978-3-030-11027-7)
-- AIST-2017: [Springer Lecture Notes in Computer Science (LNCS) vol. 10716](http://www.springer.com/us/book/9783319730127)
-- AIST-2016: [Springer Communications in Computer and Information Science (CCIS) vol. 661](http://www.springer.com/en/book/9783319529196)
-- AIST-2015: [Springer Communications in Computer and Information Science (CCIS) vol. 542](http://www.springer.com/en/book/9783319261225)
-- AIST-2014: [Springer Communications in Computer and Information Science (CCIS) vol. 436](http://www.springer.com/en/book/9783319125794)
-    
+ 
  
 ## Contact Information
 
