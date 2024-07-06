@@ -54,8 +54,7 @@ Amalya Hambardzumyan, American University of Armenia<br/>-->
 - TBA
 
 
-<h3>Local Scientific board<h3>
-
+<h3>Local Scientific board</h3>
 - Alpaslan Ceylan, Rector of Kyrgyz-Turkish Manas University<br/>
 - Dr. Almaz Ibraev, Vice-Rector of Kyrgyz-Turkish Manas University, Kyrgyzstan
 
