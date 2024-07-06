@@ -10,7 +10,9 @@ sidebar:
 <h3>Organizing committee</h3>
 <!--Habet Madoyan, American University of Armenia<br/>
 Amalya Hambardzumyan, American University of Armenia<br/>-->
-TBA, Local Committee
+Alpaslan Aşık, Kyrgyz-Turkish Manas University, Local Committee<br/>
+Saltanat Mambaeva, Kyrgyz-Turkish Manas University, Local Committee<br/>
+Aida Kasieva, Kyrgyz-Turkish Manas University, Local Committee<br/>
 Irina Nikishina, Universität Hamburg<br/>
 Maxim Panov, Technology Innovation Institute<br/>
 Dmitry Ignatov, Higher School of Economics<br/>
@@ -35,7 +37,25 @@ Maxim Panov, Technology Innovation Institute
 Irina Nikishina, Universität Hamburg<br/>
 
 <h4>Theoretical Machine Learning and Optimization</h4>
-TBA
+Yuri D. Khachai<br/> 
+Rustem Takhanov, Nazarbayev University<br/>  
+Panos Pardalos, University of Florida 
+
+<h4>Publication</h4>
+Evgenii Tsymbalov, Apptek<br/>
+Dmitry Ignatov, Higher School of Economics 
+
+<h4>Web site</h4>
+Irina Nikishina, Universität Hamburg<br>
+
+<h4>Sponshorship chair</h4>
+N/A
+
+
+<h3>Local Scientific board<h3>
+Alpaslan Ceylan, Rector of Kyrgyz-Turkish Manas University<br/>
+Dr. Almaz Ibraev, Vice-Rector of Kyrgyz-Turkish Manas University, Kyrgyzstan
+
 <!--Michael Khachay, Krasovsky Institute of Mathematics and Mechanics<br/>
 Panos Pardalos, University of Florida
 <h3>Volunteers</h3> 
