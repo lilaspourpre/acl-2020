@@ -136,7 +136,7 @@ Please follow the [Code of Conduct](https://www.springernature.com/gp/authors/bo
 
 If you did not participate before in the AIST conference you can take a look at the proceedings of the last three years to get an idea about what kind of papers are accepted and what kind of topics are discussed at the conference. Proceeding of the previous years can be found below:
 
-- AIST-2023: [Springer Lecture Notes in Computer Science (LNCS) vol. 14486](https://link.springer.com/book/10.1007/978-3-031-54534-4) and [Communications in Computer and Information Science (CCIS) vol. ]()
+- AIST-2023: [Springer Lecture Notes in Computer Science (LNCS) vol. 14486](https://link.springer.com/book/10.1007/978-3-031-54534-4) and [Communications in Computer and Information Science (CCIS) vol. ](https://link.springer.com/book/9783031670077)
 - AIST-2021: [Springer Lecture Notes in Computer Science (LNCS) vol. 13217](https://link.springer.com/book/10.1007/978-3-031-16500-9) and [Communications in Computer and Information Science (CCIS) vol. 1573](https://link.springer.com/book/10.1007/978-3-031-15168-2)
 - AIST-2020: [Springer Lecture Notes in Computer Science (LNCS) vol. 12602](https://link.springer.com/book/10.1007/978-3-030-72610-2) and [Communications in Computer and Information Science (CCIS) vol. 1357](https://link.springer.com/book/10.1007/978-3-030-71214-3)
 - AIST-2019: [Springer Lecture Notes in Computer Science (LNCS) vol. 11832](https://link.springer.com/book/10.1007/978-3-030-37334-4) and [Communications in Computer and Information Science (CCIS) vol. 1086](https://link.springer.com/book/10.1007/978-3-030-39575-9)
