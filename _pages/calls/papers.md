@@ -107,8 +107,7 @@ More generally we are encouraging submission on any application of deep learning
 
 All papers must be original and not simultaneously submitted to another journal or conference. The following paper categories are welcome:
 
-- Full papers describing completed research up to 15 pages of content with references.
-- Posters describing ongoing research (poster PDF itself + abstract).
+- Full papers describing completed research with 8-12 pages of content with references.
 
 The papers must be formatted according to the [Springer LNCS style](http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0). LaTeX template of the Springer LNCS is [available at Overleaf platform](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj). We encourage you to use the LaTeX template instead of the Word template.
 
@@ -118,9 +117,6 @@ The program committee expects that authors are ready to submit high-quality rese
 
 Each paper will be reviewed by at least three PC members. To ensure a fair assessment of the submissions, **the review will be double-blind, so you need to make your paper anonymous** (remove links to your personal pages, acknowledgments, affiliations, etc.). Your work will be rejected in case you did not anonymize properly your paper. However, ArXiv pre-prints are allowed to be submitted. 
 
-### Poster session
-
-You may also create a non-archival submission for poster session. It can be based on a published or unpublished work. Your abstract (and optionally the extended abstract in PDF) should be submitted by <strike>July 15</strike> <strike>July 20</strike> August 25 to the special “Poster session” track.
     
 ## Program Committee
 
@@ -129,7 +125,9 @@ Please, refer [https://aistconf.org/committees/program](https://aistconf.org/com
     
 ## Organizing Committee
 
-
+Alpaslan Aşık, Kyrgyz-Turkish Manas University, Local Committee<br>
+Saltanat Mambaeva, Kyrgyz-Turkish Manas University, Local Committee<br>
+Aida Kasieva, Kyrgyz-Turkish Manas University, Local Committee<br>
 Irina Nikishina, University of Hamburg<br>
 Dmitry Ignatov, Higher School of Economics<br>
 Evgenii Tsymbalov, Apptek<br>
