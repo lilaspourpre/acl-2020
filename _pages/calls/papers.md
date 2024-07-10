@@ -111,7 +111,7 @@ All papers must be original and not simultaneously submitted to another journal 
 
 The papers must be formatted according to the [Springer LNCS style](http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0). LaTeX template of the Springer LNCS is [available at Overleaf platform](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj). We encourage you to use the LaTeX template instead of the Word template.
 
-Papers should be submitted through the [EasyChair conference management system](https://easychair.org/conferences/?conf=aist2023). Submitted papers should be written in English and provide sufficient detail to allow the Program Committee to assess the merits of the paper on the basis of technical quality, relevance to the conference topics, originality, significance, and clarity of presentation.
+Papers should be submitted through the [OpenReview conference management system](https://openreview.net/group?id=aistconf.org/AIST/2024/Conference). Submitted papers should be written in English and provide sufficient detail to allow the Program Committee to assess the merits of the paper on the basis of technical quality, relevance to the conference topics, originality, significance, and clarity of presentation.
 
 The program committee expects that authors are ready to submit high-quality research papers. We also **require at least one of the authors to attend the conference** to present their study. Papers should present original work previously not published or concurrently submitted to another conference or journal.
 
