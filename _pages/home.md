@@ -65,7 +65,7 @@ The conference will be held offline (Yerevan, Armenia). See [Venue](/venue/) pag
 <h2>Publication</h2>
 
 <figure>
-  <a href="https://www.springer.com"><img src="/assets/images/springer.png"></a>
+  <a href="https://www.springer.com"><img length="50" src="/assets/images/springer.png"></a>
 </figure>
 
 
