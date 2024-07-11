@@ -37,7 +37,7 @@ The conference will be held offline (Bishkek, Kyrgyzstan). See [Venue](/venue/) 
 <h2>Publication</h2>
 
 <figure>
-  <a href="https://www.springer.com"><img width="1" src="/assets/images/springer.png"></a>
+  <a href="https://www.springer.com"><img style="width:30px;" src="/assets/images/springer.png"></a>
 </figure>
 
 
