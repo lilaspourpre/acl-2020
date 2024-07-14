@@ -13,6 +13,8 @@ Amalya Hambardzumyan, American University of Armenia<br/>-->
 - Alpaslan Aşık, Kyrgyz-Turkish Manas University, Local Committee<br/>
 - Saltanat Mambaeva, Kyrgyz-Turkish Manas University, Local Committee<br/>
 - Aida Kasieva, Kyrgyz-Turkish Manas University, Local Committee<br/>
+- Anton Alexeev, St. Petersburg Department of Steklov Mathematical Institute RAS<br/>
+- Timur Turatali, The Cramer Project<br/>
 - Irina Nikishina, Universität Hamburg<br/>
 - Maxim Panov, Technology Innovation Institute<br/>
 - Dmitry Ignatov, Higher School of Economics<br/>
@@ -36,7 +38,7 @@ Amalya Hambardzumyan, American University of Armenia<br/>-->
 
 <h4>Network Analysis</h4>
 - Irina Nikishina, Universität Hamburg<br/>
-- TBA
+- Dmitry Gubanov, IPU, Institute of Control Sciences, RAS<br/>
 
 <h4>Theoretical Machine Learning and Optimization</h4>
 - Yuri D. Khachai<br/> 
