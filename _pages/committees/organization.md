@@ -13,7 +13,7 @@ Amalya Hambardzumyan, American University of Armenia<br/>-->
 - Alpaslan Aşık, Kyrgyz-Turkish Manas University, Local Committee<br/>
 - Saltanat Mambaeva, Kyrgyz-Turkish Manas University, Local Committee<br/>
 - Aida Kasieva, Kyrgyz-Turkish Manas University, Local Committee<br/>
-- Anton Alexeev, St. Petersburg Department of Steklov Mathematical Institute RAS<br/>
+- Anton Alekseev, St. Petersburg Department of Steklov Mathematical Institute RAS<br/>
 - Timur Turatali, The Cramer Project<br/>
 - Irina Nikishina, Universität Hamburg<br/>
 - Maxim Panov, Technology Innovation Institute<br/>
