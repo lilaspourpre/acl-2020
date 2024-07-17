@@ -15,6 +15,7 @@ Amalya Hambardzumyan, American University of Armenia<br/>-->
 - Aida Kasieva, Kyrgyz-Turkish Manas University, Local Committee<br/>
 - Anton Alekseev, St. Petersburg Department of Steklov Mathematical Institute RAS<br/>
 - Timur Turatali, The Cramer Project<br/>
+- Ulan Abdurazakov, The Cramer Project<br/>
 - Irina Nikishina, Universität Hamburg<br/>
 - Maxim Panov, Technology Innovation Institute<br/>
 - Dmitry Ignatov, Higher School of Economics<br/>
