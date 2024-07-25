@@ -78,7 +78,7 @@ More generally we are encouraging submission on any application of deep learning
     <tbody>
         <tr>
             <td>Abstract deadline</td>
-            <td> July 15, 2024</td>
+            <td> July 15, 2024 (Optional)</td>
         </tr>
         <tr>
             <td>Submission deadline</td>
