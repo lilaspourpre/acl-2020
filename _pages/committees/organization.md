@@ -10,7 +10,6 @@ sidebar:
 <h3>Organizing committee</h3>
 <!--Habet Madoyan, American University of Armenia<br/>
 Amalya Hambardzumyan, American University of Armenia<br/>-->
-- Alpaslan Aşık, Kyrgyz-Turkish Manas University, Local Committee<br/>
 - Saltanat Mambaeva, Kyrgyz-Turkish Manas University, Local Committee<br/>
 - Aida Kasieva, Kyrgyz-Turkish Manas University, Local Committee<br/>
 - Anton Alekseev, St. Petersburg Department of Steklov Mathematical Institute RAS<br/>
