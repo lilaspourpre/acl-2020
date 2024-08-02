@@ -110,6 +110,7 @@ sidebar:
 - Magda Tsintsadze, Iv.Javakhishvili Tbilisi State University<br/>
 - Alsu Vakhitova, MTS AI<br/>
 - Nikolai Zolotykh, University of Nizhni Novgorod<br/>
+- Muhammad Shahid Iqbal Malik, HSE University<br/>
 
 
 <h3>Social Network Analysis</h3>
