@@ -16,6 +16,7 @@ Amalya Hambardzumyan, American University of Armenia<br/>-->
 - Timur Turatali, The Cramer Project<br/>
 - Ulan Abdurazakov, The Cramer Project<br/>
 - Irina Nikishina, Universität Hamburg<br/>
+- Elena Tutubalina, Kazan Federal University & AIRI<br/>
 - Maxim Panov, Technology Innovation Institute<br/>
 - Dmitry Ignatov, Higher School of Economics<br/>
 - Evgenii Tsymbalov, Apptek<br/>
@@ -30,7 +31,7 @@ Amalya Hambardzumyan, American University of Armenia<br/>-->
 
 <h4>Computer Vision</h4>
 - Andrey Savchenko, Higher School of Economics<br>
-- TBA
+- Andrey Kuznetsov, AIRI<br>
 
 <h4>Data Analysis and Machine Learning</h4>
 - Evgenii Tsymbalov, Apptek<br/>
@@ -41,7 +42,7 @@ Amalya Hambardzumyan, American University of Armenia<br/>-->
 - Dmitry Gubanov, IPU, Institute of Control Sciences, RAS<br/>
 
 <h4>Theoretical Machine Learning and Optimization</h4>
-- Yuri D. Khachai<br/> 
+- M. Yu. D. Khachai, Krasovsky Institute of Mathematics and Mechanics, RAS<br/> 
 - Rustem Takhanov, Nazarbayev University<br/>  
 - Panos Pardalos, University of Florida 
 
@@ -51,9 +52,6 @@ Amalya Hambardzumyan, American University of Armenia<br/>-->
 
 <h4>Web site</h4>
 - Irina Nikishina, Universität Hamburg<br>
-
-<h4>Sponshorship chair</h4>
-- TBA
 
 
 <h3>Local Scientific board</h3>
