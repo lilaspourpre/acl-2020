@@ -82,15 +82,15 @@ More generally we are encouraging submission on any application of deep learning
         </tr>
         <tr>
             <td>Submission deadline</td>
-            <td>August 01, 2024</td>
+            <td><strike>August 01</strike> August 8, 2024</td>
         </tr>
         <tr>
             <td>Notification of acceptance</td>
-            <td>September 01, 2023</td>
+            <td><strike>September 01</strike> September 15, 2023</td>
         </tr>
         <tr>
           <td>Camera-ready papers due</td>
-          <td>September 15, 2024</td>
+          <td><strike>September 20</strike> September 22, 2024</td>
         </tr>       
         <tr>
             <td>Conference dates</td>
