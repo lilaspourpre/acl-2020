@@ -8,13 +8,16 @@ excerpt: "<br/><br/>"
 ---
 <div class="text-center">
     <span style="font-weight: bold; font-size: smaller;">
-    Abstract deadline : July 15 (Optional)<br/>&nbsp;Submission deadline : August 1 <br/>&nbsp;Notification of acceptance : September 1<br/>&nbsp;Camera-ready version : September 20<br/>&nbsp;Conference : October 17 &ndash; October 19</span>
+    Abstract deadline : July 15 (Optional)<br/>&nbsp;Submission deadline : <strike>August 1</strike> August 8 <br/>&nbsp;Notification of acceptance : <strike>September 1</strike> September 15<br/>&nbsp;Camera-ready version : <strike>September 20</strike> September 22<br/>&nbsp;Conference : October 17 &ndash; October 19</span>
     <br/>  
 </div>
 
 Join our <a href="https://t.me/+RK3hR9_UClkoFHc2">telegram chat.</a>
 
 <h2>News</h2>
+
+**July 10, 2024.** Deadline is extended until August, 8!
+{: .notice--info}
 
 **July 10, 2024.** Link for paper submission is [available](https://openreview.net/group?id=aistconf.org/AIST/2024/Conference)!
 {: .notice--info}
