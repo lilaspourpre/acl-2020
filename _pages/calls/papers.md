@@ -107,6 +107,7 @@ More generally we are encouraging submission on any application of deep learning
 
 All papers must be original and not simultaneously submitted to another journal or conference. The following paper categories are welcome:
 
+- Short papers with 6 pages of content.
 - Full papers describing completed research with 8-12 pages of content with references.
 
 The papers must be formatted according to the [Springer LNCS style](http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0). LaTeX template of the Springer LNCS is [available at Overleaf platform](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj). We encourage you to use the LaTeX template instead of the Word template.
