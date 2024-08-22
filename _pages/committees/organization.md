@@ -17,7 +17,7 @@ Amalya Hambardzumyan, American University of Armenia<br/>-->
 - Ulan Abdurazakov, The Cramer Project<br/>
 - Irina Nikishina, Universität Hamburg<br/>
 - Elena Tutubalina, Kazan Federal University & AIRI<br/>
-- Maxim Panov, Technology Innovation Institute<br/>
+- Maxim Panov, MBZUAI<br/>
 - Dmitry Ignatov, Higher School of Economics<br/>
 - Evgenii Tsymbalov, Apptek<br/>
 - Alexander Panchenko, Skolkovo Institute of Science and Technology & AIRI<br/>
@@ -35,7 +35,7 @@ Amalya Hambardzumyan, American University of Armenia<br/>-->
 
 <h4>Data Analysis and Machine Learning</h4>
 - Evgenii Tsymbalov, Apptek<br/>
-- Maxim Panov, Technology Innovation Institute
+- Maxim Panov, MBZUAI
 
 <h4>Network Analysis</h4>
 - Irina Nikishina, Universität Hamburg<br/>
