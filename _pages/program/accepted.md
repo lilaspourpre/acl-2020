@@ -17,9 +17,6 @@ toc_sticky: true
 Uniting contrastive and generative learning for event sequences models<br/>
 <i>Aleksandr Yugay, Alexey Zaytsev</i>
 
-Automatic Adaptive Conformal Inference for Time Series<br/>
-<i>Artem Makhin, Maxim Panov </i>
-
 An optimal set of implications in triadic contexts<br/>
 <i>Romuald Kwessy, Blaise Bleriot KOGUEP NJIONOU, Leonard Kwuida, Etienne Romuald Temgoua Alomo</i>
 
@@ -121,3 +118,6 @@ Research on Content Dissemination in Social Networks Taking into Account Users' 
 
 An asymptotically optimal algorithm for the minimum weight spanning tree with arbitrarily bounded diameter on random inputs<br/>
 <i>Edward Gimadi, Oxana Tsidulko</i>
+
+Automatic Adaptive Conformal Inference for Time Series<br/>
+<i>Artem Makhin, Maxim Panov </i>
