@@ -14,8 +14,14 @@ toc_sticky: true
 
 ### LNCS
 
-<br/>
-<i></i>
+Uniting contrastive and generative learning for event sequences models<br/>
+<i>Aleksandr Yugay, Alexey Zaytsev</i>
+
+Automatic Adaptive Conformal Inference for Time Series<br/>
+<i>Artem Makhin, Maxim Panov </i>
+
+An optimal set of implications in triadic contexts<br/>
+<i>Romuald Kwessy, Blaise Bleriot KOGUEP NJIONOU, Leonard Kwuida, Etienne Romuald Temgoua Alomo</i>
 
 ---------------------------------------------
 
@@ -28,8 +34,11 @@ AI 4 Forensics: Evaluating the performance of open-source state-of-the-art speak
 
 ### LNCS
 
-<br/>
-<i></i>
+Temporal Modeling via TCN and Transformer for Audio-Visual Emotion Recognition<br/>
+<i>Aleksei Andreev, Andrey Savchenko</i>
+
+YOLO-HTR: Page-Level Recognition of Historical Handwritten Document Collections<br/>
+<i>Nikita Lomov, Danila Stepochkin, Dmitry Kropotov</i>
 
 ---------------------------------------------
 
@@ -45,29 +54,29 @@ Deep Learning Approach for Offline Nepali Handwritten Word Recognition<br/>
 
 ### LNCS
 
-<br/>
-<i></i>
+Iterative Improvement of an Additively Regularized Topic Model<br/>
+<i>Alex Gorbulev, Vasiliy Alekseev, Konstantin Vorontsov</i>
 
-<br/>
-<i></i>
+Key Algorithms for Keyphrase Generating<br/>
+<i>Anna Glazkova, Dmitry Morozov, Timur Garipov</i>
 
-<br/>
-<i></i>
+Graphical Abbreviation Disclosure in Russian Language<br/>
+<i>Stanislav Elkin</i>
 
-<br/>
-<i></i>
+Cross-Language Summarization in Russian and Chinese Using the Reinforcement Learning<br/>
+<i>Liao Xin, Daria Liutova, Valentin Malykh</i>
 
-<br/>
-<i></i>
+GERA: a corpus of Russian school texts annotated for Grammatical Error Correction<br/>
+<i>Alexey Sorokin, Regina Nasyrova</i>
 
-<br/>
-<i></i>
+From Tokens to Tales: Semantic Similarity in Story Generation<br/>
+<i>Sergey Vychegzhanin, Anastasia Kotelnikova, Alexander Sergeev, Evgeny Kotelnikov</i>
 
-<br/>
-<i></i>
+Redefining Annotation Practices: Leveraging Large Language Models for Discourse Annotation<br/>
+<i>Lidiia Ostyakova, Anna Mikhailova, Maria Molchanova, Vasily Konovalov</i>
 
-<br/>
-<i></i>
+Shrink the longest: improving latent space isotropy with symplicial geometry<br/>
+<i>Sergej Kudrjashov, Olesya Karpik, Eduard Klyshinsky</i>
 
 ---------------------------------------------
 
@@ -110,13 +119,5 @@ Research on Content Dissemination in Social Networks Taking into Account Users' 
 
 ### LNCS
 
-<br/>
-<i></i>
-
----------------------------------------------
-
-### CCIS
-
-<br/>
-<i></i>
-
+An asymptotically optimal algorithm for the minimum weight spanning tree with arbitrarily bounded diameter on random inputs<br/>
+<i>Edward Gimadi, Oxana Tsidulko</i>
