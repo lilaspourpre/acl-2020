@@ -11,10 +11,16 @@ excerpt: "<br/><br/>"
     Abstract deadline : July 15 (Optional)<br/>&nbsp;Submission deadline : <strike>August 1</strike> August 8 <br/>&nbsp;Notification of acceptance : <strike>September 1</strike> September 15<br/>&nbsp;Camera-ready version : <strike>September 20</strike> September 22<br/>&nbsp;Conference : October 17 &ndash; October 19</span>
     <br/>  
 </div>
+<br/>  <br/>     
+  <a href="https://forms.gle/a4qyeZb3wRsNdPnL7" target="_blank" class="btn btn--primary">Register Now</a>
+</div>
 
 Join our <a href="https://t.me/+RK3hR9_UClkoFHc2">telegram chat.</a>
 
 <h2>News</h2>
+
+**September 30, 2024.** Registration is now [open](https://forms.gle/a4qyeZb3wRsNdPnL7)!
+{: .notice--info}
 
 **September 30, 2024.** The first keynote speakers are [announced](/program/keynote/)!
 {: .notice--info}
