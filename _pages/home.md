@@ -10,8 +10,7 @@ excerpt: "<br/><br/>"
     <span style="font-weight: bold; font-size: smaller;">
     Abstract deadline : July 15 (Optional)<br/>&nbsp;Submission deadline : <strike>August 1</strike> August 8 <br/>&nbsp;Notification of acceptance : <strike>September 1</strike> September 15<br/>&nbsp;Camera-ready version : <strike>September 20</strike> September 22<br/>&nbsp;Conference : October 17 &ndash; October 19</span>
     <br/>  
-</div>
-<br/>  <br/>     
+ <br/>     
   <a href="https://forms.gle/a4qyeZb3wRsNdPnL7" target="_blank" class="btn btn--primary">Register Now</a>
 </div>
 
