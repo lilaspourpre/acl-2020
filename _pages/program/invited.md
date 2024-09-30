@@ -33,7 +33,7 @@ Our results show that the derived representations are highly effective in variou
 
 <figure>
   <a href="https://github.com/golden-ratio"><img length="100" src="/assets/images/turatali.png"></a>
-  <figcaption><strong><a href="https://github.com/golden-ratio">Timur Turatali</a></strong> Timur Turatali - co-founder of the AI community of Kyrgyzstan and the AI ​​project TheCramer.com. Our most famous product is AkylAI (AI chatbot in Kyrgyz, ex-Senior Data scientist (Assistant Vice President) at Citibank Europe, ex-EY.</figcaption>
+  <figcaption><strong><a href="https://github.com/golden-ratio">Timur Turatali</a></strong> is a co-founder of the AI community of Kyrgyzstan and the AI ​​project TheCramer.com. Our most famous product is AkylAI (AI chatbot in Kyrgyz, ex-Senior Data scientist (Assistant Vice President) at Citibank Europe, ex-EY.</figcaption>
 </figure>
 
 <b></b>KyrgyzNLP: Challenges, Progress, and Future<br/> <br/>
