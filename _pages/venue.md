@@ -10,7 +10,7 @@ The venue address is as follows:
 **Bishkek, Djal, Kyrgyz-Turkish Manas University, Ch.Aitmatov Campus. Faculty of Economics, 2nd floor.**
 
 <figure>
-  <img width="300" src="/assets/images/bishkek2.JPG">
+  <img width="100" src="/assets/images/bishkek2.JPG">
   <figcaption>Photo: Gladkov_photo</figcaption>
 </figure>
 
