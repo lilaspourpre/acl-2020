@@ -36,7 +36,7 @@ Our results show that the derived representations are highly effective in variou
   <figcaption><strong><a href="https://github.com/golden-ratio">Timur Turatali</a></strong> is a co-founder of the AI community of Kyrgyzstan and the AI ​​project TheCramer.com. Our most famous product is AkylAI (AI chatbot in Kyrgyz, ex-Senior Data scientist (Assistant Vice President) at Citibank Europe, ex-EY.</figcaption>
 </figure>
 
-<b></b>KyrgyzNLP: Challenges, Progress, and Future<br/> <br/>
+<b>KyrgyzNLP: Challenges, Progress, and Future</b> <br/> <br/>
 <b>Abstract:</b>Natural Language Processing (NLP) has shown remarkable progress in recent years, driven largely by breakthroughs in large language models (LLMs). They have excelled in numerous benchmarks, advancing AI applications in both linguistic and non-linguistic tasks. However, this has primarily benefited well-resourced languages, leaving less-resourced ones (LRLs) at a disadvantage. In this talk, we will highlight the current state of the NLP field in the specific LRL: кыргыз тили.
 
 We discuss the critical importance of addressing LRLs in NLP. While LLMs achieve SoTA results in many tasks, they often struggle with languages that lack robust datasets and linguistic resources. Human evaluation, including annotated datasets created by native speakers, remains an irreplaceable component of reliable NLP performance, especially for LRLs where automatic evaluations can fall short.
