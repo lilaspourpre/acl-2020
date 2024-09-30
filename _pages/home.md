@@ -16,6 +16,9 @@ Join our <a href="https://t.me/+RK3hR9_UClkoFHc2">telegram chat.</a>
 
 <h2>News</h2>
 
+**September 30, 2024.** The first keynote speakers are [announced](/program/keynote/)!
+{: .notice--info}
+
 **September 24, 2024.** The venue address is as follows: *Bishkek, Djal, Kyrgyz-Turkish Manas University, Ch.Aitmatov Campus. Faculty of Economics, 2nd floor.*
 {: .notice--info}
 
