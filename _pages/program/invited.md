@@ -31,6 +31,8 @@ Our results show that the derived representations are highly effective in variou
   <figcaption><strong><a href="https://alexeyev.github.io/">Anton M. Alekseev</a></strong> currently holds research and teaching roles at Kazan (Volga Region) Federal University (KFU), Steklov Mathematical Institute in St. Petersburg (PDMI RAS), and Saint Petersburg State University (Mathematics & Computer Science Faculty). He is also pursuing a PhD at the Kyrgyz State Technical University named after I. Razzakov. Anton has more than 10 years of experience in industry and academia. His industrial experience includes high-load service development and real-world data fuzzy matching at Yandex, chatbot design, data annotation management, and machine learning systems engineering at other companies. In academia, Anton conducts both basic research and research projects for various commercial organizations at KFU and PDMI RAS. His research interests include natural language processing, deep learning, and machine learning for software engineering (ML4SE). Anton received the <a href="https://2023.aistconf.org/program/best/">Best NLP Paper Award</a> at AIST-2023.</figcaption>
 </figure>
 
+<br>
+
 <figure>
   <a href="https://github.com/golden-ratio"><img length="100" src="/assets/images/timur.jpg"></a>
   <figcaption><strong><a href="https://github.com/golden-ratio">Timur Turatali</a></strong> Timur Turatali - co-founder of the AI community of Kyrgyzstan and the AI ​​project TheCramer.com. Our most famous product is AkylAI (AI chatbot in Kyrgyz, ex-Senior Data scientist (Assistant Vice President) at Citibank Europe, ex-EY.</figcaption>
