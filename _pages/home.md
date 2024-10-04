@@ -18,6 +18,9 @@ Join our <a href="https://t.me/+RK3hR9_UClkoFHc2">telegram chat.</a>
 
 <h2>News</h2>
 
+**October 4, 2024.** We are pleased to inform you that one of our partners, the High Technology Park of the Kyrgyz Republic, is offering a discount for conference participants on accommodation at the Bridges Hotel (2GIS). The discounted rate is 6,500 soms for a double room and 5,500 soms for a single room. If you would like to take advantage of this opportunity, please inform the organizers.
+{: .notice--info}
+
 **September 30, 2024.** Registration is now [open](https://forms.gle/a4qyeZb3wRsNdPnL7)!
 {: .notice--info}
 
