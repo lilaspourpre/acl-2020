@@ -109,7 +109,7 @@ Structured Data from Dictionary Text: Applying Large Language Model in Low-Resou
 ### CCIS
 
 Research on Content Dissemination in Social Networks Taking into Account Users' Influence Potential<br/>
-<i>Elena Zamyatina</i>
+<i>Ekaterina Marmysh, Elena Zamyatina</i>
 
 
 ## Theoretical Machine Learning and Optimization
