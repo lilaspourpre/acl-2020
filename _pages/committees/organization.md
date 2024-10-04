@@ -12,7 +12,7 @@ sidebar:
 Amalya Hambardzumyan, American University of Armenia<br/>-->
 - Saltanat Mambaeva, Kyrgyz-Turkish Manas University, Local Committee<br/>
 - Aida Kasieva, Kyrgyz-Turkish Manas University, Local Committee<br/>
-- Anton Alekseev, St. Petersburg Department of Steklov Mathematical Institute RAS<br/>
+- Anton Alekseev, St. Petersburg Department of Steklov Mathematical Institute RAS & Kazan Federal University<br/>
 - Timur Turatali, The Cramer Project<br/>
 - Ulan Abdurazakov, The Cramer Project<br/>
 - Irina Nikishina, Universität Hamburg<br/>
