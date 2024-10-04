@@ -55,6 +55,7 @@ Amalya Hambardzumyan, American University of Armenia<br/>-->
 
 
 <h3>Local Scientific board</h3>
+- Alpaslan Ceylan, Rector of Kyrgyz-Turkish Manas University<br/>
 - Dr. Almaz Ibraev, Vice-Rector of Kyrgyz-Turkish Manas University, Kyrgyzstan
 
 <!--Michael Khachay, Krasovsky Institute of Mathematics and Mechanics<br/>
