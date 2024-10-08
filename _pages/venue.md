@@ -14,4 +14,6 @@ The venue address is as follows:
   <figcaption>Photo: Gladkov_photo</figcaption>
 </figure>
 
+You may want to <a href="/assets/Guidebook-Bishkek.pdf"><b>download the guide</b></a> for the offline participants coming to Armenia:
+
 We are pleased to inform you that one of our partners, the High Technology Park of the Kyrgyz Republic, is offering a discount for conference participants on accommodation at the Bridges Hotel (2GIS). The discounted rate is 6,500 soms for a double room and 5,500 soms for a single room. If you would like to take advantage of this opportunity, please inform the organizers.
