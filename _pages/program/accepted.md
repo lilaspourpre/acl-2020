@@ -92,7 +92,7 @@ MoRAE: Movie Review Dataset for Aspect Extraction<br/>
 <i>Iaroslav Pristalov, Valentin Malykh</i>
 
 Diagnosis of the Severity of Depression Using Speech Recording Analysis<br/>
-<i>Ksenia Sherman</i>
+<i>Ksenia Sherman, Dmitry I. Ignatov</i>
 
 Comparative Analysis of Encoder-Based NER and Large Language Models for Skill Extraction from Russian Job Vacancies<br/>
 <i>Nikita Matkin, Aleksei Smirnov, Mikhail Usanin, Egor Ivanov, Petr Parshakov, Sofiia Paklina, Kirill Sobyanin</i>
