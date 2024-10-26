@@ -19,7 +19,7 @@ gold:
     title: "AIRI"
 silver:
   - url: https://htp.kg
-    image_path: /assets/images/park.png
+    image_path: /assets/images/logos/park.png
     alt: "High Technology Park of the Kyrgyz Republic"
     title: "High Technology Park of the Kyrgyz Republic"
 bronze:
