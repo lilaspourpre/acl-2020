@@ -20,6 +20,7 @@ Join our <a href="https://t.me/+RK3hR9_UClkoFHc2">telegram chat.</a>
 <h2>News</h2>
 
 **May 12, 2025** The proceedings are available: [LNCS](https://link.springer.com/book/10.1007/978-3-031-88036-0)
+{: .notice--info}
 
 **October 8, 2024.** Local guidebook is [available](/assets/Guidebook-Bishkek.pdf)!
 {: .notice--info}
