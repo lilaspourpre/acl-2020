@@ -17,13 +17,7 @@ Join our <a href="https://t.me/+RK3hR9_UClkoFHc2">telegram chat.</a>
 
 <h2>News</h2>
 
-**September 29, 2023.** Links to the Youtube stream are available <a href="/program/program"><b>on the program page</b></a>
-{: .notice--info}
-
-**September 4, 2023.** You may want to <a href="/Guidebook.pdf"><b>download the guide</b></a> for the offline participants coming to Armenia.
-{: .notice--info}
-
-**August 31, 2023.** Registration is now [open](https://www.eventbrite.com/e/aist-2023-tickets-664697717767).
+**May 12, 2025** The proceedings are available: [LNCS](https://link.springer.com/book/10.1007/978-3-031-88036-0)
 {: .notice--info}
 
 
