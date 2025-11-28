@@ -8,13 +8,6 @@ sidebar:
 ---
 
 <h3>Organizing committee</h3>
-Habet Madoyan, American University of Armenia<br/>
-Amalya Hambardzumyan, American University of Armenia<br/>
-Irina Nikishina, Universität Hamburg<br/>
-Maxim Panov, Technology Innovation Institute<br/>
-Dmitry Ignatov, Higher School of Economics<br/>
-Evgenii Tsymbalov, Apptek<br/>
-Alexander Panchenko, Skolkovo Institute of Science and Technology & AIRI<br/>
 
 <h3>Area chairs</h3>
 
@@ -30,7 +23,7 @@ Sergey Zagoruyko, MTS AI
 Evgenii Tsymbalov, Apptek<br/>
 Maxim Panov, Technology Innovation Institute
 
-
+<!--
 <h4>Network Analysis</h4>
 Irina Nikishina, Universität Hamburg<br/>
 Ilya Makarov, Higher School of Economics & AIRI
@@ -39,4 +32,4 @@ Ilya Makarov, Higher School of Economics & AIRI
 Michael Khachay, Krasovsky Institute of Mathematics and Mechanics<br/>
 Panos Pardalos, University of Florida
 
-<!-- <h3>Volunteers</h3> -->
+ <h3>Volunteers</h3> -->
