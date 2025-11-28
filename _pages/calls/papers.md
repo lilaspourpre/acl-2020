@@ -8,8 +8,8 @@ toc_icon: "cog"
 ---
 
 <sub>**AIST-2023**  
-Yerevan, Armenia<br>
-September 28-30, 2023.<br>
+Location TBA<br>
+2026.<br>
 [https://AISTconf.org](https://aistconf.org)
 
 
@@ -17,16 +17,16 @@ September 28-30, 2023.<br>
 
 Dear colleagues,
     
-We are excited to invite you to submit a paper to AIST-2023, a scientific conference on Analysis of Images, Social Networks, and Texts. The conference is intended for researchers and practitioners interested in data science focusing on innovative applications of data analysis and machine learning techniques to image processing, analysis of network data, text processing, and other domains, such as economics or geographic information systems. 
+We are excited to invite you to submit a paper to AIST-2026, a scientific conference on Analysis of Images, Social Networks, and Texts. The conference is intended for researchers and practitioners interested in data science focusing on innovative applications of data analysis and machine learning techniques to image processing, analysis of network data, text processing, and other domains, such as economics or geographic information systems. 
     
-The conference is intended for computer scientists and practitioners whose research interests are related to data science. The ten previous editions of the AIST conference held in 2012-2021 attracted a significant number of students, researchers, academics, and engineers working on the analysis of images, texts, and social networks. The broad scope of AIST makes it an event where researchers from different domains, exploiting various data analysis techniques, can meet and exchange ideas. The conference allows specialists from different fields to meet each other, present their work, and discuss both theoretical and practical aspects of their data analysis problems. Another important aim of the conference is to stimulate scientists and people from the industry to benefit from the knowledge exchange and identify possible grounds for fruitful collaboration.
+The conference is intended for computer scientists and practitioners whose research interests are related to data science. The twelve previous editions of the AIST conference held in 2012-2024 attracted a significant number of students, researchers, academics, and engineers working on the analysis of images, texts, and social networks. The broad scope of AIST makes it an event where researchers from different domains, exploiting various data analysis techniques, can meet and exchange ideas. The conference allows specialists from different fields to meet each other, present their work, and discuss both theoretical and practical aspects of their data analysis problems. Another important aim of the conference is to stimulate scientists and people from the industry to benefit from the knowledge exchange and identify possible grounds for fruitful collaboration.
     
 Similar to the previous years, the main volume of the conference proceedings will be published in the Springer’s in Lecture Notes in Computer Science (LNCS) series. 
     
 ## Venue
 
-The conference continues to travel in a beautiful (and tasty!) region. This year AIST will be held offline in Yerevan, Armenia. More specifically the event is organized with support of Zaven & Sonia Akian College of Science & Engineering, [American University of Armenia](https://cse.aua.am/). Besides the scientific knowledge you will enjoy a good season in Armenia and dive into local culture. The conference will feature representatives of the local data analysis community.
-    
+TBA
+
 ## Tracks
 
 Submission can be made in one of the following tracks chaired by experts in the respective fields:
@@ -34,8 +34,6 @@ Submission can be made in one of the following tracks chaired by experts in the 
 - Natural Language Processing
 - Computer Vision 
 - Data Analysis and Machine Learning
-- Network Analysis
-- Theoretical Machine Learning and Optimization
 
 More generally we are encouraging submission on any application of deep learning and data analysis including, but not limited to the following topics:
     
@@ -61,23 +59,23 @@ More generally we are encouraging submission on any application of deep learning
     <tbody>
         <tr>
             <td>Abstract deadline</td>
-            <td><strike>June 30</strike> July 13, 2023</td>
+            <td>TBA</td>
         </tr>
         <tr>
             <td>Submission deadline</td>
-            <td><strike>July 15</strike> July 20, 2023</td>
+            <td>TBA</td>
         </tr>
         <tr>
             <td>Notification of acceptance</td>
-            <td><strike>August 15</strike> August 22, 2023</td>
+            <td>TBA</td>
         </tr>
         <tr>
           <td>Camera-ready papers due</td>
-          <td><strike>September 1</strike> September 10, 2023</td>
+          <td>TBA</td>
         </tr>       
         <tr>
             <td>Conference dates</td>
-            <td>September 28 &ndash; 30, 2023</td>
+            <td>TBA</td>
         </tr>     
 </tbody>
 </table>
@@ -112,8 +110,7 @@ Please, refer [https://aistconf.org/committees/program](https://aistconf.org/com
     
 ## Organizing Committee
 
-Habet Madoyan, American University of Armenia<br>
-Amalya Hambardzumyan, American University of Armenia<br>
+TBA <br>
 Irina Nikishina, University of Hamburg<br>
 Dmitry Ignatov, Higher School of Economics<br>
 Evgenii Tsymbalov, Apptek<br>
@@ -122,7 +119,7 @@ Alexander Panchenko, Skolkovo Institute of Science and Technology & AIRI
 
 ## Publication
 
-AIST-2023 proceedings will be published in Springer LNCS ([Lecture Notes in Computer Science](https://www.springer.com/series/558)). The companion volume will be published in the satellite series CCIS ([Communications in Computer and Information Science](https://www.springer.com/series/7899)).
+AIST-2026 proceedings will be published in Springer LNCS ([Lecture Notes in Computer Science](https://www.springer.com/series/558)). The companion volume will be published in the satellite series CCIS ([Communications in Computer and Information Science](https://www.springer.com/series/7899)).
 
 Please follow the [Code of Conduct](https://www.springernature.com/gp/authors/book-authors-code-of-conduct) when you prepare your final publication.
     
