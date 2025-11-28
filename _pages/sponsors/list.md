@@ -7,11 +7,11 @@ diamond:
     image_path: /assets/images/logos/skoltech.png
     alt: "Skoltech Logo"
     title: "Skoltech"
-platinum:
-  - url: https://cse.aua.am/
-    image_path: /assets/images/logos/AUA_ACSE_RGB_HL.png
-    alt: "American University of Armenia"
-    title: "American University of Armenia"
+# platinum:
+#  - url: https://cse.aua.am/
+#    image_path: /assets/images/logos/AUA_ACSE_RGB_HL.png
+#    alt: "American University of Armenia"
+#    title: "American University of Armenia"
 gold:
   - url: https://airi.net/
     image_path: /assets/images/AIRI - Full logo-black.png
