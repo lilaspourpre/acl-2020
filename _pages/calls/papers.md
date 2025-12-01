@@ -7,9 +7,9 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-<sub>**AIST-2023**  
-Location TBA<br>
-2026.<br>
+<sub>**AIST-2026**  
+Nazarbayev University, Astana, Kazakhstan<br>
+October 2026<br>
 [https://AISTconf.org](https://aistconf.org)
 
 
@@ -25,7 +25,7 @@ Similar to the previous years, the main volume of the conference proceedings wil
     
 ## Venue
 
-TBA
+Nazarbayev University, Astana, Kazakhstan
 
 ## Tracks
 
@@ -75,7 +75,7 @@ More generally we are encouraging submission on any application of deep learning
         </tr>       
         <tr>
             <td>Conference dates</td>
-            <td>TBA</td>
+            <td>TBA, October 2026</td>
         </tr>     
 </tbody>
 </table>
@@ -110,7 +110,8 @@ Please, refer [https://aistconf.org/committees/program](https://aistconf.org/com
     
 ## Organizing Committee
 
-TBA <br>
+Rustem Takhanov, Nazarbayev University<br>
+Olga Popova, AIRI<br>
 Irina Nikishina, University of Hamburg<br>
 Dmitry Ignatov, Higher School of Economics<br>
 Evgenii Tsymbalov, Apptek<br>
