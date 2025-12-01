@@ -7,6 +7,33 @@ toc: false
 toc_icon: "cog"
 ---
 
+**May 12, 2025** The proceedings are available: [LNCS](https://link.springer.com/book/10.1007/978-3-031-88036-0)
+{: .notice--info}
+
+**October 8, 2024.** Local guidebook is [available](/assets/Guidebook-Bishkek.pdf)!
+{: .notice--info}
+
+**October 4, 2024.** We are pleased to inform you that one of our partners, the High Technology Park of the Kyrgyz Republic, is offering a discount for conference participants on accommodation at the Bridges Hotel (2GIS). The discounted rate is 6,500 soms for a double room and 5,500 soms for a single room. If you would like to take advantage of this opportunity, please inform the organizers.
+{: .notice--info}
+
+**September 30, 2024.** Registration is now [open](https://forms.gle/a4qyeZb3wRsNdPnL7)!
+{: .notice--info}
+
+**September 30, 2024.** The first keynote speakers are [announced](/program/keynote/)!
+{: .notice--info}
+
+**September 24, 2024.** The venue address is as follows: *Bishkek, Djal, Kyrgyz-Turkish Manas University, Ch.Aitmatov Campus. Faculty of Economics, 2nd floor.*
+{: .notice--info}
+
+**July 10, 2024.** Deadline is extended until August, 8!
+{: .notice--info}
+
+**July 10, 2024.** Link for paper submission is [available](https://openreview.net/group?id=aistconf.org/AIST/2024/Conference)!
+{: .notice--info}
+
+**April 22, 2024.** AIST-2024 will take place in Bishkek, Kyrgyzstan, on October 17-19
+{: .notice--info}
+
 **September 29, 2023.** Links to the Youtube stream are available <a href="/program/program"><b>on the program page</b></a>
 {: .notice--info}
 
