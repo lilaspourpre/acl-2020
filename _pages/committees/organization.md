@@ -37,7 +37,7 @@ Maxim Panov, Technology Innovation Institute
 - Dmitry Ignatov, Higher School of Economics 
 
 <h4>Web site</h4>
-- Irina Nikishina, Universität Hamburg<br>
+- Irina Nikishina<br/>
 
 
 <h3>Local Scientific board</h3>
