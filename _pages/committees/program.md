@@ -17,9 +17,5 @@ sidebar:
 <h3>Natural Language Processing</h3>
 
 
-<h3>Social Network Analysis</h3>
-
-
-<h3>Theoretical Machine Learning and Optimization</h3>
 
 
