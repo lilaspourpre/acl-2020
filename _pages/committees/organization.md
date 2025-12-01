@@ -32,6 +32,17 @@ Sergey Zagoruyko, MTS AI
 Evgenii Tsymbalov, Apptek<br/>
 Maxim Panov, Technology Innovation Institute
 
+<h4>Publication</h4>
+- Evgenii Tsymbalov, Apptek<br/>
+- Dmitry Ignatov, Higher School of Economics 
+
+<h4>Web site</h4>
+- Irina Nikishina, Universität Hamburg<br>
+
+
+<h3>Local Scientific board</h3>
+- Rustem Takhanov, Nazarbayev University<br>
+
 <!--
 <h4>Network Analysis</h4>
 Irina Nikishina, Universität Hamburg<br/>
