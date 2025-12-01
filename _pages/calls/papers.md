@@ -25,7 +25,7 @@ Similar to the previous years, the main volume of the conference proceedings wil
     
 ## Venue
 
-Nazarbayev University, Astana, Kazakhstan
+The conference continues travelling to beautiful regions, and this year AIST will be held offline in Astana, Kazakhstan. More specifically the event is organized with support of [Nazarbayev University](https://nu.edu.kz). Besides the scientific knowledge you will enjoy the nature of Kyrgyzstan and dive into local culture. The conference will feature representatives of the local data analysis community. 
 
 ## Tracks
 
