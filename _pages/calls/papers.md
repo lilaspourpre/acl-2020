@@ -112,9 +112,10 @@ Please, refer [https://aistconf.org/committees/program](https://aistconf.org/com
 
 Rustem Takhanov, Nazarbayev University<br>
 Olga Popova, AIRI<br>
-Irina Nikishina, University of Hamburg<br>
+Irina Nikishina<br>
 Dmitry Ignatov, Higher School of Economics<br>
 Evgenii Tsymbalov, Apptek<br>
+Maxim Panov, MBZUAI<br>
 Alexander Panchenko, Skolkovo Institute of Science and Technology & AIRI
 
 
