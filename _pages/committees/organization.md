@@ -9,13 +9,14 @@ sidebar:
 
 <h3>Organizing committee</h3>
 
-Rustem Takhanov, Nazarbayev University<br>
-Olga Popova, AIRI<br>
-Irina Nikishina<br>
-Dmitry Ignatov, Higher School of Economics<br>
-Evgenii Tsymbalov, Apptek<br>
-Maxim Panov, MBZUAI<br>
-Alexander Panchenko, Skolkovo Institute of Science and Technology & AIRI
+- Rustem Takhanov, Nazarbayev University<br>
+- Olga Popova, AIRI<br>
+- Irina Nikishina<br>
+- Dmitry Ignatov, Higher School of Economics<br>
+- Evgenii Tsymbalov, Apptek<br>
+- Elena Tutubalina, Kazan Federal University & AIRI<br>
+- Maxim Panov, MBZUAI<br>
+ - Alexander Panchenko, Skolkovo Institute of Science and Technology & AIRI
 
 <h3>Area chairs</h3>
 
