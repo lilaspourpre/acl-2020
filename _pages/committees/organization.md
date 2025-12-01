@@ -16,21 +16,21 @@ sidebar:
 - Evgenii Tsymbalov, Apptek<br>
 - Elena Tutubalina, Kazan Federal University & AIRI<br>
 - Maxim Panov, MBZUAI<br>
- - Alexander Panchenko, Skolkovo Institute of Science and Technology & AIRI
+- Alexander Panchenko, Skolkovo Institute of Science and Technology & AIRI
 
 <h3>Area chairs</h3>
 
 <h4>Natural Language Processing</h4>
-Andrey Kutuzov, University of Oslo<br/>
-Elena Tutubalina, Kazan Federal University & AIRI
+- Andrey Kutuzov, University of Oslo<br/>
+- Elena Tutubalina, Kazan Federal University & AIRI
 
 <h4>Computer Vision</h4>
-Andrey Savchenko, Higher School of Economics<br>
-Sergey Zagoruyko, MTS AI
+- Andrey Savchenko, Higher School of Economics<br>
+- Andrey Kuznetsov, AIRI
 
 <h4>Data Analysis and Machine Learning</h4>
-Evgenii Tsymbalov, Apptek<br/>
-Maxim Panov, Technology Innovation Institute
+- Evgenii Tsymbalov, Apptek<br/>
+- Maxim Panov, Technology Innovation Institute
 
 <h4>Publication</h4>
 - Evgenii Tsymbalov, Apptek<br/>
