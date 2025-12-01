@@ -8,7 +8,7 @@ excerpt: "<br/><br/>"
 ---
 <div class="text-center">
     <span style="font-weight: bold; font-size: smaller;">
-    Abstract deadline : TBA<br/>&nbsp;Submission deadline : TBA <br/>&nbsp;Notification of acceptance : TBA<br/>&nbsp;Camera-ready version : TBA<br/>&nbsp;Conference : TBA &ndash; TBA</span>
+    Abstract deadline : TBA<br/>&nbsp;Submission deadline : TBA <br/>&nbsp;Notification of acceptance : TBA<br/>&nbsp;Camera-ready version : TBA<br/>&nbsp;Conference : October 2026</span>
     <br/>  <br/>     
   <a href="https://www.eventbrite.com/e/aist-2023-tickets-664697717767" target="_blank" class="btn btn--primary">Register Now</a>
 </div>
