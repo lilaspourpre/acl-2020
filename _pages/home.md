@@ -3,7 +3,7 @@ title: "The 13th International Conference on<br/> Analysis of Images, Social Net
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/skoltech/kazakhstan.jpg"
+  overlay_image: "/assets/images/kazakhstan.jpg"
 excerpt: "<br/><br/>"
 ---
 <div class="text-center">
