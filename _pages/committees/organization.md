@@ -22,7 +22,8 @@ sidebar:
 
 <h4>Natural Language Processing</h4>
 - Andrey Kutuzov, University of Oslo<br/>
-- Elena Tutubalina, Kazan Federal University & AIRI
+- Elena Tutubalina, Kazan Federal University & AIRI<br/>
+- Natalia Loukachevitch, Research Computing Center of Moscow State University
 
 <h4>Computer Vision</h4>
 - Andrey Savchenko, Higher School of Economics<br>
