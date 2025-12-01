@@ -1,5 +1,5 @@
 ---
-title: "The 12th International Conference on<br/> Analysis of Images, Social Networks and Texts"
+title: "The 13th International Conference on<br/> Analysis of Images, Social Networks and Texts"
 layout: splash
 permalink: /
 header:
