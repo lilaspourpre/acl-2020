@@ -19,7 +19,7 @@ sidebar:
         <tr>
             <td style="width: 30%;">
                 <figure>
-                    <a href="https://link.springer.com/book/10.1007/978-3-031-88036-0"><img src="https://media.springernature.com/w316/springer-static/cover-hires/book/978-3-031-88036-0?as=webp"></a></a>
+                    <a href="https://link.springer.com/book/10.1007/978-3-031-88036-0"><img src="https://media.springernature.com/w316/springer-static/cover-hires/book/978-3-031-88036-0?as=webp"></a>
                 </figure>
             </td>
             <td style="width: 60%;"><center>12th International Conference,<br><b>AIST 2024</b>,<br>Bishkek, Kyrgyzstan<br>October 17–19, 2024</center></td>
