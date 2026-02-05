@@ -8,7 +8,7 @@ excerpt: "<br/><br/>"
 ---
 <div class="text-center">
     <span style="font-weight: bold; font-size: smaller;">
-    Abstract deadline : TBA<br/>&nbsp;Submission deadline : TBA <br/>&nbsp;Notification of acceptance : TBA<br/>&nbsp;Camera-ready version : TBA<br/>&nbsp;Conference : October 2026</span>
+    Abstract deadline : July 17<br/>&nbsp;Submission deadline : July 31 <br/>&nbsp;Notification of acceptance : September 1<br/>&nbsp;Camera-ready version : September 18<br/>&nbsp;Conference : 16-18 October 2026</span>
     <br/>  <br/>     
   <a href="https://www.eventbrite.com/e/aist-2023-tickets-664697717767" target="_blank" class="btn btn--primary">Register Now</a>
 </div>
@@ -16,6 +16,9 @@ excerpt: "<br/><br/>"
 Join our <a href="https://t.me/+RK3hR9_UClkoFHc2">telegram chat.</a>
 
 <h2>News</h2>
+
+**Feb 5, 2026** Conference dates and CFP are available now: [CFP](/calls/papers/)
+{: .notice--info}
 
 **May 12, 2025** The proceedings are available: [LNCS](https://link.springer.com/book/10.1007/978-3-031-88036-0)
 {: .notice--info}
