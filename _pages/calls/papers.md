@@ -148,4 +148,4 @@ If you did not participate before in the AIST conference you can take a look at 
  
 ## Contact Information
 
-You can post questions about to [org@aistconf.org](mailto:org@aistconf.org) or our telegram group @aistconference. All details are posted at the conference at [aistconf.org](http://aistconf.org/).
+You can post questions about to [org@aistconf.org](mailto:org@aistconf.org) or our telegram group [@aistconference](https://t.me/+RK3hR9_UClkoFHc2). All details are posted at the conference at [aistconf.org](http://aistconf.org/).
