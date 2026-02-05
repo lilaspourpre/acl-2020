@@ -101,27 +101,27 @@ Please, refer [https://aistconf.org/committees/program](https://aistconf.org/com
    
 ## Chairs
 
-Natalia Loukachevitch, Research Computing Center of Moscow State University<br>
-Elena Tutubalina, Kazan Federal University & AIRI<br>
-Andrey Savchenko, HSE University<br>
-Evgenii Tsymbalov, Independent researcher<br>
-Dmitry Gubanov, IPU, Institute of Control Sciences, RAS<br>
-Maxim Panov, MBZUAI<br>
-Andrey Kutuzov, University of Oslo<br>
-Rustem Takhanov, Nazarbaev University<br>
-Mikhail Khachai, Krasovsky Institute of Mathematics and Mechanics, RAS
+- Natalia Loukachevitch, Research Computing Center of Moscow State University<br>
+- Elena Tutubalina, Kazan Federal University & AIRI<br>
+- Andrey Savchenko, HSE University<br>
+- Evgenii Tsymbalov, Independent researcher<br>
+- Dmitry Gubanov, IPU, Institute of Control Sciences, RAS<br>
+- Maxim Panov, MBZUAI<br>
+- Andrey Kutuzov, University of Oslo<br>
+- Rustem Takhanov, Nazarbaev University<br>
+- Mikhail Khachai, Krasovsky Institute of Mathematics and Mechanics, RAS
 
    
 ## Organizing Committee
 
-Rustem Takhanov, Nazarbayev University<br>
-Irina Nikishina, Independent Researcher<br>
-Dmitry Ignatov, Higher School of Economics<br>
-Evgenii Tsymbalov, Independent Researcher<br>
-Maxim Panov, MBZUAI<br>
-Alexander Panchenko, Skoltech & AIRI<br>
-Elisei Rykov, Skoltech<br>
-Olga Popova, AIRI<br>
+- Rustem Takhanov, Nazarbayev University<br>
+- Irina Nikishina, Independent Researcher<br>
+- Dmitry Ignatov, Higher School of Economics<br>
+- Evgenii Tsymbalov, Independent Researcher<br>
+- Maxim Panov, MBZUAI<br>
+- Alexander Panchenko, Skoltech & AIRI<br>
+- Elisei Rykov, Skoltech<br>
+- Olga Popova, AIRI<br>
 
 
 ## Publication
