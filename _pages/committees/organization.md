@@ -31,11 +31,11 @@ sidebar:
 - Mikhail Khachai, Krasovsky Institute of Mathematics and Mechanics, RAS
 
 
-<h3>Publication</h4>
+<h3>Publication</h3>
 - Evgenii Tsymbalov, Independent researcher<br/>
 - Dmitry Ignatov, Higher School of Economics 
 
-<h3>Web site</h4>
+<h3>Web site</h3>
 - Irina Nikishina, Independent researcher<br/>
 
 
