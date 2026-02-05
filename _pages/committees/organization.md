@@ -1,7 +1,7 @@
 ---
 title: Organizing Committee
 layout: single
-excerpt: "AIST 2023 organizing committee."
+excerpt: "AIST 2026 organizing committee."
 permalink: /committees/organization
 sidebar: 
     nav: committees 
@@ -9,36 +9,34 @@ sidebar:
 
 <h3>Organizing committee</h3>
 
-- Rustem Takhanov, Nazarbayev University<br>
-- Olga Popova, AIRI<br>
-- Irina Nikishina<br>
-- Dmitry Ignatov, Higher School of Economics<br>
-- Evgenii Tsymbalov, Apptek<br>
-- Elena Tutubalina, Kazan Federal University & AIRI<br>
-- Maxim Panov, MBZUAI<br>
-- Alexander Panchenko, Skolkovo Institute of Science and Technology & AIRI
+- Rustem Takhanov, Nazarbayev University
+- Irina Nikishina, Independent Researcher
+- Dmitry Ignatov, Higher School of Economics
+- Evgenii Tsymbalov, Independent Researcher
+- Maxim Panov, MBZUAI
+- Alexander Panchenko, Skoltech & AIRI
+- Elisei Rykov, Skoltech
+- Olga Popova, AIRI
 
-<h3>Area chairs</h3>
+<h3>Chairs</h3>
 
-<h4>Natural Language Processing</h4>
-- Andrey Kutuzov, University of Oslo<br/>
-- Elena Tutubalina, Kazan Federal University & AIRI<br/>
 - Natalia Loukachevitch, Research Computing Center of Moscow State University
+- Elena Tutubalina, Kazan Federal University & AIRI
+- Andrey Savchenko, HSE University
+- Evgenii Tsymbalov, Independent researcher
+- Dmitry Gubanov, IPU, Institute of Control Sciences, RAS
+- Maxim Panov, MBZUAI
+- Andrey Kutuzov, University of Oslo
+- Rustem Takhanov, Nazarbaev University
+- Mikhail Khachai, Krasovsky Institute of Mathematics and Mechanics, RAS
 
-<h4>Computer Vision</h4>
-- Andrey Savchenko, Higher School of Economics<br>
-- Andrey Kuznetsov, AIRI
 
-<h4>Data Analysis and Machine Learning</h4>
-- Evgenii Tsymbalov, Apptek<br/>
-- Maxim Panov, Technology Innovation Institute
-
-<h4>Publication</h4>
-- Evgenii Tsymbalov, Apptek<br/>
+<h3>Publication</h4>
+- Evgenii Tsymbalov, Independent researcher<br/>
 - Dmitry Ignatov, Higher School of Economics 
 
-<h4>Web site</h4>
-- Irina Nikishina<br/>
+<h3>Web site</h4>
+- Irina Nikishina, Independent researcher<br/>
 
 
 <h3>Local Scientific board</h3>
