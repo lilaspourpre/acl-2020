@@ -17,7 +17,7 @@ Join our <a href="https://t.me/+RK3hR9_UClkoFHc2">telegram chat.</a>
 
 <h2>News</h2>
 
-**Feb 5, 2026** Conference dates and CFP are available now: [CFP](/calls/papers/)
+**Feb 5, 2026** Conference dates and CFP are available [now](/calls/papers/)
 {: .notice--info}
 
 **May 12, 2025** The proceedings are available: [LNCS](https://link.springer.com/book/10.1007/978-3-031-88036-0)
