@@ -10,12 +10,15 @@ excerpt: "<br/><br/>"
     <span style="font-weight: bold; font-size: smaller;">
     Abstract deadline : July 17<br/>&nbsp;Submission deadline : July 31 <br/>&nbsp;Notification of acceptance : September 1<br/>&nbsp;Camera-ready version : September 18<br/>&nbsp;Conference : 16-18 October 2026</span>
     <br/>  <br/>     
-  <a href="https://www.eventbrite.com/e/aist-2023-tickets-664697717767" target="_blank" class="btn btn--primary">Register Now</a>
+  <a href="" target="_blank" class="btn btn--primary">Registration soon</a>
 </div>
 
 Join our <a href="https://t.me/+RK3hR9_UClkoFHc2">telegram chat.</a>
 
 <h2>News</h2>
+
+**Feb 5, 2026** [OpenReview link](https://openreview.net/group?id=aistconf.org/AIST/2026/Conference) is available!
+{: .notice--info}
 
 **Feb 5, 2026** Conference dates and CFP are available [now](/calls/papers/)
 {: .notice--info}
