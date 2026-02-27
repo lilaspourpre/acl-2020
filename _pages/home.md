@@ -17,7 +17,7 @@ Join our <a href="https://t.me/+RK3hR9_UClkoFHc2">telegram chat.</a>
 
 <h2>News</h2>
 
-**Feb 5, 2026** [OpenReview link](https://openreview.net/group?id=aistconf.org/AIST/2026/Conference) is available!
+**Feb 27, 2026** [OpenReview link](https://openreview.net/group?id=aistconf.org/AIST/2026/Conference) is available!
 {: .notice--info}
 
 **Feb 5, 2026** Conference dates and CFP are available [now](/calls/papers/)
