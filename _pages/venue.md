@@ -4,7 +4,7 @@ layout: single
 permalink: /venue/
 ---
 
-The conference continues travelling to beautiful regions, and this year AIST will be held offline in Astana, Kazakhstan. More specifically the event is organized with support of [Nazarbayev University](https://nu.edu.kz). Besides the scientific knowledge you will enjoy the nature of Kyrgyzstan and dive into local culture. The conference will feature representatives of the local data analysis community.
+The conference continues travelling to beautiful regions, and this year AIST will be held offline in Astana, Kazakhstan. More specifically the event is organized with support of [Nazarbayev University](https://nu.edu.kz). Besides the scientific knowledge you will enjoy the nature of Kazakhstan and dive into local culture. The conference will feature representatives of the local data analysis community.
 
 <figure>
   <img width="300" src="/assets/images/kazakhstan-2.jpg">
