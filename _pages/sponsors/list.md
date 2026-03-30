@@ -4,7 +4,7 @@ layout: single
 permalink: /sponsors/list/
 diamond:
   - url: https://www.skoltech.ru/
-    image_path: /assets/images/logos/skoltech.png
+    image_path: /assets/images/logos/skoltech.jpg
     alt: "Skoltech Logo"
     title: "Skoltech"
 platinum:
@@ -34,10 +34,11 @@ AIST 2026 is grateful to all its sponsors, who are listed below.
 
 {% include gallery id="platinum" class="fourth" %}
 {% include gallery id="gold" class="fourth" %}
+{% include gallery id="diamond" class="fourth" %}
 
 <!-- 
 {% include gallery id="gold" class="fourth" %}
-{% include gallery id="diamond" class="fourth" %}
+
 {% include gallery id="silver" class="fourth" %} 
 {% include gallery id="bronze" class="fourth" %}
 -->
