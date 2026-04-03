@@ -32,9 +32,9 @@ bronze:
 AIST 2026 is grateful to all its sponsors, who are listed below.
 
 
-{% include gallery id="platinum" class="fourth" %}
-{% include gallery id="gold" class="fourth" %}
-{% include gallery id="diamond" class="fourth" %}
+{% include gallery id="platinum" class="sponsor-gallery" %}
+{% include gallery id="gold" class="sponsor-gallery" %}
+{% include gallery id="diamond" class="sponsor-gallery" %}
 
 <!-- 
 {% include gallery id="gold" class="fourth" %}
