@@ -1,5 +1,5 @@
 ---
-title: "List of Sponsors"
+title: "List of Sponsors and Supporters"
 layout: single
 permalink: /sponsors/list/
 diamond:
