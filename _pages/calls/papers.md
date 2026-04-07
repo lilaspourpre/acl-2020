@@ -55,19 +55,19 @@ We are encouraging submission on any application of deep learning and data analy
     <tbody>
         <tr>
             <td>Abstract deadline</td>
-            <td>July 17</td>
+            <td>July 1</td>
         </tr>
         <tr>
             <td>Submission deadline</td>
-            <td>July 31</td>
+            <td>July 10</td>
         </tr>
         <tr>
             <td>Notification of acceptance</td>
-            <td>September 1</td>
+            <td>August 10</td>
         </tr>
         <tr>
           <td>Camera-ready papers due</td>
-          <td>September 18</td>
+          <td>August 18</td>
         </tr>       
         <tr>
             <td>Conference dates</td>
