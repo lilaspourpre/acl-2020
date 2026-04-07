@@ -29,7 +29,7 @@ bronze:
     title: "HSE"
 ---
 
-AIST 2026 is grateful to all its sponsors, who are listed below.
+AIST 2026 is grateful to all its supporters, who are listed below.
 
 <div style="max-width: 300px; margin: 0 auto;">
   <div class="page__content">
