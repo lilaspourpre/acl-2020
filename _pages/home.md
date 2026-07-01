@@ -17,6 +17,9 @@ Join our <a href="https://t.me/+RK3hR9_UClkoFHc2">telegram chat.</a>
 
 <h2>News</h2>
 
+**Jul 1, 2026** Abstract submission deadline is extended to July 8!
+{: .notice--info}
+
 **Feb 27, 2026** [OpenReview link](https://openreview.net/group?id=aistconf.org/AIST/2026/Conference) is available!
 {: .notice--info}
 
