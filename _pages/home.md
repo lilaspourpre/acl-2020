@@ -8,7 +8,7 @@ excerpt: "<br/><br/>"
 ---
 <div class="text-center">
     <span style="font-weight: bold; font-size: smaller;">
-    Abstract deadline : July 1<br/>&nbsp;Submission deadline : July 10 <br/>&nbsp;Notification of acceptance : August 10<br/>&nbsp;Camera-ready version : August 18<br/>&nbsp;Conference : 16-18 October 2026</span>
+    Abstract deadline : <strike>July 1</strike>July 8<br/>&nbsp;Submission deadline : July 10 <br/>&nbsp;Notification of acceptance : August 10<br/>&nbsp;Camera-ready version : August 18<br/>&nbsp;Conference : 16-18 October 2026</span>
     <br/>  <br/>     
   <a href="https://openreview.net/group?id=aistconf.org/AIST/2026/Conference" target="_blank" class="btn btn--primary">Submit paper</a>
 </div>
