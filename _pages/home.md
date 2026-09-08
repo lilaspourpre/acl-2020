@@ -10,12 +10,15 @@ excerpt: "<br/><br/>"
     <span style="font-weight: bold; font-size: smaller;">
     Abstract deadline : <strike>July 1</strike> July 8 <br/>&nbsp;Submission deadline : <strike>July 10</strike> July 12 <br/>&nbsp;Notification of acceptance : <strike>August 10</strike> August 15<br/>&nbsp;Camera-ready version : <strike>August 18</strike> August 22<br/>&nbsp;Conference : 16-18 October 2026</span>
     <br/>  <br/>     
-  <a href="https://openreview.net/group?id=aistconf.org/AIST/2026/Conference" target="_blank" class="btn btn--primary">Submit paper</a>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdS_etrnff8gAPH-K9g408nFqT96X43xNDHU4hvZ1pktEeQUQ/viewform" target="_blank" class="btn btn--primary">Register Now</a>
 </div>
 
 Join our <a href="https://t.me/+RK3hR9_UClkoFHc2">telegram chat.</a>
 
 <h2>News</h2>
+
+**September 8, 2026.** Registration is now [open](https://docs.google.com/forms/d/e/1FAIpQLSdS_etrnff8gAPH-K9g408nFqT96X43xNDHU4hvZ1pktEeQUQ/viewform)!
+{: .notice--info}
 
 **Jul 1, 2026** Abstract submission deadline is extended to July 8!
 {: .notice--info}
