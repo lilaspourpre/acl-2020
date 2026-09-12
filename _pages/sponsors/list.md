@@ -27,6 +27,10 @@ bronze:
     image_path: /assets/images/logos/hse.png
     alt: "HSE Logo"
     title: "HSE"
+supporters:
+  - image_path: /assets/images/logos/logo_dsml.png
+    alt: "DSML Logo"
+    title: "DSML"
 ---
 
 AIST 2026 is grateful to all its supporters, who are listed below.
@@ -37,6 +41,7 @@ AIST 2026 is grateful to all its supporters, who are listed below.
 {% include gallery id="platinum" class="fourth" %}
 {% include gallery id="gold" class="fourth" %}
 {% include gallery id="diamond" class="fourth" %}
+{% include gallery id="supporters" class="fourth" %}
 
   </div>
 </div>
