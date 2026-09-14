@@ -42,9 +42,6 @@ AIST 2026 is grateful to all its supporters, who are listed below.
 {% include gallery id="platinum" class="fourth" %}
 {% include gallery id="gold" class="fourth" %}
 {% include gallery id="diamond" class="fourth" %}
-
-<h2>Info partners</h2>
-
 {% include gallery id="supporters" class="fourth" %}
 
   </div>
