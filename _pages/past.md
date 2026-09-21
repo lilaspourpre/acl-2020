@@ -1,12 +1,10 @@
 ---
-title: 
+title: Proceedings
 layout: single
 permalink: /past/
 sidebar: 
     nav: past 
 ---
-
-# Proceedings
 
 <center>
 <table style="width: 100%">
