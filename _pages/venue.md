@@ -11,6 +11,14 @@ The conference continues travelling to beautiful regions, and this year AIST wil
   <figcaption></figcaption>
 </figure>
 
+## Venue guide
+
+[Download the AIST 2026 venue guide (PDF)](/assets/docs/aist-2026-venue-guide.pdf){: .btn .btn--primary }
+
+<object width="100%" height="900" type="application/pdf" data="/assets/docs/aist-2026-venue-guide.pdf">
+  <p><a href="/assets/docs/aist-2026-venue-guide.pdf">Open the AIST 2026 venue guide</a></p>
+</object>
+
 
 <br>
 
