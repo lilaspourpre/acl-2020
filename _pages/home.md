@@ -17,6 +17,9 @@ Join our <a href="https://t.me/+RK3hR9_UClkoFHc2">telegram chat.</a>
 
 <h2>News</h2>
 
+**October 14, 2026.** The AIST 2026 proceedings are now available: [Springer LNCS, volume 16795](https://link.springer.com/book/9783032415455).
+{: .notice--info}
+
 **September 8, 2026.** Registration is now [open](https://docs.google.com/forms/d/e/1FAIpQLSdS_etrnff8gAPH-K9g408nFqT96X43xNDHU4hvZ1pktEeQUQ/viewform)!
 {: .notice--info}
 
