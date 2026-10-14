@@ -17,6 +17,15 @@ sidebar:
         <tr>
             <td style="width: 30%;">
                 <figure>
+                    <a href="https://link.springer.com/book/9783032415455"><img src="https://media.springernature.com/full/springer-static/cover-hires/book/978-3-032-41546-2?as=webp" alt="AIST 2026 proceedings cover"></a>
+                </figure>
+            </td>
+            <td style="width: 60%;"><center>13th International Conference,<br><b>AIST 2026</b>,<br>Astana, Kazakhstan<br>October 16–18, 2026</center></td>
+            <td><center><a href="https://link.springer.com/book/9783032415455">LNCS, volume 16795</a></center></td>
+        </tr>
+        <tr>
+            <td style="width: 30%;">
+                <figure>
                     <a href="https://link.springer.com/book/10.1007/978-3-031-88036-0"><img src="https://media.springernature.com/w316/springer-static/cover-hires/book/978-3-031-88036-0?as=webp"></a>
                 </figure>
             </td>
